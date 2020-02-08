@@ -1,0 +1,4 @@
+pkg: calysto_bash
+build: calysto_bash-0.2.2-py37_1
+install: calysto_bash==0.2.2
+pip_check: "No broken requirements found.\n"
