@@ -1,0 +1,6 @@
+pkg: documenteer
+build: documenteer-0.5.6-py_0
+install: documenteer==0.5.6
+pip_check: "documenteer 0.5.6 has requirement click<7.0,>=6.7, but you have click\
+  \ 7.0.\ndocumenteer 0.5.6 has requirement Sphinx<1.8.0,>=1.7.0, but you have sphinx\
+  \ 2.3.1.\n"
