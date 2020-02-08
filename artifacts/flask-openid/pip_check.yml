@@ -1,0 +1,4 @@
+pkg: flask-openid
+build: flask-openid-1.2.5-py37_1003
+install: flask-openid==1.2.5
+pip_check: "No broken requirements found.\n"
