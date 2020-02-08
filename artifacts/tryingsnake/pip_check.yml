@@ -1,0 +1,4 @@
+pkg: tryingsnake
+build: tryingsnake-0.4.0-py_0
+install: tryingsnake==0.4.0
+pip_check: "No broken requirements found.\n"
