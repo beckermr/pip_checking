@@ -1,0 +1,4 @@
+pkg: pefile
+build: pefile-2019.4.14-py_0
+install: pefile==2019.4.14
+pip_check: "No broken requirements found.\n"
