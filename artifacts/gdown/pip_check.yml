@@ -1,0 +1,4 @@
+pkg: gdown
+build: gdown-3.9.0-py_0
+install: gdown==3.9.0
+pip_check: "No broken requirements found.\n"
