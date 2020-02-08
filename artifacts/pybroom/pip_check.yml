@@ -1,0 +1,4 @@
+pkg: pybroom
+build: pybroom-0.2-py37_1001
+install: pybroom==0.2
+pip_check: "No broken requirements found.\n"
