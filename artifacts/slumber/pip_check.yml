@@ -1,0 +1,4 @@
+pkg: slumber
+build: slumber-0.7.1-py_1
+install: slumber==0.7.1
+pip_check: "No broken requirements found.\n"
