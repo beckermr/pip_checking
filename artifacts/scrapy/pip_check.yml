@@ -1,0 +1,4 @@
+pkg: scrapy
+build: scrapy-1.7.2-py37h6de7cb9_0
+install: scrapy==1.7.2
+pip_check: "No broken requirements found.\n"
