@@ -1,0 +1,4 @@
+pkg: fluidfoam
+build: fluidfoam-0.1.8-py_0
+install: fluidfoam==0.1.8
+pip_check: "No broken requirements found.\n"
