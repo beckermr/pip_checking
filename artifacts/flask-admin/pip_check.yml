@@ -1,0 +1,4 @@
+pkg: flask-admin
+build: flask-admin-1.5.1-py_1
+install: flask-admin==1.5.1
+pip_check: "No broken requirements found.\n"
