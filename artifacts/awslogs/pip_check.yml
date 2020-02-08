@@ -1,0 +1,4 @@
+pkg: awslogs
+build: awslogs-0.11.0-py_0
+install: awslogs==0.11.0
+pip_check: "No broken requirements found.\n"
