@@ -1,0 +1,4 @@
+pkg: python-stratify
+build: python-stratify-0.1.1-py37hc1659b7_1001
+install: python-stratify==0.1.1
+pip_check: "stratify 0.1.1 requires cython, which is not installed.\n"
