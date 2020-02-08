@@ -1,0 +1,4 @@
+pkg: update_checker
+build: update_checker-0.16-py_0
+install: update_checker==0.16
+pip_check: "No broken requirements found.\n"
