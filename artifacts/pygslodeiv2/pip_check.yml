@@ -1,0 +1,4 @@
+pkg: pygslodeiv2
+build: pygslodeiv2-0.9.1-py37_blas_openblashefaf67f_0
+install: pygslodeiv2==0.9.1
+pip_check: "No broken requirements found.\n"
