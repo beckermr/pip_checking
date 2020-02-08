@@ -1,0 +1,4 @@
+pkg: ambertools
+build: ambertools-19.10-py37heecfe5d_1
+install: ambertools==19.10
+pip_check: "No broken requirements found.\n"
