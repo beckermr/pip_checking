@@ -1,0 +1,4 @@
+pkg: jpype1
+build: jpype1-0.6.3-py37ha8d69ae_1000
+install: jpype1==0.6.3
+pip_check: "No broken requirements found.\n"
