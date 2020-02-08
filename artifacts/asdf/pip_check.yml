@@ -1,0 +1,5 @@
+pkg: asdf
+build: asdf-2.3.0-py_0
+install: asdf==2.3.0
+pip_check: "asdf 2.3.0 has requirement jsonschema<=2.6,>=2.3, but you have jsonschema\
+  \ 3.2.0.\n"
