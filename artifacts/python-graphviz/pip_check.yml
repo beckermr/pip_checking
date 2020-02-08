@@ -1,0 +1,4 @@
+pkg: python-graphviz
+build: python-graphviz-0.8.4-py37_1002
+install: python-graphviz==0.8.4
+pip_check: "No broken requirements found.\n"
