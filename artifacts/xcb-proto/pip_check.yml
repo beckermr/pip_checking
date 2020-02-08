@@ -1,0 +1,4 @@
+pkg: xcb-proto
+build: xcb-proto-1.13-py37h1de35cc_1001
+install: xcb-proto==1.13
+pip_check: "No broken requirements found.\n"
