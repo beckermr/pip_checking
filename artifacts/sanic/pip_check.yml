@@ -1,0 +1,5 @@
+pkg: sanic
+build: sanic-19.3.1-py37_0
+install: sanic==19.3.1
+pip_check: "sanic 19.3.1 has requirement websockets<7.0,>=6.0, but you have websockets\
+  \ 5.0.1.\n"
