@@ -1,0 +1,4 @@
+pkg: pyro5
+build: pyro5-5.6-py_0
+install: pyro5==5.6
+pip_check: "No broken requirements found.\n"
