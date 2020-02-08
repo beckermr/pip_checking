@@ -1,0 +1,4 @@
+pkg: shortuuid
+build: shortuuid-0.5.0-py_0
+install: shortuuid==0.5.0
+pip_check: "No broken requirements found.\n"
