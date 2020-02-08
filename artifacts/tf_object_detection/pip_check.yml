@@ -1,0 +1,7 @@
+pkg: tf_object_detection
+build: tf_object_detection-0.01-py37_0
+install: tf_object_detection==0.01
+pip_check: "object-detection 0.1 requires cython, which is not installed.\nobject-detection\
+  \ 0.1 requires matplotlib, which is not installed.\nobject-detection 0.1 requires\
+  \ pillow, which is not installed.\ntensorflow 2.0.0 has requirement opt-einsum>=2.3.2,\
+  \ but you have opt-einsum 0+untagged.49.gdbede45.dirty.\n"
