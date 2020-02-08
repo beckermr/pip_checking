@@ -1,0 +1,4 @@
+pkg: biorbd
+build: biorbd-1.1.0-py37hb14e2bb_0
+install: biorbd==1.1.0
+pip_check: "No broken requirements found.\n"
