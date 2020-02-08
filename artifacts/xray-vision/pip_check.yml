@@ -1,0 +1,5 @@
+pkg: xray-vision
+build: xray-vision-0.0.9-py_0
+install: xray-vision==0.0.9
+pip_check: "xray-vision 0.0.9 requires pandas, which is not installed.\nxray-vision\
+  \ 0.0.9 requires scipy, which is not installed.\n"
