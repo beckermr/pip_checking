@@ -1,0 +1,4 @@
+pkg: torchbiggraph
+build: torchbiggraph-1.0.0-py_0
+install: torchbiggraph==1.0.0
+pip_check: "torchbiggraph 1.0.0 requires attrs, which is not installed.\n"
