@@ -1,0 +1,4 @@
+pkg: py_stringmatching
+build: py_stringmatching-0.4.1-py37h3b54f70_0
+install: py_stringmatching==0.4.1
+pip_check: "No broken requirements found.\n"
