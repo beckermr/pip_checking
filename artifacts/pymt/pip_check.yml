@@ -1,0 +1,4 @@
+pkg: pymt
+build: pymt-1.0.0-py37_1
+install: pymt==1.0.0
+pip_check: "No broken requirements found.\n"
