@@ -1,0 +1,4 @@
+pkg: fisher
+build: fisher-0.1.5-py37h7eb728f_0
+install: fisher==0.1.5
+pip_check: "No broken requirements found.\n"
