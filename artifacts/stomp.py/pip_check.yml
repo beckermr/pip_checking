@@ -1,0 +1,4 @@
+pkg: stomp.py
+build: stomp.py-4.1.21-py_0
+install: stomp.py==4.1.21
+pip_check: "No broken requirements found.\n"
