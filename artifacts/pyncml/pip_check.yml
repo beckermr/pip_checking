@@ -1,0 +1,4 @@
+pkg: pyncml
+build: pyncml-0.0.9-py_1
+install: pyncml==0.0.9
+pip_check: "No broken requirements found.\n"
