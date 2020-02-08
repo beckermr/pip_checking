@@ -1,0 +1,6 @@
+pkg: mrjob
+build: mrjob-0.6.10-py37_0
+install: mrjob==0.6.10
+pip_check: "mrjob 0.6.10 requires google-cloud-dataproc, which is not installed.\n\
+  mrjob 0.6.10 requires google-cloud-logging, which is not installed.\nmrjob 0.6.10\
+  \ requires google-cloud-storage, which is not installed.\n"
