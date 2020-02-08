@@ -1,0 +1,4 @@
+pkg: conda
+build: conda-4.6.11-py37_0
+install: conda==4.6.11
+pip_check: "No broken requirements found.\n"
