@@ -1,0 +1,4 @@
+pkg: azure-storage
+build: azure-storage-0.36.0-py37_1000
+install: azure-storage==0.36.0
+pip_check: "No broken requirements found.\n"
