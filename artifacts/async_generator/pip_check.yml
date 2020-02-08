@@ -1,0 +1,4 @@
+pkg: async_generator
+build: async_generator-1.10-py_0
+install: async_generator==1.10
+pip_check: "No broken requirements found.\n"
