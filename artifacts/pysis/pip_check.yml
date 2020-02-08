@@ -1,0 +1,4 @@
+pkg: pysis
+build: pysis-0.6.1-py37h24bf2e0_0
+install: pysis==0.6.1
+pip_check: "No broken requirements found.\n"
