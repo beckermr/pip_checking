@@ -1,0 +1,4 @@
+pkg: python-pkcs11
+build: python-pkcs11-0.5.0-py37h0b31af3_1002
+install: python-pkcs11==0.5.0
+pip_check: "No broken requirements found.\n"
