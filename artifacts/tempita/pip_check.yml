@@ -1,0 +1,4 @@
+pkg: tempita
+build: tempita-0.5.3dev-py37_1001
+install: tempita==0.5.3dev
+pip_check: "No broken requirements found.\n"
