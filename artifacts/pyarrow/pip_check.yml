@@ -1,0 +1,4 @@
+pkg: pyarrow
+build: pyarrow-0.11.1-py37hf9e6f3b_1001
+install: pyarrow==0.11.1
+pip_check: "No broken requirements found.\n"
