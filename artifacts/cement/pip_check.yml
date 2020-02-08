@@ -1,0 +1,4 @@
+pkg: cement
+build: cement-3.0.2-py37_1000
+install: cement==3.0.2
+pip_check: "No broken requirements found.\n"
