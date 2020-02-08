@@ -1,0 +1,4 @@
+pkg: gevent-websocket
+build: gevent-websocket-0.10.1-py_0
+install: gevent-websocket==0.10.1
+pip_check: "No broken requirements found.\n"
