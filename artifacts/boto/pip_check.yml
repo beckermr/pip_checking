@@ -1,0 +1,4 @@
+pkg: boto
+build: boto-2.49.0-py_0
+install: boto==2.49.0
+pip_check: "No broken requirements found.\n"
