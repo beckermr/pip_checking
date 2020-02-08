@@ -1,0 +1,4 @@
+pkg: html2text
+build: html2text-2019.9.26-py_0
+install: html2text==2019.9.26
+pip_check: "No broken requirements found.\n"
