@@ -1,0 +1,4 @@
+pkg: cis
+build: cis-1.7.0-py37_0
+install: cis==1.7.0
+pip_check: "cf-units 2.1.3 requires cython, which is not installed.\n"
