@@ -1,0 +1,4 @@
+pkg: mmvec
+build: mmvec-1.0.0-py_1
+install: mmvec==1.0.0
+pip_check: "mmvec 1.0.0 requires nose, which is not installed.\n"
