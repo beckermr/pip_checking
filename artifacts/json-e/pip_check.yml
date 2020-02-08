@@ -1,0 +1,4 @@
+pkg: json-e
+build: json-e-3.0.0-py_0
+install: json-e==3.0.0
+pip_check: "No broken requirements found.\n"
