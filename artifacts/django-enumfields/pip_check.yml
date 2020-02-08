@@ -1,0 +1,4 @@
+pkg: django-enumfields
+build: django-enumfields-1.0.0-py37_1000
+install: django-enumfields==1.0.0
+pip_check: "No broken requirements found.\n"
