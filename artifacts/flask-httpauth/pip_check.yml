@@ -1,0 +1,4 @@
+pkg: flask-httpauth
+build: flask-httpauth-3.2.4-py_0
+install: flask-httpauth==3.2.4
+pip_check: "No broken requirements found.\n"
