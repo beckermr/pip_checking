@@ -1,0 +1,4 @@
+pkg: dask-drmaa
+build: dask-drmaa-0.1.0-py_0
+install: dask-drmaa==0.1.0
+pip_check: "No broken requirements found.\n"
