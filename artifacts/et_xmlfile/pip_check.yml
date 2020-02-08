@@ -1,0 +1,4 @@
+pkg: et_xmlfile
+build: et_xmlfile-1.0.1-py_1001
+install: et_xmlfile==1.0.1
+pip_check: "No broken requirements found.\n"
