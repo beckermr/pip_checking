@@ -1,0 +1,4 @@
+pkg: aioslacker
+build: aioslacker-0.0.10-py_0
+install: aioslacker==0.0.10
+pip_check: "No broken requirements found.\n"
