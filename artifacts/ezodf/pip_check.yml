@@ -1,0 +1,4 @@
+pkg: ezodf
+build: ezodf-0.3.2-py_2
+install: ezodf==0.3.2
+pip_check: "No broken requirements found.\n"
