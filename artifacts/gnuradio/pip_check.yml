@@ -1,0 +1,4 @@
+pkg: gnuradio
+build: gnuradio-3.8.0.0-py37hc1b68d6_1
+install: gnuradio==3.8.0.0
+pip_check: "No broken requirements found.\n"
