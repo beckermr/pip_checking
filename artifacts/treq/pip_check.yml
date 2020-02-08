@@ -1,0 +1,4 @@
+pkg: treq
+build: treq-17.8.0-py_1
+install: treq==17.8.0
+pip_check: "No broken requirements found.\n"
