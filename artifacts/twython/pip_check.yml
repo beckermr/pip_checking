@@ -1,0 +1,4 @@
+pkg: twython
+build: twython-3.7.0-py_0
+install: twython==3.7.0
+pip_check: "No broken requirements found.\n"
