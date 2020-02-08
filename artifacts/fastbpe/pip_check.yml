@@ -1,0 +1,4 @@
+pkg: fastbpe
+build: fastbpe-0.1.0-py37hc9558a2_0
+install: fastbpe==0.1.0
+pip_check: "No broken requirements found.\n"
