@@ -1,0 +1,4 @@
+pkg: mleap
+build: mleap-0.8.1-py_1
+install: mleap==0.8.1
+pip_check: "mleap 0.8.1 requires argparse, which is not installed.\n"
