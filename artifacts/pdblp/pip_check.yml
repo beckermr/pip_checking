@@ -1,0 +1,4 @@
+pkg: pdblp
+build: pdblp-0.1.8-py_1
+install: pdblp==0.1.8
+pip_check: "No broken requirements found.\n"
