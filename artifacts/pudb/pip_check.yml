@@ -1,0 +1,4 @@
+pkg: pudb
+build: pudb-2019.2-py37_0
+install: pudb==2019.2
+pip_check: "No broken requirements found.\n"
