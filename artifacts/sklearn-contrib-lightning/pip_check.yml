@@ -1,0 +1,4 @@
+pkg: sklearn-contrib-lightning
+build: sklearn-contrib-lightning-0.5.0-py37h4f17bb1_1
+install: sklearn-contrib-lightning==0.5.0
+pip_check: "No broken requirements found.\n"
