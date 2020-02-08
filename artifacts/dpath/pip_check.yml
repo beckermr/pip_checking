@@ -1,0 +1,4 @@
+pkg: dpath
+build: dpath-1.4.2-py37_1000
+install: dpath==1.4.2
+pip_check: "No broken requirements found.\n"
