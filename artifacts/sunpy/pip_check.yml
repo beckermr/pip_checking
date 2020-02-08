@@ -1,0 +1,4 @@
+pkg: sunpy
+build: sunpy-1.0.3-py37h01d97ff_0
+install: sunpy==1.0.3
+pip_check: "No broken requirements found.\n"
