@@ -1,0 +1,4 @@
+pkg: mechanicalsoup
+build: mechanicalsoup-0.9.0.post4-py_0
+install: mechanicalsoup==0.9.0.post4
+pip_check: "mechanicalsoup 0.9.0.post4 requires lxml, which is not installed.\n"
