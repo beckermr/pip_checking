@@ -1,0 +1,4 @@
+pkg: pypugjs
+build: pypugjs-5.7.2-py_0
+install: pypugjs==5.7.2
+pip_check: "No broken requirements found.\n"
