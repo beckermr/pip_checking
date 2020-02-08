@@ -1,0 +1,4 @@
+pkg: octave_kernel
+build: octave_kernel-0.29.0-py_0
+install: octave_kernel==0.29.0
+pip_check: "No broken requirements found.\n"
