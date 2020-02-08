@@ -1,0 +1,4 @@
+pkg: stashy
+build: stashy-0.6-py37_0
+install: stashy==0.6
+pip_check: "stashy 0.6 requires mock, which is not installed.\n"
