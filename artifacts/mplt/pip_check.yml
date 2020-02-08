@@ -1,0 +1,4 @@
+pkg: mplt
+build: mplt-2.0.7-py_0
+install: mplt==2.0.7
+pip_check: "No broken requirements found.\n"
