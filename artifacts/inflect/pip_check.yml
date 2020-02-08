@@ -1,0 +1,4 @@
+pkg: inflect
+build: inflect-4.1.0-py37_0
+install: inflect==4.1.0
+pip_check: "No broken requirements found.\n"
