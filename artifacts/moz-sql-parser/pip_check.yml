@@ -1,0 +1,4 @@
+pkg: moz-sql-parser
+build: moz-sql-parser-3.18.19324-py_0
+install: moz-sql-parser==3.18.19324
+pip_check: "No broken requirements found.\n"
