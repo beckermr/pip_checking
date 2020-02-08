@@ -1,0 +1,4 @@
+pkg: python-hostlist
+build: python-hostlist-1.18-py_1
+install: python-hostlist==1.18
+pip_check: "No broken requirements found.\n"
