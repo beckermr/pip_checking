@@ -1,0 +1,4 @@
+pkg: jsonrpcserver
+build: jsonrpcserver-4.0.5-py_0
+install: jsonrpcserver==4.0.5
+pip_check: "No broken requirements found.\n"
