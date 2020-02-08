@@ -1,0 +1,4 @@
+pkg: pytest-localserver
+build: pytest-localserver-0.4.1-py_0
+install: pytest-localserver==0.4.1
+pip_check: "No broken requirements found.\n"
