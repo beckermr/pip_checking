@@ -1,0 +1,4 @@
+pkg: django-leaflet
+build: django-leaflet-0.24.0-py_0
+install: django-leaflet==0.24.0
+pip_check: "No broken requirements found.\n"
