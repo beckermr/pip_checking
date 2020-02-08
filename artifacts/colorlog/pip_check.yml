@@ -1,0 +1,4 @@
+pkg: colorlog
+build: colorlog-4.0.2-py37_1000
+install: colorlog==4.0.2
+pip_check: "No broken requirements found.\n"
