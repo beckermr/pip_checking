@@ -1,0 +1,4 @@
+pkg: smokesignal
+build: smokesignal-0.7.0-py_2
+install: smokesignal==0.7.0
+pip_check: "No broken requirements found.\n"
