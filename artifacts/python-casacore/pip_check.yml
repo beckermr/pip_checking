@@ -1,0 +1,4 @@
+pkg: python-casacore
+build: python-casacore-2.2.1-py37h6d93d80_1002
+install: python-casacore==2.2.1
+pip_check: "python-casacore 2.2.1 requires argparse, which is not installed.\n"
