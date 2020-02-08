@@ -1,0 +1,4 @@
+pkg: indexed_gzip
+build: indexed_gzip-0.8.10-py37h1406e63_0
+install: indexed_gzip==0.8.10
+pip_check: "No broken requirements found.\n"
