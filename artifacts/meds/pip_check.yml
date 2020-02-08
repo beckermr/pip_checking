@@ -1,0 +1,4 @@
+pkg: meds
+build: meds-0.9.8-py37heacc8b8_0
+install: meds==0.9.8
+pip_check: "No broken requirements found.\n"
