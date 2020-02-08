@@ -1,0 +1,4 @@
+pkg: pyembree
+build: pyembree-0.1.4-py37hf8a1672_1
+install: pyembree==0.1.4
+pip_check: "No broken requirements found.\n"
