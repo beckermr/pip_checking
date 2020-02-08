@@ -1,0 +1,4 @@
+pkg: ndscope
+build: ndscope-0.7.9-py_0
+install: ndscope==0.7.9
+pip_check: "ndscope 0.7.9 requires nds2-client, which is not installed.\n"
