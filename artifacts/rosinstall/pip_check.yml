@@ -1,0 +1,4 @@
+pkg: rosinstall
+build: rosinstall-0.7.8-py_0
+install: rosinstall==0.7.8
+pip_check: "No broken requirements found.\n"
