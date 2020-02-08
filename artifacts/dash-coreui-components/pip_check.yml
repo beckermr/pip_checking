@@ -1,0 +1,4 @@
+pkg: dash-coreui-components
+build: dash-coreui-components-0.1.0-py_0
+install: dash-coreui-components==0.1.0
+pip_check: "No broken requirements found.\n"
