@@ -1,0 +1,4 @@
+pkg: gensim
+build: gensim-3.8.1-py37h4a8c4bd_1
+install: gensim==3.8.1
+pip_check: "No broken requirements found.\n"
