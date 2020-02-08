@@ -1,0 +1,4 @@
+pkg: gmaps
+build: gmaps-0.8.4-py_0
+install: gmaps==0.8.4
+pip_check: "No broken requirements found.\n"
