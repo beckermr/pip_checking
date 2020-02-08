@@ -1,0 +1,4 @@
+pkg: kastore
+build: kastore-0.2.0-py37h7eb728f_0
+install: kastore==0.2.0
+pip_check: "No broken requirements found.\n"
