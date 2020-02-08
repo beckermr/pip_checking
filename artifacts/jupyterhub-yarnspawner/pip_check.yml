@@ -1,0 +1,4 @@
+pkg: jupyterhub-yarnspawner
+build: jupyterhub-yarnspawner-0.2.0-py37_1000
+install: jupyterhub-yarnspawner==0.2.0
+pip_check: "No broken requirements found.\n"
