@@ -1,0 +1,4 @@
+pkg: memory_profiler
+build: memory_profiler-0.56.0-py_0
+install: memory_profiler==0.56.0
+pip_check: "No broken requirements found.\n"
