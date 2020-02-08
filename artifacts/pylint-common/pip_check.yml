@@ -1,0 +1,4 @@
+pkg: pylint-common
+build: pylint-common-0.2.5-py_1
+install: pylint-common==0.2.5
+pip_check: "No broken requirements found.\n"
