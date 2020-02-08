@@ -1,0 +1,4 @@
+pkg: asciitree
+build: asciitree-0.3.3-py_2
+install: asciitree==0.3.3
+pip_check: "No broken requirements found.\n"
