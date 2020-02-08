@@ -1,0 +1,4 @@
+pkg: pluginbase
+build: pluginbase-0.5-py_0
+install: pluginbase==0.5
+pip_check: "No broken requirements found.\n"
