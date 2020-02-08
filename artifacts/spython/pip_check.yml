@@ -1,0 +1,4 @@
+pkg: spython
+build: spython-0.0.69-py_0
+install: spython==0.0.69
+pip_check: "No broken requirements found.\n"
