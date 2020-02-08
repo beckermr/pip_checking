@@ -1,0 +1,4 @@
+pkg: cclib
+build: cclib-1.6.1-py_0
+install: cclib==1.6.1
+pip_check: "No broken requirements found.\n"
