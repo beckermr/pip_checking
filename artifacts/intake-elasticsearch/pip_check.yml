@@ -1,0 +1,4 @@
+pkg: intake-elasticsearch
+build: intake-elasticsearch-0.2.0-py_0
+install: intake-elasticsearch==0.2.0
+pip_check: "intake-elasticsearch 0.2.0 requires elasticsearch, which is not installed.\n"
