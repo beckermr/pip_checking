@@ -1,0 +1,4 @@
+pkg: dotmap
+build: dotmap-1.2.19-py_0
+install: dotmap==1.2.19
+pip_check: "No broken requirements found.\n"
