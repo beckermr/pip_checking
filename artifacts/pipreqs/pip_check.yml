@@ -1,0 +1,4 @@
+pkg: pipreqs
+build: pipreqs-0.4.9-py_0
+install: pipreqs==0.4.9
+pip_check: "No broken requirements found.\n"
