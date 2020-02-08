@@ -1,0 +1,4 @@
+pkg: pyomo.extras
+build: pyomo.extras-3.3-py37_182212
+install: pyomo.extras==3.3
+pip_check: "No broken requirements found.\n"
