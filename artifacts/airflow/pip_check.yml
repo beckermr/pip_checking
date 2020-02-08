@@ -1,0 +1,5 @@
+pkg: airflow
+build: airflow-1.10.6-py37_0
+install: airflow==1.10.6
+pip_check: "python-daemon 2.1.2 requires docutils, which is not installed.\napache-airflow\
+  \ 1.10.6 requires funcsigs, which is not installed.\n"
