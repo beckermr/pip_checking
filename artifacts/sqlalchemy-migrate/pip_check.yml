@@ -1,0 +1,4 @@
+pkg: sqlalchemy-migrate
+build: sqlalchemy-migrate-0.13.0-py_0
+install: sqlalchemy-migrate==0.13.0
+pip_check: "No broken requirements found.\n"
