@@ -1,0 +1,4 @@
+pkg: openvisus
+build: openvisus-1.3.12-py37h4f17bb1_0
+install: openvisus==1.3.12
+pip_check: "No broken requirements found.\n"
