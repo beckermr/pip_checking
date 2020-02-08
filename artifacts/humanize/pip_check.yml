@@ -1,0 +1,4 @@
+pkg: humanize
+build: humanize-0.5.1-py_1
+install: humanize==0.5.1
+pip_check: "No broken requirements found.\n"
