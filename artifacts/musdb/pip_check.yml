@@ -1,0 +1,4 @@
+pkg: musdb
+build: musdb-0.3.1-py37_0
+install: musdb==0.3.1
+pip_check: "No broken requirements found.\n"
