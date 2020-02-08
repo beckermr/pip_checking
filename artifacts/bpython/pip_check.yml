@@ -1,0 +1,4 @@
+pkg: bpython
+build: bpython-0.18-py37_0
+install: bpython==0.18
+pip_check: "No broken requirements found.\n"
