@@ -1,0 +1,4 @@
+pkg: setproctitle
+build: setproctitle-1.1.10-py37h470a237_1
+install: setproctitle==1.1.10
+pip_check: "No broken requirements found.\n"
