@@ -1,0 +1,4 @@
+pkg: h5py
+build: h5py-2.9.0-py37he5c79e1_0
+install: h5py==2.9.0
+pip_check: "No broken requirements found.\n"
