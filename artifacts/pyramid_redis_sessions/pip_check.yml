@@ -1,0 +1,5 @@
+pkg: pyramid_redis_sessions
+build: pyramid_redis_sessions-1.0.1-py_0
+install: pyramid_redis_sessions==1.0.1
+pip_check: "plaster-pastedeploy 0.7 has requirement PasteDeploy>=2.0, but you have\
+  \ pastedeploy 1.5.2.\n"
