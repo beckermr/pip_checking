@@ -1,0 +1,4 @@
+pkg: pytest-runner
+build: pytest-runner-3.0-py_0
+install: pytest-runner==3.0
+pip_check: "No broken requirements found.\n"
