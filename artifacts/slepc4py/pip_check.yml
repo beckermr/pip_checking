@@ -1,0 +1,4 @@
+pkg: slepc4py
+build: slepc4py-3.11.0-py37hce3d510_0
+install: slepc4py==3.11.0
+pip_check: "No broken requirements found.\n"
