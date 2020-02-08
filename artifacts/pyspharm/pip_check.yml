@@ -1,0 +1,4 @@
+pkg: pyspharm
+build: pyspharm-1.0.9-py37h2cdb68b_1004
+install: pyspharm==1.0.9
+pip_check: "No broken requirements found.\n"
