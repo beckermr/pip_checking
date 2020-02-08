@@ -1,0 +1,4 @@
+pkg: face
+build: face-20.0.0-py_0
+install: face==20.0.0
+pip_check: "No broken requirements found.\n"
