@@ -1,0 +1,4 @@
+pkg: gdb
+build: gdb-8.3.1-py37h497da48_0
+install: gdb==8.3.1
+pip_check: "No broken requirements found.\n"
