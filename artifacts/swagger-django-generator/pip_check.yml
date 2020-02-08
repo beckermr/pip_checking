@@ -1,0 +1,4 @@
+pkg: swagger-django-generator
+build: swagger-django-generator-0.0.3-py_0
+install: swagger-django-generator==0.0.3
+pip_check: "No broken requirements found.\n"
