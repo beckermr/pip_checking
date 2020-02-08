@@ -1,0 +1,4 @@
+pkg: pypsa
+build: pypsa-0.16.1-py_0
+install: pypsa==0.16.1
+pip_check: "No broken requirements found.\n"
