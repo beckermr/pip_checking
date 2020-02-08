@@ -1,0 +1,4 @@
+pkg: epicscorelibs
+build: epicscorelibs-7.0.3.99.1.0-py37h2df5d5c_0
+install: epicscorelibs==7.0.3.99.1.0
+pip_check: "No broken requirements found.\n"
