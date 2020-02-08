@@ -1,0 +1,4 @@
+pkg: sos-pbs
+build: sos-pbs-0.17.5-py_0
+install: sos-pbs==0.17.5
+pip_check: "No broken requirements found.\n"
