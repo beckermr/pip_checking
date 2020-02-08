@@ -1,0 +1,4 @@
+pkg: ipython_memory_usage
+build: ipython_memory_usage-1.2-py_0
+install: ipython_memory_usage==1.2
+pip_check: "ipython-memory-usage 1.2 requires memory-profiler, which is not installed.\n"
