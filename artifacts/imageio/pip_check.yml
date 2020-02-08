@@ -1,0 +1,4 @@
+pkg: imageio
+build: imageio-2.4.1-py37_0
+install: imageio==2.4.1
+pip_check: "No broken requirements found.\n"
