@@ -1,0 +1,4 @@
+pkg: noise
+build: noise-1.2.2-py37h470a237_0
+install: noise==1.2.2
+pip_check: "No broken requirements found.\n"
