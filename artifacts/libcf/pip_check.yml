@@ -1,0 +1,4 @@
+pkg: libcf
+build: libcf-1.0.3-py37hf25c252_4
+install: libcf==1.0.3
+pip_check: "No broken requirements found.\n"
