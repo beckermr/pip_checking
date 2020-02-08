@@ -1,0 +1,4 @@
+pkg: fdb
+build: fdb-2.0.1-py_0
+install: fdb==2.0.1
+pip_check: "No broken requirements found.\n"
