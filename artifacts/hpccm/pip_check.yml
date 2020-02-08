@@ -1,0 +1,4 @@
+pkg: hpccm
+build: hpccm-19.5.1-py37_0
+install: hpccm==19.5.1
+pip_check: "hpccm 19.5.1 requires enum34, which is not installed.\n"
