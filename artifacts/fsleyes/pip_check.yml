@@ -1,0 +1,4 @@
+pkg: fsleyes
+build: fsleyes-0.32.0-py37_1
+install: fsleyes==0.32.0
+pip_check: "sphinx-rtd-theme 0.4.3 requires sphinx, which is not installed.\n"
