@@ -1,0 +1,4 @@
+pkg: asyncpg
+build: asyncpg-0.18.1-py37h470a237_0
+install: asyncpg==0.18.1
+pip_check: "No broken requirements found.\n"
