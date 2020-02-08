@@ -1,0 +1,4 @@
+pkg: ligo-common
+build: ligo-common-1.0.4-py_0
+install: ligo-common==1.0.4
+pip_check: "No broken requirements found.\n"
