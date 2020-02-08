@@ -1,0 +1,4 @@
+pkg: google-compute-engine
+build: google-compute-engine-2.8.13-py37_0
+install: google-compute-engine==2.8.13
+pip_check: "google-compute-engine 2.8.13 requires boto, which is not installed.\n"
