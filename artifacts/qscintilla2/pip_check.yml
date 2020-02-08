@@ -1,0 +1,4 @@
+pkg: qscintilla2
+build: qscintilla2-2.11.2-py37h73816c6_1
+install: qscintilla2==2.11.2
+pip_check: "No broken requirements found.\n"
