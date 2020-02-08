@@ -1,0 +1,6 @@
+pkg: classy_vision
+build: classy_vision-0.2.0-py37_0
+install: classy_vision==0.2.0
+pip_check: "classy-vision 0.2.0.dev0 has requirement torch>=1.4, but you have torch\
+  \ 1.3.1.\nclassy-vision 0.2.0.dev0 has requirement torchvision>=0.5, but you have\
+  \ torchvision 0.4.2.\n"
