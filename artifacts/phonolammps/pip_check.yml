@@ -1,0 +1,4 @@
+pkg: phonolammps
+build: phonolammps-0.5.2-py_0
+install: phonolammps==0.5.2
+pip_check: "phonopy 2.4.1.post5 requires h5py, which is not installed.\n"
