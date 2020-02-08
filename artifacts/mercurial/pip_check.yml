@@ -1,0 +1,4 @@
+pkg: mercurial
+build: mercurial-5.2-py37h0b31af3_0
+install: mercurial==5.2
+pip_check: "No broken requirements found.\n"
