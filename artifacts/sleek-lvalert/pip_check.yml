@@ -1,0 +1,4 @@
+pkg: sleek-lvalert
+build: sleek-lvalert-0.0.4-py_0
+install: sleek-lvalert==0.0.4
+pip_check: "No broken requirements found.\n"
