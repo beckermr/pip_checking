@@ -1,0 +1,4 @@
+pkg: root
+build: root-6.16.00-py37_blas_openblash77af0b3_6
+install: root==6.16.00
+pip_check: "No broken requirements found.\n"
