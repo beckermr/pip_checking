@@ -1,0 +1,4 @@
+pkg: jenkinsapi
+build: jenkinsapi-0.3.10-py37_0
+install: jenkinsapi==0.3.10
+pip_check: "No broken requirements found.\n"
