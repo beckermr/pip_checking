@@ -1,0 +1,4 @@
+pkg: singularity-compose
+build: singularity-compose-0.0.14-py_0
+install: singularity-compose==0.0.14
+pip_check: "No broken requirements found.\n"
