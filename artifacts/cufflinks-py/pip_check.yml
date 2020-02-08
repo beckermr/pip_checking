@@ -1,0 +1,4 @@
+pkg: cufflinks-py
+build: cufflinks-py-0.17.0-py_1
+install: cufflinks-py==0.17.0
+pip_check: "No broken requirements found.\n"
