@@ -1,0 +1,4 @@
+pkg: gsshapyorm
+build: gsshapyorm-0.2.1-py_0
+install: gsshapyorm==0.2.1
+pip_check: "mapkit 1.2.6 requires epsg-ident, which is not installed.\n"
