@@ -1,0 +1,6 @@
+pkg: bilby_pipe
+build: bilby_pipe-0.3.7-py_0
+install: bilby_pipe==0.3.7
+pip_check: "pesummary 0.3.0 requires configparser, which is not installed.\npesummary\
+  \ 0.3.0 requires lalsuite, which is not installed.\npesummary 0.3.0 requires pluggy,\
+  \ which is not installed.\n"
