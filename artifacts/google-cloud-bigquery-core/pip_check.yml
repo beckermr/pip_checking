@@ -1,0 +1,4 @@
+pkg: google-cloud-bigquery-core
+build: google-cloud-bigquery-core-1.22.0-py37_1
+install: google-cloud-bigquery-core==1.22.0
+pip_check: "No broken requirements found.\n"
