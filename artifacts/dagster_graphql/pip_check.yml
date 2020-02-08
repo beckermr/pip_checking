@@ -1,0 +1,4 @@
+pkg: dagster_graphql
+build: dagster_graphql-0.6.5-py_0
+install: dagster_graphql==0.6.5
+pip_check: "No broken requirements found.\n"
