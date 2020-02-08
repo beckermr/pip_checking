@@ -1,0 +1,4 @@
+pkg: pyside2
+build: pyside2-5.6.0a1-py37h62b865f_1005
+install: pyside2==5.6.0a1
+pip_check: "No broken requirements found.\n"
