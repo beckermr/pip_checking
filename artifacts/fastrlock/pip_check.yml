@@ -1,0 +1,4 @@
+pkg: fastrlock
+build: fastrlock-0.4-py37he1b5a44_1000
+install: fastrlock==0.4
+pip_check: "No broken requirements found.\n"
