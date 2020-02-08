@@ -1,0 +1,4 @@
+pkg: nr.cli
+build: nr.cli-1.2.1-py_0
+install: nr.cli==1.2.1
+pip_check: "No broken requirements found.\n"
