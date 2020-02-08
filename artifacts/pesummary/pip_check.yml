@@ -1,0 +1,6 @@
+pkg: pesummary
+build: pesummary-0.2.4-py_0
+install: pesummary==0.2.4
+pip_check: "pesummary 0.2.4 requires configparser, which is not installed.\npesummary\
+  \ 0.2.4 requires lalsuite, which is not installed.\npesummary 0.2.4 requires pluggy,\
+  \ which is not installed.\n"
