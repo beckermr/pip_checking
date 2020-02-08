@@ -1,0 +1,4 @@
+pkg: service_identity
+build: service_identity-18.1.0-py_0
+install: service_identity==18.1.0
+pip_check: "No broken requirements found.\n"
