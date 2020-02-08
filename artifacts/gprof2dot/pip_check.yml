@@ -1,0 +1,4 @@
+pkg: gprof2dot
+build: gprof2dot-2017.9.19-py_0
+install: gprof2dot==2017.9.19
+pip_check: "No broken requirements found.\n"
