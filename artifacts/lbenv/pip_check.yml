@@ -1,0 +1,4 @@
+pkg: lbenv
+build: lbenv-1.1.6-py37_0
+install: lbenv==1.1.6
+pip_check: "No broken requirements found.\n"
