@@ -1,0 +1,4 @@
+pkg: cenpy
+build: cenpy-1.0.0.post2-py_0
+install: cenpy==1.0.0.post2
+pip_check: "libpysal 4.2.2 requires bs4, which is not installed.\n"
