@@ -1,0 +1,5 @@
+pkg: pyquil
+build: pyquil-2.0.0-py37_1
+install: pyquil==2.0.0
+pip_check: "pyquil 2.0.0 requires contextvars, which is not installed.\npyquil 2.0.0\
+  \ requires dataclasses, which is not installed.\n"
