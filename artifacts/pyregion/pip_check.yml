@@ -1,0 +1,4 @@
+pkg: pyregion
+build: pyregion-2.0-py37hc1659b7_1001
+install: pyregion==2.0
+pip_check: "pyregion 2.0 requires cython, which is not installed.\n"
