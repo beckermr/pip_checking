@@ -1,0 +1,4 @@
+pkg: sasview
+build: sasview-5.0.0-py37h8619c78_0
+install: sasview==5.0.0
+pip_check: "No broken requirements found.\n"
