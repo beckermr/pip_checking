@@ -1,0 +1,4 @@
+pkg: amplpy
+build: amplpy-0.6.10-py37he1b5a44_0
+install: amplpy==0.6.10
+pip_check: "No broken requirements found.\n"
