@@ -1,0 +1,4 @@
+pkg: importlib-metadata
+build: importlib-metadata-0.19-py37_0
+install: importlib-metadata==0.19
+pip_check: "No broken requirements found.\n"
