@@ -1,0 +1,5 @@
+pkg: convertdate
+build: convertdate-2.1.0-py37_1000
+install: convertdate==2.1.0
+pip_check: "convertdate 2.1.0 has requirement pytz<2018,>=2014.10, but you have pytz\
+  \ 2019.3.\n"
