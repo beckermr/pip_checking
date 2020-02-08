@@ -1,0 +1,4 @@
+pkg: notedown
+build: notedown-1.5.1-py_0
+install: notedown==1.5.1
+pip_check: "No broken requirements found.\n"
