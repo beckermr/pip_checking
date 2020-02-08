@@ -1,0 +1,5 @@
+pkg: django-cachalot
+build: django-cachalot-2.1.0-py_0
+install: django-cachalot==2.1.0
+pip_check: "django-cachalot 2.1.0 has requirement Django<2.2,>=1.11, but you have\
+  \ django 3.0.3.\n"
