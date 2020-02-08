@@ -1,0 +1,4 @@
+pkg: py_stringsimjoin
+build: py_stringsimjoin-0.3.1-py37h4a8c4bd_0
+install: py_stringsimjoin==0.3.1
+pip_check: "No broken requirements found.\n"
