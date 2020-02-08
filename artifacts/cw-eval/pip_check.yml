@@ -1,0 +1,4 @@
+pkg: cw-eval
+build: cw-eval-1.0.0-py37h516909a_1000
+install: cw-eval==1.0.0
+pip_check: "No broken requirements found.\n"
