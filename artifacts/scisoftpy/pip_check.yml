@@ -1,0 +1,4 @@
+pkg: scisoftpy
+build: scisoftpy-2.16.0-py37_0
+install: scisoftpy==2.16.0
+pip_check: "No broken requirements found.\n"
