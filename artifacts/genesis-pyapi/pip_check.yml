@@ -1,0 +1,4 @@
+pkg: genesis-pyapi
+build: genesis-pyapi-1.2.1-py_0
+install: genesis-pyapi==1.2.1
+pip_check: "No broken requirements found.\n"
