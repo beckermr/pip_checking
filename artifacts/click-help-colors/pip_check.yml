@@ -1,0 +1,4 @@
+pkg: click-help-colors
+build: click-help-colors-0.4-py_1
+install: click-help-colors==0.4
+pip_check: "No broken requirements found.\n"
