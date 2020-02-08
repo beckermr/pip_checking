@@ -1,0 +1,4 @@
+pkg: alphalens
+build: alphalens-0.3.6-py_0
+install: alphalens==0.3.6
+pip_check: "No broken requirements found.\n"
