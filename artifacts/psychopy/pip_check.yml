@@ -1,0 +1,5 @@
+pkg: psychopy
+build: psychopy-3.1.3-py37_0
+install: psychopy==3.1.3
+pip_check: "psychopy 3.1.3 requires msgpack-python, which is not installed.\npsychopy\
+  \ 3.1.3 requires pyparallel, which is not installed.\n"
