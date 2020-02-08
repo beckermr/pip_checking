@@ -1,0 +1,4 @@
+pkg: appmode
+build: appmode-0.6.0-py37_1002
+install: appmode==0.6.0
+pip_check: "No broken requirements found.\n"
