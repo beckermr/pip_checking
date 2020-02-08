@@ -1,0 +1,4 @@
+pkg: nipy
+build: nipy-0.4.2-py37hc1659b7_1001
+install: nipy==0.4.2
+pip_check: "No broken requirements found.\n"
