@@ -1,0 +1,4 @@
+pkg: raven-aiohttp
+build: raven-aiohttp-0.7.0-py37_1000
+install: raven-aiohttp==0.7.0
+pip_check: "No broken requirements found.\n"
