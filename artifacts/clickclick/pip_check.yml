@@ -1,0 +1,4 @@
+pkg: clickclick
+build: clickclick-1.2.2-py_1
+install: clickclick==1.2.2
+pip_check: "No broken requirements found.\n"
