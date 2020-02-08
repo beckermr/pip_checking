@@ -1,0 +1,4 @@
+pkg: flake8-polyfill
+build: flake8-polyfill-1.0.2-py_0
+install: flake8-polyfill==1.0.2
+pip_check: "No broken requirements found.\n"
