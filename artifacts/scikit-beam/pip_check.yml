@@ -1,0 +1,4 @@
+pkg: scikit-beam
+build: scikit-beam-0.0.18-py37heacc8b8_0
+install: scikit-beam==0.0.18
+pip_check: "No broken requirements found.\n"
