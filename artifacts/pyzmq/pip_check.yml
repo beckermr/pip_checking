@@ -1,0 +1,4 @@
+pkg: pyzmq
+build: pyzmq-17.1.2-py37hae99301_1
+install: pyzmq==17.1.2
+pip_check: "No broken requirements found.\n"
