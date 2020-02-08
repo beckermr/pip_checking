@@ -1,0 +1,4 @@
+pkg: django_polymorphic
+build: django_polymorphic-2.0.3-py_0
+install: django_polymorphic==2.0.3
+pip_check: "No broken requirements found.\n"
