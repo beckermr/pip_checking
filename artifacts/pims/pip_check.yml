@@ -1,0 +1,4 @@
+pkg: pims
+build: pims-0.4.1-py_1
+install: pims==0.4.1
+pip_check: "No broken requirements found.\n"
