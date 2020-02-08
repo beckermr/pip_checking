@@ -1,0 +1,4 @@
+pkg: fireworks
+build: fireworks-1.9.4-py_0
+install: fireworks==1.9.4
+pip_check: "No broken requirements found.\n"
