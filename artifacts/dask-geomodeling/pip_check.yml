@@ -1,0 +1,4 @@
+pkg: dask-geomodeling
+build: dask-geomodeling-2.0.2-py_0
+install: dask-geomodeling==2.0.2
+pip_check: "dask-geomodeling 2.0.2 requires cityhash, which is not installed.\n"
