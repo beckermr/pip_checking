@@ -1,0 +1,4 @@
+pkg: stackprinter
+build: stackprinter-0.2.3-py_0
+install: stackprinter==0.2.3
+pip_check: "No broken requirements found.\n"
