@@ -1,0 +1,4 @@
+pkg: jinja2
+build: jinja2-2.11.0-py_0
+install: jinja2==2.11.0
+pip_check: "No broken requirements found.\n"
