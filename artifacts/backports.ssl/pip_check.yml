@@ -1,0 +1,4 @@
+pkg: backports.ssl
+build: backports.ssl-0.0.9-py37_1001
+install: backports.ssl==0.0.9
+pip_check: "No broken requirements found.\n"
