@@ -1,0 +1,4 @@
+pkg: greenlet
+build: greenlet-0.4.15-py37h01d97ff_0
+install: greenlet==0.4.15
+pip_check: "No broken requirements found.\n"
