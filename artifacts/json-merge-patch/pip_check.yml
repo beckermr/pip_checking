@@ -1,0 +1,4 @@
+pkg: json-merge-patch
+build: json-merge-patch-0.2-py_0
+install: json-merge-patch==0.2
+pip_check: "No broken requirements found.\n"
