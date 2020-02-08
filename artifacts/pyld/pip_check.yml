@@ -1,0 +1,4 @@
+pkg: pyld
+build: pyld-1.0.3-py_0
+install: pyld==1.0.3
+pip_check: "No broken requirements found.\n"
