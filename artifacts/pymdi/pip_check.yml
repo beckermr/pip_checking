@@ -1,0 +1,4 @@
+pkg: pymdi
+build: pymdi-0.6.5-py37h01d97ff_1
+install: pymdi==0.6.5
+pip_check: "No broken requirements found.\n"
