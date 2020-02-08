@@ -1,0 +1,4 @@
+pkg: nitime
+build: nitime-0.7-py37h7eb728f_2
+install: nitime==0.7
+pip_check: "No broken requirements found.\n"
