@@ -1,0 +1,7 @@
+pkg: netcdf-scm
+build: netcdf-scm-0.7.3-py_0
+install: netcdf-scm==0.7.3
+pip_check: "netcdf-scm 0.7.3 requires openscm, which is not installed.\nnetcdf-scm\
+  \ 0.7.3 requires progressbar2, which is not installed.\ncf-units 2.1.3 requires\
+  \ cython, which is not installed.\nscitools-iris 2.2.0 has requirement matplotlib<3,>=2,\
+  \ but you have matplotlib 3.1.3.\n"
