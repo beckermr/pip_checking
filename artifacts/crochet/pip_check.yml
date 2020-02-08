@@ -1,0 +1,4 @@
+pkg: crochet
+build: crochet-1.12.0-py_0
+install: crochet==1.12.0
+pip_check: "No broken requirements found.\n"
