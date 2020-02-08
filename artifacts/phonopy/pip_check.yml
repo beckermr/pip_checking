@@ -1,0 +1,4 @@
+pkg: phonopy
+build: phonopy-2.0.0-py37h917ab60_0
+install: phonopy==2.0.0
+pip_check: "phonopy 2.0.0 requires h5py, which is not installed.\n"
