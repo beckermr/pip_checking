@@ -1,0 +1,4 @@
+pkg: surface-dynamics
+build: surface-dynamics-0.4.3-py37h79a8f9a_0
+install: surface-dynamics==0.4.3
+pip_check: "No broken requirements found.\n"
