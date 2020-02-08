@@ -1,0 +1,4 @@
+pkg: pyftpdlib
+build: pyftpdlib-1.5.5-py_0
+install: pyftpdlib==1.5.5
+pip_check: "No broken requirements found.\n"
