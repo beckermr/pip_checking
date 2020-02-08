@@ -1,0 +1,4 @@
+pkg: conda-build
+build: conda-build-3.16.2-py37_0
+install: conda-build==3.16.2
+pip_check: "No broken requirements found.\n"
