@@ -1,0 +1,4 @@
+pkg: ipaddr
+build: ipaddr-2.1.11-py_0
+install: ipaddr==2.1.11
+pip_check: "No broken requirements found.\n"
