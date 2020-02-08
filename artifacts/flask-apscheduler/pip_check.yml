@@ -1,0 +1,4 @@
+pkg: flask-apscheduler
+build: flask-apscheduler-1.10.1-py_0
+install: flask-apscheduler==1.10.1
+pip_check: "No broken requirements found.\n"
