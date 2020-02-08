@@ -1,0 +1,7 @@
+pkg: itkwidgets
+build: itkwidgets-0.20.0-py37_0
+install: itkwidgets==0.20.0
+pip_check: "itkwidgets 0.20.0 requires itk-meshtopolydata, which is not installed.\n\
+  itkwidgets 0.20.0 has requirement itk-core>=5.1b1, but you have itk-core 5.0.1.\n\
+  itkwidgets 0.20.0 has requirement itk-filtering>=5.1b1, but you have itk-filtering\
+  \ 5.0.1.\n"
