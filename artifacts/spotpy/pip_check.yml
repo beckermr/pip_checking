@@ -1,0 +1,4 @@
+pkg: spotpy
+build: spotpy-1.5.1-py_3
+install: spotpy==1.5.1
+pip_check: "No broken requirements found.\n"
