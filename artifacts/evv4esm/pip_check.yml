@@ -1,0 +1,4 @@
+pkg: evv4esm
+build: evv4esm-0.2.1-py_0
+install: evv4esm==0.2.1
+pip_check: "No broken requirements found.\n"
