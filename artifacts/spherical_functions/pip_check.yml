@@ -1,0 +1,4 @@
+pkg: spherical_functions
+build: spherical_functions-2019.4.17.13.51.39-py_0
+install: spherical_functions==2019.4.17.13.51.39
+pip_check: "No broken requirements found.\n"
