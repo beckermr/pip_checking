@@ -1,0 +1,4 @@
+pkg: betsee
+build: betsee-0.9.1.0-py_0
+install: betsee==0.9.1.0
+pip_check: "betsee 0.9.1.0 requires pyside2, which is not installed.\n"
