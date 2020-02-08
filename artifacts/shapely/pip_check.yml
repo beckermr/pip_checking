@@ -1,0 +1,4 @@
+pkg: shapely
+build: shapely-1.6.4-py37h2afed24_1003
+install: shapely==1.6.4
+pip_check: "No broken requirements found.\n"
