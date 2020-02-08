@@ -1,0 +1,4 @@
+pkg: voila-gridstack
+build: voila-gridstack-0.0.8-py_0
+install: voila-gridstack==0.0.8
+pip_check: "No broken requirements found.\n"
