@@ -1,0 +1,4 @@
+pkg: s3path
+build: s3path-0.1.91-py_0
+install: s3path==0.1.91
+pip_check: "s3path 0.1.91 requires boto3, which is not installed.\n"
