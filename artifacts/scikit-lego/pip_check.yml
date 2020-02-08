@@ -1,0 +1,4 @@
+pkg: scikit-lego
+build: scikit-lego-0.3.3-py_0
+install: scikit-lego==0.3.3
+pip_check: "scikit-lego 0.3.3 requires deprecated, which is not installed.\n"
