@@ -1,0 +1,4 @@
+pkg: isort
+build: isort-4.3.12-py37_0
+install: isort==4.3.12
+pip_check: "No broken requirements found.\n"
