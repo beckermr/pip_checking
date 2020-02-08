@@ -1,0 +1,4 @@
+pkg: lalapps
+build: lalapps-6.22.0-py37h7724fef_1000
+install: lalapps==6.22.0
+pip_check: "No broken requirements found.\n"
