@@ -1,0 +1,6 @@
+pkg: matminer
+build: matminer-0.6.0-py_0
+install: matminer==0.6.0
+pip_check: "dscribe 0.3.2 requires pybind11, which is not installed.\naflow 0.0.10\
+  \ requires argparse, which is not installed.\naflow 0.0.10 requires bs4, which is\
+  \ not installed.\n"
