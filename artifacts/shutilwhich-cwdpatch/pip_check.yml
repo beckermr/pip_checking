@@ -1,0 +1,4 @@
+pkg: shutilwhich-cwdpatch
+build: shutilwhich-cwdpatch-0.1.0-py_1
+install: shutilwhich-cwdpatch==0.1.0
+pip_check: "No broken requirements found.\n"
