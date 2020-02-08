@@ -1,0 +1,4 @@
+pkg: ib-insync
+build: ib-insync-0.9.56-py_0
+install: ib-insync==0.9.56
+pip_check: "No broken requirements found.\n"
