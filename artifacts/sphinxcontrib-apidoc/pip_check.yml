@@ -1,0 +1,5 @@
+pkg: sphinxcontrib-apidoc
+build: sphinxcontrib-apidoc-0.2.1-py_0
+install: sphinxcontrib-apidoc==0.2.1
+pip_check: "sphinxcontrib-apidoc 0.2.1 requires pbr, which is not installed.\nsphinxcontrib-apidoc\
+  \ 0.2.1 requires sphinx, which is not installed.\n"
