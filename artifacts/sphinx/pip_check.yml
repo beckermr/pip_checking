@@ -1,0 +1,4 @@
+pkg: sphinx
+build: sphinx-1.8.1-py37_1000
+install: sphinx==1.8.1
+pip_check: "No broken requirements found.\n"
