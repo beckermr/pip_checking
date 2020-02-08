@@ -1,0 +1,4 @@
+pkg: batman
+build: batman-1.9-py37h90ec1f3_2000
+install: batman==1.9
+pip_check: "No broken requirements found.\n"
