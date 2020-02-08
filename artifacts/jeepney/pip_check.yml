@@ -1,0 +1,4 @@
+pkg: jeepney
+build: jeepney-0.4-py_0
+install: jeepney==0.4
+pip_check: "No broken requirements found.\n"
