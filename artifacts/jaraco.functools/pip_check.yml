@@ -1,0 +1,4 @@
+pkg: jaraco.functools
+build: jaraco.functools-1.20-py37_1000
+install: jaraco.functools==1.20
+pip_check: "No broken requirements found.\n"
