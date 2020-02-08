@@ -1,0 +1,4 @@
+pkg: nbconvert-utils
+build: nbconvert-utils-0.6-py_0
+install: nbconvert-utils==0.6
+pip_check: "No broken requirements found.\n"
