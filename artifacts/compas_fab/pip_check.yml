@@ -1,0 +1,4 @@
+pkg: compas_fab
+build: compas_fab-0.7.0-py37_0
+install: compas_fab==0.7.0
+pip_check: "No broken requirements found.\n"
