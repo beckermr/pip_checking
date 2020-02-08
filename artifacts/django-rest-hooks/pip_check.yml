@@ -1,0 +1,4 @@
+pkg: django-rest-hooks
+build: django-rest-hooks-1.5.0-py_1
+install: django-rest-hooks==1.5.0
+pip_check: "No broken requirements found.\n"
