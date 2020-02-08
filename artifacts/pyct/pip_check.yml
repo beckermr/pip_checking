@@ -1,0 +1,4 @@
+pkg: pyct
+build: pyct-0.4.6-py_0
+install: pyct==0.4.6
+pip_check: "No broken requirements found.\n"
