@@ -1,0 +1,4 @@
+pkg: arch-py
+build: arch-py-4.10.0-py37h516909a_0
+install: arch-py==4.10.0
+pip_check: "arch 4.10.0 requires property-cached, which is not installed.\n"
