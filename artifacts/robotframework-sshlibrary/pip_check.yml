@@ -1,0 +1,4 @@
+pkg: robotframework-sshlibrary
+build: robotframework-sshlibrary-3.4.0-py_0
+install: robotframework-sshlibrary==3.4.0
+pip_check: "No broken requirements found.\n"
