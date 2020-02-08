@@ -1,0 +1,4 @@
+pkg: property-manager
+build: property-manager-2.3.1-py_0
+install: property-manager==2.3.1
+pip_check: "No broken requirements found.\n"
