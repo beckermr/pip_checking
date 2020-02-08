@@ -1,0 +1,4 @@
+pkg: numpy-sugar
+build: numpy-sugar-1.2.6-py_0
+install: numpy-sugar==1.2.6
+pip_check: "numpy-sugar 1.2.6 requires pytest, which is not installed.\n"
