@@ -1,0 +1,4 @@
+pkg: scikit-data
+build: scikit-data-0.1.3-py37_1000
+install: scikit-data==0.1.3
+pip_check: "scikit-data 0.1.3 requires jupyter, which is not installed.\n"
