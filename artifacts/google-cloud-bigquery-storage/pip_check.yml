@@ -1,0 +1,4 @@
+pkg: google-cloud-bigquery-storage
+build: google-cloud-bigquery-storage-0.6.0-py37_0
+install: google-cloud-bigquery-storage==0.6.0
+pip_check: "No broken requirements found.\n"
