@@ -1,0 +1,4 @@
+pkg: owslib
+build: owslib-0.17.0-py_0
+install: owslib==0.17.0
+pip_check: "No broken requirements found.\n"
