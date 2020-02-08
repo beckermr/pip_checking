@@ -1,0 +1,4 @@
+pkg: mypy
+build: mypy-0.641-py37_1000
+install: mypy==0.641
+pip_check: "No broken requirements found.\n"
