@@ -1,0 +1,4 @@
+pkg: glymur
+build: glymur-0.9.1-py_1
+install: glymur==0.9.1
+pip_check: "No broken requirements found.\n"
