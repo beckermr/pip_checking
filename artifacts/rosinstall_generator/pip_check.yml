@@ -1,0 +1,4 @@
+pkg: rosinstall_generator
+build: rosinstall_generator-0.1.18-py_0
+install: rosinstall_generator==0.1.18
+pip_check: "No broken requirements found.\n"
