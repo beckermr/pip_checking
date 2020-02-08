@@ -1,0 +1,4 @@
+pkg: marshmallow-sqlalchemy
+build: marshmallow-sqlalchemy-0.16.2-py_0
+install: marshmallow-sqlalchemy==0.16.2
+pip_check: "No broken requirements found.\n"
