@@ -1,0 +1,4 @@
+pkg: pymodbustcp
+build: pymodbustcp-0.1.8-py_0
+install: pymodbustcp==0.1.8
+pip_check: "No broken requirements found.\n"
