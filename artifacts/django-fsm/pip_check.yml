@@ -1,0 +1,4 @@
+pkg: django-fsm
+build: django-fsm-2.7.0-py_0
+install: django-fsm==2.7.0
+pip_check: "No broken requirements found.\n"
