@@ -1,0 +1,4 @@
+pkg: simplesat
+build: simplesat-0.8.2-py37_0
+install: simplesat==0.8.2
+pip_check: "No broken requirements found.\n"
