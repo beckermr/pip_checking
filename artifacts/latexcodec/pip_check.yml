@@ -1,0 +1,4 @@
+pkg: latexcodec
+build: latexcodec-1.0.6-py_0
+install: latexcodec==1.0.6
+pip_check: "No broken requirements found.\n"
