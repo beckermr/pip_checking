@@ -1,0 +1,4 @@
+pkg: pytest-django
+build: pytest-django-3.8.0-py_0
+install: pytest-django==3.8.0
+pip_check: "No broken requirements found.\n"
