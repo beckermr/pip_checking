@@ -1,0 +1,4 @@
+pkg: scripting
+build: scripting-0.2.4-py_0
+install: scripting==0.2.4
+pip_check: "No broken requirements found.\n"
