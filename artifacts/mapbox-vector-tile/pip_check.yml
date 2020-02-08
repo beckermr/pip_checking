@@ -1,0 +1,4 @@
+pkg: mapbox-vector-tile
+build: mapbox-vector-tile-1.2.0-py_0
+install: mapbox-vector-tile==1.2.0
+pip_check: "No broken requirements found.\n"
