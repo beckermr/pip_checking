@@ -1,0 +1,4 @@
+pkg: prince-factor-analysis
+build: prince-factor-analysis-0.6.5-py_0
+install: prince-factor-analysis==0.6.5
+pip_check: "No broken requirements found.\n"
