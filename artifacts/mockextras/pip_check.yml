@@ -1,0 +1,4 @@
+pkg: mockextras
+build: mockextras-1.0.2-py37_0
+install: mockextras==1.0.2
+pip_check: "No broken requirements found.\n"
