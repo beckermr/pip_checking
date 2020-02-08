@@ -1,0 +1,4 @@
+pkg: lsst_dashboard
+build: lsst_dashboard-0.0.2a-py_0
+install: lsst_dashboard==0.0.2a
+pip_check: "No broken requirements found.\n"
