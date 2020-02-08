@@ -1,0 +1,4 @@
+pkg: fortran_kernel
+build: fortran_kernel-0.1.7-py37_0
+install: fortran_kernel==0.1.7
+pip_check: "lfortran 0.1.15 requires pytest, which is not installed.\n"
