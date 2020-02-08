@@ -1,0 +1,4 @@
+pkg: alphatwirl
+build: alphatwirl-0.25.4-py_0
+install: alphatwirl==0.25.4
+pip_check: "No broken requirements found.\n"
