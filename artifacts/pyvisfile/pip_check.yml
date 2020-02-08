@@ -1,0 +1,4 @@
+pkg: pyvisfile
+build: pyvisfile-2016.1-py_1
+install: pyvisfile==2016.1
+pip_check: "No broken requirements found.\n"
