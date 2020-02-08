@@ -1,0 +1,4 @@
+pkg: setoptconf
+build: setoptconf-0.2.0-py37_1001
+install: setoptconf==0.2.0
+pip_check: "No broken requirements found.\n"
