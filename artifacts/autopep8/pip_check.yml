@@ -1,0 +1,4 @@
+pkg: autopep8
+build: autopep8-1.4.3-py_0
+install: autopep8==1.4.3
+pip_check: "No broken requirements found.\n"
