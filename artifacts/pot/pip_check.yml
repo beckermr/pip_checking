@@ -1,0 +1,4 @@
+pkg: pot
+build: pot-0.6.0-py37hb3f55d8_0
+install: pot==0.6.0
+pip_check: "pot 0.6.0 requires cython, which is not installed.\n"
