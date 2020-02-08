@@ -1,0 +1,4 @@
+pkg: pexpect
+build: pexpect-4.6.0-py37_1000
+install: pexpect==4.6.0
+pip_check: "No broken requirements found.\n"
