@@ -1,0 +1,4 @@
+pkg: nodeenv
+build: nodeenv-1.3.3-py_0
+install: nodeenv==1.3.3
+pip_check: "No broken requirements found.\n"
