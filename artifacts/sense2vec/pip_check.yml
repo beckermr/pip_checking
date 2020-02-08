@@ -1,0 +1,4 @@
+pkg: sense2vec
+build: sense2vec-1.0.0a1-py37h6de7cb9_0
+install: sense2vec==1.0.0a1
+pip_check: "No broken requirements found.\n"
