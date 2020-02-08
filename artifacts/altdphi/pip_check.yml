@@ -1,0 +1,4 @@
+pkg: altdphi
+build: altdphi-1.0.5-py_0
+install: altdphi==1.0.5
+pip_check: "No broken requirements found.\n"
