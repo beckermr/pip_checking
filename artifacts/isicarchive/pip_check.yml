@@ -1,0 +1,4 @@
+pkg: isicarchive
+build: isicarchive-0.4.7-py_0
+install: isicarchive==0.4.7
+pip_check: "No broken requirements found.\n"
