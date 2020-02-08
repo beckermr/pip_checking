@@ -1,0 +1,4 @@
+pkg: mongomock
+build: mongomock-3.18.0-py_0
+install: mongomock==3.18.0
+pip_check: "No broken requirements found.\n"
