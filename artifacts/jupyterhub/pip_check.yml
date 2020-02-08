@@ -1,0 +1,4 @@
+pkg: jupyterhub
+build: jupyterhub-1.1.0-py37_2
+install: jupyterhub==1.1.0
+pip_check: "No broken requirements found.\n"
