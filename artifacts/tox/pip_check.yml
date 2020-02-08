@@ -1,0 +1,4 @@
+pkg: tox
+build: tox-3.11.1-py_0
+install: tox==3.11.1
+pip_check: "No broken requirements found.\n"
