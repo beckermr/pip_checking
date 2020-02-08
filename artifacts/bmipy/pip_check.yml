@@ -1,0 +1,4 @@
+pkg: bmipy
+build: bmipy-0.3.2-py37_0
+install: bmipy==0.3.2
+pip_check: "No broken requirements found.\n"
