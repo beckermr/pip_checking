@@ -1,0 +1,4 @@
+pkg: m2crypto
+build: m2crypto-0.34.0-py37h212c5bf_0
+install: m2crypto==0.34.0
+pip_check: "No broken requirements found.\n"
