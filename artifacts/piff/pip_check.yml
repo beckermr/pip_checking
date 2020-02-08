@@ -1,0 +1,5 @@
+pkg: piff
+build: piff-0.3.1-py37_0
+install: piff==0.3.1
+pip_check: "piff 0.3.1 requires galsim, which is not installed.\npiff 0.3.1 requires\
+  \ lmfit, which is not installed.\n"
