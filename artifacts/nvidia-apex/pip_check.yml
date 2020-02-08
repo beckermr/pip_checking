@@ -1,0 +1,4 @@
+pkg: nvidia-apex
+build: nvidia-apex-0.1-py37heed2a70_1
+install: nvidia-apex==0.1
+pip_check: "No broken requirements found.\n"
