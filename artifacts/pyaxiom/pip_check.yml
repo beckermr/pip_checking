@@ -1,0 +1,5 @@
+pkg: pyaxiom
+build: pyaxiom-1.4.6-py_1
+install: pyaxiom==1.4.6
+pip_check: "pyaxiom 1.4.6 requires pygc, which is not installed.\npyaxiom 1.4.6 requires\
+  \ shapely, which is not installed.\n"
