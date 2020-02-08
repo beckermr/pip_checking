@@ -1,0 +1,4 @@
+pkg: pybtex
+build: pybtex-0.22.2-py37_0
+install: pybtex==0.22.2
+pip_check: "No broken requirements found.\n"
