@@ -1,0 +1,4 @@
+pkg: flake8
+build: flake8-3.7.7-py37_0
+install: flake8==3.7.7
+pip_check: "No broken requirements found.\n"
