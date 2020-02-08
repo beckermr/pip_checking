@@ -1,0 +1,4 @@
+pkg: python-pdal
+build: python-pdal-2.2.2-py37h51cd0bd_1
+install: python-pdal==2.2.2
+pip_check: "pdal 2.2.1 requires cython, which is not installed.\n"
