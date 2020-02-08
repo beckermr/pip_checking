@@ -1,0 +1,4 @@
+pkg: xmscore
+build: xmscore-3.1.0-py37h78a066a_0
+install: xmscore==3.1.0
+pip_check: "No broken requirements found.\n"
