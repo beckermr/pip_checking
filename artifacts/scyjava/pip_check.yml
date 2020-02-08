@@ -1,0 +1,4 @@
+pkg: scyjava
+build: scyjava-0.1.0-py37_1001
+install: scyjava==0.1.0
+pip_check: "pyjnius 1.2.1 requires cython, which is not installed.\n"
