@@ -1,0 +1,4 @@
+pkg: supervisor
+build: supervisor-4.0.0-py37_0
+install: supervisor==4.0.0
+pip_check: "No broken requirements found.\n"
