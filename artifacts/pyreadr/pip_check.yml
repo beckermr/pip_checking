@@ -1,0 +1,4 @@
+pkg: pyreadr
+build: pyreadr-0.1.8-py37h84994c4_2
+install: pyreadr==0.1.8
+pip_check: "No broken requirements found.\n"
