@@ -1,0 +1,4 @@
+pkg: userpath
+build: userpath-1.3.0-py_0
+install: userpath==1.3.0
+pip_check: "userpath 1.3.0 requires distro, which is not installed.\n"
