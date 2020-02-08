@@ -1,0 +1,5 @@
+pkg: azure-storage-file
+build: azure-storage-file-2.0.0-py_0
+install: azure-storage-file==2.0.0
+pip_check: "azure-storage-file 2.0.0 has requirement azure-storage-common~=1.4, but\
+  \ you have azure-storage-common 1.3.0.\n"
