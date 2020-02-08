@@ -1,0 +1,4 @@
+pkg: pre-commit-mirror-maker
+build: pre-commit-mirror-maker-1.3.0-py_0
+install: pre-commit-mirror-maker==1.3.0
+pip_check: "No broken requirements found.\n"
