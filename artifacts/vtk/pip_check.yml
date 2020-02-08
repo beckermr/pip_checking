@@ -1,0 +1,4 @@
+pkg: vtk
+build: vtk-8.2.0-py37h9382d79_202
+install: vtk==8.2.0
+pip_check: "No broken requirements found.\n"
