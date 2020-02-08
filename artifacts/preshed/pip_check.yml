@@ -1,0 +1,4 @@
+pkg: preshed
+build: preshed-3.0.2-py37he1b5a44_1
+install: preshed==3.0.2
+pip_check: "preshed 3.0.2 requires murmurhash, which is not installed.\n"
