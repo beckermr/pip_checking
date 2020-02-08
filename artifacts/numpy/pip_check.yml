@@ -1,0 +1,4 @@
+pkg: numpy
+build: numpy-1.16.2-py37_blas_openblash486cb9f_0
+install: numpy==1.16.2
+pip_check: "No broken requirements found.\n"
