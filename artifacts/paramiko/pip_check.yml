@@ -1,0 +1,4 @@
+pkg: paramiko
+build: paramiko-2.5.0-py37_0
+install: paramiko==2.5.0
+pip_check: "No broken requirements found.\n"
