@@ -1,0 +1,4 @@
+pkg: conda-wrappers
+build: conda-wrappers-1.1.3-py37_1
+install: conda-wrappers==1.1.3
+pip_check: "No broken requirements found.\n"
