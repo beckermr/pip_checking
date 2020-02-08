@@ -1,0 +1,4 @@
+pkg: awscli-cwlogs
+build: awscli-cwlogs-1.4.6-py_0
+install: awscli-cwlogs==1.4.6
+pip_check: "awscli-cwlogs 1.4.6 requires requests, which is not installed.\n"
