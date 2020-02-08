@@ -1,0 +1,4 @@
+pkg: meshplot
+build: meshplot-v0.3.2-py_0
+install: meshplot==v0.3.2
+pip_check: "No broken requirements found.\n"
