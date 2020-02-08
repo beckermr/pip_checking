@@ -1,0 +1,4 @@
+pkg: openbabel
+build: openbabel-2.4.1-py37h719f7c6_0
+install: openbabel==2.4.1
+pip_check: "No broken requirements found.\n"
