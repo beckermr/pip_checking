@@ -1,0 +1,4 @@
+pkg: rosdep
+build: rosdep-0.17.1-py37_0
+install: rosdep==0.17.1
+pip_check: "No broken requirements found.\n"
