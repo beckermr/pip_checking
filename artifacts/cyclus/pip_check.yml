@@ -1,0 +1,4 @@
+pkg: cyclus
+build: cyclus-1.5.5-py37h58c409b_1
+install: cyclus==1.5.5
+pip_check: "No broken requirements found.\n"
