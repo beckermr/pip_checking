@@ -1,0 +1,4 @@
+pkg: hyperspy-dev
+build: hyperspy-dev-1.5.1-py37_2
+install: hyperspy-dev==1.5.1
+pip_check: "distributed 2.5.2 has requirement dask>=2.3, but you have dask 2.2.0.\n"
