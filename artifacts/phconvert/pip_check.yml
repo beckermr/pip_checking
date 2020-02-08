@@ -1,0 +1,4 @@
+pkg: phconvert
+build: phconvert-0.9-py_0
+install: phconvert==0.9
+pip_check: "phconvert 0.9 requires future, which is not installed.\n"
