@@ -1,0 +1,4 @@
+pkg: keyring
+build: keyring-17.1.1-py37_1000
+install: keyring==17.1.1
+pip_check: "No broken requirements found.\n"
