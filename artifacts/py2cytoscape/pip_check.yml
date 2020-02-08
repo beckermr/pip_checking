@@ -1,0 +1,4 @@
+pkg: py2cytoscape
+build: py2cytoscape-0.7.0-py37_1000
+install: py2cytoscape==0.7.0
+pip_check: "No broken requirements found.\n"
