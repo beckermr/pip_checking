@@ -1,0 +1,4 @@
+pkg: python-docx
+build: python-docx-0.8.7-py_0
+install: python-docx==0.8.7
+pip_check: "No broken requirements found.\n"
