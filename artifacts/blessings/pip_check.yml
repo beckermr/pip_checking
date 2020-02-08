@@ -1,0 +1,4 @@
+pkg: blessings
+build: blessings-1.7-py37_1000
+install: blessings==1.7
+pip_check: "No broken requirements found.\n"
