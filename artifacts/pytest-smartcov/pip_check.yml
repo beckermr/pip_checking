@@ -1,0 +1,4 @@
+pkg: pytest-smartcov
+build: pytest-smartcov-0.3-py_0
+install: pytest-smartcov==0.3
+pip_check: "No broken requirements found.\n"
