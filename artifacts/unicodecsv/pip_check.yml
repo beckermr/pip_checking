@@ -1,0 +1,4 @@
+pkg: unicodecsv
+build: unicodecsv-0.14.1-py_1
+install: unicodecsv==0.14.1
+pip_check: "No broken requirements found.\n"
