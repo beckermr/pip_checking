@@ -1,0 +1,4 @@
+pkg: trash-cli
+build: trash-cli-0.17.1.14-py37_1000
+install: trash-cli==0.17.1.14
+pip_check: "No broken requirements found.\n"
