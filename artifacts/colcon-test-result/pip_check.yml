@@ -1,0 +1,4 @@
+pkg: colcon-test-result
+build: colcon-test-result-0.3.8-py_0
+install: colcon-test-result==0.3.8
+pip_check: "No broken requirements found.\n"
