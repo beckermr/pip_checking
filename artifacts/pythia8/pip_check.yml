@@ -1,0 +1,4 @@
+pkg: pythia8
+build: pythia8-8.240-py37hf484d3e_0
+install: pythia8==8.240
+pip_check: "No broken requirements found.\n"
