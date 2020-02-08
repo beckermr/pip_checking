@@ -1,0 +1,4 @@
+pkg: cf-autotick-bot-test-package
+build: cf-autotick-bot-test-package-0.6-py37_0
+install: cf-autotick-bot-test-package==0.6
+pip_check: "No broken requirements found.\n"
