@@ -1,0 +1,4 @@
+pkg: h5io
+build: h5io-0.1.0-py_0
+install: h5io==0.1.0
+pip_check: "No broken requirements found.\n"
