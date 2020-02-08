@@ -1,0 +1,4 @@
+pkg: timezonefinder
+build: timezonefinder-3.4.1-py_0
+install: timezonefinder==3.4.1
+pip_check: "No broken requirements found.\n"
