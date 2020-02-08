@@ -1,0 +1,4 @@
+pkg: sphinxcontrib-doxylink
+build: sphinxcontrib-doxylink-1.6.1-py_0
+install: sphinxcontrib-doxylink==1.6.1
+pip_check: "No broken requirements found.\n"
