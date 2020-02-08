@@ -1,0 +1,4 @@
+pkg: widgetsnbextension
+build: widgetsnbextension-3.5.0-py37_0
+install: widgetsnbextension==3.5.0
+pip_check: "No broken requirements found.\n"
