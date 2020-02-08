@@ -1,0 +1,4 @@
+pkg: ciso
+build: ciso-0.0.1-py37h917ab60_1003
+install: ciso==0.0.1
+pip_check: "ciso 0.0.1 requires cython, which is not installed.\n"
