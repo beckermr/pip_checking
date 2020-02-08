@@ -1,0 +1,4 @@
+pkg: python-planarity
+build: python-planarity-0.4.1-py37h14c3975_1
+install: python-planarity==0.4.1
+pip_check: "planarity 0.4.1 requires cython, which is not installed.\n"
