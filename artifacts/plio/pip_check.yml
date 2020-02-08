@@ -1,0 +1,4 @@
+pkg: plio
+build: plio-1.0.2-py37_1000
+install: plio==1.0.2
+pip_check: "No broken requirements found.\n"
