@@ -1,0 +1,4 @@
+pkg: monkeytype
+build: monkeytype-18.8.0-py_0
+install: monkeytype==18.8.0
+pip_check: "No broken requirements found.\n"
