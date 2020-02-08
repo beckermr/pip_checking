@@ -1,0 +1,4 @@
+pkg: pygit2
+build: pygit2-0.28.2-py37h516909a_0
+install: pygit2==0.28.2
+pip_check: "No broken requirements found.\n"
