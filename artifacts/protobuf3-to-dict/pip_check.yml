@@ -1,0 +1,4 @@
+pkg: protobuf3-to-dict
+build: protobuf3-to-dict-0.1.5-py37_0
+install: protobuf3-to-dict==0.1.5
+pip_check: "No broken requirements found.\n"
