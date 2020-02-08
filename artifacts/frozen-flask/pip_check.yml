@@ -1,0 +1,4 @@
+pkg: frozen-flask
+build: frozen-flask-0.15-py_1
+install: frozen-flask==0.15
+pip_check: "No broken requirements found.\n"
