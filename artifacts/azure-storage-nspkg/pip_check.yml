@@ -1,0 +1,4 @@
+pkg: azure-storage-nspkg
+build: azure-storage-nspkg-3.1.0-py_0
+install: azure-storage-nspkg==3.1.0
+pip_check: "No broken requirements found.\n"
