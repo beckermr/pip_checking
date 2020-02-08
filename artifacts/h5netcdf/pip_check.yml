@@ -1,0 +1,4 @@
+pkg: h5netcdf
+build: h5netcdf-0.4.3-py_0
+install: h5netcdf==0.4.3
+pip_check: "No broken requirements found.\n"
