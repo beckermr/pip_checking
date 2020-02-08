@@ -1,0 +1,4 @@
+pkg: rdflib
+build: rdflib-4.2.2-py37_1000
+install: rdflib==4.2.2
+pip_check: "No broken requirements found.\n"
