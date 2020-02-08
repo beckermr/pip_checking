@@ -1,0 +1,4 @@
+pkg: cfn-flip
+build: cfn-flip-1.2.2-py_0
+install: cfn-flip==1.2.2
+pip_check: "No broken requirements found.\n"
