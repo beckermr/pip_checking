@@ -1,0 +1,4 @@
+pkg: msrestazure
+build: msrestazure-0.4.23-py_0
+install: msrestazure==0.4.23
+pip_check: "msrestazure 0.4.23 has requirement adal~=0.5.0, but you have adal 1.2.2.\n"
