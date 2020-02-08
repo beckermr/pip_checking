@@ -1,0 +1,4 @@
+pkg: ansi2html
+build: ansi2html-1.5.2-py37_0
+install: ansi2html==1.5.2
+pip_check: "No broken requirements found.\n"
