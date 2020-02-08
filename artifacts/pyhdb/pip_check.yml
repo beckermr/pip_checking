@@ -1,0 +1,4 @@
+pkg: pyhdb
+build: pyhdb-0.3.4-py_0
+install: pyhdb==0.3.4
+pip_check: "No broken requirements found.\n"
