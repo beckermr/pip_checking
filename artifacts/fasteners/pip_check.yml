@@ -1,0 +1,4 @@
+pkg: fasteners
+build: fasteners-0.14.1-py_3
+install: fasteners==0.14.1
+pip_check: "No broken requirements found.\n"
