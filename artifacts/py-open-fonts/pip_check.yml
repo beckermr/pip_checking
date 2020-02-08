@@ -1,0 +1,4 @@
+pkg: py-open-fonts
+build: py-open-fonts-0.5.1-py_0
+install: py-open-fonts==0.5.1
+pip_check: "No broken requirements found.\n"
