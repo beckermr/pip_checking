@@ -1,0 +1,4 @@
+pkg: pymbar
+build: pymbar-3.0.5-py37h3b54f70_0
+install: pymbar==3.0.5
+pip_check: "No broken requirements found.\n"
