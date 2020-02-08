@@ -1,0 +1,4 @@
+pkg: openmesh-python
+build: openmesh-python-1.1.3-py37hc8e3772_0
+install: openmesh-python==1.1.3
+pip_check: "No broken requirements found.\n"
