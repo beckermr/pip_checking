@@ -1,0 +1,4 @@
+pkg: pvlib-python
+build: pvlib-python-0.5.2-py_1
+install: pvlib-python==0.5.2
+pip_check: "No broken requirements found.\n"
