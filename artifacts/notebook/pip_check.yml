@@ -1,0 +1,4 @@
+pkg: notebook
+build: notebook-5.7.5-py37_0
+install: notebook==5.7.5
+pip_check: "No broken requirements found.\n"
