@@ -1,0 +1,4 @@
+pkg: eight
+build: eight-0.4.2-py_2
+install: eight==0.4.2
+pip_check: "eight 0.4.2 has requirement future<0.17,>=0.16, but you have future 0.18.2.\n"
