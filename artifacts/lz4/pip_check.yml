@@ -1,0 +1,4 @@
+pkg: lz4
+build: lz4-2.1.6-py37hd79334b_1001
+install: lz4==2.1.6
+pip_check: "No broken requirements found.\n"
