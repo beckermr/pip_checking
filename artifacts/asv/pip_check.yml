@@ -1,0 +1,4 @@
+pkg: asv
+build: asv-0.3.1-py37he1b5a44_1001
+install: asv==0.3.1
+pip_check: "No broken requirements found.\n"
