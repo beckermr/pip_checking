@@ -1,0 +1,4 @@
+pkg: requests-futures
+build: requests-futures-0.9.7-py37_1001
+install: requests-futures==0.9.7
+pip_check: "No broken requirements found.\n"
