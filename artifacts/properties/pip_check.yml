@@ -1,0 +1,4 @@
+pkg: properties
+build: properties-0.4.0-py_1
+install: properties==0.4.0
+pip_check: "No broken requirements found.\n"
