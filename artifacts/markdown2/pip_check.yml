@@ -1,0 +1,4 @@
+pkg: markdown2
+build: markdown2-2.3.6-py_0
+install: markdown2==2.3.6
+pip_check: "No broken requirements found.\n"
