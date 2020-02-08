@@ -1,0 +1,4 @@
+pkg: apply_defaults
+build: apply_defaults-0.1.4-py_0
+install: apply_defaults==0.1.4
+pip_check: "No broken requirements found.\n"
