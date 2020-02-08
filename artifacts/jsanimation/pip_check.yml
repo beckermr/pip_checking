@@ -1,0 +1,4 @@
+pkg: jsanimation
+build: jsanimation-0.1-py_1
+install: jsanimation==0.1
+pip_check: "No broken requirements found.\n"
