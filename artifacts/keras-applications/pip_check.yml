@@ -1,0 +1,4 @@
+pkg: keras-applications
+build: keras-applications-1.0.4-py_0
+install: keras-applications==1.0.4
+pip_check: "keras-applications 1.0.4 requires keras, which is not installed.\n"
