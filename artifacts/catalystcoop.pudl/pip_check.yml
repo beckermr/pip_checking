@@ -1,0 +1,4 @@
+pkg: catalystcoop.pudl
+build: catalystcoop.pudl-0.1.0-py_0
+install: catalystcoop.pudl==0.1.0
+pip_check: "goodtables 2.4.2 requires statistics, which is not installed.\n"
