@@ -1,0 +1,4 @@
+pkg: enum34
+build: enum34-1.1.6-py37_1002
+install: enum34==1.1.6
+pip_check: "No broken requirements found.\n"
