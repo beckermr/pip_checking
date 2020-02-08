@@ -1,0 +1,4 @@
+pkg: websockets
+build: websockets-8.0-py37h516909a_0
+install: websockets==8.0
+pip_check: "No broken requirements found.\n"
