@@ -1,0 +1,4 @@
+pkg: mastodon.py
+build: mastodon.py-1.2.2-py_0
+install: mastodon.py==1.2.2
+pip_check: "No broken requirements found.\n"
