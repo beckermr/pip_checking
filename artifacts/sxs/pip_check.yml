@@ -1,0 +1,4 @@
+pkg: sxs
+build: sxs-2020.1.31.12.4.51-py_0
+install: sxs==2020.1.31.12.4.51
+pip_check: "sxs 2020.1.31.12.4.51 requires pylatexenc, which is not installed.\n"
