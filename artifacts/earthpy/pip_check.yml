@@ -1,0 +1,4 @@
+pkg: earthpy
+build: earthpy-0.6.7-py_0
+install: earthpy==0.6.7
+pip_check: "No broken requirements found.\n"
