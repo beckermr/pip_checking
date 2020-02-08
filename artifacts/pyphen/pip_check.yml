@@ -1,0 +1,4 @@
+pkg: pyphen
+build: pyphen-0.9.5-py_0
+install: pyphen==0.9.5
+pip_check: "No broken requirements found.\n"
