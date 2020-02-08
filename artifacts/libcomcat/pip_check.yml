@@ -1,0 +1,4 @@
+pkg: libcomcat
+build: libcomcat-1.2.16-py_0
+install: libcomcat==1.2.16
+pip_check: "No broken requirements found.\n"
