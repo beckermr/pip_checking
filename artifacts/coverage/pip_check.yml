@@ -1,0 +1,4 @@
+pkg: coverage
+build: coverage-5.0.1-py37h0b31af3_0
+install: coverage==5.0.1
+pip_check: "No broken requirements found.\n"
