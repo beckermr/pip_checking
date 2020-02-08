@@ -1,0 +1,10 @@
+pkg: autovizwidget
+build: autovizwidget-0.12.7-py_0
+install: autovizwidget==0.12.7
+pip_check: "hdijupyterutils 0.12.8 requires jupyter, which is not installed.\nhdijupyterutils\
+  \ 0.12.8 requires mock, which is not installed.\nhdijupyterutils 0.12.8 requires\
+  \ nose, which is not installed.\nhdijupyterutils 0.12.8 has requirement ipykernel<5,>=4.2.2,\
+  \ but you have ipykernel 5.1.4.\nhdijupyterutils 0.12.8 has requirement ipython<7,>=4.0.2,\
+  \ but you have ipython 7.12.0.\nautovizwidget 0.12.7 has requirement notebook<6.0,>=4.2,\
+  \ but you have notebook 6.0.3.\nautovizwidget 0.12.7 has requirement plotly<3.0,>=1.10.0,\
+  \ but you have plotly 4.5.0.\n"
