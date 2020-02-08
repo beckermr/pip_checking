@@ -1,0 +1,4 @@
+pkg: obspy
+build: obspy-1.1.1-py37h3010b51_1
+install: obspy==1.1.1
+pip_check: "No broken requirements found.\n"
