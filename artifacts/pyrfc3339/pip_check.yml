@@ -1,0 +1,4 @@
+pkg: pyrfc3339
+build: pyrfc3339-1.1-py_0
+install: pyrfc3339==1.1
+pip_check: "No broken requirements found.\n"
