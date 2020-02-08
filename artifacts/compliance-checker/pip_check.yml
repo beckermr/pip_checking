@@ -1,0 +1,4 @@
+pkg: compliance-checker
+build: compliance-checker-4.3.1-py37_0
+install: compliance-checker==4.3.1
+pip_check: "cf-units 2.1.3 requires cython, which is not installed.\n"
