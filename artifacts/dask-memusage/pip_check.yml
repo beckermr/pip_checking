@@ -1,0 +1,4 @@
+pkg: dask-memusage
+build: dask-memusage-1.1-py_0
+install: dask-memusage==1.1
+pip_check: "No broken requirements found.\n"
