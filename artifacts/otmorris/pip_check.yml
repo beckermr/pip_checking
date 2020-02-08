@@ -1,0 +1,4 @@
+pkg: otmorris
+build: otmorris-0.7-py37h52dc43a_1
+install: otmorris==0.7
+pip_check: "No broken requirements found.\n"
