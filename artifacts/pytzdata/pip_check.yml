@@ -1,0 +1,4 @@
+pkg: pytzdata
+build: pytzdata-2019.1-py_0
+install: pytzdata==2019.1
+pip_check: "No broken requirements found.\n"
