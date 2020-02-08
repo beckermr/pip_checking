@@ -1,0 +1,4 @@
+pkg: pylems
+build: pylems-0.4.9.3-py_0
+install: pylems==0.4.9.3
+pip_check: "No broken requirements found.\n"
