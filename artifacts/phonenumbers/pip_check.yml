@@ -1,0 +1,4 @@
+pkg: phonenumbers
+build: phonenumbers-8.9.3-py_0
+install: phonenumbers==8.9.3
+pip_check: "No broken requirements found.\n"
