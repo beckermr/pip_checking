@@ -1,0 +1,4 @@
+pkg: dynesty
+build: dynesty-1.0.0-py_0
+install: dynesty==1.0.0
+pip_check: "No broken requirements found.\n"
