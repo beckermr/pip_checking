@@ -1,0 +1,4 @@
+pkg: python-node-semver
+build: python-node-semver-0.6.1-py_0
+install: python-node-semver==0.6.1
+pip_check: "No broken requirements found.\n"
