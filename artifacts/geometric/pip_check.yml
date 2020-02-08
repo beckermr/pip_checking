@@ -1,0 +1,4 @@
+pkg: geometric
+build: geometric-0.9.0-py_0
+install: geometric==0.9.0
+pip_check: "No broken requirements found.\n"
