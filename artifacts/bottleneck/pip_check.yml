@@ -1,0 +1,4 @@
+pkg: bottleneck
+build: bottleneck-1.2.1-py37hc1659b7_1001
+install: bottleneck==1.2.1
+pip_check: "No broken requirements found.\n"
