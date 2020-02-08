@@ -1,0 +1,4 @@
+pkg: opt-einsum
+build: opt-einsum-2.3.2-py_0
+install: opt-einsum==2.3.2
+pip_check: "No broken requirements found.\n"
