@@ -1,0 +1,4 @@
+pkg: pydsd
+build: pydsd-1.0.3.2-py_1
+install: pydsd==1.0.3.2
+pip_check: "pydsd 1.0.3.2 requires versioneer, which is not installed.\n"
