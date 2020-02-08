@@ -1,0 +1,4 @@
+pkg: regex
+build: regex-2019.06.08-py37h516909a_0
+install: regex==2019.06.08
+pip_check: "No broken requirements found.\n"
