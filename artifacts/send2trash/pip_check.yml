@@ -1,0 +1,4 @@
+pkg: send2trash
+build: send2trash-1.4.2-py_0
+install: send2trash==1.4.2
+pip_check: "No broken requirements found.\n"
