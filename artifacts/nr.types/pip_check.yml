@@ -1,0 +1,4 @@
+pkg: nr.types
+build: nr.types-2.5.0-py_0
+install: nr.types==2.5.0
+pip_check: "No broken requirements found.\n"
