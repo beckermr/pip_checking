@@ -1,0 +1,4 @@
+pkg: proof
+build: proof-0.3.0-py_1
+install: proof==0.3.0
+pip_check: "No broken requirements found.\n"
