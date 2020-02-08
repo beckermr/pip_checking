@@ -1,0 +1,5 @@
+pkg: python-goosefem
+build: python-goosefem-0.3.0-py37hc9558a2_0
+install: python-goosefem==0.3.0
+pip_check: "goosefem 0.3.0 requires pybind11, which is not installed.\ngoosefem 0.3.0\
+  \ requires pyxtensor, which is not installed.\n"
