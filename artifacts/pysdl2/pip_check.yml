@@ -1,0 +1,4 @@
+pkg: pysdl2
+build: pysdl2-0.9.6-py37_1
+install: pysdl2==0.9.6
+pip_check: "No broken requirements found.\n"
