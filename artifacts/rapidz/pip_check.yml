@@ -1,0 +1,4 @@
+pkg: rapidz
+build: rapidz-0.1.2-py_0
+install: rapidz==0.1.2
+pip_check: "No broken requirements found.\n"
