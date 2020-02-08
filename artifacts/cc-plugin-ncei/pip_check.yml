@@ -1,0 +1,6 @@
+pkg: cc-plugin-ncei
+build: cc-plugin-ncei-2.0.2-py_3
+install: cc-plugin-ncei==2.0.2
+pip_check: "cf-units 2.1.3 requires cython, which is not installed.\ncc-plugin-ncei\
+  \ 2.0.2 has requirement isodate==0.5.4, but you have isodate 0.6.0.\ncc-plugin-ncei\
+  \ 2.0.2 has requirement six==1.10.0, but you have six 1.14.0.\n"
