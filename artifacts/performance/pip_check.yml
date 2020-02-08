@@ -1,0 +1,4 @@
+pkg: performance
+build: performance-0.7.0-py_0
+install: performance==0.7.0
+pip_check: "No broken requirements found.\n"
