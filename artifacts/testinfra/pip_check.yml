@@ -1,0 +1,4 @@
+pkg: testinfra
+build: testinfra-3.1.0-py_0
+install: testinfra==3.1.0
+pip_check: "No broken requirements found.\n"
