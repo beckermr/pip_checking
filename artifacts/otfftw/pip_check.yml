@@ -1,0 +1,4 @@
+pkg: otfftw
+build: otfftw-0.7-py37h0a1ceb6_0
+install: otfftw==0.7
+pip_check: "No broken requirements found.\n"
