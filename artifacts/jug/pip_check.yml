@@ -1,0 +1,4 @@
+pkg: jug
+build: jug-1.6.7-py_0
+install: jug==1.6.7
+pip_check: "jug 1.6.7 requires redis, which is not installed.\n"
