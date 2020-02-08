@@ -1,0 +1,4 @@
+pkg: slicerator
+build: slicerator-1.0.0-py_0
+install: slicerator==1.0.0
+pip_check: "No broken requirements found.\n"
