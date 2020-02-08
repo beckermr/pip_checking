@@ -1,0 +1,4 @@
+pkg: webruntime
+build: webruntime-0.5.4-py_0
+install: webruntime==0.5.4
+pip_check: "No broken requirements found.\n"
