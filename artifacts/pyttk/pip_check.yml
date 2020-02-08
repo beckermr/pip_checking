@@ -1,0 +1,4 @@
+pkg: pyttk
+build: pyttk-0.3.2-py_0
+install: pyttk==0.3.2
+pip_check: "No broken requirements found.\n"
