@@ -1,0 +1,4 @@
+pkg: validators
+build: validators-0.14.0-py_0
+install: validators==0.14.0
+pip_check: "No broken requirements found.\n"
