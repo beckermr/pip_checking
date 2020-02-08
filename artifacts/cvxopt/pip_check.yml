@@ -1,0 +1,4 @@
+pkg: cvxopt
+build: cvxopt-1.2.3-py37h43946de_205
+install: cvxopt==1.2.3
+pip_check: "No broken requirements found.\n"
