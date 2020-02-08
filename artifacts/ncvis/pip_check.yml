@@ -1,0 +1,4 @@
+pkg: ncvis
+build: ncvis-1.5.7-py37hb3f55d8_0
+install: ncvis==1.5.7
+pip_check: "No broken requirements found.\n"
