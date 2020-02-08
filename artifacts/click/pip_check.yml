@@ -1,0 +1,4 @@
+pkg: click
+build: click-5.1-py_0
+install: click==5.1
+pip_check: "No broken requirements found.\n"
