@@ -1,0 +1,4 @@
+pkg: pytest-metadata
+build: pytest-metadata-1.8.0-py_0
+install: pytest-metadata==1.8.0
+pip_check: "No broken requirements found.\n"
