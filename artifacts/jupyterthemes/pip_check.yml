@@ -1,0 +1,4 @@
+pkg: jupyterthemes
+build: jupyterthemes-0.20.0-py_0
+install: jupyterthemes==0.20.0
+pip_check: "jupyterthemes 0.20.0 requires notebook, which is not installed.\n"
