@@ -1,0 +1,4 @@
+pkg: jmespath
+build: jmespath-0.9.2-py_1
+install: jmespath==0.9.2
+pip_check: "No broken requirements found.\n"
