@@ -1,0 +1,4 @@
+pkg: librosa
+build: librosa-0.6.3-py_0
+install: librosa==0.6.3
+pip_check: "No broken requirements found.\n"
