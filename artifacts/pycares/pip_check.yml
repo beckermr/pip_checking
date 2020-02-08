@@ -1,0 +1,4 @@
+pkg: pycares
+build: pycares-3.0.0-py37h0b31af3_0
+install: pycares==3.0.0
+pip_check: "No broken requirements found.\n"
