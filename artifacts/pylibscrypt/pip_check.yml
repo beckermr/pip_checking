@@ -1,0 +1,4 @@
+pkg: pylibscrypt
+build: pylibscrypt-1.7.1-py37hc2b1221_1002
+install: pylibscrypt==1.7.1
+pip_check: "No broken requirements found.\n"
