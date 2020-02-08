@@ -1,0 +1,4 @@
+pkg: orekit
+build: orekit-10.0-py37he1b5a44_4
+install: orekit==10.0
+pip_check: "No broken requirements found.\n"
