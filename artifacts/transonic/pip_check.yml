@@ -1,0 +1,4 @@
+pkg: transonic
+build: transonic-0.4.1-py_0
+install: transonic==0.4.1
+pip_check: "No broken requirements found.\n"
