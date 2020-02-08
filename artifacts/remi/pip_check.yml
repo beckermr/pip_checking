@@ -1,0 +1,4 @@
+pkg: remi
+build: remi-2020.1.16-py_0
+install: remi==2020.1.16
+pip_check: "No broken requirements found.\n"
