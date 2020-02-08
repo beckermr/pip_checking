@@ -1,0 +1,4 @@
+pkg: fluent-logger
+build: fluent-logger-0.9.3-py_0
+install: fluent-logger==0.9.3
+pip_check: "No broken requirements found.\n"
