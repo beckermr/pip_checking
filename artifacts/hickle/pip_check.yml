@@ -1,0 +1,4 @@
+pkg: hickle
+build: hickle-3.4.5-py_0
+install: hickle==3.4.5
+pip_check: "hickle 3.4.5 requires dill, which is not installed.\n"
