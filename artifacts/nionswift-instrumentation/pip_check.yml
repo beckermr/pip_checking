@@ -1,0 +1,4 @@
+pkg: nionswift-instrumentation
+build: nionswift-instrumentation-0.18.3-py_0
+install: nionswift-instrumentation==0.18.3
+pip_check: "No broken requirements found.\n"
