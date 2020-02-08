@@ -1,0 +1,4 @@
+pkg: pyfftw
+build: pyfftw-0.11.0-py37h7eb728f_0
+install: pyfftw==0.11.0
+pip_check: "No broken requirements found.\n"
