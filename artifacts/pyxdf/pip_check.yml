@@ -1,0 +1,4 @@
+pkg: pyxdf
+build: pyxdf-1.16.0-py_0
+install: pyxdf==1.16.0
+pip_check: "No broken requirements found.\n"
