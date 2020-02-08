@@ -1,0 +1,4 @@
+pkg: tinyarray
+build: tinyarray-1.2.1-py37h637b7d7_1000
+install: tinyarray==1.2.1
+pip_check: "No broken requirements found.\n"
