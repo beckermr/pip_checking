@@ -1,0 +1,4 @@
+pkg: geoalchemy2
+build: geoalchemy2-0.6.3-py_0
+install: geoalchemy2==0.6.3
+pip_check: "No broken requirements found.\n"
