@@ -1,0 +1,4 @@
+pkg: billingegroup
+build: billingegroup-3-py_0
+install: billingegroup==3
+pip_check: "No broken requirements found.\n"
