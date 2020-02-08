@@ -1,0 +1,4 @@
+pkg: restructuredtext_lint
+build: restructuredtext_lint-1.2.1-py_0
+install: restructuredtext_lint==1.2.1
+pip_check: "No broken requirements found.\n"
