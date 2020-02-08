@@ -1,0 +1,4 @@
+pkg: django-simple-history
+build: django-simple-history-2.7.1-py_0
+install: django-simple-history==2.7.1
+pip_check: "No broken requirements found.\n"
