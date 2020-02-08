@@ -1,0 +1,4 @@
+pkg: pixiedust
+build: pixiedust-1.1.18-py37_0
+install: pixiedust==1.1.18
+pip_check: "No broken requirements found.\n"
