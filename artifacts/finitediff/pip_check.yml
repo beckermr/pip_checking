@@ -1,0 +1,4 @@
+pkg: finitediff
+build: finitediff-0.6.2-py37h7eb728f_0
+install: finitediff==0.6.2
+pip_check: "No broken requirements found.\n"
