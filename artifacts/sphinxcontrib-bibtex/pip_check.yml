@@ -1,0 +1,4 @@
+pkg: sphinxcontrib-bibtex
+build: sphinxcontrib-bibtex-0.4.1-py_0
+install: sphinxcontrib-bibtex==0.4.1
+pip_check: "No broken requirements found.\n"
