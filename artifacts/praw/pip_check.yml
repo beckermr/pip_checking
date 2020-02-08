@@ -1,0 +1,5 @@
+pkg: praw
+build: praw-6.2.0-py_0
+install: praw==6.2.0
+pip_check: "praw 6.2.0 has requirement prawcore<2.0,>=1.0.1, but you have prawcore\
+  \ 0.14.0.\n"
