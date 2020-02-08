@@ -1,0 +1,4 @@
+pkg: sqsgenerator
+build: sqsgenerator-0.0.1-py37he80fd80_0
+install: sqsgenerator==0.0.1
+pip_check: "sqsgenerator 0.1 requires cython, which is not installed.\n"
