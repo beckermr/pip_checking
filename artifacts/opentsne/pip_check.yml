@@ -1,0 +1,4 @@
+pkg: opentsne
+build: opentsne-0.3.10-py37hc1659b7_0
+install: opentsne==0.3.10
+pip_check: "opentsne 0.3.10 has requirement numpy==1.16.*, but you have numpy 1.18.1.\n"
