@@ -1,0 +1,4 @@
+pkg: deepmd-kit
+build: deepmd-kit-1.0.1-py37h2af55cb_2
+install: deepmd-kit==1.0.1
+pip_check: "No broken requirements found.\n"
