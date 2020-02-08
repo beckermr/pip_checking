@@ -1,0 +1,4 @@
+pkg: vaex-arrow
+build: vaex-arrow-0.4.0-py_0
+install: vaex-arrow==0.4.0
+pip_check: "No broken requirements found.\n"
