@@ -1,0 +1,4 @@
+pkg: pysvg-py3
+build: pysvg-py3-0.2.2.post3-py37_0
+install: pysvg-py3==0.2.2.post3
+pip_check: "No broken requirements found.\n"
