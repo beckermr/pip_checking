@@ -1,0 +1,4 @@
+pkg: httmock
+build: httmock-1.2.6-py_0
+install: httmock==1.2.6
+pip_check: "No broken requirements found.\n"
