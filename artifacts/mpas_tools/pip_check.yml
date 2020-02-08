@@ -1,0 +1,4 @@
+pkg: mpas_tools
+build: mpas_tools-0.0.2-py37hd841142_1
+install: mpas_tools==0.0.2
+pip_check: "No broken requirements found.\n"
