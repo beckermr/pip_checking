@@ -1,0 +1,4 @@
+pkg: django-allauth
+build: django-allauth-0.37.1-py_0
+install: django-allauth==0.37.1
+pip_check: "django-allauth 0.37.1 requires python-openid, which is not installed.\n"
