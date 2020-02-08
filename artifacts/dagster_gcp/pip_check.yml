@@ -1,0 +1,4 @@
+pkg: dagster_gcp
+build: dagster_gcp-0.6.5-py_0
+install: dagster_gcp==0.6.5
+pip_check: "No broken requirements found.\n"
