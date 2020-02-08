@@ -1,0 +1,4 @@
+pkg: vpython
+build: vpython-7.6.0-py37h516909a_0
+install: vpython==7.6.0
+pip_check: "vpython 7.6.0 requires jupyter, which is not installed.\n"
