@@ -1,0 +1,4 @@
+pkg: tensorflow-probability
+build: tensorflow-probability-0.5.0-py_1
+install: tensorflow-probability==0.5.0
+pip_check: "No broken requirements found.\n"
