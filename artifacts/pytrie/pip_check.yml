@@ -1,0 +1,4 @@
+pkg: pytrie
+build: pytrie-0.3.1-py_0
+install: pytrie==0.3.1
+pip_check: "No broken requirements found.\n"
