@@ -1,0 +1,5 @@
+pkg: google-cloud-kms
+build: google-cloud-kms-1.1.0-py_0
+install: google-cloud-kms==1.1.0
+pip_check: "google-cloud-kms 1.1.0 has requirement grpc-google-iam-v1<0.12dev,>=0.11.4,\
+  \ but you have grpc-google-iam-v1 0.12.3.\n"
