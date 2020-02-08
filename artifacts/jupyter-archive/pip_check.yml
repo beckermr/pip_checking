@@ -1,0 +1,4 @@
+pkg: jupyter-archive
+build: jupyter-archive-0.5.5-py_0
+install: jupyter-archive==0.5.5
+pip_check: "No broken requirements found.\n"
