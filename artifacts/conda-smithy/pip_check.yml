@@ -1,0 +1,4 @@
+pkg: conda-smithy
+build: conda-smithy-3.2.13-py_0
+install: conda-smithy==3.2.13
+pip_check: "No broken requirements found.\n"
