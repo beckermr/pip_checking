@@ -1,0 +1,4 @@
+pkg: altgraph
+build: altgraph-0.15-py_0
+install: altgraph==0.15
+pip_check: "No broken requirements found.\n"
