@@ -1,0 +1,4 @@
+pkg: python-igraph
+build: python-igraph-0.7.1.post6-py37h470a237_5
+install: python-igraph==0.7.1.post6
+pip_check: "No broken requirements found.\n"
