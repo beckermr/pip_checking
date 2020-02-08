@@ -1,0 +1,4 @@
+pkg: conjure-python-client
+build: conjure-python-client-1.7.2-py37_0
+install: conjure-python-client==1.7.2
+pip_check: "conjure-python-client 1.7.2 requires enum34, which is not installed.\n"
