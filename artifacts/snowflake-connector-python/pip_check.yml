@@ -1,0 +1,4 @@
+pkg: snowflake-connector-python
+build: snowflake-connector-python-2.2.0-py37he1b5a44_0
+install: snowflake-connector-python==2.2.0
+pip_check: "No broken requirements found.\n"
