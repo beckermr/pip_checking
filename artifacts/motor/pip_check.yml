@@ -1,0 +1,4 @@
+pkg: motor
+build: motor-2.0.0-py37_1001
+install: motor==2.0.0
+pip_check: "No broken requirements found.\n"
