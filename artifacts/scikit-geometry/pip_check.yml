@@ -1,0 +1,4 @@
+pkg: scikit-geometry
+build: scikit-geometry-0.1.1-py37h8b68381_0
+install: scikit-geometry==0.1.1
+pip_check: "skgeom 0.1.1 requires pybind11, which is not installed.\n"
