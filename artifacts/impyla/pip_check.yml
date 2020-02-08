@@ -1,0 +1,4 @@
+pkg: impyla
+build: impyla-0.16.2-py37_0
+install: impyla==0.16.2
+pip_check: "impyla 0.16.2 requires thrift, which is not installed.\n"
