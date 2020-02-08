@@ -1,0 +1,4 @@
+pkg: galsim
+build: galsim-2.1.4-py37h6bb024c_1000
+install: galsim==2.1.4
+pip_check: "No broken requirements found.\n"
