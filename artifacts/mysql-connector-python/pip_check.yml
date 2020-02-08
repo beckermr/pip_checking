@@ -1,0 +1,4 @@
+pkg: mysql-connector-python
+build: mysql-connector-python-8.0.15-py37hae09bff_0
+install: mysql-connector-python==8.0.15
+pip_check: "No broken requirements found.\n"
