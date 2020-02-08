@@ -1,0 +1,4 @@
+pkg: sendgrid
+build: sendgrid-5.3.0-py_1
+install: sendgrid==5.3.0
+pip_check: "No broken requirements found.\n"
