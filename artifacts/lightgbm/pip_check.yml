@@ -1,0 +1,4 @@
+pkg: lightgbm
+build: lightgbm-2.3.1-py37he1b5a44_0
+install: lightgbm==2.3.1
+pip_check: "No broken requirements found.\n"
