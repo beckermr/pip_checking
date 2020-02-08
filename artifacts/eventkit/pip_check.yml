@@ -1,0 +1,4 @@
+pkg: eventkit
+build: eventkit-0.8.6-py_0
+install: eventkit==0.8.6
+pip_check: "No broken requirements found.\n"
