@@ -1,0 +1,4 @@
+pkg: tweepy
+build: tweepy-3.8.0-py_0
+install: tweepy==3.8.0
+pip_check: "No broken requirements found.\n"
