@@ -1,0 +1,5 @@
+pkg: sphinx-js
+build: sphinx-js-2.8-py_0
+install: sphinx-js==2.8
+pip_check: "sphinx-js 2.8 has requirement parsimonious<0.8.0,>=0.7.0, but you have\
+  \ parsimonious 0.8.1.\n"
