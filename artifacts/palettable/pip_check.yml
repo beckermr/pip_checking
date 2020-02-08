@@ -1,0 +1,4 @@
+pkg: palettable
+build: palettable-3.3.0-py_0
+install: palettable==3.3.0
+pip_check: "No broken requirements found.\n"
