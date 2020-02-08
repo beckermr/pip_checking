@@ -1,0 +1,4 @@
+pkg: nvidia-ml
+build: nvidia-ml-7.352.0-py_0
+install: nvidia-ml==7.352.0
+pip_check: "No broken requirements found.\n"
