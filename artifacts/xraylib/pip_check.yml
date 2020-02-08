@@ -1,0 +1,4 @@
+pkg: xraylib
+build: xraylib-3.3.0-py37hdbe0a0f_1004
+install: xraylib==3.3.0
+pip_check: "No broken requirements found.\n"
