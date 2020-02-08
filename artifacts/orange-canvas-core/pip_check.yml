@@ -1,0 +1,4 @@
+pkg: orange-canvas-core
+build: orange-canvas-core-0.1.7-py_0
+install: orange-canvas-core==0.1.7
+pip_check: "No broken requirements found.\n"
