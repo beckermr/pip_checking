@@ -1,0 +1,4 @@
+pkg: sos-r
+build: sos-r-0.19.1-py_0
+install: sos-r==0.19.1
+pip_check: "No broken requirements found.\n"
