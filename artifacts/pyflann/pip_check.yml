@@ -1,0 +1,4 @@
+pkg: pyflann
+build: pyflann-1.9.1-py37ha1b3eb9_1002
+install: pyflann==1.9.1
+pip_check: "No broken requirements found.\n"
