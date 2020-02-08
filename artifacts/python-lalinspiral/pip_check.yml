@@ -1,0 +1,4 @@
+pkg: python-lalinspiral
+build: python-lalinspiral-1.8.0-py37h917ab60_1001
+install: python-lalinspiral==1.8.0
+pip_check: "No broken requirements found.\n"
