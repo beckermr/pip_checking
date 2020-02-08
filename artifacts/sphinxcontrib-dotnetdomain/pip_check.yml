@@ -1,0 +1,4 @@
+pkg: sphinxcontrib-dotnetdomain
+build: sphinxcontrib-dotnetdomain-0.4-py_0
+install: sphinxcontrib-dotnetdomain==0.4
+pip_check: "No broken requirements found.\n"
