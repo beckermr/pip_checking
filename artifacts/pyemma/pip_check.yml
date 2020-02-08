@@ -1,0 +1,4 @@
+pkg: pyemma
+build: pyemma-2.5.4-py37h1702cab_1001
+install: pyemma==2.5.4
+pip_check: "No broken requirements found.\n"
