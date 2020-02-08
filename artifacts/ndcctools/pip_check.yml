@@ -1,0 +1,4 @@
+pkg: ndcctools
+build: ndcctools-7.0.20-py37pl526h8b12597_4
+install: ndcctools==7.0.20
+pip_check: "No broken requirements found.\n"
