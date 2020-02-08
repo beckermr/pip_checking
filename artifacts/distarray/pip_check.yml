@@ -1,0 +1,4 @@
+pkg: distarray
+build: distarray-2.12.2-py_1
+install: distarray==2.12.2
+pip_check: "No broken requirements found.\n"
