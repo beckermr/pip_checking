@@ -1,0 +1,4 @@
+pkg: gpy
+build: gpy-1.9.8-py37heacc8b8_1
+install: gpy==1.9.8
+pip_check: "No broken requirements found.\n"
