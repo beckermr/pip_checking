@@ -1,0 +1,4 @@
+pkg: cf_units
+build: cf_units-2.0.1-py37h3010b51_1002
+install: cf_units==2.0.1
+pip_check: "cf-units 2.0.1 requires cython, which is not installed.\n"
