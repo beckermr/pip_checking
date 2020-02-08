@@ -1,0 +1,4 @@
+pkg: ephyviewer
+build: ephyviewer-1.2.2-py_0
+install: ephyviewer==1.2.2
+pip_check: "No broken requirements found.\n"
