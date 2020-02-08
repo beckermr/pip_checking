@@ -1,0 +1,4 @@
+pkg: limix-core
+build: limix-core-1.0.2-py_2
+install: limix-core==1.0.2
+pip_check: "No broken requirements found.\n"
