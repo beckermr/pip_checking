@@ -1,0 +1,4 @@
+pkg: neo4j-connector
+build: neo4j-connector-1.0.1-py_0
+install: neo4j-connector==1.0.1
+pip_check: "No broken requirements found.\n"
