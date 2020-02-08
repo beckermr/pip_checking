@@ -1,0 +1,4 @@
+pkg: amqp
+build: amqp-2.3.2-py_1
+install: amqp==2.3.2
+pip_check: "No broken requirements found.\n"
