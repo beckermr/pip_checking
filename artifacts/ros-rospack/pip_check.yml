@@ -1,0 +1,4 @@
+pkg: ros-rospack
+build: ros-rospack-2.5.3-py37hdca360a_0
+install: ros-rospack==2.5.3
+pip_check: "No broken requirements found.\n"
