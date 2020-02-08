@@ -1,0 +1,5 @@
+pkg: mycli
+build: mycli-1.20.1-py_0
+install: mycli==1.20.1
+pip_check: "mycli 1.20.1 has requirement sqlparse<0.4.0,>=0.3.0, but you have sqlparse\
+  \ 0.2.4.\n"
