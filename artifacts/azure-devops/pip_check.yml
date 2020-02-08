@@ -1,0 +1,4 @@
+pkg: azure-devops
+build: azure-devops-5.1.0b4-py_0
+install: azure-devops==5.1.0b4
+pip_check: "No broken requirements found.\n"
