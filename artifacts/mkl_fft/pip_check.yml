@@ -1,0 +1,4 @@
+pkg: mkl_fft
+build: mkl_fft-1.0.11-py37h1de35cc_0
+install: mkl_fft==1.0.11
+pip_check: "No broken requirements found.\n"
