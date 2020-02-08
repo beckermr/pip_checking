@@ -1,0 +1,5 @@
+pkg: ngboost
+build: ngboost-0.1.3-py_0
+install: ngboost==0.1.3
+pip_check: "ngboost 0.1.3 requires jax, which is not installed.\nngboost 0.1.3 requires\
+  \ jaxlib, which is not installed.\n"
