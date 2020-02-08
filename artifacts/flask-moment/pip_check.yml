@@ -1,0 +1,4 @@
+pkg: flask-moment
+build: flask-moment-0.5.2-py_0
+install: flask-moment==0.5.2
+pip_check: "No broken requirements found.\n"
