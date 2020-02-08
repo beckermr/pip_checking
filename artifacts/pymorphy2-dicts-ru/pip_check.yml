@@ -1,0 +1,4 @@
+pkg: pymorphy2-dicts-ru
+build: pymorphy2-dicts-ru-2.4.404381.4453942-py_0
+install: pymorphy2-dicts-ru==2.4.404381.4453942
+pip_check: "No broken requirements found.\n"
