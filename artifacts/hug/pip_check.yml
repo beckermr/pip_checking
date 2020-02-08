@@ -1,0 +1,4 @@
+pkg: hug
+build: hug-2.4.2-py37h01d97ff_0
+install: hug==2.4.2
+pip_check: "hug 2.4.2 has requirement falcon==1.4.1, but you have falcon 1.4.1.post1.\n"
