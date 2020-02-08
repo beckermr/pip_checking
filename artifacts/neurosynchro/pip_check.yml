@@ -1,0 +1,4 @@
+pkg: neurosynchro
+build: neurosynchro-0.1.3-py_0
+install: neurosynchro==0.1.3
+pip_check: "pwkit 1.0.0 requires pathlib, which is not installed.\n"
