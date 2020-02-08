@@ -1,0 +1,4 @@
+pkg: repoze.who-friendlyform
+build: repoze.who-friendlyform-1.0.8-py_0
+install: repoze.who-friendlyform==1.0.8
+pip_check: "No broken requirements found.\n"
