@@ -1,0 +1,4 @@
+pkg: httpagentparser
+build: httpagentparser-1.8.1-py_0
+install: httpagentparser==1.8.1
+pip_check: "No broken requirements found.\n"
