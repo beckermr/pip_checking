@@ -1,0 +1,4 @@
+pkg: deepgraph
+build: deepgraph-0.2.2-py37h3b54f70_0
+install: deepgraph==0.2.2
+pip_check: "No broken requirements found.\n"
