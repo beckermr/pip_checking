@@ -1,0 +1,4 @@
+pkg: halide-python
+build: halide-python-2019.08.27-py37he513fc3_0
+install: halide-python==2019.08.27
+pip_check: "No broken requirements found.\n"
