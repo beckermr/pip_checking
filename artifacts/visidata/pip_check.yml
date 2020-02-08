@@ -1,0 +1,4 @@
+pkg: visidata
+build: visidata-1.2.1-py37_2
+install: visidata==1.2.1
+pip_check: "No broken requirements found.\n"
