@@ -1,0 +1,4 @@
+pkg: moab
+build: moab-5.1.0-py37hb59514e_4
+install: moab==5.1.0
+pip_check: "No broken requirements found.\n"
