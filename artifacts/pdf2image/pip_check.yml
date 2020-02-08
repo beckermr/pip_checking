@@ -1,0 +1,4 @@
+pkg: pdf2image
+build: pdf2image-1.9.0-py_0
+install: pdf2image==1.9.0
+pip_check: "No broken requirements found.\n"
