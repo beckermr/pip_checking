@@ -1,0 +1,4 @@
+pkg: commonmark
+build: commonmark-0.7.5-py_0
+install: commonmark==0.7.5
+pip_check: "No broken requirements found.\n"
