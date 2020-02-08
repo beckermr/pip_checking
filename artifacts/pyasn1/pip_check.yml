@@ -1,0 +1,4 @@
+pkg: pyasn1
+build: pyasn1-0.4.4-py_0
+install: pyasn1==0.4.4
+pip_check: "No broken requirements found.\n"
