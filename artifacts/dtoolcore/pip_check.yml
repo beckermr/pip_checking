@@ -1,0 +1,4 @@
+pkg: dtoolcore
+build: dtoolcore-3.10.0-py_0
+install: dtoolcore==3.10.0
+pip_check: "No broken requirements found.\n"
