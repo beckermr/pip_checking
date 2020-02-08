@@ -1,0 +1,4 @@
+pkg: intake-esm
+build: intake-esm-2019.12.13-py_0
+install: intake-esm==2019.12.13
+pip_check: "No broken requirements found.\n"
