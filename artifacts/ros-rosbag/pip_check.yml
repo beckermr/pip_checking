@@ -1,0 +1,4 @@
+pkg: ros-rosbag
+build: ros-rosbag-1.14.3-py37hdca360a_0
+install: ros-rosbag==1.14.3
+pip_check: "No broken requirements found.\n"
