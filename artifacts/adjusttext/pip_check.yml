@@ -1,0 +1,4 @@
+pkg: adjusttext
+build: adjusttext-0.7.3.1-py_0
+install: adjusttext==0.7.3.1
+pip_check: "No broken requirements found.\n"
