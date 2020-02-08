@@ -1,0 +1,4 @@
+pkg: des-desmeds
+build: des-desmeds-0.9.8-py37_0
+install: des-desmeds==0.9.8
+pip_check: "No broken requirements found.\n"
