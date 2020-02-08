@@ -1,0 +1,4 @@
+pkg: calamari_ocr
+build: calamari_ocr-0.1.5-py_1
+install: calamari_ocr==0.1.5
+pip_check: "No broken requirements found.\n"
