@@ -1,0 +1,5 @@
+pkg: phasespace
+build: phasespace-1.0.4-py_0
+install: phasespace==1.0.4
+pip_check: "tensorflow 1.14.0 requires tensorboard, which is not installed.\ntensorflow\
+  \ 1.14.0 requires tensorflow-estimator, which is not installed.\n"
