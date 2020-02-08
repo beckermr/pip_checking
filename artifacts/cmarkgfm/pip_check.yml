@@ -1,0 +1,4 @@
+pkg: cmarkgfm
+build: cmarkgfm-0.4.2-py37h0b31af3_2
+install: cmarkgfm==0.4.2
+pip_check: "No broken requirements found.\n"
