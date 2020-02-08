@@ -1,0 +1,4 @@
+pkg: argparse-manpage
+build: argparse-manpage-1.2.2-py_0
+install: argparse-manpage==1.2.2
+pip_check: "No broken requirements found.\n"
