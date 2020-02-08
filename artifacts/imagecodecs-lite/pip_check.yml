@@ -1,0 +1,4 @@
+pkg: imagecodecs-lite
+build: imagecodecs-lite-2019.12.3-py37h516909a_0
+install: imagecodecs-lite==2019.12.3
+pip_check: "No broken requirements found.\n"
