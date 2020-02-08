@@ -1,0 +1,4 @@
+pkg: sagemaker-tensorflow-serving-container
+build: sagemaker-tensorflow-serving-container-1.6.14-py37_0
+install: sagemaker-tensorflow-serving-container==1.6.14
+pip_check: "No broken requirements found.\n"
