@@ -1,0 +1,5 @@
+pkg: oceans
+build: oceans-0.8.0-py_0
+install: oceans==0.8.0
+pip_check: "ctd 1.0.0 has requirement pandas-flavor==0.1.2, but you have pandas-flavor\
+  \ 0.2.0.\n"
