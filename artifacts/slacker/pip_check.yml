@@ -1,0 +1,4 @@
+pkg: slacker
+build: slacker-0.12.0-py37_1000
+install: slacker==0.12.0
+pip_check: "No broken requirements found.\n"
