@@ -1,0 +1,4 @@
+pkg: cloud_sptheme
+build: cloud_sptheme-1.10.0-py_0
+install: cloud_sptheme==1.10.0
+pip_check: "No broken requirements found.\n"
