@@ -1,0 +1,4 @@
+pkg: boost-histogram
+build: boost-histogram-0.6.0-py37hbf1eeb5_0
+install: boost-histogram==0.6.0
+pip_check: "No broken requirements found.\n"
