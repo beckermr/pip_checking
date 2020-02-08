@@ -1,0 +1,4 @@
+pkg: wcwidth
+build: wcwidth-0.1.7-py_1
+install: wcwidth==0.1.7
+pip_check: "No broken requirements found.\n"
