@@ -1,0 +1,4 @@
+pkg: pyexpander
+build: pyexpander-1.8.4-py_0
+install: pyexpander==1.8.4
+pip_check: "No broken requirements found.\n"
