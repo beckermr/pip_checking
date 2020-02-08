@@ -1,0 +1,4 @@
+pkg: python-ldas-tools-framecpp
+build: python-ldas-tools-framecpp-2.6.8-py37h1702cab_0
+install: python-ldas-tools-framecpp==2.6.8
+pip_check: "No broken requirements found.\n"
