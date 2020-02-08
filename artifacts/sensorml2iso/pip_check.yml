@@ -1,0 +1,4 @@
+pkg: sensorml2iso
+build: sensorml2iso-1.0.3-py_0
+install: sensorml2iso==1.0.3
+pip_check: "No broken requirements found.\n"
