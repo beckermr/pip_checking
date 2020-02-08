@@ -1,0 +1,4 @@
+pkg: fsleyes-widgets
+build: fsleyes-widgets-0.8.3-py_0
+install: fsleyes-widgets==0.8.3
+pip_check: "wxpython 4.0.7.post2 requires pillow, which is not installed.\n"
