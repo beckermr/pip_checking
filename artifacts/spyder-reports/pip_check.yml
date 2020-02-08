@@ -1,0 +1,4 @@
+pkg: spyder-reports
+build: spyder-reports-0.1.1-py37_1001
+install: spyder-reports==0.1.1
+pip_check: "qdarkstyle 2.8 requires helpdev, which is not installed.\n"
