@@ -1,0 +1,4 @@
+pkg: markdown-checklist
+build: markdown-checklist-0.4.1-py_1
+install: markdown-checklist==0.4.1
+pip_check: "No broken requirements found.\n"
