@@ -1,0 +1,4 @@
+pkg: earthengine-api
+build: earthengine-api-0.1.167-py_0
+install: earthengine-api==0.1.167
+pip_check: "No broken requirements found.\n"
