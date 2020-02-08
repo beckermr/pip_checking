@@ -1,0 +1,4 @@
+pkg: spefile
+build: spefile-1.6-py_1
+install: spefile==1.6
+pip_check: "No broken requirements found.\n"
