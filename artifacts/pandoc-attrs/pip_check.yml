@@ -1,0 +1,4 @@
+pkg: pandoc-attrs
+build: pandoc-attrs-0.1.7-py_0
+install: pandoc-attrs==0.1.7
+pip_check: "pandoc-attrs 0.1.7 requires pandocfilters, which is not installed.\n"
