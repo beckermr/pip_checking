@@ -1,0 +1,4 @@
+pkg: scikit-fuzzy
+build: scikit-fuzzy-0.3.1-py_0
+install: scikit-fuzzy==0.3.1
+pip_check: "No broken requirements found.\n"
