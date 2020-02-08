@@ -1,0 +1,4 @@
+pkg: dicom2nifti
+build: dicom2nifti-2.2.1-py_0
+install: dicom2nifti==2.2.1
+pip_check: "No broken requirements found.\n"
