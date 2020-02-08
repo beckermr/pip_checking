@@ -1,0 +1,4 @@
+pkg: ipynb-py-convert
+build: ipynb-py-convert-0.4.5-py_0
+install: ipynb-py-convert==0.4.5
+pip_check: "No broken requirements found.\n"
