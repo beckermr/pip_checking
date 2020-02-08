@@ -1,0 +1,4 @@
+pkg: md-toc
+build: md-toc-5.0.0-py_0
+install: md-toc==5.0.0
+pip_check: "No broken requirements found.\n"
