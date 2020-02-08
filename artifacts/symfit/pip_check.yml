@@ -1,0 +1,4 @@
+pkg: symfit
+build: symfit-0.5.2-py37_0
+install: symfit==0.5.2
+pip_check: "symfit 0.5.2 has requirement scipy<1.2,>=1.0, but you have scipy 1.4.1.\n"
