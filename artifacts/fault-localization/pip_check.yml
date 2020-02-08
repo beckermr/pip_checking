@@ -1,0 +1,4 @@
+pkg: fault-localization
+build: fault-localization-0.1.3-py_0
+install: fault-localization==0.1.3
+pip_check: "No broken requirements found.\n"
