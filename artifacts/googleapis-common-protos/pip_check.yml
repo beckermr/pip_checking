@@ -1,0 +1,4 @@
+pkg: googleapis-common-protos
+build: googleapis-common-protos-1.5.9-py37_2
+install: googleapis-common-protos==1.5.9
+pip_check: "No broken requirements found.\n"
