@@ -1,0 +1,4 @@
+pkg: azure-nspkg
+build: azure-nspkg-3.0.0-py_0
+install: azure-nspkg==3.0.0
+pip_check: "No broken requirements found.\n"
