@@ -1,0 +1,4 @@
+pkg: ndg-httpsclient
+build: ndg-httpsclient-0.5.0-py_1
+install: ndg-httpsclient==0.5.0
+pip_check: "No broken requirements found.\n"
