@@ -1,0 +1,4 @@
+pkg: nionswift-experimental
+build: nionswift-experimental-0.6.0-py_0
+install: nionswift-experimental==0.6.0
+pip_check: "No broken requirements found.\n"
