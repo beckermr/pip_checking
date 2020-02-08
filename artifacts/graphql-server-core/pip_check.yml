@@ -1,0 +1,4 @@
+pkg: graphql-server-core
+build: graphql-server-core-1.1.1-py_0
+install: graphql-server-core==1.1.1
+pip_check: "No broken requirements found.\n"
