@@ -1,0 +1,4 @@
+pkg: pygmo_plugins_nonfree
+build: pygmo_plugins_nonfree-0.8-py37h1702cab_0
+install: pygmo_plugins_nonfree==0.8
+pip_check: "No broken requirements found.\n"
