@@ -1,0 +1,4 @@
+pkg: adaptive-scheduler
+build: adaptive-scheduler-0.3.0-py37_0
+install: adaptive-scheduler==0.3.0
+pip_check: "No broken requirements found.\n"
