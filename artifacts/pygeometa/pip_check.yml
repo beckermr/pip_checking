@@ -1,0 +1,4 @@
+pkg: pygeometa
+build: pygeometa-0.3.0-py_0
+install: pygeometa==0.3.0
+pip_check: "No broken requirements found.\n"
