@@ -1,0 +1,4 @@
+pkg: synphot
+build: synphot-0.1.3-py37heacc8b8_0
+install: synphot==0.1.3
+pip_check: "No broken requirements found.\n"
