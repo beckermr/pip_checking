@@ -1,0 +1,4 @@
+pkg: django-apptemplates
+build: django-apptemplates-1.4-py_0
+install: django-apptemplates==1.4
+pip_check: "No broken requirements found.\n"
