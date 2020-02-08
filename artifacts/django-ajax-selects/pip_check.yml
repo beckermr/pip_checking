@@ -1,0 +1,4 @@
+pkg: django-ajax-selects
+build: django-ajax-selects-1.9.0-py_0
+install: django-ajax-selects==1.9.0
+pip_check: "django-ajax-selects 1.9.0 requires six, which is not installed.\n"
