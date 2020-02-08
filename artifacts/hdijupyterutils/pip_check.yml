@@ -1,0 +1,8 @@
+pkg: hdijupyterutils
+build: hdijupyterutils-0.12.8-py_0
+install: hdijupyterutils==0.12.8
+pip_check: "hdijupyterutils 0.12.8 requires jupyter, which is not installed.\nhdijupyterutils\
+  \ 0.12.8 requires mock, which is not installed.\nhdijupyterutils 0.12.8 requires\
+  \ nose, which is not installed.\nhdijupyterutils 0.12.8 has requirement ipykernel<5,>=4.2.2,\
+  \ but you have ipykernel 5.1.4.\nhdijupyterutils 0.12.8 has requirement ipython<7,>=4.0.2,\
+  \ but you have ipython 7.12.0.\n"
