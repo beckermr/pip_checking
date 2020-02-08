@@ -1,0 +1,4 @@
+pkg: pyroma
+build: pyroma-2.3.1-py_0
+install: pyroma==2.3.1
+pip_check: "No broken requirements found.\n"
