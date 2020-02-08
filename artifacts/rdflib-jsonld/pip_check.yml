@@ -1,0 +1,4 @@
+pkg: rdflib-jsonld
+build: rdflib-jsonld-0.4.0-py37_1000
+install: rdflib-jsonld==0.4.0
+pip_check: "No broken requirements found.\n"
