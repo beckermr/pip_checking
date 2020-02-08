@@ -1,0 +1,4 @@
+pkg: pylama
+build: pylama-7.4.3-py_0
+install: pylama==7.4.3
+pip_check: "No broken requirements found.\n"
