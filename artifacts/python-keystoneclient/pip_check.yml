@@ -1,0 +1,6 @@
+pkg: python-keystoneclient
+build: python-keystoneclient-3.22.0-py_0
+install: python-keystoneclient==3.22.0
+pip_check: "testtools 2.3.0 requires python-mimeparse, which is not installed.\ntesttools\
+  \ 2.3.0 requires traceback2, which is not installed.\ntesttools 2.3.0 requires unittest2,\
+  \ which is not installed.\n"
