@@ -1,0 +1,4 @@
+pkg: pdfnofonts
+build: pdfnofonts-1.0.1-py_0
+install: pdfnofonts==1.0.1
+pip_check: "No broken requirements found.\n"
