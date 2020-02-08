@@ -1,0 +1,4 @@
+pkg: apsw
+build: apsw-3.29.0.r1-py37he6d99f7_0
+install: apsw==3.29.0.r1
+pip_check: "No broken requirements found.\n"
