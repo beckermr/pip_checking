@@ -1,0 +1,4 @@
+pkg: qtconsole
+build: qtconsole-4.4.1-py37_1
+install: qtconsole==4.4.1
+pip_check: "No broken requirements found.\n"
