@@ -1,0 +1,5 @@
+pkg: xmlschema
+build: xmlschema-1.0.12-py_0
+install: xmlschema==1.0.12
+pip_check: "xmlschema 1.0.12 has requirement elementpath~=1.1.7, but you have elementpath\
+  \ 1.4.1.\n"
