@@ -1,0 +1,4 @@
+pkg: pox
+build: pox-0.2.5-py_0
+install: pox==0.2.5
+pip_check: "No broken requirements found.\n"
