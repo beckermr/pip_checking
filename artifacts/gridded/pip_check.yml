@@ -1,0 +1,4 @@
+pkg: gridded
+build: gridded-0.2.5-py37_0
+install: gridded==0.2.5
+pip_check: "No broken requirements found.\n"
