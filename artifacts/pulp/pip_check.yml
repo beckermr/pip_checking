@@ -1,0 +1,4 @@
+pkg: pulp
+build: pulp-1.6.8-py37_1000
+install: pulp==1.6.8
+pip_check: "No broken requirements found.\n"
