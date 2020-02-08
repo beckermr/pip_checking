@@ -1,0 +1,4 @@
+pkg: jellyfish
+build: jellyfish-0.6.1-py37h14c3975_1000
+install: jellyfish==0.6.1
+pip_check: "No broken requirements found.\n"
