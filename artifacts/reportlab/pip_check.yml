@@ -1,0 +1,4 @@
+pkg: reportlab
+build: reportlab-3.5.11-py37h77bcf2c_0
+install: reportlab==3.5.11
+pip_check: "No broken requirements found.\n"
