@@ -1,0 +1,4 @@
+pkg: crontab
+build: crontab-0.22.6-py_0
+install: crontab==0.22.6
+pip_check: "No broken requirements found.\n"
