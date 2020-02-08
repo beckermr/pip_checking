@@ -1,0 +1,4 @@
+pkg: flask-mail
+build: flask-mail-0.9.1-py_2
+install: flask-mail==0.9.1
+pip_check: "No broken requirements found.\n"
