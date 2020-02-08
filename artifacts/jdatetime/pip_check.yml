@@ -1,0 +1,4 @@
+pkg: jdatetime
+build: jdatetime-3.6.1-py_0
+install: jdatetime==3.6.1
+pip_check: "No broken requirements found.\n"
