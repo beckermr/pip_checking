@@ -1,0 +1,4 @@
+pkg: python-blosc
+build: python-blosc-1.7.0-py37h0a44026_1000
+install: python-blosc==1.7.0
+pip_check: "No broken requirements found.\n"
