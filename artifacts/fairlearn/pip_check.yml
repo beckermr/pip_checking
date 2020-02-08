@@ -1,0 +1,7 @@
+pkg: fairlearn
+build: fairlearn-0.4.2-py_0
+install: fairlearn==0.4.2
+pip_check: "fairlearn 0.4.2 requires ipywidgets, which is not installed.\nfairlearn\
+  \ 0.4.2 requires numpy, which is not installed.\nfairlearn 0.4.2 requires pandas,\
+  \ which is not installed.\nfairlearn 0.4.2 requires scikit-learn, which is not installed.\n\
+  fairlearn 0.4.2 requires scipy, which is not installed.\n"
