@@ -1,0 +1,4 @@
+pkg: tamkin
+build: tamkin-1.2.6-py_1
+install: tamkin==1.2.6
+pip_check: "No broken requirements found.\n"
