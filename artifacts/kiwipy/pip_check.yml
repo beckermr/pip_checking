@@ -1,0 +1,4 @@
+pkg: kiwipy
+build: kiwipy-0.5.1-py37_1
+install: kiwipy==0.5.1
+pip_check: "No broken requirements found.\n"
