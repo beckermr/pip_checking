@@ -1,0 +1,7 @@
+pkg: locust
+build: locust-0.13.5-py_0
+install: locust==0.13.5
+pip_check: "locustio 0.13.5 requires geventhttpclient-wheels, which is not installed.\n\
+  locustio 0.13.5 requires msgpack-python, which is not installed.\nlocustio 0.13.5\
+  \ has requirement ConfigArgParse==0.15.1, but you have configargparse 1.0.\nlocustio\
+  \ 0.13.5 has requirement gevent==1.5a2, but you have gevent 1.4.0.\n"
