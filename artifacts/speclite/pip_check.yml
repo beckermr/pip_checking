@@ -1,0 +1,4 @@
+pkg: speclite
+build: speclite-0.7-py37_1000
+install: speclite==0.7
+pip_check: "No broken requirements found.\n"
