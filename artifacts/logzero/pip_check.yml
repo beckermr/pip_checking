@@ -1,0 +1,4 @@
+pkg: logzero
+build: logzero-1.5.0-py37_1001
+install: logzero==1.5.0
+pip_check: "No broken requirements found.\n"
