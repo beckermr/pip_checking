@@ -1,0 +1,4 @@
+pkg: pytest-notebook
+build: pytest-notebook-0.5.2-py_0
+install: pytest-notebook==0.5.2
+pip_check: "No broken requirements found.\n"
