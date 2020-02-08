@@ -1,0 +1,4 @@
+pkg: diffpy.structure
+build: diffpy.structure-3.0.1-py_0
+install: diffpy.structure==3.0.1
+pip_check: "No broken requirements found.\n"
