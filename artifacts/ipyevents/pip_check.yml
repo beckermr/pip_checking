@@ -1,0 +1,4 @@
+pkg: ipyevents
+build: ipyevents-0.3.2-py37_1000
+install: ipyevents==0.3.2
+pip_check: "No broken requirements found.\n"
