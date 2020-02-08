@@ -1,0 +1,4 @@
+pkg: nionui
+build: nionui-0.3.26-py_0
+install: nionui==0.3.26
+pip_check: "No broken requirements found.\n"
