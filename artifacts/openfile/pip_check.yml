@@ -1,0 +1,4 @@
+pkg: openfile
+build: openfile-0.0.7-py_0
+install: openfile==0.0.7
+pip_check: "No broken requirements found.\n"
