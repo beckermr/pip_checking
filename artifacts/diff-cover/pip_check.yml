@@ -1,0 +1,4 @@
+pkg: diff-cover
+build: diff-cover-2.3.0-py_0
+install: diff-cover==2.3.0
+pip_check: "No broken requirements found.\n"
