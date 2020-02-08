@@ -1,0 +1,5 @@
+pkg: collectfast
+build: collectfast-1.1.0-py_0
+install: collectfast==1.1.0
+pip_check: "collectfast 1.1.0 requires typing, which is not installed.\ncollectfast\
+  \ 1.1.0 requires typing-extensions, which is not installed.\n"
