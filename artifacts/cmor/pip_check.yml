@@ -1,0 +1,4 @@
+pkg: cmor
+build: cmor-3.5.0-py37hb95e91b_4
+install: cmor==3.5.0
+pip_check: "No broken requirements found.\n"
