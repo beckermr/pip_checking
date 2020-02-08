@@ -1,0 +1,4 @@
+pkg: goosempl
+build: goosempl-0.2.26-py_0
+install: goosempl==0.2.26
+pip_check: "No broken requirements found.\n"
