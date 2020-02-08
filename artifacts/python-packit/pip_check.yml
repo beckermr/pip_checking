@@ -1,0 +1,5 @@
+pkg: python-packit
+build: python-packit-0.24-py_0
+install: python-packit==0.24
+pip_check: "packit 0.24 has requirement glob2==0.4.1, but you have glob2 0.7.\npackit\
+  \ 0.24 has requirement packaging==16.8, but you have packaging 20.1.\n"
