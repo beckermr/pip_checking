@@ -1,0 +1,4 @@
+pkg: ftputil
+build: ftputil-3.4-py_0
+install: ftputil==3.4
+pip_check: "No broken requirements found.\n"
