@@ -1,0 +1,4 @@
+pkg: ipytest
+build: ipytest-0.5.0-py_0
+install: ipytest==0.5.0
+pip_check: "No broken requirements found.\n"
