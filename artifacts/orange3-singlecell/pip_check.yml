@@ -1,0 +1,6 @@
+pkg: orange3-singlecell
+build: orange3-singlecell-0.9.0-py_0
+install: orange3-singlecell==0.9.0
+pip_check: "orange3-bioinformatics 4.0.0 has requirement point-annotator~=1.0, but\
+  \ you have point-annotator 2.0.0.\norange3-bioinformatics 4.0.0 has requirement\
+  \ requests-cache==0.5.2, but you have requests-cache 0.5.0.\n"
