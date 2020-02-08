@@ -1,0 +1,4 @@
+pkg: segregation
+build: segregation-1.2.0-py_0
+install: segregation==1.2.0
+pip_check: "libpysal 4.2.2 requires bs4, which is not installed.\n"
