@@ -1,0 +1,4 @@
+pkg: pycrypto
+build: pycrypto-2.6.1-py37h516909a_1003
+install: pycrypto==2.6.1
+pip_check: "No broken requirements found.\n"
