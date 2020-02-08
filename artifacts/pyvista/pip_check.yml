@@ -1,0 +1,4 @@
+pkg: pyvista
+build: pyvista-0.20.4-py_0
+install: pyvista==0.20.4
+pip_check: "No broken requirements found.\n"
