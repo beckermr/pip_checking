@@ -1,0 +1,5 @@
+pkg: p4p
+build: p4p-3.3.2-py37hb3f55d8_0
+install: p4p==3.3.2
+pip_check: "p4p 3.3.2 requires nose, which is not installed.\np4p 3.3.2 has requirement\
+  \ epicscorelibs<7.0.3.99.2,>=7.0.3.99.1.0, but you have epicscorelibs 7.0.3.99.2.0.\n"
