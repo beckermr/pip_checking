@@ -1,0 +1,4 @@
+pkg: npstreams
+build: npstreams-1.5.2-py_0
+install: npstreams==1.5.2
+pip_check: "npstreams 1.5.2 requires cython, which is not installed.\n"
