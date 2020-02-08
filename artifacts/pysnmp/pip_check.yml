@@ -1,0 +1,4 @@
+pkg: pysnmp
+build: pysnmp-4.4.12-py_0
+install: pysnmp==4.4.12
+pip_check: "No broken requirements found.\n"
