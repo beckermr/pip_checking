@@ -48,7 +48,8 @@ jobs:
 
             conda install -y -q \
               git \
-              ruamel.yaml
+              ruamel.yaml \
+              pip
 
       - save_cache:
           paths:
@@ -58,6 +59,8 @@ jobs:
       - run:
           name: run
           command: |
+            export PATH=`pwd`/miniconda/bin:$PATH
+            source activate test-env
             pushd code
             git clone --depth=1 https://github.com/regro/libcfgraph.git
             python run_pip_check.py
