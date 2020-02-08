@@ -1,0 +1,4 @@
+pkg: holidays
+build: holidays-0.9.11-py_0
+install: holidays==0.9.11
+pip_check: "No broken requirements found.\n"
