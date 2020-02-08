@@ -1,0 +1,6 @@
+pkg: sphinxcontrib-spelling
+build: sphinxcontrib-spelling-4.3.0-py_0
+install: sphinxcontrib-spelling==4.3.0
+pip_check: "sphinxcontrib-spelling 4.3.0 requires pyenchant, which is not installed.\n\
+  sphinxcontrib-spelling 4.3.0 requires six, which is not installed.\nsphinxcontrib-spelling\
+  \ 4.3.0 requires sphinx, which is not installed.\n"
