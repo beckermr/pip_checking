@@ -1,0 +1,4 @@
+pkg: arabic_reshaper
+build: arabic_reshaper-2.0.15-py_0
+install: arabic_reshaper==2.0.15
+pip_check: "No broken requirements found.\n"
