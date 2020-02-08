@@ -1,0 +1,5 @@
+pkg: tensorboard
+build: tensorboard-1.13.1-py37_0
+install: tensorboard==1.13.1
+pip_check: "tensorboard 1.13.1 requires absl-py, which is not installed.\ntensorboard\
+  \ 1.13.1 requires grpcio, which is not installed.\n"
