@@ -1,0 +1,4 @@
+pkg: rockpool
+build: rockpool-1.0.8-py_0
+install: rockpool==1.0.8
+pip_check: "No broken requirements found.\n"
