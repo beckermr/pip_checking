@@ -1,0 +1,4 @@
+pkg: depinfo
+build: depinfo-1.5.3-py_0
+install: depinfo==1.5.3
+pip_check: "No broken requirements found.\n"
