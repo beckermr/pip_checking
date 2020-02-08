@@ -1,0 +1,4 @@
+pkg: ecell4_base
+build: ecell4_base-2.0.4-py37h25473d7_1
+install: ecell4_base==2.0.4
+pip_check: "No broken requirements found.\n"
