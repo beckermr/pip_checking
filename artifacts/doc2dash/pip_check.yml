@@ -1,0 +1,4 @@
+pkg: doc2dash
+build: doc2dash-2.3.0-py_0
+install: doc2dash==2.3.0
+pip_check: "No broken requirements found.\n"
