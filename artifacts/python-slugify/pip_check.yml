@@ -1,0 +1,4 @@
+pkg: python-slugify
+build: python-slugify-3.0.1-py_0
+install: python-slugify==3.0.1
+pip_check: "python-slugify 3.0.1 requires text-unidecode, which is not installed.\n"
