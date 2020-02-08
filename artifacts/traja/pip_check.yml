@@ -1,0 +1,4 @@
+pkg: traja
+build: traja-0.0.17-py_0
+install: traja==0.0.17
+pip_check: "traja 0.0.17 requires psutil, which is not installed.\n"
