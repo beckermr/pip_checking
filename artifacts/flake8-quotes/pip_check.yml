@@ -1,0 +1,4 @@
+pkg: flake8-quotes
+build: flake8-quotes-2.0.1-py_0
+install: flake8-quotes==2.0.1
+pip_check: "No broken requirements found.\n"
