@@ -1,0 +1,4 @@
+pkg: webassets
+build: webassets-2.0-py_0
+install: webassets==2.0
+pip_check: "No broken requirements found.\n"
