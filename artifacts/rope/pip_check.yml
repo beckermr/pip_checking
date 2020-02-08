@@ -1,0 +1,4 @@
+pkg: rope
+build: rope-0.10.7-py_1
+install: rope==0.10.7
+pip_check: "No broken requirements found.\n"
