@@ -1,0 +1,4 @@
+pkg: thredds_crawler
+build: thredds_crawler-1.5.4-py_1
+install: thredds_crawler==1.5.4
+pip_check: "thredds-crawler 1.5.4 requires python-dateutil, which is not installed.\n"
