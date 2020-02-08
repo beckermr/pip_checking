@@ -1,0 +1,4 @@
+pkg: clint
+build: clint-0.5.1-py_1
+install: clint==0.5.1
+pip_check: "No broken requirements found.\n"
