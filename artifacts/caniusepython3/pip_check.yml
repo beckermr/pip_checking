@@ -1,0 +1,4 @@
+pkg: caniusepython3
+build: caniusepython3-7.1.0-py37_0
+install: caniusepython3==7.1.0
+pip_check: "caniusepython3 7.1.0 requires argparse, which is not installed.\n"
