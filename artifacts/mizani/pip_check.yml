@@ -1,0 +1,4 @@
+pkg: mizani
+build: mizani-0.4.3-py_0
+install: mizani==0.4.3
+pip_check: "No broken requirements found.\n"
