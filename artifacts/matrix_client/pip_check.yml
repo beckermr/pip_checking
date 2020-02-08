@@ -1,0 +1,4 @@
+pkg: matrix_client
+build: matrix_client-0.3.2-py_0
+install: matrix_client==0.3.2
+pip_check: "No broken requirements found.\n"
