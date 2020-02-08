@@ -1,0 +1,4 @@
+pkg: pytest-bdd
+build: pytest-bdd-3.1.1-py_0
+install: pytest-bdd==3.1.1
+pip_check: "No broken requirements found.\n"
