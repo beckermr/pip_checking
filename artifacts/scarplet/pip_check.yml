@@ -1,0 +1,4 @@
+pkg: scarplet
+build: scarplet-0.1.0-py_0
+install: scarplet==0.1.0
+pip_check: "scarplet 0.1.0 requires osr, which is not installed.\n"
