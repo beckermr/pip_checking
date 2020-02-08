@@ -1,0 +1,4 @@
+pkg: murmurhash
+build: murmurhash-1.0.0-py37hfc679d8_0
+install: murmurhash==1.0.0
+pip_check: "No broken requirements found.\n"
