@@ -1,0 +1,4 @@
+pkg: flask-restalchemy
+build: flask-restalchemy-0.12.1-py37_1000
+install: flask-restalchemy==0.12.1
+pip_check: "No broken requirements found.\n"
