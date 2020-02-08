@@ -1,0 +1,4 @@
+pkg: w3lib
+build: w3lib-1.20.0-py_0
+install: w3lib==1.20.0
+pip_check: "No broken requirements found.\n"
