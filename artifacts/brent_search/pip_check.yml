@@ -1,0 +1,4 @@
+pkg: brent_search
+build: brent_search-1.0.15-py_1
+install: brent_search==1.0.15
+pip_check: "No broken requirements found.\n"
