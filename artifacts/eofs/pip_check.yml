@@ -1,0 +1,4 @@
+pkg: eofs
+build: eofs-1.4.0-py_0
+install: eofs==1.4.0
+pip_check: "No broken requirements found.\n"
