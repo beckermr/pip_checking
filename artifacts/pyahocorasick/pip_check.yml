@@ -1,0 +1,4 @@
+pkg: pyahocorasick
+build: pyahocorasick-1.1.7-py37h1de35cc_1000
+install: pyahocorasick==1.1.7
+pip_check: "No broken requirements found.\n"
