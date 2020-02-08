@@ -1,0 +1,4 @@
+pkg: xrootd
+build: xrootd-4.11.0-py37h0a84524_2
+install: xrootd==4.11.0
+pip_check: "No broken requirements found.\n"
