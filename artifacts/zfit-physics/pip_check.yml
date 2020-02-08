@@ -1,0 +1,5 @@
+pkg: zfit-physics
+build: zfit-physics-0.0.2-py_0
+install: zfit-physics==0.0.2
+pip_check: "tensorflow 1.14.0 requires tensorboard, which is not installed.\ntensorflow\
+  \ 1.14.0 requires tensorflow-estimator, which is not installed.\n"
