@@ -1,0 +1,4 @@
+pkg: static-frame
+build: static-frame-0.5.1-py_0
+install: static-frame==0.5.1
+pip_check: "No broken requirements found.\n"
