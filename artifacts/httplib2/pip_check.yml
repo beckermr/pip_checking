@@ -1,0 +1,4 @@
+pkg: httplib2
+build: httplib2-0.11.3-py37_1001
+install: httplib2==0.11.3
+pip_check: "No broken requirements found.\n"
