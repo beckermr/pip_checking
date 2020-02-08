@@ -1,0 +1,4 @@
+pkg: av
+build: av-6.2.0-py37ha5cc088_0
+install: av==6.2.0
+pip_check: "No broken requirements found.\n"
