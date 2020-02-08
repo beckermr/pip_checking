@@ -1,0 +1,4 @@
+pkg: jsonpatch
+build: jsonpatch-1.22-py_0
+install: jsonpatch==1.22
+pip_check: "No broken requirements found.\n"
