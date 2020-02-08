@@ -1,0 +1,4 @@
+pkg: repoze.who
+build: repoze.who-2.3-py_0
+install: repoze.who==2.3
+pip_check: "No broken requirements found.\n"
