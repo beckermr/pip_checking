@@ -1,0 +1,4 @@
+pkg: cpnest
+build: cpnest-0.9.7-py37hc1659b7_1
+install: cpnest==0.9.7
+pip_check: "No broken requirements found.\n"
