@@ -1,0 +1,4 @@
+pkg: weasyprint
+build: weasyprint-47-py37h73018de_0
+install: weasyprint==47
+pip_check: "No broken requirements found.\n"
