@@ -1,0 +1,4 @@
+pkg: naima
+build: naima-0.8.3-py37_1000
+install: naima==0.8.3
+pip_check: "naima 0.8.3 has requirement emcee>=2.2.0, but you have emcee 0.0.0.\n"
