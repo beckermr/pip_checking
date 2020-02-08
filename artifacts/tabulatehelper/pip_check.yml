@@ -1,0 +1,4 @@
+pkg: tabulatehelper
+build: tabulatehelper-0.0.7-py_0
+install: tabulatehelper==0.0.7
+pip_check: "No broken requirements found.\n"
