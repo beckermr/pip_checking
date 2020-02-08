@@ -72,6 +72,11 @@ def _run_pip_check(pkg, platform):
 
         with open(final_output, 'w') as fp:
             YAML.dump(res, fp)
+            
+        try:
+            os.remove('pip_check_results.txt')
+        except Exception:
+            pass
 
     else:
         pip_check_ok = False
