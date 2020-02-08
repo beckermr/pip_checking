@@ -1,0 +1,4 @@
+pkg: django-redis-cache
+build: django-redis-cache-2.0.0-py_0
+install: django-redis-cache==2.0.0
+pip_check: "No broken requirements found.\n"
