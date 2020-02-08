@@ -1,0 +1,4 @@
+pkg: google-pasta
+build: google-pasta-0.1.8-py_0
+install: google-pasta==0.1.8
+pip_check: "No broken requirements found.\n"
