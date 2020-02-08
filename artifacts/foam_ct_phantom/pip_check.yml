@@ -1,0 +1,4 @@
+pkg: foam_ct_phantom
+build: foam_ct_phantom-1.0.0-py37h516909a_1
+install: foam_ct_phantom==1.0.0
+pip_check: "No broken requirements found.\n"
