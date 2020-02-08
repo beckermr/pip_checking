@@ -1,0 +1,4 @@
+pkg: orcid
+build: orcid-1.0.1-py_1
+install: orcid==1.0.1
+pip_check: "No broken requirements found.\n"
