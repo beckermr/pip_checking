@@ -1,0 +1,4 @@
+pkg: datacache
+build: datacache-1.0.0-py_0
+install: datacache==1.0.0
+pip_check: "No broken requirements found.\n"
