@@ -1,0 +1,4 @@
+pkg: htmlmin
+build: htmlmin-0.1.12-py_0
+install: htmlmin==0.1.12
+pip_check: "No broken requirements found.\n"
