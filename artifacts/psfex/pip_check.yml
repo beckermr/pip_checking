@@ -1,0 +1,4 @@
+pkg: psfex
+build: psfex-0.4.0-py37h3b54f70_1002
+install: psfex==0.4.0
+pip_check: "No broken requirements found.\n"
