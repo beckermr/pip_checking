@@ -1,0 +1,4 @@
+pkg: snaptime
+build: snaptime-0.2.4-py_0
+install: snaptime==0.2.4
+pip_check: "No broken requirements found.\n"
