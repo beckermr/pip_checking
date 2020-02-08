@@ -1,0 +1,4 @@
+pkg: azure-mgmt-msi
+build: azure-mgmt-msi-0.2.0-py_0
+install: azure-mgmt-msi==0.2.0
+pip_check: "azure-mgmt-msi 0.2.0 requires azure-mgmt-nspkg, which is not installed.\n"
