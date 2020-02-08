@@ -1,0 +1,4 @@
+pkg: sgpp
+build: sgpp-3.2.0-py37hb3f55d8_0
+install: sgpp==3.2.0
+pip_check: "No broken requirements found.\n"
