@@ -1,0 +1,4 @@
+pkg: cppheaderparser
+build: cppheaderparser-2.7.4-py_0
+install: cppheaderparser==2.7.4
+pip_check: "No broken requirements found.\n"
