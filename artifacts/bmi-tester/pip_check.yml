@@ -1,0 +1,4 @@
+pkg: bmi-tester
+build: bmi-tester-0.4.1-py_0
+install: bmi-tester==0.4.1
+pip_check: "No broken requirements found.\n"
