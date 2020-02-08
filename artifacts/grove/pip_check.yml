@@ -1,0 +1,5 @@
+pkg: grove
+build: grove-1.6.0-py_0
+install: grove==1.6.0
+pip_check: "quantum-grove 1.6.0 requires matplotlib, which is not installed.\nquantum-grove\
+  \ 1.6.0 requires mock, which is not installed.\n"
