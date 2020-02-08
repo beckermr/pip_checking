@@ -1,0 +1,4 @@
+pkg: pyplis
+build: pyplis-1.4.3-py_0
+install: pyplis==1.4.3
+pip_check: "No broken requirements found.\n"
