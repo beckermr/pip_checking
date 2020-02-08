@@ -1,0 +1,4 @@
+pkg: sudospawner
+build: sudospawner-0.5.2-py_1
+install: sudospawner==0.5.2
+pip_check: "sudospawner 0.5.2 requires notebook, which is not installed.\n"
