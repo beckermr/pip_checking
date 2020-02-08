@@ -1,0 +1,4 @@
+pkg: bqplot-image-gl
+build: bqplot-image-gl-0.1.4-py_0
+install: bqplot-image-gl==0.1.4
+pip_check: "No broken requirements found.\n"
