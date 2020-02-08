@@ -1,0 +1,4 @@
+pkg: minimalmodbus
+build: minimalmodbus-1.0.2-py_0
+install: minimalmodbus==1.0.2
+pip_check: "No broken requirements found.\n"
