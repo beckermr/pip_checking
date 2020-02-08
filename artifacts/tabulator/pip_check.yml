@@ -1,0 +1,4 @@
+pkg: tabulator
+build: tabulator-1.34.0-py_0
+install: tabulator==1.34.0
+pip_check: "No broken requirements found.\n"
