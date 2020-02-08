@@ -1,0 +1,4 @@
+pkg: pycoal
+build: pycoal-0.5.2-py37_1000
+install: pycoal==0.5.2
+pip_check: "No broken requirements found.\n"
