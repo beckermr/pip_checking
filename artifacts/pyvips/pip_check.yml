@@ -1,0 +1,4 @@
+pkg: pyvips
+build: pyvips-2.1.8-py37h516909a_0
+install: pyvips==2.1.8
+pip_check: "pyvips 2.1.8 requires pkgconfig, which is not installed.\n"
