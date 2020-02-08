@@ -1,0 +1,4 @@
+pkg: terrainbento
+build: terrainbento-1.0.0-py_0
+install: terrainbento==1.0.0
+pip_check: "No broken requirements found.\n"
