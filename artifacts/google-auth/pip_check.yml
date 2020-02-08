@@ -1,0 +1,4 @@
+pkg: google-auth
+build: google-auth-1.6.2-py_0
+install: google-auth==1.6.2
+pip_check: "No broken requirements found.\n"
