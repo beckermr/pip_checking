@@ -1,0 +1,4 @@
+pkg: pyqstem
+build: pyqstem-1.0.3-py37hc0fbbca_2
+install: pyqstem==1.0.3
+pip_check: "pyqstem 1.0.3 requires cython, which is not installed.\n"
