@@ -1,0 +1,4 @@
+pkg: pyexcel-xls
+build: pyexcel-xls-0.5.2-py_0
+install: pyexcel-xls==0.5.2
+pip_check: "No broken requirements found.\n"
