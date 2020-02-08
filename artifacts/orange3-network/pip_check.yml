@@ -1,0 +1,5 @@
+pkg: orange3-network
+build: orange3-network-1.5.0-py37he1b5a44_0
+install: orange3-network==1.5.0
+pip_check: "opentsne 0.3.12 has requirement pynndescent>=0.4, but you have pynndescent\
+  \ 0.3.3.\n"
