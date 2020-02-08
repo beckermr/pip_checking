@@ -1,0 +1,4 @@
+pkg: simpleeval
+build: simpleeval-0.9.8-py37h516909a_1
+install: simpleeval==0.9.8
+pip_check: "No broken requirements found.\n"
