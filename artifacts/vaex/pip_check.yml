@@ -1,0 +1,4 @@
+pkg: vaex
+build: vaex-2.3.0-py_1
+install: vaex==2.3.0
+pip_check: "No broken requirements found.\n"
