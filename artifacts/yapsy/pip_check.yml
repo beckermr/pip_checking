@@ -1,0 +1,4 @@
+pkg: yapsy
+build: yapsy-1.11.223-py_0
+install: yapsy==1.11.223
+pip_check: "No broken requirements found.\n"
