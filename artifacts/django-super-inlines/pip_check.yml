@@ -1,0 +1,4 @@
+pkg: django-super-inlines
+build: django-super-inlines-0.1.4-py37_1000
+install: django-super-inlines==0.1.4
+pip_check: "No broken requirements found.\n"
