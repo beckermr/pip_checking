@@ -1,0 +1,6 @@
+pkg: imantics
+build: imantics-0.1.12-py_0
+install: imantics==0.1.12
+pip_check: "sphinx-rtd-theme 0.4.3 requires sphinx, which is not installed.\nimantics\
+  \ 0.1.12 requires opencv, which is not installed.\nimantics 0.1.12 requires xmljson,\
+  \ which is not installed.\n"
