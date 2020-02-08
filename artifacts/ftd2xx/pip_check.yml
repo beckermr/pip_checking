@@ -1,0 +1,4 @@
+pkg: ftd2xx
+build: ftd2xx-1.1.1-py37_0
+install: ftd2xx==1.1.1
+pip_check: "No broken requirements found.\n"
