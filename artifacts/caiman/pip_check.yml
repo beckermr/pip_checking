@@ -1,0 +1,4 @@
+pkg: caiman
+build: caiman-1.6-py37h86efe34_0
+install: caiman==1.6
+pip_check: "No broken requirements found.\n"
