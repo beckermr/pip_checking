@@ -1,0 +1,4 @@
+pkg: mgwr
+build: mgwr-2.0.1-py37_1000
+install: mgwr==2.0.1
+pip_check: "libpysal 4.2.2 requires bs4, which is not installed.\n"
