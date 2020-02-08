@@ -1,0 +1,4 @@
+pkg: marshmallow
+build: marshmallow-2.19.5-py_0
+install: marshmallow==2.19.5
+pip_check: "No broken requirements found.\n"
