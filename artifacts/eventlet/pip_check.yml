@@ -1,0 +1,4 @@
+pkg: eventlet
+build: eventlet-0.25.1-py37_0
+install: eventlet==0.25.1
+pip_check: "No broken requirements found.\n"
