@@ -1,0 +1,4 @@
+pkg: doctr
+build: doctr-1.7.3-py37_0
+install: doctr==1.7.3
+pip_check: "No broken requirements found.\n"
