@@ -1,0 +1,4 @@
+pkg: drmaa
+build: drmaa-0.7.9-py_1000
+install: drmaa==0.7.9
+pip_check: "No broken requirements found.\n"
