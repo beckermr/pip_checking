@@ -1,0 +1,4 @@
+pkg: pamqp
+build: pamqp-2.3.0-py_0
+install: pamqp==2.3.0
+pip_check: "No broken requirements found.\n"
