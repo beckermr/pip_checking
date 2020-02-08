@@ -1,0 +1,8 @@
+pkg: colcon-common-extensions
+build: colcon-common-extensions-0.2.1-py37_0
+install: colcon-common-extensions==0.2.1
+pip_check: "colcon-common-extensions 0.2.1 requires colcon-argcomplete, which is not\
+  \ installed.\ncolcon-common-extensions 0.2.1 requires colcon-bash, which is not\
+  \ installed.\ncolcon-common-extensions 0.2.1 requires colcon-cd, which is not installed.\n\
+  colcon-common-extensions 0.2.1 requires colcon-notification, which is not installed.\n\
+  colcon-common-extensions 0.2.1 requires colcon-zsh, which is not installed.\n"
