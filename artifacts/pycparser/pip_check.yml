@@ -1,0 +1,4 @@
+pkg: pycparser
+build: pycparser-2.19-py37_1
+install: pycparser==2.19
+pip_check: "No broken requirements found.\n"
