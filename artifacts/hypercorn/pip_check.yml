@@ -1,0 +1,4 @@
+pkg: hypercorn
+build: hypercorn-0.6.0-py37_0
+install: hypercorn==0.6.0
+pip_check: "No broken requirements found.\n"
