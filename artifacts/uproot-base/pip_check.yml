@@ -1,0 +1,4 @@
+pkg: uproot-base
+build: uproot-base-3.10.11-py37_0
+install: uproot-base==3.10.11
+pip_check: "No broken requirements found.\n"
