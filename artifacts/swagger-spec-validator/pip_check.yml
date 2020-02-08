@@ -1,0 +1,4 @@
+pkg: swagger-spec-validator
+build: swagger-spec-validator-2.4.3-py_0
+install: swagger-spec-validator==2.4.3
+pip_check: "No broken requirements found.\n"
