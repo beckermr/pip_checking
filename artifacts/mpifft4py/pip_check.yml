@@ -1,0 +1,4 @@
+pkg: mpifft4py
+build: mpifft4py-1.0.2-py37hc1659b7_3
+install: mpifft4py==1.0.2
+pip_check: "No broken requirements found.\n"
