@@ -1,0 +1,4 @@
+pkg: python-fastjsonschema
+build: python-fastjsonschema-2.14.2-py_0
+install: python-fastjsonschema==2.14.2
+pip_check: "No broken requirements found.\n"
