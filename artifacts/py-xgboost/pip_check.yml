@@ -1,0 +1,4 @@
+pkg: py-xgboost
+build: py-xgboost-0.82-py37h6de7cb9_1
+install: py-xgboost==0.82
+pip_check: "No broken requirements found.\n"
