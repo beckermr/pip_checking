@@ -1,0 +1,4 @@
+pkg: biggus
+build: biggus-0.15.0-py_1
+install: biggus==0.15.0
+pip_check: "No broken requirements found.\n"
