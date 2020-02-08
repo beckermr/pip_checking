@@ -1,0 +1,4 @@
+pkg: django-import-export
+build: django-import-export-0.7.0-py_0
+install: django-import-export==0.7.0
+pip_check: "django-import-export 0.7.0 requires django, which is not installed.\n"
