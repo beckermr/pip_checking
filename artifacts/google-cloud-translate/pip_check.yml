@@ -1,0 +1,4 @@
+pkg: google-cloud-translate
+build: google-cloud-translate-1.5.0-py37_0
+install: google-cloud-translate==1.5.0
+pip_check: "No broken requirements found.\n"
