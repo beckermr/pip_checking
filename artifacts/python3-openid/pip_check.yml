@@ -1,0 +1,4 @@
+pkg: python3-openid
+build: python3-openid-3.1.0-py37_1001
+install: python3-openid==3.1.0
+pip_check: "No broken requirements found.\n"
