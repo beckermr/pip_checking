@@ -1,0 +1,4 @@
+pkg: mapio
+build: mapio-0.7.11-py_0
+install: mapio==0.7.11
+pip_check: "No broken requirements found.\n"
