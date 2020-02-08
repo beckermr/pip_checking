@@ -1,0 +1,4 @@
+pkg: mongoquery
+build: mongoquery-1.1.0-py_0
+install: mongoquery==1.1.0
+pip_check: "No broken requirements found.\n"
