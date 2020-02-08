@@ -1,0 +1,5 @@
+pkg: aloe
+build: aloe-0.1.15-py_0
+install: aloe==0.1.15
+pip_check: "aloe 0.1.15 requires ansicolors, which is not installed.\naloe 0.1.15\
+  \ requires colorama, which is not installed.\n"
