@@ -1,0 +1,4 @@
+pkg: fabric3
+build: fabric3-1.14.post1-py_0
+install: fabric3==1.14.post1
+pip_check: "No broken requirements found.\n"
