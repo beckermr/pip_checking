@@ -1,0 +1,4 @@
+pkg: sphinx-click
+build: sphinx-click-1.4.0-py_0
+install: sphinx-click==1.4.0
+pip_check: "sphinx-click 1.4.0 requires pbr, which is not installed.\n"
