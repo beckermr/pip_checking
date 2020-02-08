@@ -1,0 +1,4 @@
+pkg: stir
+build: stir-3.0.1.dev2-py37ha1f90df_1
+install: stir==3.0.1.dev2
+pip_check: "No broken requirements found.\n"
