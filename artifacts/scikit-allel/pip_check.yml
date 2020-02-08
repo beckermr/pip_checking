@@ -1,0 +1,4 @@
+pkg: scikit-allel
+build: scikit-allel-1.2.0-py37h86efe34_1000
+install: scikit-allel==1.2.0
+pip_check: "scikit-allel 1.2.0 requires cython, which is not installed.\n"
