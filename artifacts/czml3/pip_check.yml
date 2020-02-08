@@ -1,0 +1,4 @@
+pkg: czml3
+build: czml3-0.5.2-py_0
+install: czml3==0.5.2
+pip_check: "No broken requirements found.\n"
