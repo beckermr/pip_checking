@@ -1,0 +1,4 @@
+pkg: pytest-profiling
+build: pytest-profiling-1.6.0-py_0
+install: pytest-profiling==1.6.0
+pip_check: "No broken requirements found.\n"
