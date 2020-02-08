@@ -1,0 +1,4 @@
+pkg: pygridgen
+build: pygridgen-0.2.0-py37h7eb728f_1
+install: pygridgen==0.2.0
+pip_check: "No broken requirements found.\n"
