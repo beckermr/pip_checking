@@ -1,0 +1,4 @@
+pkg: python-lmdb
+build: python-lmdb-0.96-py37he1b5a44_0
+install: python-lmdb==0.96
+pip_check: "No broken requirements found.\n"
