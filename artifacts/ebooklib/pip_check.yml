@@ -1,0 +1,4 @@
+pkg: ebooklib
+build: ebooklib-0.17-py_0
+install: ebooklib==0.17
+pip_check: "No broken requirements found.\n"
