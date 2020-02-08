@@ -1,0 +1,5 @@
+pkg: basictools
+build: basictools-1.1-py37hb3f55d8_0
+install: basictools==1.1
+pip_check: "pyamg 4.0.0 requires pybind11, which is not installed.\npyamg 4.0.0 requires\
+  \ pytest, which is not installed.\n"
