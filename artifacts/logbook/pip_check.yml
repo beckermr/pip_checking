@@ -1,0 +1,4 @@
+pkg: logbook
+build: logbook-1.4.3-py37h516909a_0
+install: logbook==1.4.3
+pip_check: "No broken requirements found.\n"
