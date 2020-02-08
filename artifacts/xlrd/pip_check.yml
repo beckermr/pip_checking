@@ -1,0 +1,4 @@
+pkg: xlrd
+build: xlrd-1.2.0-py_0
+install: xlrd==1.2.0
+pip_check: "No broken requirements found.\n"
