@@ -1,0 +1,4 @@
+pkg: nbformat
+build: nbformat-4.4.0-py_1
+install: nbformat==4.4.0
+pip_check: "No broken requirements found.\n"
