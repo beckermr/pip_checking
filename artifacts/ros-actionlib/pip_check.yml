@@ -1,0 +1,4 @@
+pkg: ros-actionlib
+build: ros-actionlib-1.11.15-py37h8b68381_0
+install: ros-actionlib==1.11.15
+pip_check: "wxpython 4.0.7.post2 requires pillow, which is not installed.\n"
