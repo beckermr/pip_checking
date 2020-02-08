@@ -1,0 +1,4 @@
+pkg: panflute
+build: panflute-1.12.4-py_0
+install: panflute==1.12.4
+pip_check: "No broken requirements found.\n"
