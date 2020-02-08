@@ -1,0 +1,4 @@
+pkg: multiset
+build: multiset-2.1.1-py_0
+install: multiset==2.1.1
+pip_check: "No broken requirements found.\n"
