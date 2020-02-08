@@ -1,0 +1,4 @@
+pkg: awkward
+build: awkward-0.12.19-py_0
+install: awkward==0.12.19
+pip_check: "No broken requirements found.\n"
