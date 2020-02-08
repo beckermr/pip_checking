@@ -1,0 +1,4 @@
+pkg: freezegun
+build: freezegun-0.3.10-py37_1000
+install: freezegun==0.3.10
+pip_check: "No broken requirements found.\n"
