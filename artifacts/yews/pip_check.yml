@@ -1,0 +1,4 @@
+pkg: yews
+build: yews-0.0.1-py_0
+install: yews==0.0.1
+pip_check: "No broken requirements found.\n"
