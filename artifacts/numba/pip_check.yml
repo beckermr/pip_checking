@@ -1,0 +1,4 @@
+pkg: numba
+build: numba-0.46.0-py37hb3f55d8_0
+install: numba==0.46.0
+pip_check: "No broken requirements found.\n"
