@@ -1,0 +1,4 @@
+pkg: cryptography
+build: cryptography-2.6.1-py37h72c5cf5_0
+install: cryptography==2.6.1
+pip_check: "No broken requirements found.\n"
