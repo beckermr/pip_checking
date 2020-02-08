@@ -1,0 +1,4 @@
+pkg: sphinxcontrib-paverutils
+build: sphinxcontrib-paverutils-1.17.0-py_1
+install: sphinxcontrib-paverutils==1.17.0
+pip_check: "No broken requirements found.\n"
