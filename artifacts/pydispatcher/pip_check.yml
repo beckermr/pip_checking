@@ -1,0 +1,4 @@
+pkg: pydispatcher
+build: pydispatcher-2.0.5-py_1
+install: pydispatcher==2.0.5
+pip_check: "No broken requirements found.\n"
