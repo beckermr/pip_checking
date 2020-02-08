@@ -1,0 +1,4 @@
+pkg: edn_format
+build: edn_format-0.6.5-py_0
+install: edn_format==0.6.5
+pip_check: "No broken requirements found.\n"
