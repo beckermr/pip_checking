@@ -1,0 +1,4 @@
+pkg: pyresample
+build: pyresample-1.14.0-py37hb3f55d8_0
+install: pyresample==1.14.0
+pip_check: "No broken requirements found.\n"
