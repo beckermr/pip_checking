@@ -1,0 +1,5 @@
+pkg: cgsn_processing
+build: cgsn_processing-0.1.0-py_0
+install: cgsn_processing==0.1.0
+pip_check: "pyaxiom 1.4.6 requires pygc, which is not installed.\npyaxiom 1.4.6 requires\
+  \ shapely, which is not installed.\n"
