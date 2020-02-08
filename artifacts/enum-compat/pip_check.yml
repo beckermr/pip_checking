@@ -1,0 +1,4 @@
+pkg: enum-compat
+build: enum-compat-0.0.3-py37_0
+install: enum-compat==0.0.3
+pip_check: "No broken requirements found.\n"
