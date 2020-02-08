@@ -1,0 +1,4 @@
+pkg: kombine
+build: kombine-0.8.4-py_0
+install: kombine==0.8.4
+pip_check: "No broken requirements found.\n"
