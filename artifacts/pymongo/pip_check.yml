@@ -1,0 +1,4 @@
+pkg: pymongo
+build: pymongo-3.7.2-py37h0a44026_0
+install: pymongo==3.7.2
+pip_check: "No broken requirements found.\n"
