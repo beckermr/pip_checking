@@ -1,0 +1,5 @@
+pkg: pysgrid
+build: pysgrid-0.3.5-py_0
+install: pysgrid==0.3.5
+pip_check: "pysgrid 0.3.5 requires cell-tree2d, which is not installed.\npysgrid 0.3.5\
+  \ requires scipy, which is not installed.\n"
