@@ -1,0 +1,4 @@
+pkg: pweave
+build: pweave-0.30.3-py_1
+install: pweave==0.30.3
+pip_check: "No broken requirements found.\n"
