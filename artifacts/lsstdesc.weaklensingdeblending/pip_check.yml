@@ -1,0 +1,4 @@
+pkg: lsstdesc.weaklensingdeblending
+build: lsstdesc.weaklensingdeblending-0.4-py37_0
+install: lsstdesc.weaklensingdeblending==0.4
+pip_check: "No broken requirements found.\n"
