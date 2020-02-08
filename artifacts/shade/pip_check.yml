@@ -1,0 +1,9 @@
+pkg: shade
+build: shade-1.31.0-py37_0
+install: shade==1.31.0
+pip_check: "testtools 2.3.0 requires python-mimeparse, which is not installed.\ntesttools\
+  \ 2.3.0 requires traceback2, which is not installed.\ntesttools 2.3.0 requires unittest2,\
+  \ which is not installed.\nshade 1.31.0 requires openstacksdk, which is not installed.\n\
+  python-ironicclient 3.1.1 requires jsonschema, which is not installed.\npython-ironicclient\
+  \ 3.1.1 requires osc-lib, which is not installed.\npython-ironicclient 3.1.1 requires\
+  \ oslo-config, which is not installed.\n"
