@@ -1,0 +1,7 @@
+pkg: ligo-lvalert
+build: ligo-lvalert-1.5.5-py37_0
+install: ligo-lvalert==1.5.5
+pip_check: "ligo-lvalert 1.5.5 requires safe-netrc, which is not installed.\nligo-lvalert\
+  \ 1.5.5 has requirement pyasn1<=0.3.7,>=0.1.8, but you have pyasn1 0.4.8.\nligo-lvalert\
+  \ 1.5.5 has requirement pyasn1-modules<=0.1.5,>=0.0.5, but you have pyasn1-modules\
+  \ 0.2.7.\n"
