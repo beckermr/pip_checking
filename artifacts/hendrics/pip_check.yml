@@ -1,0 +1,4 @@
+pkg: hendrics
+build: hendrics-4.0rc1.post2-py37_1000
+install: hendrics==4.0rc1.post2
+pip_check: "No broken requirements found.\n"
