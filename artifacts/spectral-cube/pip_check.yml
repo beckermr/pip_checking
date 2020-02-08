@@ -1,0 +1,4 @@
+pkg: spectral-cube
+build: spectral-cube-0.4.3-py_1
+install: spectral-cube==0.4.3
+pip_check: "radio-beam 0.3.2 requires six, which is not installed.\n"
