@@ -1,0 +1,4 @@
+pkg: azure-mgmt-keyvault
+build: azure-mgmt-keyvault-1.1.0-py_0
+install: azure-mgmt-keyvault==1.1.0
+pip_check: "azure-mgmt-keyvault 1.1.0 requires azure-mgmt-nspkg, which is not installed.\n"
