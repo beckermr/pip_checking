@@ -1,0 +1,4 @@
+pkg: cachecontrol
+build: cachecontrol-0.12.4-py_0
+install: cachecontrol==0.12.4
+pip_check: "cachecontrol 0.12.4 requires msgpack-python, which is not installed.\n"
