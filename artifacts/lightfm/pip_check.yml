@@ -1,0 +1,4 @@
+pkg: lightfm
+build: lightfm-1.15-py37h7eb728f_0
+install: lightfm==1.15
+pip_check: "No broken requirements found.\n"
