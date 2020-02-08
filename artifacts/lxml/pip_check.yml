@@ -1,0 +1,4 @@
+pkg: lxml
+build: lxml-4.3.3-py37h7ec2d77_0
+install: lxml==4.3.3
+pip_check: "No broken requirements found.\n"
