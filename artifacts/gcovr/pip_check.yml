@@ -1,0 +1,4 @@
+pkg: gcovr
+build: gcovr-4.1-py_0
+install: gcovr==4.1
+pip_check: "No broken requirements found.\n"
