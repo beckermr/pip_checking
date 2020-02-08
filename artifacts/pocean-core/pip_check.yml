@@ -1,0 +1,4 @@
+pkg: pocean-core
+build: pocean-core-1.4.4-py_1000
+install: pocean-core==1.4.4
+pip_check: "No broken requirements found.\n"
