@@ -1,0 +1,4 @@
+pkg: graphene-tornado
+build: graphene-tornado-2.6.0-py_0
+install: graphene-tornado==2.6.0
+pip_check: "No broken requirements found.\n"
