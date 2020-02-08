@@ -1,0 +1,4 @@
+pkg: mockredispy
+build: mockredispy-2.9.3-py_2
+install: mockredispy==2.9.3
+pip_check: "No broken requirements found.\n"
