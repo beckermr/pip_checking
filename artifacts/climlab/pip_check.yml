@@ -1,0 +1,4 @@
+pkg: climlab
+build: climlab-0.7.1-py37hcfef303_0
+install: climlab==0.7.1
+pip_check: "No broken requirements found.\n"
