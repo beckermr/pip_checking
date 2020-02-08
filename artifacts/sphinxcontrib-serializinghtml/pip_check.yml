@@ -1,0 +1,4 @@
+pkg: sphinxcontrib-serializinghtml
+build: sphinxcontrib-serializinghtml-1.1.3-py_0
+install: sphinxcontrib-serializinghtml==1.1.3
+pip_check: "No broken requirements found.\n"
