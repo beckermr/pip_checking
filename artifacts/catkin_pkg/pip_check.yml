@@ -1,0 +1,4 @@
+pkg: catkin_pkg
+build: catkin_pkg-0.4.13-py_0
+install: catkin_pkg==0.4.13
+pip_check: "No broken requirements found.\n"
