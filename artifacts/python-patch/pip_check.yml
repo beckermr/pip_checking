@@ -1,0 +1,4 @@
+pkg: python-patch
+build: python-patch-1.16-py_0
+install: python-patch==1.16
+pip_check: "No broken requirements found.\n"
