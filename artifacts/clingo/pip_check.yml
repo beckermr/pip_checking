@@ -1,0 +1,4 @@
+pkg: clingo
+build: clingo-5.4.0-py37he1b5a44_1
+install: clingo==5.4.0
+pip_check: "No broken requirements found.\n"
