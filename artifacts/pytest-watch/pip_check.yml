@@ -1,0 +1,4 @@
+pkg: pytest-watch
+build: pytest-watch-4.1.0-py37_1000
+install: pytest-watch==4.1.0
+pip_check: "No broken requirements found.\n"
