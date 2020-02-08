@@ -1,0 +1,5 @@
+pkg: radical.pilot
+build: radical.pilot-1.0.0-py37_1
+install: radical.pilot==1.0.0
+pip_check: "radical-pilot 1.0.0 requires msgpack-python, which is not installed.\n\
+  apache-libcloud 2.8.0 requires requests, which is not installed.\n"
