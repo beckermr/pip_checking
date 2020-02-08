@@ -1,0 +1,4 @@
+pkg: python-terraform
+build: python-terraform-0.10.1-py_0
+install: python-terraform==0.10.1
+pip_check: "No broken requirements found.\n"
