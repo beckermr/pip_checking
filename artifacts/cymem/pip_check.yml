@@ -1,0 +1,4 @@
+pkg: cymem
+build: cymem-2.0.2-py37h6de7cb9_0
+install: cymem==2.0.2
+pip_check: "No broken requirements found.\n"
