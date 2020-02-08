@@ -1,0 +1,4 @@
+pkg: pytest-arraydiff
+build: pytest-arraydiff-0.2-py_0
+install: pytest-arraydiff==0.2
+pip_check: "No broken requirements found.\n"
