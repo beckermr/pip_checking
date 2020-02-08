@@ -1,0 +1,4 @@
+pkg: gooey
+build: gooey-1.0.2-py37he1b5a44_0
+install: gooey==1.0.2
+pip_check: "wxpython 4.0.7.post2 requires numpy, which is not installed.\n"
