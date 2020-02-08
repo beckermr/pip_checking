@@ -1,0 +1,4 @@
+pkg: thermofun
+build: thermofun-0.2.1-py37he1b5a44_2
+install: thermofun==0.2.1
+pip_check: "No broken requirements found.\n"
