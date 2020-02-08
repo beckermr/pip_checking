@@ -1,0 +1,4 @@
+pkg: echopype
+build: echopype-0.1.21-py_0
+install: echopype==0.1.21
+pip_check: "No broken requirements found.\n"
