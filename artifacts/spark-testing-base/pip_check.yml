@@ -1,0 +1,4 @@
+pkg: spark-testing-base
+build: spark-testing-base-0.10.0-py_0
+install: spark-testing-base==0.10.0
+pip_check: "No broken requirements found.\n"
