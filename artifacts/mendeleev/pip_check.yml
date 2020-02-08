@@ -1,0 +1,5 @@
+pkg: mendeleev
+build: mendeleev-0.4.5-py37hc1659b7_0
+install: mendeleev==0.4.5
+pip_check: "mendeleev 0.4.5 requires colorama, which is not installed.\nmendeleev\
+  \ 0.4.5 requires pyfiglet, which is not installed.\n"
