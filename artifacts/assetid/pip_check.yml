@@ -1,0 +1,4 @@
+pkg: assetid
+build: assetid-1.0.0-py_1
+install: assetid==1.0.0
+pip_check: "No broken requirements found.\n"
