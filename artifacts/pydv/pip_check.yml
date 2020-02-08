@@ -1,0 +1,4 @@
+pkg: pydv
+build: pydv-0.1.1-py_0
+install: pydv==0.1.1
+pip_check: "No broken requirements found.\n"
