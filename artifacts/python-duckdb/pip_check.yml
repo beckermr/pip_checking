@@ -1,0 +1,4 @@
+pkg: python-duckdb
+build: python-duckdb-0.1.1-py37he1b5a44_0
+install: python-duckdb==0.1.1
+pip_check: "No broken requirements found.\n"
