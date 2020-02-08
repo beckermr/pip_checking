@@ -1,0 +1,4 @@
+pkg: sregistry
+build: sregistry-0.2.30-py37_1
+install: sregistry==0.2.30
+pip_check: "No broken requirements found.\n"
