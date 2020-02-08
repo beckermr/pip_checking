@@ -1,0 +1,4 @@
+pkg: ndarray-listener
+build: ndarray-listener-2.0.0-py_0
+install: ndarray-listener==2.0.0
+pip_check: "ndarray-listener 2.0.0 requires pytest, which is not installed.\n"
