@@ -1,0 +1,4 @@
+pkg: get_version
+build: get_version-2.1-py_1
+install: get_version==2.1
+pip_check: "No broken requirements found.\n"
