@@ -1,0 +1,4 @@
+pkg: annexremote
+build: annexremote-1.2.0-py_0
+install: annexremote==1.2.0
+pip_check: "No broken requirements found.\n"
