@@ -1,0 +1,4 @@
+pkg: pvl
+build: pvl-0.3.0-py_1
+install: pvl==0.3.0
+pip_check: "No broken requirements found.\n"
