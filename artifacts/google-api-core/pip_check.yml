@@ -1,0 +1,4 @@
+pkg: google-api-core
+build: google-api-core-1.9.0-py37_0
+install: google-api-core==1.9.0
+pip_check: "No broken requirements found.\n"
