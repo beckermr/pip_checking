@@ -1,0 +1,4 @@
+pkg: domovoi
+build: domovoi-2.0.2-py37_0
+install: domovoi==2.0.2
+pip_check: "chalice 1.12.0 requires enum-compat, which is not installed.\n"
