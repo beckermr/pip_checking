@@ -1,0 +1,6 @@
+pkg: eo-learn
+build: eo-learn-0.7.0-py_0
+install: eo-learn==0.7.0
+pip_check: "eo-learn-mask 0.7.0 requires opencv-contrib-python-headless, which is\
+  \ not installed.\neo-learn-coregistration 0.7.0 requires opencv-contrib-python-headless,\
+  \ which is not installed.\n"
