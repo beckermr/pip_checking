@@ -1,0 +1,4 @@
+pkg: kartothek
+build: kartothek-3.1.0-py_0
+install: kartothek==3.1.0
+pip_check: "zstandard 0.13.0 requires cffi, which is not installed.\n"
