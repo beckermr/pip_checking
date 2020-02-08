@@ -1,0 +1,4 @@
+pkg: padel
+build: padel-2.21-py37_0
+install: padel==2.21
+pip_check: "No broken requirements found.\n"
