@@ -1,0 +1,4 @@
+pkg: xo
+build: xo-0.3.3-py37_0
+install: xo==0.3.3
+pip_check: "No broken requirements found.\n"
