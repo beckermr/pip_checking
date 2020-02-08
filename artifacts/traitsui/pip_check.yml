@@ -1,0 +1,5 @@
+pkg: traitsui
+build: traitsui-6.1.0-py_0
+install: traitsui==6.1.0
+pip_check: "traitsui 6.1.0 requires six, which is not installed.\ntraits 5.2.0 requires\
+  \ six, which is not installed.\n"
