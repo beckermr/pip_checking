@@ -1,0 +1,4 @@
+pkg: feedfinder2
+build: feedfinder2-0.0.4-py_0
+install: feedfinder2==0.0.4
+pip_check: "No broken requirements found.\n"
