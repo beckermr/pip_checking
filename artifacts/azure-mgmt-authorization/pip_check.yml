@@ -1,0 +1,4 @@
+pkg: azure-mgmt-authorization
+build: azure-mgmt-authorization-0.60.0-py_0
+install: azure-mgmt-authorization==0.60.0
+pip_check: "No broken requirements found.\n"
