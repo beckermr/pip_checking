@@ -1,0 +1,4 @@
+pkg: packaging
+build: packaging-19.2-py_0
+install: packaging==19.2
+pip_check: "No broken requirements found.\n"
