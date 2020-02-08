@@ -1,0 +1,4 @@
+pkg: neobolt
+build: neobolt-1.7.12-py37h01d97ff_0
+install: neobolt==1.7.12
+pip_check: "No broken requirements found.\n"
