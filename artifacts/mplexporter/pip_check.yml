@@ -1,0 +1,4 @@
+pkg: mplexporter
+build: mplexporter-0.0.1-py_2
+install: mplexporter==0.0.1
+pip_check: "No broken requirements found.\n"
