@@ -1,0 +1,4 @@
+pkg: bash_kernel
+build: bash_kernel-0.7.2-py37_1
+install: bash_kernel==0.7.2
+pip_check: "No broken requirements found.\n"
