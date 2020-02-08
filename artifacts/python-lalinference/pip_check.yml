@@ -1,0 +1,4 @@
+pkg: python-lalinference
+build: python-lalinference-1.11.1-py37h516909a_1
+install: python-lalinference==1.11.1
+pip_check: "No broken requirements found.\n"
