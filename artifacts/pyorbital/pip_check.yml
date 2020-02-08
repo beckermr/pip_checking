@@ -1,0 +1,4 @@
+pkg: pyorbital
+build: pyorbital-1.5.0-py_0
+install: pyorbital==1.5.0
+pip_check: "pyorbital 1.5.0 requires scipy, which is not installed.\n"
