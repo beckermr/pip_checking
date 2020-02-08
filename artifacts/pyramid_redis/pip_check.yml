@@ -1,0 +1,5 @@
+pkg: pyramid_redis
+build: pyramid_redis-0.1.4-py_0
+install: pyramid_redis==0.1.4
+pip_check: "plaster-pastedeploy 0.7 has requirement PasteDeploy>=2.0, but you have\
+  \ pastedeploy 1.5.2.\n"
