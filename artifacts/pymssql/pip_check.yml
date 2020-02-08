@@ -1,0 +1,4 @@
+pkg: pymssql
+build: pymssql-2.1.4-py37hfc679d8_1001
+install: pymssql==2.1.4
+pip_check: "No broken requirements found.\n"
