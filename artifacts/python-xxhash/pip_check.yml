@@ -1,0 +1,4 @@
+pkg: python-xxhash
+build: python-xxhash-1.4.1-py37h14c3975_0
+install: python-xxhash==1.4.1
+pip_check: "No broken requirements found.\n"
