@@ -1,0 +1,4 @@
+pkg: pytest-workflow
+build: pytest-workflow-1.2.1-py_0
+install: pytest-workflow==1.2.1
+pip_check: "No broken requirements found.\n"
