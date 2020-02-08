@@ -1,0 +1,4 @@
+pkg: xnat
+build: xnat-0.3.18-py_0
+install: xnat==0.3.18
+pip_check: "sphinx-rtd-theme 0.4.3 requires sphinx, which is not installed.\n"
