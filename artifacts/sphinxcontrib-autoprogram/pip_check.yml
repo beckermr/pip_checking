@@ -1,0 +1,4 @@
+pkg: sphinxcontrib-autoprogram
+build: sphinxcontrib-autoprogram-0.1.5-py_1
+install: sphinxcontrib-autoprogram==0.1.5
+pip_check: "No broken requirements found.\n"
