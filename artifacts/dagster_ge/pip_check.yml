@@ -1,0 +1,5 @@
+pkg: dagster_ge
+build: dagster_ge-0.6.7-py_0
+install: dagster_ge==0.6.7
+pip_check: "dagster-ge 0.6.7 has requirement dagster==0.6.7, but you have dagster\
+  \ 0.6.7.post0.\n"
