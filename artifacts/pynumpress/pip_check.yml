@@ -1,0 +1,4 @@
+pkg: pynumpress
+build: pynumpress-0.0.3-py37h1702cab_1000
+install: pynumpress==0.0.3
+pip_check: "No broken requirements found.\n"
