@@ -1,0 +1,4 @@
+pkg: paprika
+build: paprika-0.0.4-py_0
+install: paprika==0.0.4
+pip_check: "No broken requirements found.\n"
