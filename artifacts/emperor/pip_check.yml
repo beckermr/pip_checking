@@ -1,0 +1,4 @@
+pkg: emperor
+build: emperor-1.0.0b20-py37_0
+install: emperor==1.0.0b20
+pip_check: "No broken requirements found.\n"
