@@ -1,0 +1,5 @@
+pkg: chalice
+build: chalice-1.9.1-py37_0
+install: chalice==1.9.1
+pip_check: "chalice 1.9.1 requires enum-compat, which is not installed.\nchalice 1.9.1\
+  \ has requirement pip<=19.2,>=9, but you have pip 19.2.3.\n"
