@@ -1,0 +1,4 @@
+pkg: pygeos
+build: pygeos-0.3-py37h0567c5e_0
+install: pygeos==0.3
+pip_check: "No broken requirements found.\n"
