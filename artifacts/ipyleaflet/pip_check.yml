@@ -1,0 +1,4 @@
+pkg: ipyleaflet
+build: ipyleaflet-0.10.9-py37_0
+install: ipyleaflet==0.10.9
+pip_check: "No broken requirements found.\n"
