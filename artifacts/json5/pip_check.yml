@@ -1,0 +1,4 @@
+pkg: json5
+build: json5-0.8.5-py_0
+install: json5==0.8.5
+pip_check: "No broken requirements found.\n"
