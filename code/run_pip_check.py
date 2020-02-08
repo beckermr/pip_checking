@@ -114,7 +114,7 @@ if __name__ == '__main__':
         print("%d of %d" % (i+1, tot))
         print("%d of %d are ok" % (tot_good, tot_tried))
         print("pkg:", pkg)
-        did_it, ok = _run_pip_check(pkg, 'osx-64')
+        did_it, ok = _run_pip_check(pkg, 'linux-64')
         tot_tried += int(did_it)
         if did_it:
             tot_good += int(ok)
