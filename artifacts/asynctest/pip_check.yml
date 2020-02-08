@@ -1,0 +1,4 @@
+pkg: asynctest
+build: asynctest-0.12.2-py_0
+install: asynctest==0.12.2
+pip_check: "No broken requirements found.\n"
