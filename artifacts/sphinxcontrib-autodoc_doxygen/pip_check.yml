@@ -1,0 +1,6 @@
+pkg: sphinxcontrib-autodoc_doxygen
+build: sphinxcontrib-autodoc_doxygen-0.3.2-py37_0
+install: sphinxcontrib-autodoc_doxygen==0.3.2
+pip_check: "sphinxcontrib-autodoc-doxygen 0.3.2 requires mock, which is not installed.\n\
+  sphinxcontrib-autodoc-doxygen 0.3.2 has requirement Sphinx==1.5, but you have sphinx\
+  \ 2.3.1.\n"
