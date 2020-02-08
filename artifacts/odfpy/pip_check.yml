@@ -1,0 +1,4 @@
+pkg: odfpy
+build: odfpy-1.4.0-py_1
+install: odfpy==1.4.0
+pip_check: "No broken requirements found.\n"
