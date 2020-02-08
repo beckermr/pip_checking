@@ -1,0 +1,5 @@
+pkg: google-cloud-bigtable
+build: google-cloud-bigtable-0.32.2-py37_0
+install: google-cloud-bigtable==0.32.2
+pip_check: "google-cloud-bigtable 0.32.2 has requirement grpc-google-iam-v1<0.12dev,>=0.11.4,\
+  \ but you have grpc-google-iam-v1 0.12.3.\n"
