@@ -1,0 +1,4 @@
+pkg: newspaper3k
+build: newspaper3k-0.2.8-py37_0
+install: newspaper3k==0.2.8
+pip_check: "newspaper3k 0.2.8 requires tinysegmenter, which is not installed.\n"
