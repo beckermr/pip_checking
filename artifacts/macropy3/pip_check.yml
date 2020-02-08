@@ -1,0 +1,4 @@
+pkg: macropy3
+build: macropy3-1.1.0b2-py_0
+install: macropy3==1.1.0b2
+pip_check: "No broken requirements found.\n"
