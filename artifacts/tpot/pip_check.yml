@@ -1,0 +1,4 @@
+pkg: tpot
+build: tpot-0.9.6-py37_0
+install: tpot==0.9.6
+pip_check: "No broken requirements found.\n"
