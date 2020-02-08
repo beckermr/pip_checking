@@ -1,0 +1,4 @@
+pkg: reprozip
+build: reprozip-1.0.14-py37h6b74fdf_1000
+install: reprozip==1.0.14
+pip_check: "No broken requirements found.\n"
