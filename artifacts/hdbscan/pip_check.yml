@@ -1,0 +1,4 @@
+pkg: hdbscan
+build: hdbscan-0.8.22-py37hd352d35_1
+install: hdbscan==0.8.22
+pip_check: "hdbscan 0.8.22 requires cython, which is not installed.\n"
