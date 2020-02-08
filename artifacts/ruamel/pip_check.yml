@@ -1,0 +1,4 @@
+pkg: ruamel
+build: ruamel-1.0-py37_0
+install: ruamel==1.0
+pip_check: "No broken requirements found.\n"
