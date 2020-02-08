@@ -1,0 +1,4 @@
+pkg: python-ldap
+build: python-ldap-3.1.0-py37h470a237_0
+install: python-ldap==3.1.0
+pip_check: "No broken requirements found.\n"
