@@ -1,0 +1,4 @@
+pkg: pytest-mock
+build: pytest-mock-2.0.0-py37_0
+install: pytest-mock==2.0.0
+pip_check: "No broken requirements found.\n"
