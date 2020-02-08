@@ -1,0 +1,4 @@
+pkg: xmsinterp
+build: xmsinterp-3.1.0-py37h547e0c7_0
+install: xmsinterp==3.1.0
+pip_check: "No broken requirements found.\n"
