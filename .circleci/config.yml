@@ -8,7 +8,7 @@ jobs:
     steps:
       - add_ssh_keys:
           fingerprints:
-            - "01:60:66:4c:97:e5:cc:26:b5:f8:40:b2:0d:5a:59:60"
+            - "37:14:bf:76:6d:8c:38:cb:3a:69:ca:c9:75:bf:08:a5"
 
       - checkout
 
@@ -66,15 +66,21 @@ jobs:
             python run_pip_check.py
 
 
-# workflows:
-#   version: 2
-#   hourly:
-#     jobs:
-#       - build
-#     triggers:
-#       - schedule:
-#           cron: "0,5,10,15,20,25,30,35,40,45,50,55 * * * *"
-#           filters:
-#             branches:
-#               only:
-#                 - master
+workflows:
+  version: 2
+  master:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only: master
+  hourly:
+    jobs:
+      - build
+    triggers:
+      - schedule:
+          cron: "30 2,8,14,20 * * *"
+          filters:
+            branches:
+              only:
+                - master
