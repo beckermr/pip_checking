@@ -1,0 +1,4 @@
+pkg: dpkt
+build: dpkt-1.9.2-py_0
+install: dpkt==1.9.2
+pip_check: "No broken requirements found.\n"
