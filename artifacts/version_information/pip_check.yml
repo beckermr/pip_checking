@@ -1,0 +1,4 @@
+pkg: version_information
+build: version_information-1.0.3-py_1
+install: version_information==1.0.3
+pip_check: "No broken requirements found.\n"
