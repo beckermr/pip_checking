@@ -1,0 +1,4 @@
+pkg: pinocchio
+build: pinocchio-2.1.11-py37h3e4de3e_0
+install: pinocchio==2.1.11
+pip_check: "No broken requirements found.\n"
