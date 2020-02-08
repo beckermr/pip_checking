@@ -1,0 +1,4 @@
+pkg: globus-nexus-client
+build: globus-nexus-client-0.2.9-py_0
+install: globus-nexus-client==0.2.9
+pip_check: "No broken requirements found.\n"
