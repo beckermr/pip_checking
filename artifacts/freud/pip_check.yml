@@ -1,0 +1,4 @@
+pkg: freud
+build: freud-0.11.0-py37h8619c78_1000
+install: freud==0.11.0
+pip_check: "No broken requirements found.\n"
