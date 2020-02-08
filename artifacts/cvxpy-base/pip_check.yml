@@ -1,0 +1,5 @@
+pkg: cvxpy-base
+build: cvxpy-base-1.0.14-py37hf484d3e_0
+install: cvxpy-base==1.0.14
+pip_check: "cvxpy 1.0.14 requires ecos, which is not installed.\ncvxpy 1.0.14 requires\
+  \ osqp, which is not installed.\ncvxpy 1.0.14 requires scs, which is not installed.\n"
