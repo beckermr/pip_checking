@@ -1,0 +1,4 @@
+pkg: omniorbpy
+build: omniorbpy-4.2.3-py37h7883c69_0
+install: omniorbpy==4.2.3
+pip_check: "No broken requirements found.\n"
