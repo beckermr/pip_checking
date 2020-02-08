@@ -1,0 +1,4 @@
+pkg: peewee
+build: peewee-3.10.0-py37he6d99f7_0
+install: peewee==3.10.0
+pip_check: "No broken requirements found.\n"
