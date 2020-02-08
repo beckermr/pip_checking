@@ -1,0 +1,4 @@
+pkg: mnelab
+build: mnelab-0.5.2-py37_3
+install: mnelab==0.5.2
+pip_check: "No broken requirements found.\n"
