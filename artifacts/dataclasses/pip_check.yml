@@ -1,0 +1,4 @@
+pkg: dataclasses
+build: dataclasses-0.6-py37_1
+install: dataclasses==0.6
+pip_check: "No broken requirements found.\n"
