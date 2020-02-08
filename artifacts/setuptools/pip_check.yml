@@ -1,0 +1,4 @@
+pkg: setuptools
+build: setuptools-41.6.0-py37_1
+install: setuptools==41.6.0
+pip_check: "No broken requirements found.\n"
