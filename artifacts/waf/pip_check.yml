@@ -1,0 +1,4 @@
+pkg: waf
+build: waf-2.0.8-py37h0b31af3_1002
+install: waf==2.0.8
+pip_check: "No broken requirements found.\n"
