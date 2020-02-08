@@ -1,0 +1,4 @@
+pkg: polygon-geohasher
+build: polygon-geohasher-0.0.1-py_0
+install: polygon-geohasher==0.0.1
+pip_check: "No broken requirements found.\n"
