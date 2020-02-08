@@ -1,0 +1,4 @@
+pkg: channelarchiver
+build: channelarchiver-0.0.5-py37_1001
+install: channelarchiver==0.0.5
+pip_check: "No broken requirements found.\n"
