@@ -1,0 +1,4 @@
+pkg: scour
+build: scour-0.37-py_0
+install: scour==0.37
+pip_check: "No broken requirements found.\n"
