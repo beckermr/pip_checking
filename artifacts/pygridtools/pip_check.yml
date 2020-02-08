@@ -1,0 +1,4 @@
+pkg: pygridtools
+build: pygridtools-0.2-py37_1000
+install: pygridtools==0.2
+pip_check: "No broken requirements found.\n"
