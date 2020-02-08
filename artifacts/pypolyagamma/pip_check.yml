@@ -1,0 +1,4 @@
+pkg: pypolyagamma
+build: pypolyagamma-1.2.2-py37hf8a1672_0
+install: pypolyagamma==1.2.2
+pip_check: "pypolyagamma 1.2.2 requires matplotlib, which is not installed.\n"
