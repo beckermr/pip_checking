@@ -1,0 +1,4 @@
+pkg: xarray
+build: xarray-0.11.3-py37_0
+install: xarray==0.11.3
+pip_check: "No broken requirements found.\n"
