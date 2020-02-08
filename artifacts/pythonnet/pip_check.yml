@@ -1,0 +1,4 @@
+pkg: pythonnet
+build: pythonnet-2.4.0-py37haf93ef1_0
+install: pythonnet==2.4.0
+pip_check: "No broken requirements found.\n"
