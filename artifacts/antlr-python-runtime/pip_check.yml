@@ -1,0 +1,4 @@
+pkg: antlr-python-runtime
+build: antlr-python-runtime-4.7.2-py37_1000
+install: antlr-python-runtime==4.7.2
+pip_check: "No broken requirements found.\n"
