@@ -1,0 +1,4 @@
+pkg: yamllint
+build: yamllint-1.20.0-py_0
+install: yamllint==1.20.0
+pip_check: "No broken requirements found.\n"
