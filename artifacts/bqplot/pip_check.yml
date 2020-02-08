@@ -1,0 +1,4 @@
+pkg: bqplot
+build: bqplot-0.11.2-py37_1000
+install: bqplot==0.11.2
+pip_check: "No broken requirements found.\n"
