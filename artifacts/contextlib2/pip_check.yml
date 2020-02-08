@@ -1,0 +1,4 @@
+pkg: contextlib2
+build: contextlib2-0.6.0.post1-py_0
+install: contextlib2==0.6.0.post1
+pip_check: "No broken requirements found.\n"
