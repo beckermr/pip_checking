@@ -1,0 +1,4 @@
+pkg: mcerp
+build: mcerp-0.12-py_0
+install: mcerp==0.12
+pip_check: "No broken requirements found.\n"
