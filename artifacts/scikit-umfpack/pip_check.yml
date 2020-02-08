@@ -1,0 +1,4 @@
+pkg: scikit-umfpack
+build: scikit-umfpack-0.3.2-py37h756d002_1003
+install: scikit-umfpack==0.3.2
+pip_check: "No broken requirements found.\n"
