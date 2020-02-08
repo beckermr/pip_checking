@@ -1,0 +1,4 @@
+pkg: freecad
+build: freecad-0.18.3-py37h0446ab6_1
+install: freecad==0.18.3
+pip_check: "No broken requirements found.\n"
