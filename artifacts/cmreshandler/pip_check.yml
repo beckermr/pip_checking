@@ -1,0 +1,4 @@
+pkg: cmreshandler
+build: cmreshandler-1.0.0-py37_0
+install: cmreshandler==1.0.0
+pip_check: "No broken requirements found.\n"
