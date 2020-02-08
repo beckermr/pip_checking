@@ -1,0 +1,4 @@
+pkg: spleeter
+build: spleeter-1.4.4-py37_0
+install: spleeter==1.4.4
+pip_check: "No broken requirements found.\n"
