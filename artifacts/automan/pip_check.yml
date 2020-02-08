@@ -1,0 +1,4 @@
+pkg: automan
+build: automan-0.4-py_0
+install: automan==0.4
+pip_check: "automan 0.4 requires mock, which is not installed.\n"
