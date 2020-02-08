@@ -1,0 +1,4 @@
+pkg: sphinxcontrib-srclinks
+build: sphinxcontrib-srclinks-v0.2.2-py_0
+install: sphinxcontrib-srclinks==v0.2.2
+pip_check: "No broken requirements found.\n"
