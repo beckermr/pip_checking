@@ -1,0 +1,5 @@
+pkg: pytest-fixture-config
+build: pytest-fixture-config-1.4.0-py_0
+install: pytest-fixture-config==1.4.0
+pip_check: "pytest-fixture-config 1.4.0 has requirement pytest<4.0.0, but you have\
+  \ pytest 5.3.5.\n"
