@@ -1,0 +1,4 @@
+pkg: python-nvd3
+build: python-nvd3-0.15.0-py_1
+install: python-nvd3==0.15.0
+pip_check: "No broken requirements found.\n"
