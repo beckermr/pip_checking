@@ -1,0 +1,4 @@
+pkg: click-plugins
+build: click-plugins-1.0.4-py_0
+install: click-plugins==1.0.4
+pip_check: "No broken requirements found.\n"
