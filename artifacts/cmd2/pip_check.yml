@@ -1,0 +1,4 @@
+pkg: cmd2
+build: cmd2-0.9.10-py37_0
+install: cmd2==0.9.10
+pip_check: "No broken requirements found.\n"
