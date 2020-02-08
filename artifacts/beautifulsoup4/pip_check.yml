@@ -1,0 +1,4 @@
+pkg: beautifulsoup4
+build: beautifulsoup4-4.6.3-py37_1000
+install: beautifulsoup4==4.6.3
+pip_check: "No broken requirements found.\n"
