@@ -1,0 +1,4 @@
+pkg: corner
+build: corner-2.0.1-py_1002
+install: corner==2.0.1
+pip_check: "No broken requirements found.\n"
