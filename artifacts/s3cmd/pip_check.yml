@@ -1,0 +1,4 @@
+pkg: s3cmd
+build: s3cmd-2.0.2-py_0
+install: s3cmd==2.0.2
+pip_check: "No broken requirements found.\n"
