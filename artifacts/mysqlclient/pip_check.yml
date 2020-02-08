@@ -1,0 +1,4 @@
+pkg: mysqlclient
+build: mysqlclient-1.4.4-py37h6de7cb9_0
+install: mysqlclient==1.4.4
+pip_check: "No broken requirements found.\n"
