@@ -1,0 +1,4 @@
+pkg: conda-tree
+build: conda-tree-0.1.0-py_0
+install: conda-tree==0.1.0
+pip_check: "No broken requirements found.\n"
