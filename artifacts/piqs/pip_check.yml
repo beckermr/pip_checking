@@ -1,0 +1,4 @@
+pkg: piqs
+build: piqs-1.2-py37hb3f55d8_1000
+install: piqs==1.2
+pip_check: "No broken requirements found.\n"
