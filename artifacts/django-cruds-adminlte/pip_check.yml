@@ -1,0 +1,4 @@
+pkg: django-cruds-adminlte
+build: django-cruds-adminlte-0.0.13-py_0
+install: django-cruds-adminlte==0.0.13
+pip_check: "django-cruds-adminlte 0.0.13 requires djangoajax, which is not installed.\n"
