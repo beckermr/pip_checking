@@ -1,0 +1,4 @@
+pkg: pyhull
+build: pyhull-2015.2.1-py37haf112f3_0
+install: pyhull==2015.2.1
+pip_check: "pyhull 2015.2.1 requires numpy, which is not installed.\n"
