@@ -1,0 +1,4 @@
+pkg: optuna
+build: optuna-0.18.1-py_0
+install: optuna==0.18.1
+pip_check: "optuna 0.18.1 requires enum34, which is not installed.\n"
