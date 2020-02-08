@@ -1,0 +1,4 @@
+pkg: openorb
+build: openorb-1.0.1.20181028-py37hf796cf2_0
+install: openorb==1.0.1.20181028
+pip_check: "No broken requirements found.\n"
