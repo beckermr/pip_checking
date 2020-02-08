@@ -1,0 +1,5 @@
+pkg: urbansim_defaults
+build: urbansim_defaults-0.2-py_0
+install: urbansim_defaults==0.2
+pip_check: "urbansim-defaults 0.2 requires urbansim, which is not installed.\npandana\
+  \ 0.4.4 requires cython, which is not installed.\n"
