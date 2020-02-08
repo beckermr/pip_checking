@@ -1,0 +1,4 @@
+pkg: ipyxact
+build: ipyxact-0.2.4-py_0
+install: ipyxact==0.2.4
+pip_check: "No broken requirements found.\n"
