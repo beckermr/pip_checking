@@ -1,0 +1,4 @@
+pkg: vaex-astro
+build: vaex-astro-0.5.0-py37_0
+install: vaex-astro==0.5.0
+pip_check: "No broken requirements found.\n"
