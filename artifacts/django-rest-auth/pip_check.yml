@@ -1,0 +1,4 @@
+pkg: django-rest-auth
+build: django-rest-auth-0.9.3-py37_1000
+install: django-rest-auth==0.9.3
+pip_check: "No broken requirements found.\n"
