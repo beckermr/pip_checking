@@ -1,0 +1,4 @@
+pkg: qtwirl
+build: qtwirl-0.9.1-py_0
+install: qtwirl==0.9.1
+pip_check: "No broken requirements found.\n"
