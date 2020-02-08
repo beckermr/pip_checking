@@ -1,0 +1,4 @@
+pkg: urlobject
+build: urlobject-2.4.3-py_1
+install: urlobject==2.4.3
+pip_check: "No broken requirements found.\n"
