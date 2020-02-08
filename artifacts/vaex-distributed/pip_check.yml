@@ -1,0 +1,4 @@
+pkg: vaex-distributed
+build: vaex-distributed-0.1.0-py_0
+install: vaex-distributed==0.1.0
+pip_check: "No broken requirements found.\n"
