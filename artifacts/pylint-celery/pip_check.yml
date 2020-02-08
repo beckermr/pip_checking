@@ -1,0 +1,4 @@
+pkg: pylint-celery
+build: pylint-celery-0.3-py_1
+install: pylint-celery==0.3
+pip_check: "No broken requirements found.\n"
