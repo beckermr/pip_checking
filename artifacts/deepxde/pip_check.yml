@@ -1,0 +1,4 @@
+pkg: deepxde
+build: deepxde-0.3.0-py37h5ca1d4c_0
+install: deepxde==0.3.0
+pip_check: "No broken requirements found.\n"
