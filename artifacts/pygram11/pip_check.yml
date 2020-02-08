@@ -1,0 +1,4 @@
+pkg: pygram11
+build: pygram11-0.3.1-py37he1b5a44_1
+install: pygram11==0.3.1
+pip_check: "pygram11 0.3.1 requires pybind11, which is not installed.\n"
