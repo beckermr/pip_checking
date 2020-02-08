@@ -1,0 +1,4 @@
+pkg: configargparse
+build: configargparse-1.0-py_0
+install: configargparse==1.0
+pip_check: "No broken requirements found.\n"
