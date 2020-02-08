@@ -1,0 +1,4 @@
+pkg: pyomeca
+build: pyomeca-2019.5-py_0
+install: pyomeca==2019.5
+pip_check: "No broken requirements found.\n"
