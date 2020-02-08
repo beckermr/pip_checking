@@ -1,0 +1,4 @@
+pkg: readme_renderer
+build: readme_renderer-24.0-py_0
+install: readme_renderer==24.0
+pip_check: "No broken requirements found.\n"
