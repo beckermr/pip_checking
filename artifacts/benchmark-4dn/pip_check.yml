@@ -1,0 +1,4 @@
+pkg: benchmark-4dn
+build: benchmark-4dn-0.5.8-py_0
+install: benchmark-4dn==0.5.8
+pip_check: "No broken requirements found.\n"
