@@ -1,0 +1,4 @@
+pkg: custodian
+build: custodian-2019.8.24-py_0
+install: custodian==2019.8.24
+pip_check: "custodian 2019.8.24 requires sentry-sdk, which is not installed.\n"
