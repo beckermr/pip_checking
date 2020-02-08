@@ -1,0 +1,4 @@
+pkg: neovim
+build: neovim-0.3.1-py37_0
+install: neovim==0.3.1
+pip_check: "No broken requirements found.\n"
