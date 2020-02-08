@@ -1,0 +1,4 @@
+pkg: aipy
+build: aipy-3.0.1-py37h4f17bb1_0
+install: aipy==3.0.1
+pip_check: "No broken requirements found.\n"
