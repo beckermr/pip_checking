@@ -1,0 +1,4 @@
+pkg: qutip
+build: qutip-4.3.1-py37h3e44d54_1
+install: qutip==4.3.1
+pip_check: "No broken requirements found.\n"
