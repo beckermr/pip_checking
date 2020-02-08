@@ -1,0 +1,4 @@
+pkg: doconce
+build: doconce-1.4.13-py37_1
+install: doconce==1.4.13
+pip_check: "No broken requirements found.\n"
