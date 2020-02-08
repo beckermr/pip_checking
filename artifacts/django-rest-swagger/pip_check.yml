@@ -1,0 +1,4 @@
+pkg: django-rest-swagger
+build: django-rest-swagger-2.2.0-py_0
+install: django-rest-swagger==2.2.0
+pip_check: "djangorestframework 3.11.0 requires django, which is not installed.\n"
