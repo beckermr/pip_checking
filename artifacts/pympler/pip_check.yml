@@ -1,0 +1,4 @@
+pkg: pympler
+build: pympler-0.7-py_0
+install: pympler==0.7
+pip_check: "No broken requirements found.\n"
