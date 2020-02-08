@@ -1,0 +1,4 @@
+pkg: otsvm
+build: otsvm-0.5-py37h15f1045_1
+install: otsvm==0.5
+pip_check: "No broken requirements found.\n"
