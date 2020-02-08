@@ -1,0 +1,5 @@
+pkg: bowtie-py
+build: bowtie-py-0.11.0-py37_0
+install: bowtie-py==0.11.0
+pip_check: "python-socketio 3.1.2 has requirement python-engineio>=3.2.0, but you\
+  \ have python-engineio 3.0.0.\n"
