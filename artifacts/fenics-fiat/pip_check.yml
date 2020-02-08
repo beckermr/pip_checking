@@ -1,0 +1,4 @@
+pkg: fenics-fiat
+build: fenics-fiat-2019.1.0-py_2
+install: fenics-fiat==2019.1.0
+pip_check: "No broken requirements found.\n"
