@@ -1,0 +1,4 @@
+pkg: bcdp
+build: bcdp-0.1.0-py_0
+install: bcdp==0.1.0
+pip_check: "No broken requirements found.\n"
