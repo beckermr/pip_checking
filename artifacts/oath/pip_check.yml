@@ -1,0 +1,4 @@
+pkg: oath
+build: oath-1.4.1-py_0
+install: oath==1.4.1
+pip_check: "No broken requirements found.\n"
