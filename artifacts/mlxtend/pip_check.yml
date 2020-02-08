@@ -1,0 +1,4 @@
+pkg: mlxtend
+build: mlxtend-0.17.1-py_0
+install: mlxtend==0.17.1
+pip_check: "No broken requirements found.\n"
