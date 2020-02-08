@@ -1,0 +1,4 @@
+pkg: aliyun-python-sdk-kms
+build: aliyun-python-sdk-kms-2.9.0-py_0
+install: aliyun-python-sdk-kms==2.9.0
+pip_check: "No broken requirements found.\n"
