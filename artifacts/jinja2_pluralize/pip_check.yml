@@ -1,0 +1,4 @@
+pkg: jinja2_pluralize
+build: jinja2_pluralize-0.3.0-py_0
+install: jinja2_pluralize==0.3.0
+pip_check: "No broken requirements found.\n"
