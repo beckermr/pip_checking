@@ -1,0 +1,4 @@
+pkg: autograd-gamma
+build: autograd-gamma-0.4.1-py_0
+install: autograd-gamma==0.4.1
+pip_check: "No broken requirements found.\n"
