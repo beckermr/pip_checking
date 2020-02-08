@@ -1,0 +1,4 @@
+pkg: dbus-python
+build: dbus-python-1.2.16-py37h1369247_0
+install: dbus-python==1.2.16
+pip_check: "No broken requirements found.\n"
