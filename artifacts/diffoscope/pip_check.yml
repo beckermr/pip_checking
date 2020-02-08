@@ -1,0 +1,4 @@
+pkg: diffoscope
+build: diffoscope-128-py_0
+install: diffoscope==128
+pip_check: "No broken requirements found.\n"
