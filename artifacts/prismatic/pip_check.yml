@@ -1,0 +1,4 @@
+pkg: prismatic
+build: prismatic-1.2.1-py37_cpu_h5baa593_1
+install: prismatic==1.2.1
+pip_check: "No broken requirements found.\n"
