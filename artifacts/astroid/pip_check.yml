@@ -1,0 +1,4 @@
+pkg: astroid
+build: astroid-2.2.3-py37_0
+install: astroid==2.2.3
+pip_check: "astroid 2.2.3 requires typed-ast, which is not installed.\n"
