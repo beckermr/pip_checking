@@ -1,0 +1,4 @@
+pkg: dask-ec2
+build: dask-ec2-0.5.0-py_1000
+install: dask-ec2==0.5.0
+pip_check: "No broken requirements found.\n"
