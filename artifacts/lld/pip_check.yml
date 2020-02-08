@@ -1,0 +1,4 @@
+pkg: lld
+build: lld-6.0.1-py37h3d3e54a_1002
+install: lld==6.0.1
+pip_check: "No broken requirements found.\n"
