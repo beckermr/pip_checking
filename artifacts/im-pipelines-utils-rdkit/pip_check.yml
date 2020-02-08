@@ -1,0 +1,5 @@
+pkg: im-pipelines-utils-rdkit
+build: im-pipelines-utils-rdkit-1.5.10-py_0
+install: im-pipelines-utils-rdkit==1.5.10
+pip_check: "im-pipelines-utils 2.4.8 requires future, which is not installed.\nim-pipelines-utils-rdkit\
+  \ 1.5.10 requires future, which is not installed.\n"
