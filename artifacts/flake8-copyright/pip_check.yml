@@ -1,0 +1,4 @@
+pkg: flake8-copyright
+build: flake8-copyright-0.2.2-py_0
+install: flake8-copyright==0.2.2
+pip_check: "No broken requirements found.\n"
