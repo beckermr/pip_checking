@@ -1,0 +1,4 @@
+pkg: pyseaweed
+build: pyseaweed-1.0.2-py_1
+install: pyseaweed==1.0.2
+pip_check: "No broken requirements found.\n"
