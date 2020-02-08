@@ -1,0 +1,4 @@
+pkg: pdfminer.six
+build: pdfminer.six-20181108-py37_0
+install: pdfminer.six==20181108
+pip_check: "No broken requirements found.\n"
