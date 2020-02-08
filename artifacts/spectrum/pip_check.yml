@@ -1,0 +1,4 @@
+pkg: spectrum
+build: spectrum-0.7.5-py37h516909a_1001
+install: spectrum==0.7.5
+pip_check: "spectrum 0.7.5 requires matplotlib, which is not installed.\n"
