@@ -1,0 +1,4 @@
+pkg: dask-searchcv
+build: dask-searchcv-0.1.0-py_0
+install: dask-searchcv==0.1.0
+pip_check: "No broken requirements found.\n"
