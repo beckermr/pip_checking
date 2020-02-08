@@ -1,0 +1,5 @@
+pkg: django-recaptcha
+build: django-recaptcha-2.0.2-py_0
+install: django-recaptcha==2.0.2
+pip_check: "django-recaptcha 2.0.2 has requirement django<2.3,>1.11, but you have\
+  \ django 3.0.3.\n"
