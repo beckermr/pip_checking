@@ -1,0 +1,9 @@
+pkg: ml_tooling
+build: ml_tooling-0.7-py_0
+install: ml_tooling==0.7
+pip_check: "ml-tooling 0.7 has requirement gitpython==2.1.11, but you have gitpython\
+  \ 3.0.5.\nml-tooling 0.7 has requirement matplotlib==3.1.0, but you have matplotlib\
+  \ 3.1.3.\nml-tooling 0.7 has requirement numpy==1.16.4, but you have numpy 1.18.1.\n\
+  ml-tooling 0.7 has requirement pandas==0.24.2, but you have pandas 1.0.1.\nml-tooling\
+  \ 0.7 has requirement pyyaml==5.1.1, but you have pyyaml 5.3.\nml-tooling 0.7 has\
+  \ requirement scikit-learn[alldeps]==0.21.2, but you have scikit-learn 0.22.1.\n"
