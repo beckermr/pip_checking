@@ -1,0 +1,4 @@
+pkg: oommfodt
+build: oommfodt-0.8.2-py37_1001
+install: oommfodt==0.8.2
+pip_check: "No broken requirements found.\n"
