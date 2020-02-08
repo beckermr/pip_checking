@@ -1,0 +1,4 @@
+pkg: aospy
+build: aospy-0.3.1-py37_1000
+install: aospy==0.3.1
+pip_check: "No broken requirements found.\n"
