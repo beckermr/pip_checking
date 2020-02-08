@@ -1,0 +1,4 @@
+pkg: setuptools-rust
+build: setuptools-rust-0.10.5-py_0
+install: setuptools-rust==0.10.5
+pip_check: "No broken requirements found.\n"
