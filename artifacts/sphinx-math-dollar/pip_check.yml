@@ -1,0 +1,4 @@
+pkg: sphinx-math-dollar
+build: sphinx-math-dollar-1.1-py_0
+install: sphinx-math-dollar==1.1
+pip_check: "No broken requirements found.\n"
