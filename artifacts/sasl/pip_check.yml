@@ -1,0 +1,4 @@
+pkg: sasl
+build: sasl-0.2.1-py37hfc679d8_1
+install: sasl==0.2.1
+pip_check: "No broken requirements found.\n"
