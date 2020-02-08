@@ -1,0 +1,4 @@
+pkg: reprounzip-vagrant
+build: reprounzip-vagrant-1.0.13-py_1
+install: reprounzip-vagrant==1.0.13
+pip_check: "No broken requirements found.\n"
