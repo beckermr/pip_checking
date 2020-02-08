@@ -1,0 +1,4 @@
+pkg: nuitka
+build: nuitka-0.5.32.3-py_0
+install: nuitka==0.5.32.3
+pip_check: "No broken requirements found.\n"
