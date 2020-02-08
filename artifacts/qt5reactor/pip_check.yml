@@ -1,0 +1,4 @@
+pkg: qt5reactor
+build: qt5reactor-0.5-py37_0
+install: qt5reactor==0.5
+pip_check: "No broken requirements found.\n"
