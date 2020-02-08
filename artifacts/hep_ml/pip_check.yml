@@ -1,0 +1,4 @@
+pkg: hep_ml
+build: hep_ml-0.6.0-py_0
+install: hep_ml==0.6.0
+pip_check: "No broken requirements found.\n"
