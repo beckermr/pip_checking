@@ -1,0 +1,4 @@
+pkg: pyfim
+build: pyfim-6.28-py37h470a237_0
+install: pyfim==6.28
+pip_check: "No broken requirements found.\n"
