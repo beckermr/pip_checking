@@ -1,0 +1,4 @@
+pkg: fusesoc
+build: fusesoc-1.9.3-py37_0
+install: fusesoc==1.9.3
+pip_check: "No broken requirements found.\n"
