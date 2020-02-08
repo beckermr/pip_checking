@@ -1,0 +1,4 @@
+pkg: pyccl
+build: pyccl-2.0.1-py37h2b221bd_2
+install: pyccl==2.0.1
+pip_check: "No broken requirements found.\n"
