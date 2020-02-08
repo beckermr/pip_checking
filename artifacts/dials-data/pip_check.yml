@@ -1,0 +1,4 @@
+pkg: dials-data
+build: dials-data-2.0.52-py_0
+install: dials-data==2.0.52
+pip_check: "No broken requirements found.\n"
