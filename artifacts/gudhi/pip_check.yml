@@ -1,0 +1,4 @@
+pkg: gudhi
+build: gudhi-2.3.0-py37h205957e_2
+install: gudhi==2.3.0
+pip_check: "No broken requirements found.\n"
