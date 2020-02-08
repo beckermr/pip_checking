@@ -1,0 +1,5 @@
+pkg: wdl-aid
+build: wdl-aid-0.1.1-py_0
+install: wdl-aid==0.1.1
+pip_check: "argcomplete 1.11.1 requires importlib-metadata, which is not installed.\n\
+  miniwdl 0.5.0 has requirement lark-parser==0.7.5, but you have lark-parser 0.7.2.\n"
