@@ -1,0 +1,4 @@
+pkg: pyinstaller
+build: pyinstaller-3.5-py37hed695b0_1
+install: pyinstaller==3.5
+pip_check: "No broken requirements found.\n"
