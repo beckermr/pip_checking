@@ -1,0 +1,4 @@
+pkg: sphinxcontrib-htmlhelp
+build: sphinxcontrib-htmlhelp-1.0.1-py_0
+install: sphinxcontrib-htmlhelp==1.0.1
+pip_check: "No broken requirements found.\n"
