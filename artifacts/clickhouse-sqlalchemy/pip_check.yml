@@ -1,0 +1,4 @@
+pkg: clickhouse-sqlalchemy
+build: clickhouse-sqlalchemy-0.0.7-py_1
+install: clickhouse-sqlalchemy==0.0.7
+pip_check: "clickhouse-driver 0.1.2 requires tzlocal, which is not installed.\n"
