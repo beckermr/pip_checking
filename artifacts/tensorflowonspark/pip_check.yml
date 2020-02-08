@@ -1,0 +1,4 @@
+pkg: tensorflowonspark
+build: tensorflowonspark-2.0.0-py_0
+install: tensorflowonspark==2.0.0
+pip_check: "No broken requirements found.\n"
