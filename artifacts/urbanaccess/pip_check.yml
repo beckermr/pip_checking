@@ -1,0 +1,4 @@
+pkg: urbanaccess
+build: urbanaccess-0.2.0-py_0
+install: urbanaccess==0.2.0
+pip_check: "pandana 0.4.4 requires cython, which is not installed.\n"
