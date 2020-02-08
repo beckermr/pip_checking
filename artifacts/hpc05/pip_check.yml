@@ -1,0 +1,4 @@
+pkg: hpc05
+build: hpc05-v1.29-py37_1000
+install: hpc05==v1.29
+pip_check: "No broken requirements found.\n"
