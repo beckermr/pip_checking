@@ -1,0 +1,7 @@
+pkg: potranslator
+build: potranslator-1.1.5-py_0
+install: potranslator==1.1.5
+pip_check: "potranslator 1.1.5 requires path-py, which is not installed.\npotranslator\
+  \ 1.1.5 has requirement googletrans==2.3.0, but you have googletrans 2.4.0.\npotranslator\
+  \ 1.1.5 has requirement importlib-resources==1.0.1, but you have importlib-resources\
+  \ 1.0.2.\npotranslator 1.1.5 has requirement polib==1.1.0, but you have polib 1.0.7.\n"
