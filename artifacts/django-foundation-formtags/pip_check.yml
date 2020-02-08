@@ -1,0 +1,4 @@
+pkg: django-foundation-formtags
+build: django-foundation-formtags-0.0.9-py37_1000
+install: django-foundation-formtags==0.0.9
+pip_check: "No broken requirements found.\n"
