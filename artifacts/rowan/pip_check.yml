@@ -1,0 +1,4 @@
+pkg: rowan
+build: rowan-1.2.2-py_2
+install: rowan==1.2.2
+pip_check: "No broken requirements found.\n"
