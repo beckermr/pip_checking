@@ -1,0 +1,4 @@
+pkg: simpletraj
+build: simpletraj-0.5-py37h3010b51_1000
+install: simpletraj==0.5
+pip_check: "No broken requirements found.\n"
