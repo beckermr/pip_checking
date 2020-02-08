@@ -1,0 +1,4 @@
+pkg: sadisplay
+build: sadisplay-0.4.9-py_0
+install: sadisplay==0.4.9
+pip_check: "No broken requirements found.\n"
