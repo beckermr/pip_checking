@@ -1,0 +1,4 @@
+pkg: aws-amicleaner
+build: aws-amicleaner-0.2.2-py_1
+install: aws-amicleaner==0.2.2
+pip_check: "aws-amicleaner 0.2.2 requires argparse, which is not installed.\n"
