@@ -1,0 +1,4 @@
+pkg: gst-python
+build: gst-python-1.14.5-py37h01d97ff_0
+install: gst-python==1.14.5
+pip_check: "No broken requirements found.\n"
