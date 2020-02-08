@@ -1,0 +1,4 @@
+pkg: click-default-group
+build: click-default-group-1.2-py_0
+install: click-default-group==1.2
+pip_check: "No broken requirements found.\n"
