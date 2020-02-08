@@ -1,0 +1,4 @@
+pkg: voluptuous
+build: voluptuous-0.11.7-py_0
+install: voluptuous==0.11.7
+pip_check: "No broken requirements found.\n"
