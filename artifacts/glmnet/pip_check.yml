@@ -1,0 +1,4 @@
+pkg: glmnet
+build: glmnet-2.1.1-py37h2cdb68b_1
+install: glmnet==2.1.1
+pip_check: "No broken requirements found.\n"
