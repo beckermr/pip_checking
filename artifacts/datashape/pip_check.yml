@@ -1,0 +1,4 @@
+pkg: datashape
+build: datashape-0.5.4-py_1
+install: datashape==0.5.4
+pip_check: "No broken requirements found.\n"
