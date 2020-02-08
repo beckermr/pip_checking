@@ -1,0 +1,4 @@
+pkg: hopcroftkarp
+build: hopcroftkarp-1.2.4-py_0
+install: hopcroftkarp==1.2.4
+pip_check: "No broken requirements found.\n"
