@@ -1,0 +1,4 @@
+pkg: statsd
+build: statsd-3.2.2-py_1
+install: statsd==3.2.2
+pip_check: "No broken requirements found.\n"
