@@ -1,0 +1,4 @@
+pkg: scikit-mdr
+build: scikit-mdr-0.4.4-py_0
+install: scikit-mdr==0.4.4
+pip_check: "No broken requirements found.\n"
