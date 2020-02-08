@@ -1,0 +1,4 @@
+pkg: sugartex
+build: sugartex-0.1.16-py_0
+install: sugartex==0.1.16
+pip_check: "No broken requirements found.\n"
