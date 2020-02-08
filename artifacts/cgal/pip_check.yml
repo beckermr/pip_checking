@@ -1,0 +1,4 @@
+pkg: cgal
+build: cgal-4.13-py37h6de7cb9_1
+install: cgal==4.13
+pip_check: "No broken requirements found.\n"
