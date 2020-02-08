@@ -1,0 +1,4 @@
+pkg: websocket-client
+build: websocket-client-0.57.0-py37_0
+install: websocket-client==0.57.0
+pip_check: "No broken requirements found.\n"
