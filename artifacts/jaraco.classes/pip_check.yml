@@ -1,0 +1,4 @@
+pkg: jaraco.classes
+build: jaraco.classes-2.0-py_1
+install: jaraco.classes==2.0
+pip_check: "No broken requirements found.\n"
