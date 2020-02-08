@@ -1,0 +1,4 @@
+pkg: descartes
+build: descartes-1.1.0-py_3
+install: descartes==1.1.0
+pip_check: "No broken requirements found.\n"
