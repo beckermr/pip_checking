@@ -1,0 +1,4 @@
+pkg: mms-python-client
+build: mms-python-client-3.4.2.1-py_0
+install: mms-python-client==3.4.2.1
+pip_check: "No broken requirements found.\n"
