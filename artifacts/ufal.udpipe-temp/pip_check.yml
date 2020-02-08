@@ -1,0 +1,4 @@
+pkg: ufal.udpipe-temp
+build: ufal.udpipe-temp-1.2.0.4-py37hfc679d8_0
+install: ufal.udpipe-temp==1.2.0.4
+pip_check: "No broken requirements found.\n"
