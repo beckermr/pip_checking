@@ -1,0 +1,4 @@
+pkg: finmind
+build: finmind-1.0.90-py_0
+install: finmind==1.0.90
+pip_check: "No broken requirements found.\n"
