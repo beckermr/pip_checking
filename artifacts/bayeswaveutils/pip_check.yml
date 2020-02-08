@@ -1,0 +1,14 @@
+pkg: bayeswaveutils
+build: bayeswaveutils-1.0.2-py37_0
+install: bayeswaveutils==1.0.2
+pip_check: "pegasus-wms 4.9.3 requires pam, which is not installed.\npegasus-wms 4.9.3\
+  \ requires plex, which is not installed.\npegasus-wms 4.9.3 has requirement boto==2.48.0,\
+  \ but you have boto 2.49.0.\npegasus-wms 4.9.3 has requirement Flask-SQLAlchemy==0.16,\
+  \ but you have flask-sqlalchemy 2.4.0.\npegasus-wms 4.9.3 has requirement itsdangerous==0.24,\
+  \ but you have itsdangerous 1.1.0.\npegasus-wms 4.9.3 has requirement Jinja2==2.8.1,\
+  \ but you have jinja2 2.11.1.\npegasus-wms 4.9.3 has requirement MarkupSafe==1.0,\
+  \ but you have markupsafe 1.1.1.\npegasus-wms 4.9.3 has requirement pyOpenSSL==17.5.0,\
+  \ but you have pyopenssl 19.1.0.\npegasus-wms 4.9.3 has requirement requests==2.18.4,\
+  \ but you have requests 2.22.0.\npegasus-wms 4.9.3 has requirement SQLAlchemy==0.8.0,\
+  \ but you have sqlalchemy 1.3.13.\npegasus-wms 4.9.3 has requirement Werkzeug==0.14.1,\
+  \ but you have werkzeug 1.0.0.\n"
