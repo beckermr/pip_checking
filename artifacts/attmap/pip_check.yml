@@ -1,0 +1,4 @@
+pkg: attmap
+build: attmap-0.12.11-py_0
+install: attmap==0.12.11
+pip_check: "No broken requirements found.\n"
