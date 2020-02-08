@@ -1,0 +1,4 @@
+pkg: pymbolic
+build: pymbolic-2018.1-py_1
+install: pymbolic==2018.1
+pip_check: "pymbolic 2018.1 requires pytest, which is not installed.\n"
