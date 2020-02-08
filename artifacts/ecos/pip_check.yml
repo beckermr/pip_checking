@@ -1,0 +1,4 @@
+pkg: ecos
+build: ecos-2.0.5-py37h3010b51_1000
+install: ecos==2.0.5
+pip_check: "No broken requirements found.\n"
