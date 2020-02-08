@@ -1,0 +1,6 @@
+pkg: bravado
+build: bravado-10.4.2-py_0
+install: bravado==10.4.2
+pip_check: "bravado 10.4.2 requires msgpack-python, which is not installed.\nbravado\
+  \ 10.4.2 requires typing-extensions, which is not installed.\nbravado-core 5.16.0\
+  \ requires msgpack-python, which is not installed.\n"
