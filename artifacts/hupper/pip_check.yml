@@ -1,0 +1,4 @@
+pkg: hupper
+build: hupper-1.4.2-py_0
+install: hupper==1.4.2
+pip_check: "No broken requirements found.\n"
