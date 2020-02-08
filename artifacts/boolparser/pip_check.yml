@@ -1,0 +1,4 @@
+pkg: boolparser
+build: boolparser-0.3.3-py_0
+install: boolparser==0.3.3
+pip_check: "boolparser 0.3.3 requires pyparsing, which is not installed.\n"
