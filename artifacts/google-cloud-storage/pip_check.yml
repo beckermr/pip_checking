@@ -1,0 +1,4 @@
+pkg: google-cloud-storage
+build: google-cloud-storage-1.23.0-py37_0
+install: google-cloud-storage==1.23.0
+pip_check: "No broken requirements found.\n"
