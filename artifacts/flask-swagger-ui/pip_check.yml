@@ -1,0 +1,4 @@
+pkg: flask-swagger-ui
+build: flask-swagger-ui-3.6.0-py_0
+install: flask-swagger-ui==3.6.0
+pip_check: "No broken requirements found.\n"
