@@ -1,0 +1,4 @@
+pkg: whitebox
+build: whitebox-0.9.0-py_0
+install: whitebox==0.9.0
+pip_check: "No broken requirements found.\n"
