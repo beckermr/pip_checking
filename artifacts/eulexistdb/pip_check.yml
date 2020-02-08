@@ -1,0 +1,4 @@
+pkg: eulexistdb
+build: eulexistdb-0.21.1-py37_1002
+install: eulexistdb==0.21.1
+pip_check: "No broken requirements found.\n"
