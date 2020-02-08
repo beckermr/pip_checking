@@ -1,0 +1,4 @@
+pkg: nipype
+build: nipype-1.3.2-py37_0
+install: nipype==1.3.2
+pip_check: "nipype 1.3.2 requires pydot, which is not installed.\n"
