@@ -1,0 +1,4 @@
+pkg: aiohttp-session
+build: aiohttp-session-2.7.0-py_0
+install: aiohttp-session==2.7.0
+pip_check: "No broken requirements found.\n"
