@@ -1,0 +1,4 @@
+pkg: llvmlite
+build: llvmlite-0.25.0-py37h3fea490_1001
+install: llvmlite==0.25.0
+pip_check: "No broken requirements found.\n"
