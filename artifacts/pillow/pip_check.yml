@@ -1,0 +1,4 @@
+pkg: pillow
+build: pillow-6.2.1-py37hd70f55b_1
+install: pillow==6.2.1
+pip_check: "No broken requirements found.\n"
