@@ -1,0 +1,4 @@
+pkg: snorkel
+build: snorkel-0.9.3-py_0
+install: snorkel==0.9.3
+pip_check: "snorkel 0.9.3 has requirement munkres==1.1.2, but you have munkres 1.0.12.\n"
