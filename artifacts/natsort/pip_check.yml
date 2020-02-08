@@ -1,0 +1,4 @@
+pkg: natsort
+build: natsort-6.1.0-py_0
+install: natsort==6.1.0
+pip_check: "No broken requirements found.\n"
