@@ -1,0 +1,4 @@
+pkg: ipywe
+build: ipywe-0.1.3a1-py37_0
+install: ipywe==0.1.3a1
+pip_check: "No broken requirements found.\n"
