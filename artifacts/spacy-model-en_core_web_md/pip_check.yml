@@ -1,0 +1,4 @@
+pkg: spacy-model-en_core_web_md
+build: spacy-model-en_core_web_md-2.2.0-py_0
+install: spacy-model-en_core_web_md==2.2.0
+pip_check: "en-core-web-md 2.2.0 requires spacy, which is not installed.\n"
