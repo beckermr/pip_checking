@@ -1,0 +1,4 @@
+pkg: sos
+build: sos-0.17.7-py_0
+install: sos==0.17.7
+pip_check: "No broken requirements found.\n"
