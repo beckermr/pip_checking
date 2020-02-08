@@ -1,0 +1,4 @@
+pkg: stem
+build: stem-1.6.0-py_0
+install: stem==1.6.0
+pip_check: "No broken requirements found.\n"
