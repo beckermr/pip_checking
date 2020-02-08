@@ -1,0 +1,4 @@
+pkg: dask-gateway-server-yarn
+build: dask-gateway-server-yarn-0.2.0-py37_0
+install: dask-gateway-server-yarn==0.2.0
+pip_check: "No broken requirements found.\n"
