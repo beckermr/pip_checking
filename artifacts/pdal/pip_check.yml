@@ -1,0 +1,4 @@
+pkg: pdal
+build: pdal-2.0.1-py37h423e6fa_7
+install: pdal==2.0.1
+pip_check: "No broken requirements found.\n"
