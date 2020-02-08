@@ -1,0 +1,4 @@
+pkg: dnest4
+build: dnest4-0.2.4-py37h9de70de_1
+install: dnest4==0.2.4
+pip_check: "No broken requirements found.\n"
