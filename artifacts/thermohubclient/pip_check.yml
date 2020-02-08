@@ -1,0 +1,4 @@
+pkg: thermohubclient
+build: thermohubclient-0.2.0-py37had07cd5_0
+install: thermohubclient==0.2.0
+pip_check: "No broken requirements found.\n"
