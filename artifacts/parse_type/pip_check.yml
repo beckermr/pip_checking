@@ -1,0 +1,4 @@
+pkg: parse_type
+build: parse_type-0.4.2-py37_1000
+install: parse_type==0.4.2
+pip_check: "No broken requirements found.\n"
