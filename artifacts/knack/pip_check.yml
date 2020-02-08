@@ -1,0 +1,4 @@
+pkg: knack
+build: knack-0.6.3-py_0
+install: knack==0.6.3
+pip_check: "argcomplete 1.11.1 requires importlib-metadata, which is not installed.\n"
