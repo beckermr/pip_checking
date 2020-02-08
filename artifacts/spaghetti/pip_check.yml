@@ -1,0 +1,4 @@
+pkg: spaghetti
+build: spaghetti-1.4.0-py_0
+install: spaghetti==1.4.0
+pip_check: "libpysal 4.2.2 requires bs4, which is not installed.\n"
