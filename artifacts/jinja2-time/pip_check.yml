@@ -1,0 +1,4 @@
+pkg: jinja2-time
+build: jinja2-time-0.2.0-py_2
+install: jinja2-time==0.2.0
+pip_check: "No broken requirements found.\n"
