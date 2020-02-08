@@ -1,0 +1,4 @@
+pkg: read-roi
+build: read-roi-1.4.2-py37_1000
+install: read-roi==1.4.2
+pip_check: "No broken requirements found.\n"
