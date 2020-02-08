@@ -1,0 +1,4 @@
+pkg: twine
+build: twine-3.1.1-py37_0
+install: twine==3.1.1
+pip_check: "No broken requirements found.\n"
