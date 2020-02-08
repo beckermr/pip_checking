@@ -1,0 +1,4 @@
+pkg: pytorch-cpu
+build: pytorch-cpu-1.0.0-py37h0a44026_1002
+install: pytorch-cpu==1.0.0
+pip_check: "No broken requirements found.\n"
