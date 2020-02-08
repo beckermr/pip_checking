@@ -1,0 +1,4 @@
+pkg: tidynamics
+build: tidynamics-0.1.2.dev5-py_0
+install: tidynamics==0.1.2.dev5
+pip_check: "No broken requirements found.\n"
