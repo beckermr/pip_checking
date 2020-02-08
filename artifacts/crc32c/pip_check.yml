@@ -1,0 +1,4 @@
+pkg: crc32c
+build: crc32c-2.0-py37h516909a_0
+install: crc32c==2.0
+pip_check: "No broken requirements found.\n"
