@@ -1,0 +1,4 @@
+pkg: astroscrappy
+build: astroscrappy-1.0.8-py37h470a237_1
+install: astroscrappy==1.0.8
+pip_check: "No broken requirements found.\n"
