@@ -1,0 +1,4 @@
+pkg: radio-beam
+build: radio-beam-0.2-py_0
+install: radio-beam==0.2
+pip_check: "No broken requirements found.\n"
