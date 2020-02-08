@@ -1,0 +1,4 @@
+pkg: genutil
+build: genutil-8.1.1-py37h3010b51_0
+install: genutil==8.1.1
+pip_check: "No broken requirements found.\n"
