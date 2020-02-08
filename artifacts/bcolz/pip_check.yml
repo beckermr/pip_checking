@@ -1,0 +1,4 @@
+pkg: bcolz
+build: bcolz-1.2.1-py37hb3f55d8_1001
+install: bcolz==1.2.1
+pip_check: "No broken requirements found.\n"
