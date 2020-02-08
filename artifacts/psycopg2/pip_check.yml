@@ -1,0 +1,4 @@
+pkg: psycopg2
+build: psycopg2-2.7.7-py37h9d9f1b6_1
+install: psycopg2==2.7.7
+pip_check: "No broken requirements found.\n"
