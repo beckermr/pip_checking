@@ -1,0 +1,4 @@
+pkg: python-primesieve
+build: python-primesieve-2.1.0-py37h9de70de_1
+install: python-primesieve==2.1.0
+pip_check: "No broken requirements found.\n"
