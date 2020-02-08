@@ -1,0 +1,4 @@
+pkg: docopt
+build: docopt-0.6.2-py_1
+install: docopt==0.6.2
+pip_check: "No broken requirements found.\n"
