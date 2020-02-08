@@ -1,0 +1,4 @@
+pkg: vacumm-data
+build: vacumm-data-1.2.0-py_0
+install: vacumm-data==1.2.0
+pip_check: "No broken requirements found.\n"
