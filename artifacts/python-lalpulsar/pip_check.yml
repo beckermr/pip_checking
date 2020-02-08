@@ -1,0 +1,4 @@
+pkg: python-lalpulsar
+build: python-lalpulsar-1.18.0-py37h1c7146f_3
+install: python-lalpulsar==1.18.0
+pip_check: "No broken requirements found.\n"
