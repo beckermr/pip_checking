@@ -1,0 +1,4 @@
+pkg: dcgp-python
+build: dcgp-python-1.3-py37h8339ed1_1
+install: dcgp-python==1.3
+pip_check: "No broken requirements found.\n"
