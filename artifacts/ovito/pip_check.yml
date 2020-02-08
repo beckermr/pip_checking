@@ -1,0 +1,4 @@
+pkg: ovito
+build: ovito-2.9.0-py37h416b9a0_1
+install: ovito==2.9.0
+pip_check: "No broken requirements found.\n"
