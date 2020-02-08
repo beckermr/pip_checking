@@ -1,0 +1,5 @@
+pkg: pytest-virtualenv
+build: pytest-virtualenv-1.7.0-py_0
+install: pytest-virtualenv==1.7.0
+pip_check: "pytest-virtualenv 1.7.0 requires virtualenv, which is not installed.\n\
+  pytest-shutil 1.7.0 requires path-py, which is not installed.\n"
