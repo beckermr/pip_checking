@@ -1,0 +1,4 @@
+pkg: bonsu
+build: bonsu-3.0.0-py37h2e61c38_1
+install: bonsu==3.0.0
+pip_check: "No broken requirements found.\n"
