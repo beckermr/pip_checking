@@ -1,0 +1,4 @@
+pkg: pycraf
+build: pycraf-0.25.8-py37hc9558a2_1
+install: pycraf==0.25.8
+pip_check: "No broken requirements found.\n"
