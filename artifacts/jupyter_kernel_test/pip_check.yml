@@ -1,0 +1,4 @@
+pkg: jupyter_kernel_test
+build: jupyter_kernel_test-0.3-py_2
+install: jupyter_kernel_test==0.3
+pip_check: "No broken requirements found.\n"
