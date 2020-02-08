@@ -1,0 +1,4 @@
+pkg: postgresql-plpython
+build: postgresql-plpython-11.3-py37hf2f33ae_0
+install: postgresql-plpython==11.3
+pip_check: "No broken requirements found.\n"
