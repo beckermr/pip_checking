@@ -1,0 +1,4 @@
+pkg: pyodbc
+build: pyodbc-4.0.27-py37he1b5a44_0
+install: pyodbc==4.0.27
+pip_check: "No broken requirements found.\n"
