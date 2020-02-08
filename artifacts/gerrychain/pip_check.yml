@@ -1,0 +1,5 @@
+pkg: gerrychain
+build: gerrychain-0.2.12-py_0
+install: gerrychain==0.2.12
+pip_check: "gerrychain 0.2.12 requires matplotlib, which is not installed.\ngerrychain\
+  \ 0.2.12 requires scipy, which is not installed.\n"
