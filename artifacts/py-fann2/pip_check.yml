@@ -1,0 +1,4 @@
+pkg: py-fann2
+build: py-fann2-1.1.2-py37h4a8c4bd_1000
+install: py-fann2==1.1.2
+pip_check: "No broken requirements found.\n"
