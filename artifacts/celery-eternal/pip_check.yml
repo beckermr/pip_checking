@@ -1,0 +1,5 @@
+pkg: celery-eternal
+build: celery-eternal-0.0.3-py_0
+install: celery-eternal==0.0.3
+pip_check: "celery 4.4.0 has requirement billiard<4.0,>=3.6.1, but you have billiard\
+  \ 3.6.0.0.\n"
