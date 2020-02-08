@@ -1,0 +1,4 @@
+pkg: acpype
+build: acpype-2019.10.05.12.26-py_0
+install: acpype==2019.10.05.12.26
+pip_check: "No broken requirements found.\n"
