@@ -1,0 +1,4 @@
+pkg: social-auth-core
+build: social-auth-core-1.6.0-py_0
+install: social-auth-core==1.6.0
+pip_check: "No broken requirements found.\n"
