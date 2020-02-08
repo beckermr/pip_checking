@@ -1,0 +1,4 @@
+pkg: xattr
+build: xattr-0.9.6-py37h470a237_0
+install: xattr==0.9.6
+pip_check: "No broken requirements found.\n"
