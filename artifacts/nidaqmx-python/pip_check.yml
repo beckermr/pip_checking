@@ -1,0 +1,4 @@
+pkg: nidaqmx-python
+build: nidaqmx-python-0.5.7-py_3
+install: nidaqmx-python==0.5.7
+pip_check: "No broken requirements found.\n"
