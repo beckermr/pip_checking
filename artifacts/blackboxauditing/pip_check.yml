@@ -1,0 +1,4 @@
+pkg: blackboxauditing
+build: blackboxauditing-0.1.54-py37_0
+install: blackboxauditing==0.1.54
+pip_check: "No broken requirements found.\n"
