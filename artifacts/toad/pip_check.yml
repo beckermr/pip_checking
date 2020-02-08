@@ -1,0 +1,4 @@
+pkg: toad
+build: toad-0.0.58-py37h0b31af3_0
+install: toad==0.0.58
+pip_check: "No broken requirements found.\n"
