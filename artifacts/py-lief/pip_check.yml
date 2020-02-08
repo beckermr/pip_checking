@@ -1,0 +1,4 @@
+pkg: py-lief
+build: py-lief-0.9.0-py37hf484d3e_0
+install: py-lief==0.9.0
+pip_check: "No broken requirements found.\n"
