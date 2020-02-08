@@ -1,0 +1,6 @@
+pkg: limix
+build: limix-3.0.4-py_0
+install: limix==3.0.4
+pip_check: "limix 3.0.4 requires loguru, which is not installed.\nlimix 3.0.4 requires\
+  \ pytest-remfiles, which is not installed.\nlimix 3.0.4 requires qtoml, which is\
+  \ not installed.\n"
