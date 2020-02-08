@@ -1,0 +1,4 @@
+pkg: paramnb
+build: paramnb-2.0.4-py_0
+install: paramnb==2.0.4
+pip_check: "No broken requirements found.\n"
