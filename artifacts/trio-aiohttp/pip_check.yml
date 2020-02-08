@@ -1,0 +1,4 @@
+pkg: trio-aiohttp
+build: trio-aiohttp-0.2.3-py_0
+install: trio-aiohttp==0.2.3
+pip_check: "No broken requirements found.\n"
