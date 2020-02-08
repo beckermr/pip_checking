@@ -1,0 +1,4 @@
+pkg: kiwisolver
+build: kiwisolver-1.0.1-py37h6bb024c_1002
+install: kiwisolver==1.0.1
+pip_check: "No broken requirements found.\n"
