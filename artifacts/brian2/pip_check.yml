@@ -1,0 +1,4 @@
+pkg: brian2
+build: brian2-2.3-py37hc9558a2_0
+install: brian2==2.3
+pip_check: "No broken requirements found.\n"
