@@ -1,0 +1,4 @@
+pkg: mpiplus
+build: mpiplus-v0.0.1-py37_1000
+install: mpiplus==v0.0.1
+pip_check: "No broken requirements found.\n"
