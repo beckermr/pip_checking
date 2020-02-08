@@ -1,0 +1,4 @@
+pkg: larray-editor
+build: larray-editor-0.30-py_0
+install: larray-editor==0.30
+pip_check: "larray-editor 0.30 requires ipykernel, which is not installed.\n"
