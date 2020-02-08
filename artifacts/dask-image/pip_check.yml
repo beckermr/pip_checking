@@ -1,0 +1,4 @@
+pkg: dask-image
+build: dask-image-0.1.2-py_0
+install: dask-image==0.1.2
+pip_check: "No broken requirements found.\n"
