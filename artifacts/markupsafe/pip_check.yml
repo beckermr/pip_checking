@@ -1,0 +1,4 @@
+pkg: markupsafe
+build: markupsafe-1.1.0-py37h470a237_0
+install: markupsafe==1.1.0
+pip_check: "No broken requirements found.\n"
