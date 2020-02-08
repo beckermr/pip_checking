@@ -1,0 +1,9 @@
+pkg: sagemaker_containers
+build: sagemaker_containers-2.6.2-py37h4a8c4bd_0
+install: sagemaker_containers==2.6.2
+pip_check: "sagemaker-containers 2.6.2 requires protobuf, which is not installed.\n\
+  sagemaker-containers 2.6.2 requires scipy, which is not installed.\nsagemaker-containers\
+  \ 2.6.2 requires typing, which is not installed.\nsagemaker-containers 2.6.2 has\
+  \ requirement paramiko==2.4.2, but you have paramiko 2.7.1.\nsagemaker-containers\
+  \ 2.6.2 has requirement psutil==5.4.8, but you have psutil 5.6.7.\nsagemaker-containers\
+  \ 2.6.2 has requirement werkzeug==0.15.5, but you have werkzeug 1.0.0.\n"
