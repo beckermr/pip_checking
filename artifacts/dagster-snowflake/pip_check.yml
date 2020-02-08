@@ -1,0 +1,4 @@
+pkg: dagster-snowflake
+build: dagster-snowflake-0.6.9-py_0
+install: dagster-snowflake==0.6.9
+pip_check: "No broken requirements found.\n"
