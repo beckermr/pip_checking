@@ -1,0 +1,4 @@
+pkg: pytest-freezegun
+build: pytest-freezegun-0.3.0.post1-py_0
+install: pytest-freezegun==0.3.0.post1
+pip_check: "No broken requirements found.\n"
