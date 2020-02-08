@@ -1,0 +1,4 @@
+pkg: msrest
+build: msrest-0.6.8-py_0
+install: msrest==0.6.8
+pip_check: "No broken requirements found.\n"
