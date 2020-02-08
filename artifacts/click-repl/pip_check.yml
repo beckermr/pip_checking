@@ -1,0 +1,4 @@
+pkg: click-repl
+build: click-repl-0.1.6-py_0
+install: click-repl==0.1.6
+pip_check: "No broken requirements found.\n"
