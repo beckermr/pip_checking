@@ -1,0 +1,5 @@
+pkg: skidl
+build: skidl-0.0.29-py_0
+install: skidl==0.0.29
+pip_check: "wxpython 4.0.7.post2 requires numpy, which is not installed.\nwxpython\
+  \ 4.0.7.post2 requires pillow, which is not installed.\n"
