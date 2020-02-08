@@ -1,0 +1,4 @@
+pkg: pysingular
+build: pysingular-0.9.7-py37hd45c4de_0
+install: pysingular==0.9.7
+pip_check: "No broken requirements found.\n"
