@@ -1,0 +1,4 @@
+pkg: psyplot
+build: psyplot-1.2.0-py37_1000
+install: psyplot==1.2.0
+pip_check: "No broken requirements found.\n"
