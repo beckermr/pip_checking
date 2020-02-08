@@ -1,0 +1,4 @@
+pkg: udatetime
+build: udatetime-0.0.16-py37h1de35cc_1002
+install: udatetime==0.0.16
+pip_check: "No broken requirements found.\n"
