@@ -1,0 +1,4 @@
+pkg: cliff
+build: cliff-2.15.0-py37_0
+install: cliff==2.15.0
+pip_check: "No broken requirements found.\n"
