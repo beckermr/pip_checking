@@ -1,0 +1,4 @@
+pkg: pipdeptree
+build: pipdeptree-0.13.2-py_0
+install: pipdeptree==0.13.2
+pip_check: "No broken requirements found.\n"
