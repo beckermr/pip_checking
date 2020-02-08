@@ -1,0 +1,4 @@
+pkg: jieba
+build: jieba-0.39-py_1
+install: jieba==0.39
+pip_check: "No broken requirements found.\n"
