@@ -1,0 +1,4 @@
+pkg: smp
+build: smp-0.1.4-py_0
+install: smp==0.1.4
+pip_check: "No broken requirements found.\n"
