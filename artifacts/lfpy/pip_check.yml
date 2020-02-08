@@ -1,0 +1,4 @@
+pkg: lfpy
+build: lfpy-2.0.2-py37h516909a_0
+install: lfpy==2.0.2
+pip_check: "No broken requirements found.\n"
