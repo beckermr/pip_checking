@@ -1,0 +1,4 @@
+pkg: google-api-python-client
+build: google-api-python-client-1.7.9-py_0
+install: google-api-python-client==1.7.9
+pip_check: "No broken requirements found.\n"
