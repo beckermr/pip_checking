@@ -1,0 +1,4 @@
+pkg: pymt_ecsimplesnow
+build: pymt_ecsimplesnow-0.2.4-py37hd44dcd8_0
+install: pymt_ecsimplesnow==0.2.4
+pip_check: "No broken requirements found.\n"
