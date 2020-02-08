@@ -1,0 +1,4 @@
+pkg: pyupgrade
+build: pyupgrade-1.25.0-py37_0
+install: pyupgrade==1.25.0
+pip_check: "No broken requirements found.\n"
