@@ -1,0 +1,4 @@
+pkg: marisa-trie
+build: marisa-trie-0.7.5-py37hfc679d8_0
+install: marisa-trie==0.7.5
+pip_check: "No broken requirements found.\n"
