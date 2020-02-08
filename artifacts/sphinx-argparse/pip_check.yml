@@ -1,0 +1,4 @@
+pkg: sphinx-argparse
+build: sphinx-argparse-0.2.2-py_2
+install: sphinx-argparse==0.2.2
+pip_check: "No broken requirements found.\n"
