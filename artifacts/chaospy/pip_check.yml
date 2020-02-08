@@ -1,0 +1,4 @@
+pkg: chaospy
+build: chaospy-2.2.5-py_0
+install: chaospy==2.2.5
+pip_check: "No broken requirements found.\n"
