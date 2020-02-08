@@ -1,0 +1,4 @@
+pkg: sparkhpc
+build: sparkhpc-0.3.post4-py_0
+install: sparkhpc==0.3.post4
+pip_check: "No broken requirements found.\n"
