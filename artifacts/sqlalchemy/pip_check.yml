@@ -1,0 +1,4 @@
+pkg: sqlalchemy
+build: sqlalchemy-1.2.16-py37h470a237_0
+install: sqlalchemy==1.2.16
+pip_check: "No broken requirements found.\n"
