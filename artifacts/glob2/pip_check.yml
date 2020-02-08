@@ -1,0 +1,4 @@
+pkg: glob2
+build: glob2-0.6-py_0
+install: glob2==0.6
+pip_check: "No broken requirements found.\n"
