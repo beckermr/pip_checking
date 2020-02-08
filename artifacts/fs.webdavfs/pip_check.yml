@@ -1,0 +1,4 @@
+pkg: fs.webdavfs
+build: fs.webdavfs-0.3.5.3-py37_0
+install: fs.webdavfs==0.3.5.3
+pip_check: "argcomplete 1.11.1 requires importlib-metadata, which is not installed.\n"
