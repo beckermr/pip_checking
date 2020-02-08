@@ -1,0 +1,4 @@
+pkg: snowballstemmer
+build: snowballstemmer-1.2.1-py_1
+install: snowballstemmer==1.2.1
+pip_check: "No broken requirements found.\n"
