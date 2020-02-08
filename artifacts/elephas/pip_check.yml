@@ -1,0 +1,8 @@
+pkg: elephas
+build: elephas-0.4.2-py_0
+install: elephas==0.4.2
+pip_check: "hyperas 0.4.1 requires jupyter, which is not installed.\nelephas 0.4.2\
+  \ requires cython, which is not installed.\ntensorflow 2.0.0 has requirement opt-einsum>=2.3.2,\
+  \ but you have opt-einsum 0+untagged.49.gdbede45.dirty.\npyspark 2.4.0 has requirement\
+  \ py4j==0.10.7, but you have py4j 0.10.8.1.\nhyperopt 0.2.2 has requirement networkx==2.2,\
+  \ but you have networkx 2.4.\n"
