@@ -1,0 +1,4 @@
+pkg: colormath
+build: colormath-3.0.0-py_2
+install: colormath==3.0.0
+pip_check: "No broken requirements found.\n"
