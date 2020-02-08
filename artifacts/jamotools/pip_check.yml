@@ -1,0 +1,4 @@
+pkg: jamotools
+build: jamotools-0.1.10-py_0
+install: jamotools==0.1.10
+pip_check: "No broken requirements found.\n"
