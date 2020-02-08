@@ -1,0 +1,4 @@
+pkg: gast
+build: gast-0.2.0-py_0
+install: gast==0.2.0
+pip_check: "No broken requirements found.\n"
