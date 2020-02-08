@@ -1,0 +1,4 @@
+pkg: shortcutter
+build: shortcutter-0.1.19-py37_0
+install: shortcutter==0.1.19
+pip_check: "No broken requirements found.\n"
