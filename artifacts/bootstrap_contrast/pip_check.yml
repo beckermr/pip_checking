@@ -1,0 +1,4 @@
+pkg: bootstrap_contrast
+build: bootstrap_contrast-0.330-py_0
+install: bootstrap_contrast==0.330
+pip_check: "No broken requirements found.\n"
