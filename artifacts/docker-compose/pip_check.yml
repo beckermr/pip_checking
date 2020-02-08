@@ -1,0 +1,5 @@
+pkg: docker-compose
+build: docker-compose-1.25.0-py37_0
+install: docker-compose==1.25.0
+pip_check: "docker-compose 1.25.0 has requirement PyYAML<5,>=3.10, but you have pyyaml\
+  \ 5.3.\n"
