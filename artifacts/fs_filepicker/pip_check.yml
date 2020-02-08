@@ -1,0 +1,4 @@
+pkg: fs_filepicker
+build: fs_filepicker-0.3.7-py37_3
+install: fs_filepicker==0.3.7
+pip_check: "argcomplete 1.11.1 requires importlib-metadata, which is not installed.\n"
