@@ -1,0 +1,4 @@
+pkg: datalad
+build: datalad-0.11.7-py37_0
+install: datalad==0.11.7
+pip_check: "No broken requirements found.\n"
