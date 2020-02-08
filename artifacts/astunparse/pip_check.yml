@@ -1,0 +1,4 @@
+pkg: astunparse
+build: astunparse-1.6.2-py_0
+install: astunparse==1.6.2
+pip_check: "No broken requirements found.\n"
