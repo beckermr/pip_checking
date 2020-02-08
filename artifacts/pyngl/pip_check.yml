@@ -1,0 +1,4 @@
+pkg: pyngl
+build: pyngl-1.6.1-py37h24fcaf0_1
+install: pyngl==1.6.1
+pip_check: "No broken requirements found.\n"
