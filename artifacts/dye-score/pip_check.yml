@@ -1,0 +1,4 @@
+pkg: dye-score
+build: dye-score-0.7.1-py_0
+install: dye-score==0.7.1
+pip_check: "No broken requirements found.\n"
