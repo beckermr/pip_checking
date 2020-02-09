@@ -1,0 +1,4 @@
+pkg: pytest-repeat
+build: pytest-repeat-0.8.0-py_0
+install: pytest-repeat==0.8.0
+pip_check: "No broken requirements found.\n"
