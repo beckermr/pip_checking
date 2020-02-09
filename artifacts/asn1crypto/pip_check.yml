@@ -1,0 +1,4 @@
+pkg: asn1crypto
+build: asn1crypto-0.24.0-py37_1003
+install: asn1crypto==0.24.0
+pip_check: "No broken requirements found.\n"
