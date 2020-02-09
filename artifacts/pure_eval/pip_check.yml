@@ -1,0 +1,4 @@
+pkg: pure_eval
+build: pure_eval-0.0.3-py_0
+install: pure_eval==0.0.3
+pip_check: "No broken requirements found.\n"
