@@ -1,0 +1,4 @@
+pkg: ros-std-srvs
+build: ros-std-srvs-1.11.2-py37he1b5a44_0
+install: ros-std-srvs==1.11.2
+pip_check: "No broken requirements found.\n"
