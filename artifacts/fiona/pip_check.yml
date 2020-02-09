@@ -1,0 +1,4 @@
+pkg: fiona
+build: fiona-1.8.9.post2-py37hdff7cfa_0
+install: fiona==1.8.9.post2
+pip_check: "No broken requirements found.\n"
