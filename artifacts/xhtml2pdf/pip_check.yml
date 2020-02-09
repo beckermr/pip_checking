@@ -1,0 +1,4 @@
+pkg: xhtml2pdf
+build: xhtml2pdf-0.2.4-py37_0
+install: xhtml2pdf==0.2.4
+pip_check: "No broken requirements found.\n"
