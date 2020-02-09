@@ -1,0 +1,4 @@
+pkg: sregistry-google-compute
+build: sregistry-google-compute-0.2.31-py37_0
+install: sregistry-google-compute==0.2.31
+pip_check: "No broken requirements found.\n"
