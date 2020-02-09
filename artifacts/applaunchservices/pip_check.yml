@@ -1,0 +1,4 @@
+pkg: applaunchservices
+build: applaunchservices-0.2.1-py_0
+install: applaunchservices==0.2.1
+pip_check: "applaunchservices 0.2.1 requires pyobjc, which is not installed.\n"
