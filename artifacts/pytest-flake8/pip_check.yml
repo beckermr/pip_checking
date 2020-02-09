@@ -1,0 +1,4 @@
+pkg: pytest-flake8
+build: pytest-flake8-1.0.2-py37_1001
+install: pytest-flake8==1.0.2
+pip_check: "No broken requirements found.\n"
