@@ -1,0 +1,5 @@
+pkg: warrant
+build: warrant-0.6.1-py_0
+install: warrant==0.6.1
+pip_check: "python-jose-cryptodome 1.3.2 has requirement pycryptodome<3.4.0,>=3.3.1,\
+  \ but you have pycryptodome 3.9.6.\n"
