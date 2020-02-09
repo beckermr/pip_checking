@@ -1,0 +1,4 @@
+pkg: demoshell
+build: demoshell-0.2.0-py37_0
+install: demoshell==0.2.0
+pip_check: "No broken requirements found.\n"
