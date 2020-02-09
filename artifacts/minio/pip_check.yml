@@ -1,0 +1,4 @@
+pkg: minio
+build: minio-4.0.21-py_1
+install: minio==4.0.21
+pip_check: "No broken requirements found.\n"
