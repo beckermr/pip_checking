@@ -1,0 +1,4 @@
+pkg: zope.proxy
+build: zope.proxy-4.3.3-py37h516909a_0
+install: zope.proxy==4.3.3
+pip_check: "No broken requirements found.\n"
