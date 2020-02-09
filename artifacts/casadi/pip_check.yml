@@ -1,0 +1,4 @@
+pkg: casadi
+build: casadi-3.4.5-py37_blas_openblash1522bff_1001
+install: casadi==3.4.5
+pip_check: "No broken requirements found.\n"
