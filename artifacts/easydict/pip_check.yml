@@ -1,0 +1,4 @@
+pkg: easydict
+build: easydict-1.9-py_0
+install: easydict==1.9
+pip_check: "No broken requirements found.\n"
