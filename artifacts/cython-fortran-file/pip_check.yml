@@ -1,0 +1,4 @@
+pkg: cython-fortran-file
+build: cython-fortran-file-v0.1.0-py37hc1659b7_0
+install: cython-fortran-file==v0.1.0
+pip_check: "cython-fortran-file 0.1.0 requires cython, which is not installed.\n"
