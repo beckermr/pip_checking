@@ -1,0 +1,4 @@
+pkg: openpyxl
+build: openpyxl-2.6.3-py_0
+install: openpyxl==2.6.3
+pip_check: "No broken requirements found.\n"
