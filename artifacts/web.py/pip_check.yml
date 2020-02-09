@@ -1,0 +1,5 @@
+pkg: web.py
+build: web.py-0.40-py_0
+install: web.py==0.40
+pip_check: "web-py 0.40 requires cheroot, which is not installed.\nweb-py 0.40 requires\
+  \ markdown, which is not installed.\n"
