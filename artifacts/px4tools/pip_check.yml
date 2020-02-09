@@ -1,0 +1,4 @@
+pkg: px4tools
+build: px4tools-0.9.6-py_1000
+install: px4tools==0.9.6
+pip_check: "px4tools 0.9.6 requires transforms3d, which is not installed.\n"
