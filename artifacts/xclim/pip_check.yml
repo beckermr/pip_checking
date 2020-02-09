@@ -1,0 +1,4 @@
+pkg: xclim
+build: xclim-0.12.2-py_1
+install: xclim==0.12.2
+pip_check: "No broken requirements found.\n"
