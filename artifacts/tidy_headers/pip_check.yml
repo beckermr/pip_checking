@@ -1,0 +1,4 @@
+pkg: tidy_headers
+build: tidy_headers-0.1.0-py_0
+install: tidy_headers==0.1.0
+pip_check: "No broken requirements found.\n"
