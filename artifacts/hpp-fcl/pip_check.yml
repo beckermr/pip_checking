@@ -1,0 +1,4 @@
+pkg: hpp-fcl
+build: hpp-fcl-1.2.1-py37h3e4de3e_0
+install: hpp-fcl==1.2.1
+pip_check: "No broken requirements found.\n"
