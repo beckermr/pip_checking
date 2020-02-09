@@ -1,0 +1,4 @@
+pkg: eo-learn-core
+build: eo-learn-core-0.7.0-py_0
+install: eo-learn-core==0.7.0
+pip_check: "No broken requirements found.\n"
