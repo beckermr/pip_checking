@@ -1,0 +1,4 @@
+pkg: thinkx
+build: thinkx-1.1.3-py37_1001
+install: thinkx==1.1.3
+pip_check: "No broken requirements found.\n"
