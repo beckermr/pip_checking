@@ -1,0 +1,4 @@
+pkg: python-jenkins
+build: python-jenkins-1.2.1-py_0
+install: python-jenkins==1.2.1
+pip_check: "python-jenkins 1.2.1 requires pbr, which is not installed.\n"
