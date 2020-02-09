@@ -1,0 +1,5 @@
+pkg: pysimpleguiwx
+build: pysimpleguiwx-0.15.0-py_0
+install: pysimpleguiwx==0.15.0
+pip_check: "wxpython 4.0.7.post2 requires numpy, which is not installed.\nwxpython\
+  \ 4.0.7.post2 requires pillow, which is not installed.\n"
