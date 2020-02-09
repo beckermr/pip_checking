@@ -1,0 +1,4 @@
+pkg: astropy-healpix
+build: astropy-healpix-0.5-py37hc1659b7_0
+install: astropy-healpix==0.5
+pip_check: "No broken requirements found.\n"
