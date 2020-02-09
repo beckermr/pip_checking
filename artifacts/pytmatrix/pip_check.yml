@@ -1,0 +1,4 @@
+pkg: pytmatrix
+build: pytmatrix-0.3.1-py37h9ac9557_1001
+install: pytmatrix==0.3.1
+pip_check: "No broken requirements found.\n"
