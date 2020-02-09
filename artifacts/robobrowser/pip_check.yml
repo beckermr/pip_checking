@@ -1,0 +1,4 @@
+pkg: robobrowser
+build: robobrowser-0.5.3-py_0
+install: robobrowser==0.5.3
+pip_check: "No broken requirements found.\n"
