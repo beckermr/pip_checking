@@ -1,0 +1,4 @@
+pkg: iso8601
+build: iso8601-0.1.12-py_1
+install: iso8601==0.1.12
+pip_check: "No broken requirements found.\n"
