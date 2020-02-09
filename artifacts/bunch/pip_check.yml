@@ -1,0 +1,4 @@
+pkg: bunch
+build: bunch-1.0.1-py_1
+install: bunch==1.0.1
+pip_check: "No broken requirements found.\n"
