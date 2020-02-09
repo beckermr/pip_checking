@@ -1,0 +1,4 @@
+pkg: rasterio
+build: rasterio-1.0.18-py37h286bbcc_0
+install: rasterio==1.0.18
+pip_check: "No broken requirements found.\n"
