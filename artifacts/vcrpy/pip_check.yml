@@ -1,0 +1,4 @@
+pkg: vcrpy
+build: vcrpy-2.1.0-py37_0
+install: vcrpy==2.1.0
+pip_check: "vcrpy 2.1.0 requires yarl, which is not installed.\n"
