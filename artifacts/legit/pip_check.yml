@@ -1,0 +1,7 @@
+pkg: legit
+build: legit-1.1.0-py_0
+install: legit==1.1.0
+pip_check: "legit 1.1.0 has requirement click==6.7, but you have click 7.0.\nlegit\
+  \ 1.1.0 has requirement crayons==0.1.2, but you have crayons 0.3.0.\nlegit 1.1.0\
+  \ has requirement GitPython==2.1.8, but you have gitpython 3.0.5.\nlegit 1.1.0 has\
+  \ requirement six==1.11.0, but you have six 1.14.0.\n"
