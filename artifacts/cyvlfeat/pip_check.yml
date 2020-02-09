@@ -1,0 +1,4 @@
+pkg: cyvlfeat
+build: cyvlfeat-0.5.1-py37hf327ad1_0
+install: cyvlfeat==0.5.1
+pip_check: "No broken requirements found.\n"
