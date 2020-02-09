@@ -1,0 +1,4 @@
+pkg: python-language-server
+build: python-language-server-0.28.0-py37_0
+install: python-language-server==0.28.0
+pip_check: "No broken requirements found.\n"
