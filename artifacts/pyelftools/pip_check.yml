@@ -1,0 +1,4 @@
+pkg: pyelftools
+build: pyelftools-0.25-py37_1000
+install: pyelftools==0.25
+pip_check: "No broken requirements found.\n"
