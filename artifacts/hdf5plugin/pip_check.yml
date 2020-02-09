@@ -1,0 +1,4 @@
+pkg: hdf5plugin
+build: hdf5plugin-2.1.1-py37h58c409b_0
+install: hdf5plugin==2.1.1
+pip_check: "No broken requirements found.\n"
