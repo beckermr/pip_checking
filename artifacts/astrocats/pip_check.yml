@@ -1,0 +1,4 @@
+pkg: astrocats
+build: astrocats-0.3.37-py_1
+install: astrocats==0.3.37
+pip_check: "No broken requirements found.\n"
