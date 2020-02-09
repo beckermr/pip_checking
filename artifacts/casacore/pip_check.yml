@@ -1,0 +1,4 @@
+pkg: casacore
+build: casacore-2.4.2a0-py37heedb05c_1006
+install: casacore==2.4.2a0
+pip_check: "No broken requirements found.\n"
