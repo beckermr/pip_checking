@@ -1,0 +1,4 @@
+pkg: aubio
+build: aubio-0.4.8-py37h7273d18_1
+install: aubio==0.4.8
+pip_check: "No broken requirements found.\n"
