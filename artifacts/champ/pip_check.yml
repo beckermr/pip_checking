@@ -1,0 +1,5 @@
+pkg: champ
+build: champ-2.0.2-py_0
+install: champ==2.0.2
+pip_check: "champ 2.0.2 requires ipython, which is not installed.\nchamp 2.0.2 requires\
+  \ sklearn, which is not installed.\n"
