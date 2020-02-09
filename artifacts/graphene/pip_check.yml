@@ -1,0 +1,5 @@
+pkg: graphene
+build: graphene-2.1.5-py_0
+install: graphene==2.1.5
+pip_check: "graphene 2.1.5 has requirement aniso8601<=6.0.*,>=3, but you have aniso8601\
+  \ 6.0.0.\n"
