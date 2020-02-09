@@ -1,0 +1,4 @@
+pkg: flask-oidc
+build: flask-oidc-1.4.0-py_0
+install: flask-oidc==1.4.0
+pip_check: "No broken requirements found.\n"
