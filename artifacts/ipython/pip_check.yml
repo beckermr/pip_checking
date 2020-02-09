@@ -1,0 +1,5 @@
+pkg: ipython
+build: ipython-7.0.1-py37h24bf2e0_1000
+install: ipython==7.0.1
+pip_check: "ipython 7.0.1 has requirement prompt_toolkit<2.1.0,>=2.0.0, but you have\
+  \ prompt-toolkit 3.0.3.\n"
