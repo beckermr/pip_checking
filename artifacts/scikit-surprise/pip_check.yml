@@ -1,0 +1,4 @@
+pkg: scikit-surprise
+build: scikit-surprise-1.0.6-py37h7eb728f_1
+install: scikit-surprise==1.0.6
+pip_check: "scikit-surprise 1.0.6 requires scipy, which is not installed.\n"
