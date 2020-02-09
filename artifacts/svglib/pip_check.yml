@@ -1,0 +1,4 @@
+pkg: svglib
+build: svglib-0.9.3-py37_0
+install: svglib==0.9.3
+pip_check: "No broken requirements found.\n"
