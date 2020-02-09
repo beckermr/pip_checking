@@ -1,0 +1,4 @@
+pkg: fastnumbers
+build: fastnumbers-2.1.1-py37h470a237_0
+install: fastnumbers==2.1.1
+pip_check: "No broken requirements found.\n"
