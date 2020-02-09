@@ -1,0 +1,4 @@
+pkg: pandoctools
+build: pandoctools-1.4.1-py37_2
+install: pandoctools==1.4.1
+pip_check: "pandoctools 1.4.1 requires jupyter, which is not installed.\n"
