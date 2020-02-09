@@ -1,0 +1,4 @@
+pkg: polyfempy
+build: polyfempy-0.5.1-py37h6dc7ae4_0
+install: polyfempy==0.5.1
+pip_check: "No broken requirements found.\n"
