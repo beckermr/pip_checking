@@ -1,0 +1,4 @@
+pkg: lyricsmaster
+build: lyricsmaster-2.7.25-py_0
+install: lyricsmaster==2.7.25
+pip_check: "No broken requirements found.\n"
