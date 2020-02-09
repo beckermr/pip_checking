@@ -1,0 +1,4 @@
+pkg: qcfractal-core
+build: qcfractal-core-0.12.0-py37_0
+install: qcfractal-core==0.12.0
+pip_check: "qcfractal 0.12.0 requires pytest, which is not installed.\n"
