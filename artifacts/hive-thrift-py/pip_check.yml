@@ -1,0 +1,4 @@
+pkg: hive-thrift-py
+build: hive-thrift-py-0.0.1-py_1
+install: hive-thrift-py==0.0.1
+pip_check: "No broken requirements found.\n"
