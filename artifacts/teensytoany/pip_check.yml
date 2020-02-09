@@ -1,0 +1,4 @@
+pkg: teensytoany
+build: teensytoany-0.0.20-py_0
+install: teensytoany==0.0.20
+pip_check: "No broken requirements found.\n"
