@@ -1,0 +1,4 @@
+pkg: podaacpy
+build: podaacpy-2.3.0-py37_0
+install: podaacpy==2.3.0
+pip_check: "No broken requirements found.\n"
