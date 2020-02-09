@@ -1,0 +1,4 @@
+pkg: mpi4py-fft
+build: mpi4py-fft-2.0.1-py37hf2d7682_0
+install: mpi4py-fft==2.0.1
+pip_check: "No broken requirements found.\n"
