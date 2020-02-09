@@ -1,0 +1,4 @@
+pkg: sparkmagic
+build: sparkmagic-0.13.1-py_0
+install: sparkmagic==0.13.1
+pip_check: "hdijupyterutils 0.12.9 requires jupyter, which is not installed.\n"
