@@ -1,0 +1,4 @@
+pkg: icet
+build: icet-1.2.2-py37h86cc20e_0
+install: icet==1.2.2
+pip_check: "icet 1.2.2 requires pybind11, which is not installed.\n"
