@@ -1,0 +1,4 @@
+pkg: pytest-ast-back-to-python
+build: pytest-ast-back-to-python-1.2.1-py_0
+install: pytest-ast-back-to-python==1.2.1
+pip_check: "No broken requirements found.\n"
