@@ -1,0 +1,4 @@
+pkg: behave
+build: behave-1.2.6-py37_1000
+install: behave==1.2.6
+pip_check: "No broken requirements found.\n"
