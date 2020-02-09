@@ -1,0 +1,4 @@
+pkg: preprocess
+build: preprocess-1.2.3-py_1
+install: preprocess==1.2.3
+pip_check: "No broken requirements found.\n"
