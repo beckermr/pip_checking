@@ -1,0 +1,4 @@
+pkg: scikit-optimize
+build: scikit-optimize-0.5.2-py_0
+install: scikit-optimize==0.5.2
+pip_check: "No broken requirements found.\n"
