@@ -1,0 +1,4 @@
+pkg: fissix
+build: fissix-18.6a6-py_0
+install: fissix==18.6a6
+pip_check: "No broken requirements found.\n"
