@@ -1,0 +1,4 @@
+pkg: setuptools-markdown
+build: setuptools-markdown-0.4-py_0
+install: setuptools-markdown==0.4
+pip_check: "No broken requirements found.\n"
