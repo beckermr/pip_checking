@@ -1,0 +1,4 @@
+pkg: awscli
+build: awscli-1.16.49-py37_0
+install: awscli==1.16.49
+pip_check: "No broken requirements found.\n"
