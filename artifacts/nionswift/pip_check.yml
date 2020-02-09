@@ -1,0 +1,4 @@
+pkg: nionswift
+build: nionswift-0.14.8-py_0
+install: nionswift==0.14.8
+pip_check: "No broken requirements found.\n"
