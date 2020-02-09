@@ -1,0 +1,4 @@
+pkg: magics
+build: magics-4.1.0-py37h7b117ed_0
+install: magics==4.1.0
+pip_check: "No broken requirements found.\n"
