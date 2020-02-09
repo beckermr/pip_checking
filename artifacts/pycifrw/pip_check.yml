@@ -1,0 +1,4 @@
+pkg: pycifrw
+build: pycifrw-4.4-py37h470a237_0
+install: pycifrw==4.4
+pip_check: "No broken requirements found.\n"
