@@ -1,0 +1,4 @@
+pkg: georasters
+build: georasters-0.5.15-py_1
+install: georasters==0.5.15
+pip_check: "No broken requirements found.\n"
