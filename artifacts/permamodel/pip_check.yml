@@ -1,0 +1,5 @@
+pkg: permamodel
+build: permamodel-0.1.4-py_0
+install: permamodel==0.1.4
+pip_check: "permamodel 0.1.2 requires nose, which is not installed.\npermamodel 0.1.2\
+  \ requires pyyaml, which is not installed.\n"
