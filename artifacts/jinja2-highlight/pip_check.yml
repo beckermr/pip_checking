@@ -1,0 +1,4 @@
+pkg: jinja2-highlight
+build: jinja2-highlight-0.6.1-py_0
+install: jinja2-highlight==0.6.1
+pip_check: "No broken requirements found.\n"
