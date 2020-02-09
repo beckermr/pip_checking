@@ -1,0 +1,4 @@
+pkg: root-dependencies
+build: root-dependencies-6.18.04-py37ha821cc3_25
+install: root-dependencies==6.18.04
+pip_check: "No broken requirements found.\n"
