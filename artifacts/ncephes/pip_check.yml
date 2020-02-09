@@ -1,0 +1,4 @@
+pkg: ncephes
+build: ncephes-1.1.0-py37h470a237_0
+install: ncephes==1.1.0
+pip_check: "ncephes 1.1.0 requires pytest, which is not installed.\n"
