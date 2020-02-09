@@ -1,0 +1,4 @@
+pkg: py6s
+build: py6s-1.7.2-py_1
+install: py6s==1.7.2
+pip_check: "No broken requirements found.\n"
