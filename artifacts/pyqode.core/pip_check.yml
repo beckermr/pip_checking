@@ -1,0 +1,4 @@
+pkg: pyqode.core
+build: pyqode.core-2.12.1-py_0
+install: pyqode.core==2.12.1
+pip_check: "No broken requirements found.\n"
