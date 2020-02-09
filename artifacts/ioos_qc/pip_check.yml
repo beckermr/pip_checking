@@ -1,0 +1,4 @@
+pkg: ioos_qc
+build: ioos_qc-0.2.1-py_0
+install: ioos_qc==0.2.1
+pip_check: "No broken requirements found.\n"
