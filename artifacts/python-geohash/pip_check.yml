@@ -1,0 +1,4 @@
+pkg: python-geohash
+build: python-geohash-0.8.5-py37he1b5a44_0
+install: python-geohash==0.8.5
+pip_check: "No broken requirements found.\n"
