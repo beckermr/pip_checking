@@ -1,0 +1,4 @@
+pkg: yodapy
+build: yodapy-0.3.0b0-py_0
+install: yodapy==0.3.0b0
+pip_check: "No broken requirements found.\n"
