@@ -1,0 +1,5 @@
+pkg: django-wagtail-feeds
+build: django-wagtail-feeds-0.0.8-py_0
+install: django-wagtail-feeds==0.0.8
+pip_check: "wagtail 2.1.2 has requirement Unidecode<1.0,>=0.04.14, but you have unidecode\
+  \ 1.1.1.\n"
