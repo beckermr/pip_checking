@@ -1,0 +1,4 @@
+pkg: ghost.py
+build: ghost.py-0.2.3-py_1
+install: ghost.py==0.2.3
+pip_check: "No broken requirements found.\n"
