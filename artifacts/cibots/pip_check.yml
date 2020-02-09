@@ -1,0 +1,4 @@
+pkg: cibots
+build: cibots-0.3-py37_1001
+install: cibots==0.3
+pip_check: "No broken requirements found.\n"
