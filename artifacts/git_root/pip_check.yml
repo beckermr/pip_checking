@@ -1,0 +1,4 @@
+pkg: git_root
+build: git_root-0.1-py_0
+install: git_root==0.1
+pip_check: "No broken requirements found.\n"
