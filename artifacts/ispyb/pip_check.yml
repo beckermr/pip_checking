@@ -1,0 +1,4 @@
+pkg: ispyb
+build: ispyb-5.4.0-py37_0
+install: ispyb==5.4.0
+pip_check: "No broken requirements found.\n"
