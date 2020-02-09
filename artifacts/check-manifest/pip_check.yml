@@ -1,0 +1,4 @@
+pkg: check-manifest
+build: check-manifest-0.39-py_0
+install: check-manifest==0.39
+pip_check: "No broken requirements found.\n"
