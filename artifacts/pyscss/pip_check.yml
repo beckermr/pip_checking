@@ -1,0 +1,4 @@
+pkg: pyscss
+build: pyscss-1.3.5-py37h14c3975_1001
+install: pyscss==1.3.5
+pip_check: "No broken requirements found.\n"
