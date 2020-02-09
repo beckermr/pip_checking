@@ -1,0 +1,4 @@
+pkg: ordered-set
+build: ordered-set-3.0.0-py_1
+install: ordered-set==3.0.0
+pip_check: "No broken requirements found.\n"
