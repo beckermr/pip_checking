@@ -1,0 +1,4 @@
+pkg: pymca
+build: pymca-5.4.3-py37h3010b51_1000
+install: pymca==5.4.3
+pip_check: "pymca5 5.4.3 requires matplotlib, which is not installed.\n"
