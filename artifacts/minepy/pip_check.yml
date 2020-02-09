@@ -1,0 +1,4 @@
+pkg: minepy
+build: minepy-1.2.4-py37h516909a_0
+install: minepy==1.2.4
+pip_check: "No broken requirements found.\n"
