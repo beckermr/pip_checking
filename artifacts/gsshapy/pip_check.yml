@@ -1,0 +1,5 @@
+pkg: gsshapy
+build: gsshapy-2.3.9-py_1
+install: gsshapy==2.3.9
+pip_check: "mapkit 1.2.6 requires epsg-ident, which is not installed.\ngsshapy 2.3.9\
+  \ requires dask, which is not installed.\n"
