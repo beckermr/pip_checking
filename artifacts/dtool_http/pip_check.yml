@@ -1,0 +1,4 @@
+pkg: dtool_http
+build: dtool_http-0.2.1-py_0
+install: dtool_http==0.2.1
+pip_check: "No broken requirements found.\n"
