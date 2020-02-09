@@ -1,0 +1,4 @@
+pkg: quickfix
+build: quickfix-1.15.1-py37hc9558a2_0
+install: quickfix==1.15.1
+pip_check: "No broken requirements found.\n"
