@@ -1,0 +1,4 @@
+pkg: prompt
+build: prompt-0.4.1-py37_1000
+install: prompt==0.4.1
+pip_check: "No broken requirements found.\n"
