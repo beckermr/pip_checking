@@ -1,0 +1,7 @@
+pkg: s3contents
+build: s3contents-0.1.12-py_0
+install: s3contents==0.1.12
+pip_check: "s3contents 0.1.12 requires nose, which is not installed.\ns3contents 0.1.12\
+  \ has requirement gcsfs==0.1.2, but you have gcsfs 0.6.0.\ns3contents 0.1.12 has\
+  \ requirement ipykernel<5.*, but you have ipykernel 5.1.4.\ns3contents 0.1.12 has\
+  \ requirement s3fs==0.1.5, but you have s3fs 0.4.0.\n"
