@@ -1,0 +1,4 @@
+pkg: sage
+build: sage-8.8-py37hcb32578_0
+install: sage==8.8
+pip_check: "No broken requirements found.\n"
