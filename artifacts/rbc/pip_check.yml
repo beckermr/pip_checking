@@ -1,0 +1,4 @@
+pkg: rbc
+build: rbc-0.2.0dev0-py37_0
+install: rbc==0.2.0dev0
+pip_check: "No broken requirements found.\n"
