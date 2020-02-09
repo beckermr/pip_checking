@@ -1,0 +1,4 @@
+pkg: rauth
+build: rauth-0.7.3-py_0
+install: rauth==0.7.3
+pip_check: "No broken requirements found.\n"
