@@ -1,0 +1,4 @@
+pkg: python-avahi
+build: python-avahi-0.7-py37hb996a4a_0
+install: python-avahi==0.7
+pip_check: "No broken requirements found.\n"
