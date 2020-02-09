@@ -1,0 +1,4 @@
+pkg: django-versatileimagefield
+build: django-versatileimagefield-1.10-py_0
+install: django-versatileimagefield==1.10
+pip_check: "No broken requirements found.\n"
