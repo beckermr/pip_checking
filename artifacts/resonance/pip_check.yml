@@ -1,0 +1,4 @@
+pkg: resonance
+build: resonance-0.20.0-py37_0
+install: resonance==0.20.0
+pip_check: "No broken requirements found.\n"
