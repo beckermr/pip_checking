@@ -1,0 +1,4 @@
+pkg: netcdf4
+build: netcdf4-1.5.1.2-py37hf3213d6_2
+install: netcdf4==1.5.1.2
+pip_check: "No broken requirements found.\n"
