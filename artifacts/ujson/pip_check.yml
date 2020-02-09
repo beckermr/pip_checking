@@ -1,0 +1,4 @@
+pkg: ujson
+build: ujson-1.35-py37h14c3975_1001
+install: ujson==1.35
+pip_check: "No broken requirements found.\n"
