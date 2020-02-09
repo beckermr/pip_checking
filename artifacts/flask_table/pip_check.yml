@@ -1,0 +1,4 @@
+pkg: flask_table
+build: flask_table-0.5.0-py_0
+install: flask_table==0.5.0
+pip_check: "No broken requirements found.\n"
