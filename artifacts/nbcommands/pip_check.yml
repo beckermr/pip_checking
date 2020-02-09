@@ -1,0 +1,7 @@
+pkg: nbcommands
+build: nbcommands-0.3.2-py_0
+install: nbcommands==0.3.2
+pip_check: "nbcommands 0.3.2 has requirement colorama==0.4.1, but you have colorama\
+  \ 0.4.3.\nnbcommands 0.3.2 has requirement nbformat==4.4.0, but you have nbformat\
+  \ 5.0.4.\nnbcommands 0.3.2 has requirement Pygments==2.4.2, but you have pygments\
+  \ 2.5.2.\n"
