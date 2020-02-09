@@ -1,0 +1,4 @@
+pkg: ndf
+build: ndf-0.1.4-py_0
+install: ndf==0.1.4
+pip_check: "ndf 0.1.4 requires pillow, which is not installed.\n"
