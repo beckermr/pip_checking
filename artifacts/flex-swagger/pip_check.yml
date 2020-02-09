@@ -1,0 +1,6 @@
+pkg: flex-swagger
+build: flex-swagger-6.13.2-py_1
+install: flex-swagger==6.13.2
+pip_check: "flex 6.13.2 has requirement click<7,>=3.3, but you have click 7.0.\nflex\
+  \ 6.13.2 has requirement jsonpointer<2,>=1.7, but you have jsonpointer 2.0.\nflex\
+  \ 6.13.2 has requirement PyYAML<4,>=3.11, but you have pyyaml 5.3.\n"
