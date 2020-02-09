@@ -1,0 +1,4 @@
+pkg: gpstime
+build: gpstime-0.3.2-py37_1000
+install: gpstime==0.3.2
+pip_check: "No broken requirements found.\n"
