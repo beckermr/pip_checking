@@ -1,0 +1,4 @@
+pkg: sphinx-astropy
+build: sphinx-astropy-1.0-py_1
+install: sphinx-astropy==1.0
+pip_check: "No broken requirements found.\n"
