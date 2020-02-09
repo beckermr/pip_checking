@@ -1,0 +1,4 @@
+pkg: dagster_pagerduty
+build: dagster_pagerduty-0.6.4-py_0
+install: dagster_pagerduty==0.6.4
+pip_check: "No broken requirements found.\n"
