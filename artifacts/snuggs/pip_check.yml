@@ -1,0 +1,4 @@
+pkg: snuggs
+build: snuggs-1.4.1-py_1
+install: snuggs==1.4.1
+pip_check: "No broken requirements found.\n"
