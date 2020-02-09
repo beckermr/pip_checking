@@ -1,0 +1,5 @@
+pkg: python-gmatelastoplastic
+build: python-gmatelastoplastic-0.0.5-py37hc9558a2_0
+install: python-gmatelastoplastic==0.0.5
+pip_check: "gmatelastoplastic 0.0.5 requires pybind11, which is not installed.\ngmatelastoplastic\
+  \ 0.0.5 requires pyxtensor, which is not installed.\n"
