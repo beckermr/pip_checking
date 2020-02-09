@@ -1,0 +1,4 @@
+pkg: cgroupspy
+build: cgroupspy-0.1.6-py_0
+install: cgroupspy==0.1.6
+pip_check: "No broken requirements found.\n"
