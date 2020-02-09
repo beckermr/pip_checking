@@ -1,0 +1,4 @@
+pkg: imglyb
+build: imglyb-0.4.0-py37h5ca1d4c_0
+install: imglyb==0.4.0
+pip_check: "pyjnius 1.2.1 requires cython, which is not installed.\n"
