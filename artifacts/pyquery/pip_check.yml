@@ -1,0 +1,4 @@
+pkg: pyquery
+build: pyquery-1.4.1-py_0
+install: pyquery==1.4.1
+pip_check: "No broken requirements found.\n"
