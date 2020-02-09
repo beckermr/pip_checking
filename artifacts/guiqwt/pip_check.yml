@@ -1,0 +1,4 @@
+pkg: guiqwt
+build: guiqwt-3.0.3-py37hb3f55d8_2
+install: guiqwt==3.0.3
+pip_check: "No broken requirements found.\n"
