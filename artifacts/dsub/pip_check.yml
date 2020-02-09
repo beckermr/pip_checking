@@ -1,0 +1,5 @@
+pkg: dsub
+build: dsub-0.3.6-py37_0
+install: dsub==0.3.6
+pip_check: "dsub 0.3.6 requires mock, which is not installed.\ndsub 0.3.6 requires\
+  \ parameterized, which is not installed.\n"
