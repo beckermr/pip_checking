@@ -1,0 +1,4 @@
+pkg: djangorestframework-csv
+build: djangorestframework-csv-2.1.0-py_0
+install: djangorestframework-csv==2.1.0
+pip_check: "djangorestframework 3.11.0 requires django, which is not installed.\n"
