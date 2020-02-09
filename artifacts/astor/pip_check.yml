@@ -1,0 +1,4 @@
+pkg: astor
+build: astor-0.7.1-py_0
+install: astor==0.7.1
+pip_check: "No broken requirements found.\n"
