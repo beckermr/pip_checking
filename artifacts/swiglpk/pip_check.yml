@@ -1,0 +1,4 @@
+pkg: swiglpk
+build: swiglpk-4.65.0-py37h367df95_1000
+install: swiglpk==4.65.0
+pip_check: "No broken requirements found.\n"
