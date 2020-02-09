@@ -1,0 +1,4 @@
+pkg: funcsigs
+build: funcsigs-1.0.2-py_2
+install: funcsigs==1.0.2
+pip_check: "No broken requirements found.\n"
