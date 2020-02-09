@@ -1,0 +1,4 @@
+pkg: apipkg
+build: apipkg-1.5-py_0
+install: apipkg==1.5
+pip_check: "No broken requirements found.\n"
