@@ -1,0 +1,4 @@
+pkg: workflows
+build: workflows-1.7.1-py37_0
+install: workflows==1.7.1
+pip_check: "No broken requirements found.\n"
