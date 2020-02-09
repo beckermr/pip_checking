@@ -1,0 +1,4 @@
+pkg: flask-dramatiq
+build: flask-dramatiq-0.6.0-py_0
+install: flask-dramatiq==0.6.0
+pip_check: "No broken requirements found.\n"
