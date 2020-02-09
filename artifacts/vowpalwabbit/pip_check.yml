@@ -1,0 +1,4 @@
+pkg: vowpalwabbit
+build: vowpalwabbit-8.7.0-py37h9de70de_0
+install: vowpalwabbit==8.7.0
+pip_check: "No broken requirements found.\n"
