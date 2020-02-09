@@ -1,0 +1,4 @@
+pkg: flask-security
+build: flask-security-3.0.0-py_0
+install: flask-security==3.0.0
+pip_check: "No broken requirements found.\n"
