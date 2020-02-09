@@ -1,0 +1,4 @@
+pkg: proplot
+build: proplot-0.4.3-py_0
+install: proplot==0.4.3
+pip_check: "No broken requirements found.\n"
