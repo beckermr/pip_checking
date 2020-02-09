@@ -1,0 +1,4 @@
+pkg: pycairo
+build: pycairo-1.18.0-py37h4d1f301_0
+install: pycairo==1.18.0
+pip_check: "No broken requirements found.\n"
