@@ -1,0 +1,4 @@
+pkg: multi_key_dict
+build: multi_key_dict-2.0.3-py_0
+install: multi_key_dict==2.0.3
+pip_check: "No broken requirements found.\n"
