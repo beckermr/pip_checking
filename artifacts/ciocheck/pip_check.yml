@@ -1,0 +1,4 @@
+pkg: ciocheck
+build: ciocheck-0.1.1-py_2
+install: ciocheck==0.1.1
+pip_check: "No broken requirements found.\n"
