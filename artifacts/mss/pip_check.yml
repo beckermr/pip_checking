@@ -1,0 +1,4 @@
+pkg: mss
+build: mss-1.8.2-py37_1
+install: mss==1.8.2
+pip_check: "argcomplete 1.11.1 requires importlib-metadata, which is not installed.\n"
