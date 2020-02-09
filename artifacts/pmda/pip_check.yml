@@ -1,0 +1,5 @@
+pkg: pmda
+build: pmda-0.2.1-py_0
+install: pmda==0.2.1
+pip_check: "mdanalysis 0.20.1 requires mock, which is not installed.\ngsd 2.0.0 requires\
+  \ cython, which is not installed.\n"
