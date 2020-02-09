@@ -1,0 +1,6 @@
+pkg: flower
+build: flower-0.9.3-py37_0
+install: flower==0.9.3
+pip_check: "flower 0.9.3 has requirement tornado<6.0.0,>=4.2.0, but you have tornado\
+  \ 6.0.3.\ncelery 4.4.0 has requirement billiard<4.0,>=3.6.1, but you have billiard\
+  \ 3.6.0.0.\n"
