@@ -1,0 +1,4 @@
+pkg: plyfile
+build: plyfile-0.7-py_0
+install: plyfile==0.7
+pip_check: "No broken requirements found.\n"
