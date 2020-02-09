@@ -1,0 +1,4 @@
+pkg: flask-testing
+build: flask-testing-0.7.1-py_0
+install: flask-testing==0.7.1
+pip_check: "No broken requirements found.\n"
