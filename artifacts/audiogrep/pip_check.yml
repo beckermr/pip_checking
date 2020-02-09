@@ -1,0 +1,4 @@
+pkg: audiogrep
+build: audiogrep-0.1.5-py37_1000
+install: audiogrep==0.1.5
+pip_check: "No broken requirements found.\n"
