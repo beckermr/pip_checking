@@ -1,0 +1,4 @@
+pkg: gwdatafind
+build: gwdatafind-1.0.2-py37_1000
+install: gwdatafind==1.0.2
+pip_check: "No broken requirements found.\n"
