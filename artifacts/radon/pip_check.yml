@@ -1,0 +1,4 @@
+pkg: radon
+build: radon-3.0.3-py_0
+install: radon==3.0.3
+pip_check: "radon 3.0.3 requires future, which is not installed.\n"
