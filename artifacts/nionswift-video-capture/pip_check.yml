@@ -1,0 +1,4 @@
+pkg: nionswift-video-capture
+build: nionswift-video-capture-0.1.0-py_0
+install: nionswift-video-capture==0.1.0
+pip_check: "No broken requirements found.\n"
