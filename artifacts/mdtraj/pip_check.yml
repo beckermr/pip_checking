@@ -1,0 +1,4 @@
+pkg: mdtraj
+build: mdtraj-1.9.2-py37hff88cb2_1000
+install: mdtraj==1.9.2
+pip_check: "No broken requirements found.\n"
