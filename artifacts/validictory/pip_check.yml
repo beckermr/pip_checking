@@ -1,0 +1,4 @@
+pkg: validictory
+build: validictory-1.1.2-py37_1000
+install: validictory==1.1.2
+pip_check: "No broken requirements found.\n"
