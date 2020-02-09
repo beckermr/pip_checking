@@ -1,0 +1,4 @@
+pkg: alabaster
+build: alabaster-0.7.12-py_0
+install: alabaster==0.7.12
+pip_check: "No broken requirements found.\n"
