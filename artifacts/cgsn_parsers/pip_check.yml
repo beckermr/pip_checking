@@ -1,0 +1,4 @@
+pkg: cgsn_parsers
+build: cgsn_parsers-0.2.0-py_0
+install: cgsn_parsers==0.2.0
+pip_check: "cgsn-parsers 0.2.0 requires nose, which is not installed.\n"
