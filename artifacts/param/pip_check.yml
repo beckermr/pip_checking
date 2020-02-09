@@ -1,0 +1,4 @@
+pkg: param
+build: param-1.9.3-py_0
+install: param==1.9.3
+pip_check: "No broken requirements found.\n"
