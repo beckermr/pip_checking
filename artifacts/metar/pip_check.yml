@@ -1,0 +1,4 @@
+pkg: metar
+build: metar-1.7.0-py_0
+install: metar==1.7.0
+pip_check: "No broken requirements found.\n"
