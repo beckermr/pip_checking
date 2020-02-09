@@ -1,0 +1,4 @@
+pkg: pandas-highcharts
+build: pandas-highcharts-0.5.2-py_3
+install: pandas-highcharts==0.5.2
+pip_check: "pandas-highcharts 0.5.2 requires coverage, which is not installed.\n"
