@@ -1,0 +1,4 @@
+pkg: boost
+build: boost-1.68.0-py37h8619c78_1001
+install: boost==1.68.0
+pip_check: "No broken requirements found.\n"
