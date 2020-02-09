@@ -1,0 +1,4 @@
+pkg: parambokeh
+build: parambokeh-0.2.3-py_0
+install: parambokeh==0.2.3
+pip_check: "parambokeh 0.2.3 requires pyviz-comms, which is not installed.\n"
