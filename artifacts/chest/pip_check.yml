@@ -1,0 +1,4 @@
+pkg: chest
+build: chest-0.2.3-py_2
+install: chest==0.2.3
+pip_check: "No broken requirements found.\n"
