@@ -1,0 +1,4 @@
+pkg: pytest-cpp
+build: pytest-cpp-1.0.1-py_0
+install: pytest-cpp==1.0.1
+pip_check: "pytest-cpp 1.0.1 requires colorama, which is not installed.\n"
