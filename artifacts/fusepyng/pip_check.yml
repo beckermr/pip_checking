@@ -1,0 +1,4 @@
+pkg: fusepyng
+build: fusepyng-1.0.7-py_0
+install: fusepyng==1.0.7
+pip_check: "No broken requirements found.\n"
