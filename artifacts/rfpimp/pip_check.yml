@@ -1,0 +1,4 @@
+pkg: rfpimp
+build: rfpimp-1.3.2-py_0
+install: rfpimp==1.3.2
+pip_check: "rfpimp 1.3.2 requires sklearn, which is not installed.\n"
