@@ -1,0 +1,4 @@
+pkg: exrex
+build: exrex-0.10.5-py_0
+install: exrex==0.10.5
+pip_check: "No broken requirements found.\n"
