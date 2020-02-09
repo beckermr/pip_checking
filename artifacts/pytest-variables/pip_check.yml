@@ -1,0 +1,4 @@
+pkg: pytest-variables
+build: pytest-variables-1.7.1-py_1
+install: pytest-variables==1.7.1
+pip_check: "No broken requirements found.\n"
