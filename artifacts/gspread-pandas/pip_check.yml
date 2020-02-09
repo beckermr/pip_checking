@@ -1,0 +1,4 @@
+pkg: gspread-pandas
+build: gspread-pandas-2.1.2-py37_0
+install: gspread-pandas==2.1.2
+pip_check: "No broken requirements found.\n"
