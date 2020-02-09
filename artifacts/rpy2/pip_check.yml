@@ -1,0 +1,4 @@
+pkg: rpy2
+build: rpy2-3.1.0-py37r35hc1659b7_1
+install: rpy2==3.1.0
+pip_check: "rpy2 3.1.0 requires pytest, which is not installed.\n"
