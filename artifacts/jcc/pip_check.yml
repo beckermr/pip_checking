@@ -1,0 +1,4 @@
+pkg: jcc
+build: jcc-3.4-py37hf484d3e_0
+install: jcc==3.4
+pip_check: "No broken requirements found.\n"
