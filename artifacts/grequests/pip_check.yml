@@ -1,0 +1,4 @@
+pkg: grequests
+build: grequests-0.4.0-py_0
+install: grequests==0.4.0
+pip_check: "No broken requirements found.\n"
