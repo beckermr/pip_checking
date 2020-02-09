@@ -1,0 +1,4 @@
+pkg: dawg
+build: dawg-0.7.8-py37he1b5a44_1
+install: dawg==0.7.8
+pip_check: "No broken requirements found.\n"
