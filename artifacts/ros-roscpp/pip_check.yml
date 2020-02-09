@@ -1,0 +1,4 @@
+pkg: ros-roscpp
+build: ros-roscpp-1.14.3-py37h8b68381_1
+install: ros-roscpp==1.14.3
+pip_check: "No broken requirements found.\n"
