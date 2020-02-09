@@ -1,0 +1,4 @@
+pkg: ros-genpy
+build: ros-genpy-0.6.8-py37he1b5a44_0
+install: ros-genpy==0.6.8
+pip_check: "No broken requirements found.\n"
