@@ -1,0 +1,4 @@
+pkg: glances
+build: glances-2.10-py_1
+install: glances==2.10
+pip_check: "No broken requirements found.\n"
