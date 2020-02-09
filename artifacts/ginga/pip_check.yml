@@ -1,0 +1,4 @@
+pkg: ginga
+build: ginga-2.7.0-py_0
+install: ginga==2.7.0
+pip_check: "No broken requirements found.\n"
