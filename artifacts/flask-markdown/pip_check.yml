@@ -1,0 +1,4 @@
+pkg: flask-markdown
+build: flask-markdown-0.3-py_1
+install: flask-markdown==0.3
+pip_check: "No broken requirements found.\n"
