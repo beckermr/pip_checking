@@ -1,0 +1,5 @@
+pkg: issho
+build: issho-0.4.1-py_0
+install: issho==0.4.1
+pip_check: "issho 0.4.1 has requirement cryptography==2.4.2, but you have cryptography\
+  \ 2.8.\n"
