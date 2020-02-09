@@ -1,0 +1,4 @@
+pkg: tika
+build: tika-1.18-py_0
+install: tika==1.18
+pip_check: "No broken requirements found.\n"
