@@ -1,0 +1,4 @@
+pkg: pygpu
+build: pygpu-0.7.6-py37hc1659b7_1000
+install: pygpu==0.7.6
+pip_check: "No broken requirements found.\n"
