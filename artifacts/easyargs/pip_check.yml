@@ -1,0 +1,4 @@
+pkg: easyargs
+build: easyargs-0.9.4-py_0
+install: easyargs==0.9.4
+pip_check: "No broken requirements found.\n"
