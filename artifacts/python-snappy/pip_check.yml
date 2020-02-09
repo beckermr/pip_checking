@@ -1,0 +1,4 @@
+pkg: python-snappy
+build: python-snappy-0.5.3-py37h6416369_1000
+install: python-snappy==0.5.3
+pip_check: "No broken requirements found.\n"
