@@ -1,0 +1,4 @@
+pkg: slackbot
+build: slackbot-0.5.4-py_0
+install: slackbot==0.5.4
+pip_check: "No broken requirements found.\n"
