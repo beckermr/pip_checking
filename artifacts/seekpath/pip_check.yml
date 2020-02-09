@@ -1,0 +1,4 @@
+pkg: seekpath
+build: seekpath-1.9.1-py_0
+install: seekpath==1.9.1
+pip_check: "No broken requirements found.\n"
