@@ -1,0 +1,5 @@
+pkg: python-gmatnonlinearelastic
+build: python-gmatnonlinearelastic-0.0.4-py37hc9558a2_0
+install: python-gmatnonlinearelastic==0.0.4
+pip_check: "gmatnonlinearelastic 0.0.4 requires pybind11, which is not installed.\n\
+  gmatnonlinearelastic 0.0.4 requires pyxtensor, which is not installed.\n"
