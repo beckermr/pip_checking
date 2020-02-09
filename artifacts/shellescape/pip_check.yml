@@ -1,0 +1,4 @@
+pkg: shellescape
+build: shellescape-3.4.1-py_0
+install: shellescape==3.4.1
+pip_check: "No broken requirements found.\n"
