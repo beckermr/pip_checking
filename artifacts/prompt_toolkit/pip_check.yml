@@ -1,0 +1,4 @@
+pkg: prompt_toolkit
+build: prompt_toolkit-2.0.6-py_0
+install: prompt_toolkit==2.0.6
+pip_check: "No broken requirements found.\n"
