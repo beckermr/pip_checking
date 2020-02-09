@@ -1,0 +1,4 @@
+pkg: colcon-package-selection
+build: colcon-package-selection-0.2.5-py_0
+install: colcon-package-selection==0.2.5
+pip_check: "No broken requirements found.\n"
