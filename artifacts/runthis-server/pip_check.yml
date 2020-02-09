@@ -1,0 +1,4 @@
+pkg: runthis-server
+build: runthis-server-0.0.1-py_0
+install: runthis-server==0.0.1
+pip_check: "runthis-server 0.0.1 requires dataclasses, which is not installed.\n"
