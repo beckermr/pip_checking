@@ -1,0 +1,4 @@
+pkg: argon2_cffi
+build: argon2_cffi-19.1.0-py37h516909a_1000
+install: argon2_cffi==19.1.0
+pip_check: "No broken requirements found.\n"
