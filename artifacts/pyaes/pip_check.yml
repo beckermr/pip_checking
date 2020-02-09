@@ -1,0 +1,4 @@
+pkg: pyaes
+build: pyaes-1.6.1-py_0
+install: pyaes==1.6.1
+pip_check: "No broken requirements found.\n"
