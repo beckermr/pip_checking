@@ -1,0 +1,4 @@
+pkg: hyperopt
+build: hyperopt-0.2.2-py_0
+install: hyperopt==0.2.2
+pip_check: "hyperopt 0.2.2 has requirement networkx==2.2, but you have networkx 2.4.\n"
