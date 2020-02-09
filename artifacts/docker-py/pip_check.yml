@@ -1,0 +1,4 @@
+pkg: docker-py
+build: docker-py-3.5.1-py37_1001
+install: docker-py==3.5.1
+pip_check: "No broken requirements found.\n"
