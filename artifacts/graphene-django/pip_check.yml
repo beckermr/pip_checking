@@ -1,0 +1,4 @@
+pkg: graphene-django
+build: graphene-django-2.8.1-py_0
+install: graphene-django==2.8.1
+pip_check: "No broken requirements found.\n"
