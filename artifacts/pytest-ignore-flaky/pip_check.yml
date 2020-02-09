@@ -1,0 +1,4 @@
+pkg: pytest-ignore-flaky
+build: pytest-ignore-flaky-0.1.1-py_0
+install: pytest-ignore-flaky==0.1.1
+pip_check: "No broken requirements found.\n"
