@@ -1,0 +1,5 @@
+pkg: mdanalysis
+build: mdanalysis-0.20.0-py37he1b5a44_0
+install: mdanalysis==0.20.0
+pip_check: "mdanalysis 0.20.0 requires mock, which is not installed.\ngsd 2.0.0 requires\
+  \ cython, which is not installed.\n"
