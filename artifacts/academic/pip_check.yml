@@ -1,0 +1,4 @@
+pkg: academic
+build: academic-0.5.1-py_0
+install: academic==0.5.1
+pip_check: "No broken requirements found.\n"
