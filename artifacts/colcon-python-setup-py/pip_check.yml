@@ -1,0 +1,4 @@
+pkg: colcon-python-setup-py
+build: colcon-python-setup-py-0.2.2-py_0
+install: colcon-python-setup-py==0.2.2
+pip_check: "No broken requirements found.\n"
