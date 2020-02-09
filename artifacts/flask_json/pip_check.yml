@@ -1,0 +1,4 @@
+pkg: flask_json
+build: flask_json-0.3.4-py_0
+install: flask_json==0.3.4
+pip_check: "No broken requirements found.\n"
