@@ -1,0 +1,4 @@
+pkg: pytest-raises
+build: pytest-raises-0.10-py_0
+install: pytest-raises==0.10
+pip_check: "No broken requirements found.\n"
