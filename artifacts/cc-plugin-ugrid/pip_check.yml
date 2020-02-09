@@ -1,0 +1,4 @@
+pkg: cc-plugin-ugrid
+build: cc-plugin-ugrid-0.1.0-py_0
+install: cc-plugin-ugrid==0.1.0
+pip_check: "cf-units 2.1.3 requires cython, which is not installed.\n"
