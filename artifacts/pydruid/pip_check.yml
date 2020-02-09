@@ -1,0 +1,4 @@
+pkg: pydruid
+build: pydruid-0.5.6-py_0
+install: pydruid==0.5.6
+pip_check: "No broken requirements found.\n"
