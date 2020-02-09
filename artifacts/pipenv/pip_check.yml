@@ -1,0 +1,4 @@
+pkg: pipenv
+build: pipenv-2018.5.18-py_0
+install: pipenv==2018.5.18
+pip_check: "No broken requirements found.\n"
