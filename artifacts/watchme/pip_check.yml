@@ -1,0 +1,4 @@
+pkg: watchme
+build: watchme-0.0.27-py_0
+install: watchme==0.0.27
+pip_check: "No broken requirements found.\n"
