@@ -1,0 +1,4 @@
+pkg: botocore
+build: botocore-1.10.45-py_0
+install: botocore==1.10.45
+pip_check: "No broken requirements found.\n"
