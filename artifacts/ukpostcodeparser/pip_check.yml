@@ -1,0 +1,4 @@
+pkg: ukpostcodeparser
+build: ukpostcodeparser-1.1.2-py_0
+install: ukpostcodeparser==1.1.2
+pip_check: "No broken requirements found.\n"
