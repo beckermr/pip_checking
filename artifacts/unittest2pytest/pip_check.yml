@@ -1,0 +1,4 @@
+pkg: unittest2pytest
+build: unittest2pytest-0.4-py_0
+install: unittest2pytest==0.4
+pip_check: "No broken requirements found.\n"
