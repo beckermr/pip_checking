@@ -1,0 +1,4 @@
+pkg: pykerberos
+build: pykerberos-1.2.1-py37h505690d_0
+install: pykerberos==1.2.1
+pip_check: "No broken requirements found.\n"
