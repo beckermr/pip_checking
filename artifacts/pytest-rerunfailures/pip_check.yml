@@ -1,0 +1,4 @@
+pkg: pytest-rerunfailures
+build: pytest-rerunfailures-7.0-py_0
+install: pytest-rerunfailures==7.0
+pip_check: "No broken requirements found.\n"
