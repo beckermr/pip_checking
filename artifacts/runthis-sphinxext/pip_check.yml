@@ -1,0 +1,4 @@
+pkg: runthis-sphinxext
+build: runthis-sphinxext-0.0.1-py_0
+install: runthis-sphinxext==0.0.1
+pip_check: "No broken requirements found.\n"
