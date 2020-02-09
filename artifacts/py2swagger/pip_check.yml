@@ -1,0 +1,4 @@
+pkg: py2swagger
+build: py2swagger-1.0.0-py_0
+install: py2swagger==1.0.0
+pip_check: "No broken requirements found.\n"
