@@ -1,0 +1,4 @@
+pkg: kivy
+build: kivy-1.11.0-py37h2394fcc_0
+install: kivy==1.11.0
+pip_check: "kivy 1.11.0 requires kivy-garden, which is not installed.\n"
