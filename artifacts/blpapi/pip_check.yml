@@ -1,0 +1,4 @@
+pkg: blpapi
+build: blpapi-3.14.0-py37_blpapicpp3.14.3.1_0
+install: blpapi==3.14.0
+pip_check: "No broken requirements found.\n"
