@@ -1,0 +1,4 @@
+pkg: cffi
+build: cffi-1.11.5-py37h5e8e0c9_1
+install: cffi==1.11.5
+pip_check: "No broken requirements found.\n"
