@@ -1,0 +1,4 @@
+pkg: cppcolormap
+build: cppcolormap-0.2.2-py37hc9558a2_0
+install: cppcolormap==0.2.2
+pip_check: "No broken requirements found.\n"
