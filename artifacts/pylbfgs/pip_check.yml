@@ -1,0 +1,4 @@
+pkg: pylbfgs
+build: pylbfgs-0.2.0.13-py37h516909a_0
+install: pylbfgs==0.2.0.13
+pip_check: "No broken requirements found.\n"
