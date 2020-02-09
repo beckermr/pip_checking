@@ -1,0 +1,4 @@
+pkg: jump
+build: jump-0.1-py_1
+install: jump==0.1
+pip_check: "No broken requirements found.\n"
