@@ -1,0 +1,4 @@
+pkg: chainmap
+build: chainmap-1.0.1-py_0
+install: chainmap==1.0.1
+pip_check: "No broken requirements found.\n"
