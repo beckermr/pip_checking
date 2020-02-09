@@ -1,0 +1,4 @@
+pkg: intelhex
+build: intelhex-2.1-py_0
+install: intelhex==2.1
+pip_check: "No broken requirements found.\n"
