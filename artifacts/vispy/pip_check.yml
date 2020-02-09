@@ -1,0 +1,4 @@
+pkg: vispy
+build: vispy-0.6.2-py37hf5ce8a7_0
+install: vispy==0.6.2
+pip_check: "No broken requirements found.\n"
