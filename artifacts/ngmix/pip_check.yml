@@ -1,0 +1,4 @@
+pkg: ngmix
+build: ngmix-1.2.1-py37_0
+install: ngmix==1.2.1
+pip_check: "No broken requirements found.\n"
