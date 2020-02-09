@@ -1,0 +1,4 @@
+pkg: gitdb2
+build: gitdb2-2.0.4-py_0
+install: gitdb2==2.0.4
+pip_check: "No broken requirements found.\n"
