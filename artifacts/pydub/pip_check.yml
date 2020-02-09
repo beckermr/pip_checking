@@ -1,0 +1,4 @@
+pkg: pydub
+build: pydub-0.23.0-py_0
+install: pydub==0.23.0
+pip_check: "No broken requirements found.\n"
