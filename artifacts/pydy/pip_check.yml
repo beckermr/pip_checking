@@ -1,0 +1,4 @@
+pkg: pydy
+build: pydy-0.4.0-py37_1000
+install: pydy==0.4.0
+pip_check: "No broken requirements found.\n"
