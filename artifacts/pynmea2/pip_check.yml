@@ -1,0 +1,4 @@
+pkg: pynmea2
+build: pynmea2-1.15.0-py_0
+install: pynmea2==1.15.0
+pip_check: "No broken requirements found.\n"
