@@ -1,0 +1,4 @@
+pkg: joommfutil
+build: joommfutil-0.8.4-py_1
+install: joommfutil==0.8.4
+pip_check: "No broken requirements found.\n"
