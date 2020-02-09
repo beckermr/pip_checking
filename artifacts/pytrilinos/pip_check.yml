@@ -1,0 +1,4 @@
+pkg: pytrilinos
+build: pytrilinos-12.18.1-py37hf476568_0
+install: pytrilinos==12.18.1
+pip_check: "No broken requirements found.\n"
