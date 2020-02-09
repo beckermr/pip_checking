@@ -1,0 +1,4 @@
+pkg: elfi
+build: elfi-0.7.4-py_0
+install: elfi==0.7.4
+pip_check: "No broken requirements found.\n"
