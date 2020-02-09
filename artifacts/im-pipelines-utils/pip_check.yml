@@ -1,0 +1,4 @@
+pkg: im-pipelines-utils
+build: im-pipelines-utils-2.4.8-py_0
+install: im-pipelines-utils==2.4.8
+pip_check: "im-pipelines-utils 2.4.8 requires future, which is not installed.\n"
