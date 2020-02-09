@@ -1,0 +1,4 @@
+pkg: baycomp
+build: baycomp-1.0.2-py_0
+install: baycomp==1.0.2
+pip_check: "No broken requirements found.\n"
