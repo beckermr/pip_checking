@@ -1,0 +1,4 @@
+pkg: netifaces
+build: netifaces-0.10.8-py37h470a237_0
+install: netifaces==0.10.8
+pip_check: "No broken requirements found.\n"
