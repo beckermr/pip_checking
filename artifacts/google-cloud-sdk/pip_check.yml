@@ -1,0 +1,4 @@
+pkg: google-cloud-sdk
+build: google-cloud-sdk-268.0.0-py37_0
+install: google-cloud-sdk==268.0.0
+pip_check: "No broken requirements found.\n"
