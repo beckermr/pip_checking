@@ -1,0 +1,4 @@
+pkg: jsonpointer
+build: jsonpointer-1.14-py_0
+install: jsonpointer==1.14
+pip_check: "No broken requirements found.\n"
