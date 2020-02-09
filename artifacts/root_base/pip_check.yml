@@ -1,0 +1,4 @@
+pkg: root_base
+build: root_base-6.18.04-py37hda22ef9_24
+install: root_base==6.18.04
+pip_check: "No broken requirements found.\n"
