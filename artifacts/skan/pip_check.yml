@@ -1,0 +1,4 @@
+pkg: skan
+build: skan-0.8-py_0
+install: skan==0.8
+pip_check: "No broken requirements found.\n"
