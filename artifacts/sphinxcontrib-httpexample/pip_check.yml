@@ -1,0 +1,4 @@
+pkg: sphinxcontrib-httpexample
+build: sphinxcontrib-httpexample-0.10.3-py_0
+install: sphinxcontrib-httpexample==0.10.3
+pip_check: "No broken requirements found.\n"
