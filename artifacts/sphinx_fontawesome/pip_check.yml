@@ -1,0 +1,4 @@
+pkg: sphinx_fontawesome
+build: sphinx_fontawesome-0.0.6-py_0
+install: sphinx_fontawesome==0.0.6
+pip_check: "No broken requirements found.\n"
