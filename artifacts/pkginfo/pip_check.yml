@@ -1,0 +1,4 @@
+pkg: pkginfo
+build: pkginfo-1.5.0-py_0
+install: pkginfo==1.5.0
+pip_check: "No broken requirements found.\n"
