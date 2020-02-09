@@ -1,0 +1,4 @@
+pkg: pysocks
+build: pysocks-1.6.8-py37_1002
+install: pysocks==1.6.8
+pip_check: "No broken requirements found.\n"
