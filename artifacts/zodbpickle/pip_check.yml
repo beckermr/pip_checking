@@ -1,0 +1,4 @@
+pkg: zodbpickle
+build: zodbpickle-1.0.2-py37h470a237_0
+install: zodbpickle==1.0.2
+pip_check: "No broken requirements found.\n"
