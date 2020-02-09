@@ -1,0 +1,4 @@
+pkg: descarteslabs
+build: descarteslabs-0.27.0-py37_0
+install: descarteslabs==0.27.0
+pip_check: "No broken requirements found.\n"
