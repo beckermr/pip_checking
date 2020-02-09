@@ -1,0 +1,4 @@
+pkg: bz2file
+build: bz2file-0.98-py_0
+install: bz2file==0.98
+pip_check: "No broken requirements found.\n"
