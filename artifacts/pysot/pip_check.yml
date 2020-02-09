@@ -1,0 +1,4 @@
+pkg: pysot
+build: pysot-0.2.3-py_0
+install: pysot==0.2.3
+pip_check: "pysot 0.2.3 requires scikit-learn, which is not installed.\n"
