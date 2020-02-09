@@ -1,0 +1,4 @@
+pkg: gobject-introspection
+build: gobject-introspection-1.56.1-py37h9e29830_1000
+install: gobject-introspection==1.56.1
+pip_check: "No broken requirements found.\n"
