@@ -1,0 +1,4 @@
+pkg: sacremoses
+build: sacremoses-0.0.35-py_0
+install: sacremoses==0.0.35
+pip_check: "No broken requirements found.\n"
