@@ -1,0 +1,4 @@
+pkg: python-lzo
+build: python-lzo-1.12-py37h3753786_1000
+install: python-lzo==1.12
+pip_check: "No broken requirements found.\n"
