@@ -1,0 +1,4 @@
+pkg: python-annoy
+build: python-annoy-1.14.0-py37hfc679d8_0
+install: python-annoy==1.14.0
+pip_check: "No broken requirements found.\n"
