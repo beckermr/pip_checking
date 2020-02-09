@@ -1,0 +1,4 @@
+pkg: pdvega
+build: pdvega-0.1-py_0
+install: pdvega==0.1
+pip_check: "No broken requirements found.\n"
