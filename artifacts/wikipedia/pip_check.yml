@@ -1,0 +1,4 @@
+pkg: wikipedia
+build: wikipedia-1.4.0-py_2
+install: wikipedia==1.4.0
+pip_check: "No broken requirements found.\n"
