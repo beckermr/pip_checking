@@ -1,0 +1,4 @@
+pkg: galario
+build: galario-1.2.1-py37hf484d3e_1001
+install: galario==1.2.1
+pip_check: "No broken requirements found.\n"
