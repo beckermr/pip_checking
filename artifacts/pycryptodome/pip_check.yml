@@ -1,0 +1,4 @@
+pkg: pycryptodome
+build: pycryptodome-3.6.6-py37h16a7912_0
+install: pycryptodome==3.6.6
+pip_check: "No broken requirements found.\n"
