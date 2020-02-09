@@ -1,0 +1,5 @@
+pkg: flask-socketio
+build: flask-socketio-3.0.0-py_0
+install: flask-socketio==3.0.0
+pip_check: "python-socketio 4.3.0 has requirement python-engineio>=3.9.0, but you\
+  \ have python-engineio 3.0.0.\n"
