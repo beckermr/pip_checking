@@ -1,0 +1,4 @@
+pkg: ezc3d
+build: ezc3d-1.1.1-py37h9de70de_0
+install: ezc3d==1.1.1
+pip_check: "No broken requirements found.\n"
