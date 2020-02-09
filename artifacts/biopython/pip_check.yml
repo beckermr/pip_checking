@@ -1,0 +1,4 @@
+pkg: biopython
+build: biopython-1.74-py37h516909a_0
+install: biopython==1.74
+pip_check: "No broken requirements found.\n"
