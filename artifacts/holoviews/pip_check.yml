@@ -1,0 +1,4 @@
+pkg: holoviews
+build: holoviews-1.12.2-py_0
+install: holoviews==1.12.2
+pip_check: "No broken requirements found.\n"
