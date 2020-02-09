@@ -1,0 +1,4 @@
+pkg: hoomd
+build: hoomd-2.4.1-py37h3e44d54_0
+install: hoomd==2.4.1
+pip_check: "No broken requirements found.\n"
