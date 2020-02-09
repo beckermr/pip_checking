@@ -1,0 +1,4 @@
+pkg: rasterstats
+build: rasterstats-0.14.0-py_0
+install: rasterstats==0.14.0
+pip_check: "No broken requirements found.\n"
