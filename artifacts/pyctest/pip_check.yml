@@ -1,0 +1,4 @@
+pkg: pyctest
+build: pyctest-0.0.10-py37h5abeb6a_0
+install: pyctest==0.0.10
+pip_check: "No broken requirements found.\n"
