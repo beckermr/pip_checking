@@ -1,0 +1,4 @@
+pkg: empath
+build: empath-0.89-py_1
+install: empath==0.89
+pip_check: "No broken requirements found.\n"
