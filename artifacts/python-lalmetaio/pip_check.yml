@@ -1,0 +1,4 @@
+pkg: python-lalmetaio
+build: python-lalmetaio-1.4.0-py37h3010b51_1001
+install: python-lalmetaio==1.4.0
+pip_check: "No broken requirements found.\n"
