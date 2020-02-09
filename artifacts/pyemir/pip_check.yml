@@ -1,0 +1,4 @@
+pkg: pyemir
+build: pyemir-0.14-py37_0
+install: pyemir==0.14
+pip_check: "No broken requirements found.\n"
