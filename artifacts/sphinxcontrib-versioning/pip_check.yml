@@ -1,0 +1,4 @@
+pkg: sphinxcontrib-versioning
+build: sphinxcontrib-versioning-2.2.1-py_0
+install: sphinxcontrib-versioning==2.2.1
+pip_check: "No broken requirements found.\n"
