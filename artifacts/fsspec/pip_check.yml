@@ -1,0 +1,4 @@
+pkg: fsspec
+build: fsspec-0.2.1-py_0
+install: fsspec==0.2.1
+pip_check: "No broken requirements found.\n"
