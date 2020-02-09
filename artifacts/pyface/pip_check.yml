@@ -1,0 +1,4 @@
+pkg: pyface
+build: pyface-6.1.0-py_1
+install: pyface==6.1.0
+pip_check: "traits 5.2.0 requires six, which is not installed.\n"
