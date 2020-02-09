@@ -1,0 +1,5 @@
+pkg: smart_open
+build: smart_open-1.7.0-py_1
+install: smart_open==1.7.0
+pip_check: "smart-open 1.7.0 has requirement boto3<1.8.0, but you have boto3 1.11.13.\n\
+  smart-open 1.7.0 has requirement botocore<1.11.0, but you have botocore 1.14.13.\n"
