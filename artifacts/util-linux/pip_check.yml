@@ -1,0 +1,4 @@
+pkg: util-linux
+build: util-linux-2.35-py37h65e512c_0
+install: util-linux==2.35
+pip_check: "No broken requirements found.\n"
