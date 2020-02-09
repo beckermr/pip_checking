@@ -1,0 +1,4 @@
+pkg: ecflow
+build: ecflow-5.1.0-py37h5c53c4e_0
+install: ecflow==5.1.0
+pip_check: "No broken requirements found.\n"
