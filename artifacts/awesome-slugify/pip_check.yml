@@ -1,0 +1,5 @@
+pkg: awesome-slugify
+build: awesome-slugify-1.6.5-py_2
+install: awesome-slugify==1.6.5
+pip_check: "awesome-slugify 1.6.5 has requirement Unidecode<0.05,>=0.04.14, but you\
+  \ have unidecode 1.1.1.\n"
