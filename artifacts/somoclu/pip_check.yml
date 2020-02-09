@@ -1,0 +1,4 @@
+pkg: somoclu
+build: somoclu-1.7.5-py37hf8a1672_1
+install: somoclu==1.7.5
+pip_check: "No broken requirements found.\n"
