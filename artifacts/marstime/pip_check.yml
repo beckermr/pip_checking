@@ -1,0 +1,4 @@
+pkg: marstime
+build: marstime-0.5.6-py_0
+install: marstime==0.5.6
+pip_check: "No broken requirements found.\n"
