@@ -1,0 +1,6 @@
+pkg: nodebook
+build: nodebook-0.2.1-py_0
+install: nodebook==0.2.1
+pip_check: "nodebook 0.2.1 requires jupyter, which is not installed.\nnodebook 0.2.1\
+  \ requires msgpack-python, which is not installed.\nnodebook 0.2.1 requires pytest-runner,\
+  \ which is not installed.\n"
