@@ -1,0 +1,4 @@
+pkg: biotite
+build: biotite-0.19.2-py37h516909a_2
+install: biotite==0.19.2
+pip_check: "No broken requirements found.\n"
