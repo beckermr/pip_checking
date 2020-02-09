@@ -1,0 +1,4 @@
+pkg: libsass
+build: libsass-0.19.4-py37he1b5a44_0
+install: libsass==0.19.4
+pip_check: "No broken requirements found.\n"
