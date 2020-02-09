@@ -1,0 +1,4 @@
+pkg: ibis-framework
+build: ibis-framework-1.2.0-py_0
+install: ibis-framework==1.2.0
+pip_check: "clickhouse-driver 0.1.2 requires tzlocal, which is not installed.\n"
