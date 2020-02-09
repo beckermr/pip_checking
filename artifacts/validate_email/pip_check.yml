@@ -1,0 +1,4 @@
+pkg: validate_email
+build: validate_email-1.3-py_3
+install: validate_email==1.3
+pip_check: "No broken requirements found.\n"
