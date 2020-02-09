@@ -1,0 +1,4 @@
+pkg: kenjutsu
+build: kenjutsu-0.5.1-py_1
+install: kenjutsu==0.5.1
+pip_check: "No broken requirements found.\n"
