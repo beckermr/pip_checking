@@ -1,0 +1,4 @@
+pkg: pyscreeze
+build: pyscreeze-0.1.24-py_0
+install: pyscreeze==0.1.24
+pip_check: "No broken requirements found.\n"
