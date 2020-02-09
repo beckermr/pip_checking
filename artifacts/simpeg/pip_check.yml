@@ -1,0 +1,4 @@
+pkg: simpeg
+build: simpeg-0.13.1-py_1
+install: simpeg==0.13.1
+pip_check: "No broken requirements found.\n"
