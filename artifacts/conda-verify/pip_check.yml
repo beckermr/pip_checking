@@ -1,0 +1,4 @@
+pkg: conda-verify
+build: conda-verify-3.1.1-py37_1000
+install: conda-verify==3.1.1
+pip_check: "No broken requirements found.\n"
