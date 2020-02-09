@@ -1,0 +1,5 @@
+pkg: sciluigi
+build: sciluigi-0.9.6b7-py_0
+install: sciluigi==0.9.6b7
+pip_check: "python-daemon 2.2.4 requires docutils, which is not installed.\nluigi\
+  \ 2.8.10 has requirement python-daemon<2.2.0, but you have python-daemon 2.2.4.\n"
