@@ -1,0 +1,4 @@
+pkg: ratelimiter
+build: ratelimiter-1.2.0-py37_1000
+install: ratelimiter==1.2.0
+pip_check: "No broken requirements found.\n"
