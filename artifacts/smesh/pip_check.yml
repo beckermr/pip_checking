@@ -1,0 +1,4 @@
+pkg: smesh
+build: smesh-8.3.0.3-py37h9d11a7d_7
+install: smesh==8.3.0.3
+pip_check: "No broken requirements found.\n"
