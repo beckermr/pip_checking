@@ -1,0 +1,4 @@
+pkg: google-resumable-media
+build: google-resumable-media-0.5.0-py_1
+install: google-resumable-media==0.5.0
+pip_check: "No broken requirements found.\n"
