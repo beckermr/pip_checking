@@ -1,0 +1,4 @@
+pkg: mlflow
+build: mlflow-1.6.0-py37_0
+install: mlflow==1.6.0
+pip_check: "No broken requirements found.\n"
