@@ -1,0 +1,4 @@
+pkg: django-nested-admin
+build: django-nested-admin-3.2.2-py_0
+install: django-nested-admin==3.2.2
+pip_check: "No broken requirements found.\n"
