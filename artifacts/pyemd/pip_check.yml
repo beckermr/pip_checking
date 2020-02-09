@@ -1,0 +1,4 @@
+pkg: pyemd
+build: pyemd-0.5.1-py37h637b7d7_1000
+install: pyemd==0.5.1
+pip_check: "No broken requirements found.\n"
