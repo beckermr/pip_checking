@@ -1,0 +1,5 @@
+pkg: xenon
+build: xenon-0.6.0-py_0
+install: xenon==0.6.0
+pip_check: "radon 4.1.0 requires future, which is not installed.\nradon 4.1.0 has\
+  \ requirement colorama==0.4.1, but you have colorama 0.4.3.\n"
