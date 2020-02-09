@@ -1,0 +1,4 @@
+pkg: tabula-py
+build: tabula-py-1.4.1-py37_0
+install: tabula-py==1.4.1
+pip_check: "No broken requirements found.\n"
