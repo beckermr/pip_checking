@@ -1,0 +1,5 @@
+pkg: sphinx-autobuild
+build: sphinx-autobuild-0.7.1-py_1
+install: sphinx-autobuild==0.7.1
+pip_check: "sphinx-autobuild 0.7.1 has requirement port-for==0.3.1, but you have port-for\
+  \ 0.4.\n"
