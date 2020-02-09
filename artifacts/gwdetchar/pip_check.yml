@@ -1,0 +1,4 @@
+pkg: gwdetchar
+build: gwdetchar-0.2.3-py37_0
+install: gwdetchar==0.2.3
+pip_check: "No broken requirements found.\n"
