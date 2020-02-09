@@ -1,0 +1,4 @@
+pkg: pyathena
+build: pyathena-1.5.0-py37_0
+install: pyathena==1.5.0
+pip_check: "No broken requirements found.\n"
