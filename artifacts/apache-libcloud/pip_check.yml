@@ -1,0 +1,4 @@
+pkg: apache-libcloud
+build: apache-libcloud-2.4.0-py37_1000
+install: apache-libcloud==2.4.0
+pip_check: "No broken requirements found.\n"
