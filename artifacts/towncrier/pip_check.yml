@@ -1,0 +1,4 @@
+pkg: towncrier
+build: towncrier-19.2.0-py_0
+install: towncrier==19.2.0
+pip_check: "No broken requirements found.\n"
