@@ -1,0 +1,4 @@
+pkg: progressbar33
+build: progressbar33-2.4-py_0
+install: progressbar33==2.4
+pip_check: "No broken requirements found.\n"
