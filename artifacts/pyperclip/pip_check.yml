@@ -1,0 +1,4 @@
+pkg: pyperclip
+build: pyperclip-1.7.0-py_0
+install: pyperclip==1.7.0
+pip_check: "No broken requirements found.\n"
