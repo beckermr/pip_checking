@@ -1,0 +1,4 @@
+pkg: sygma
+build: sygma-1.1.1-py_0
+install: sygma==1.1.1
+pip_check: "sygma 1.1.0 requires future, which is not installed.\n"
