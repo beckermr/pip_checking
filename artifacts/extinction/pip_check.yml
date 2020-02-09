@@ -1,0 +1,4 @@
+pkg: extinction
+build: extinction-0.4.0-py37hc1659b7_0
+install: extinction==0.4.0
+pip_check: "No broken requirements found.\n"
