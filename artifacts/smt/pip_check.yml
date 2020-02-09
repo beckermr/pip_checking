@@ -1,0 +1,6 @@
+pkg: smt
+build: smt-0.2.2-py37hf8a1672_0
+install: smt==0.2.2
+pip_check: "smt 0.2.2 requires matplotlib, which is not installed.\nsmt 0.2.2 requires\
+  \ numpydoc, which is not installed.\nsmt 0.2.2 has requirement scikit-learn<0.20.0,>=0.19.0,\
+  \ but you have scikit-learn 0.22.1.\n"
