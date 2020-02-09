@@ -1,0 +1,4 @@
+pkg: ldaptor
+build: ldaptor-19.1.0-py_0
+install: ldaptor==19.1.0
+pip_check: "ldaptor 19.1.0 requires passlib, which is not installed.\n"
