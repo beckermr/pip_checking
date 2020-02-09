@@ -1,0 +1,4 @@
+pkg: root-binaries
+build: root-binaries-6.18.04-py37h43da065_21
+install: root-binaries==6.18.04
+pip_check: "No broken requirements found.\n"
