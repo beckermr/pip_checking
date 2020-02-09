@@ -1,0 +1,4 @@
+pkg: hs_restclient
+build: hs_restclient-1.3.4-py_0
+install: hs_restclient==1.3.4
+pip_check: "No broken requirements found.\n"
