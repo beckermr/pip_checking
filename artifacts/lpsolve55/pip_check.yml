@@ -1,0 +1,4 @@
+pkg: lpsolve55
+build: lpsolve55-5.5-py37hc1659b7_1001
+install: lpsolve55==5.5
+pip_check: "No broken requirements found.\n"
