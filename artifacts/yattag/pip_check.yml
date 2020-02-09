@@ -1,0 +1,4 @@
+pkg: yattag
+build: yattag-1.13.1-py_0
+install: yattag==1.13.1
+pip_check: "yattag 1.13.1 requires typing, which is not installed.\n"
