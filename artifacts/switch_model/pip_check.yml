@@ -1,0 +1,4 @@
+pkg: switch_model
+build: switch_model-2.0.4-py_0
+install: switch_model==2.0.4
+pip_check: "No broken requirements found.\n"
