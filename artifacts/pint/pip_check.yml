@@ -1,0 +1,4 @@
+pkg: pint
+build: pint-0.9-py37_1
+install: pint==0.9
+pip_check: "No broken requirements found.\n"
