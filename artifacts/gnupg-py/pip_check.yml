@@ -1,0 +1,4 @@
+pkg: gnupg-py
+build: gnupg-py-2.3.1-py_0
+install: gnupg-py==2.3.1
+pip_check: "No broken requirements found.\n"
