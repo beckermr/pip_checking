@@ -1,0 +1,4 @@
+pkg: paste
+build: paste-3.3.0-py37_0
+install: paste==3.3.0
+pip_check: "No broken requirements found.\n"
