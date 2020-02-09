@@ -1,0 +1,4 @@
+pkg: f90nml
+build: f90nml-1.1.2-py37_0
+install: f90nml==1.1.2
+pip_check: "No broken requirements found.\n"
