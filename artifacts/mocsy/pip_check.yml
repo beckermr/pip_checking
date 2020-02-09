@@ -1,0 +1,4 @@
+pkg: mocsy
+build: mocsy-2.4.0-py37h18b3941_0
+install: mocsy==2.4.0
+pip_check: "No broken requirements found.\n"
