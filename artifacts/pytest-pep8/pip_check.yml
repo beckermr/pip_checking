@@ -1,0 +1,4 @@
+pkg: pytest-pep8
+build: pytest-pep8-1.0.6-py_2
+install: pytest-pep8==1.0.6
+pip_check: "No broken requirements found.\n"
