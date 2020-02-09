@@ -1,0 +1,4 @@
+pkg: vic
+build: vic-5.0.1-py37hf508c32_3
+install: vic==5.0.1
+pip_check: "No broken requirements found.\n"
