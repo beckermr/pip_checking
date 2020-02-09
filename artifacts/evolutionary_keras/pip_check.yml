@@ -1,0 +1,6 @@
+pkg: evolutionary_keras
+build: evolutionary_keras-1.0.0-py_0
+install: evolutionary_keras==1.0.0
+pip_check: "evolutionary-keras 1.0.0 requires recommonmark, which is not installed.\n\
+  evolutionary-keras 1.0.0 requires sphinx-rtd-theme, which is not installed.\ntensorflow\
+  \ 2.0.0 has requirement opt-einsum>=2.3.2, but you have opt-einsum 0+untagged.49.gdbede45.dirty.\n"
