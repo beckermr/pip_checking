@@ -1,0 +1,4 @@
+pkg: attrs
+build: attrs-19.1.0-py_0
+install: attrs==19.1.0
+pip_check: "No broken requirements found.\n"
