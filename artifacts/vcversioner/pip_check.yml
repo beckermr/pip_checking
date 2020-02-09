@@ -1,0 +1,4 @@
+pkg: vcversioner
+build: vcversioner-2.16.0.0-py_1
+install: vcversioner==2.16.0.0
+pip_check: "No broken requirements found.\n"
