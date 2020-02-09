@@ -1,0 +1,4 @@
+pkg: pytest-notification
+build: pytest-notification-0.1.0-py_0
+install: pytest-notification==0.1.0
+pip_check: "No broken requirements found.\n"
