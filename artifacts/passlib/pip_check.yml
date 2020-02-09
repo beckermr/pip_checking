@@ -1,0 +1,4 @@
+pkg: passlib
+build: passlib-1.7.1-py_0
+install: passlib==1.7.1
+pip_check: "No broken requirements found.\n"
