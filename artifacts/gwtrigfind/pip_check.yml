@@ -1,0 +1,4 @@
+pkg: gwtrigfind
+build: gwtrigfind-0.7.0-py_0
+install: gwtrigfind==0.7.0
+pip_check: "No broken requirements found.\n"
