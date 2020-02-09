@@ -1,0 +1,4 @@
+pkg: pytide
+build: pytide-1.2.0-py37h9de70de_0
+install: pytide==1.2.0
+pip_check: "No broken requirements found.\n"
