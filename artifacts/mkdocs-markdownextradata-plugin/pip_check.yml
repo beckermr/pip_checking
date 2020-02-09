@@ -1,0 +1,4 @@
+pkg: mkdocs-markdownextradata-plugin
+build: mkdocs-markdownextradata-plugin-0.0.6-py_0
+install: mkdocs-markdownextradata-plugin==0.0.6
+pip_check: "No broken requirements found.\n"
