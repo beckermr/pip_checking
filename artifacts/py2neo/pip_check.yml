@@ -1,0 +1,7 @@
+pkg: py2neo
+build: py2neo-4.2.0-py_1
+install: py2neo==4.2.0
+pip_check: "py2neo 4.2.0 has requirement prompt-toolkit<2.1,>=2.0.7, but you have\
+  \ prompt-toolkit 3.0.3.\npy2neo 4.2.0 has requirement pygments<2.4,>=2.3.0, but\
+  \ you have pygments 2.5.2.\npy2neo 4.2.0 has requirement urllib3[secure]<1.25,>=1.23,\
+  \ but you have urllib3 1.25.7.\n"
