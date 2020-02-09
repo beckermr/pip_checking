@@ -1,0 +1,4 @@
+pkg: pyodeint
+build: pyodeint-0.10.1-py37h4881e95_1000
+install: pyodeint==0.10.1
+pip_check: "No broken requirements found.\n"
