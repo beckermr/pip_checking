@@ -1,0 +1,4 @@
+pkg: wordcloud
+build: wordcloud-1.5.0-py37h14c3975_1000
+install: wordcloud==1.5.0
+pip_check: "No broken requirements found.\n"
