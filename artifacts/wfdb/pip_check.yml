@@ -1,0 +1,4 @@
+pkg: wfdb
+build: wfdb-2.0.3-py_0
+install: wfdb==2.0.3
+pip_check: "wfdb 2.0.3 requires sklearn, which is not installed.\n"
