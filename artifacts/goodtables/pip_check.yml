@@ -1,0 +1,4 @@
+pkg: goodtables
+build: goodtables-2.2.0-py37_0
+install: goodtables==2.2.0
+pip_check: "goodtables 2.2.0 requires statistics, which is not installed.\n"
