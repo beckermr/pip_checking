@@ -1,0 +1,4 @@
+pkg: backports.lzma
+build: backports.lzma-0.0.14-py37hf26bc8e_1
+install: backports.lzma==0.0.14
+pip_check: "No broken requirements found.\n"
