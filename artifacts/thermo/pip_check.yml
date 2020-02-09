@@ -1,0 +1,4 @@
+pkg: thermo
+build: thermo-0.1.39-py_0
+install: thermo==0.1.39
+pip_check: "No broken requirements found.\n"
