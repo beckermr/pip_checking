@@ -1,0 +1,4 @@
+pkg: django-crispy-forms
+build: django-crispy-forms-1.8.0-py_0
+install: django-crispy-forms==1.8.0
+pip_check: "No broken requirements found.\n"
