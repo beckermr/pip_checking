@@ -1,0 +1,4 @@
+pkg: auditwheel
+build: auditwheel-2.1.0-py37_0
+install: auditwheel==2.1.0
+pip_check: "auditwheel 2.1.0 has requirement wheel==0.31.1, but you have wheel 0.34.2.\n"
