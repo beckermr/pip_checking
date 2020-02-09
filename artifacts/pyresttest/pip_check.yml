@@ -1,0 +1,4 @@
+pkg: pyresttest
+build: pyresttest-1.7.1-py37_1000
+install: pyresttest==1.7.1
+pip_check: "No broken requirements found.\n"
