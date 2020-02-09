@@ -1,0 +1,4 @@
+pkg: mms-python-adapter
+build: mms-python-adapter-1.2.5-py_0
+install: mms-python-adapter==1.2.5
+pip_check: "No broken requirements found.\n"
