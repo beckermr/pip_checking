@@ -1,0 +1,4 @@
+pkg: otpod
+build: otpod-0.4-py_0
+install: otpod==0.4
+pip_check: "otpod 0.4 requires logging, which is not installed.\n"
