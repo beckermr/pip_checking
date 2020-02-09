@@ -1,0 +1,4 @@
+pkg: responses
+build: responses-0.9.0-py_0
+install: responses==0.9.0
+pip_check: "responses 0.9.0 requires mock, which is not installed.\n"
