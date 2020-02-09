@@ -1,0 +1,4 @@
+pkg: conda-merge
+build: conda-merge-0.1.5-py_0
+install: conda-merge==0.1.5
+pip_check: "No broken requirements found.\n"
