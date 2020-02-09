@@ -1,0 +1,5 @@
+pkg: mosfit
+build: mosfit-1.1.6-py37_0
+install: mosfit==1.1.6
+pip_check: "mosfit 1.1.6 requires dynesty, which is not installed.\nmosfit 1.1.6 has\
+  \ requirement emcee>=2.2.1, but you have emcee 0.0.0.\n"
