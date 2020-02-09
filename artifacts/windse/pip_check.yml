@@ -1,0 +1,4 @@
+pkg: windse
+build: windse-2018.1.0_0.8-py_0
+install: windse==2018.1.0_0.8
+pip_check: "No broken requirements found.\n"
