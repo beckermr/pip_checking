@@ -1,0 +1,4 @@
+pkg: mkl_random
+build: mkl_random-1.1.0-py37hb3f55d8_0
+install: mkl_random==1.1.0
+pip_check: "No broken requirements found.\n"
