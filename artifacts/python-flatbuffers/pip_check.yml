@@ -1,0 +1,4 @@
+pkg: python-flatbuffers
+build: python-flatbuffers-1.10-py_0
+install: python-flatbuffers==1.10
+pip_check: "No broken requirements found.\n"
