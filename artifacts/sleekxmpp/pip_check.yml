@@ -1,0 +1,4 @@
+pkg: sleekxmpp
+build: sleekxmpp-1.3.3-py_0
+install: sleekxmpp==1.3.3
+pip_check: "No broken requirements found.\n"
