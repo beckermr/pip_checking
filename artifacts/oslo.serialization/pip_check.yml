@@ -1,0 +1,7 @@
+pkg: oslo.serialization
+build: oslo.serialization-2.28.2-py37_0
+install: oslo.serialization==2.28.2
+pip_check: "oslo-serialization 2.28.2 requires msgpack, which is not installed.\n\
+  oslo-serialization 2.28.2 requires oslo-utils, which is not installed.\noslo-serialization\
+  \ 2.28.2 requires pbr, which is not installed.\noslo-serialization 2.28.2 requires\
+  \ pytz, which is not installed.\n"
