@@ -1,0 +1,5 @@
+pkg: celery-redbeat
+build: celery-redbeat-0.13.0-py37_0
+install: celery-redbeat==0.13.0
+pip_check: "celery 4.4.0 has requirement billiard<4.0,>=3.6.1, but you have billiard\
+  \ 3.6.0.0.\n"
