@@ -1,0 +1,4 @@
+pkg: gmpy2
+build: gmpy2-2.0.8-py37hb20f59a_1002
+install: gmpy2==2.0.8
+pip_check: "No broken requirements found.\n"
