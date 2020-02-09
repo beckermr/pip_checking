@@ -1,0 +1,4 @@
+pkg: editdistance
+build: editdistance-0.5.2-py37hf484d3e_0
+install: editdistance==0.5.2
+pip_check: "No broken requirements found.\n"
