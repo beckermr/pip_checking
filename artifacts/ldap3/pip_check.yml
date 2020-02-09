@@ -1,0 +1,4 @@
+pkg: ldap3
+build: ldap3-2.6-py_0
+install: ldap3==2.6
+pip_check: "No broken requirements found.\n"
