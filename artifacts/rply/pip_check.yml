@@ -1,0 +1,4 @@
+pkg: rply
+build: rply-0.7.6-py_1
+install: rply==0.7.6
+pip_check: "No broken requirements found.\n"
