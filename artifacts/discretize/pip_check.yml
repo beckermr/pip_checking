@@ -1,0 +1,4 @@
+pkg: discretize
+build: discretize-0.4.10-py37h9de70de_0
+install: discretize==0.4.10
+pip_check: "discretize 0.4.10 requires cython, which is not installed.\n"
