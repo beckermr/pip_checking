@@ -1,0 +1,4 @@
+pkg: qrcode
+build: qrcode-6.0-py_0
+install: qrcode==6.0
+pip_check: "No broken requirements found.\n"
