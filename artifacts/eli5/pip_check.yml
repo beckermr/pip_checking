@@ -1,0 +1,4 @@
+pkg: eli5
+build: eli5-0.10.1-py37_1
+install: eli5==0.10.1
+pip_check: "No broken requirements found.\n"
