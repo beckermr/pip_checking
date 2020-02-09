@@ -1,0 +1,4 @@
+pkg: typing
+build: typing-3.6.4-py_2
+install: typing==3.6.4
+pip_check: "No broken requirements found.\n"
