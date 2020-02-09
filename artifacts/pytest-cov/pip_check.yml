@@ -1,0 +1,4 @@
+pkg: pytest-cov
+build: pytest-cov-2.8.1-py_0
+install: pytest-cov==2.8.1
+pip_check: "No broken requirements found.\n"
