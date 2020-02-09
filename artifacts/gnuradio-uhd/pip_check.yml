@@ -1,0 +1,4 @@
+pkg: gnuradio-uhd
+build: gnuradio-uhd-3.8.0.0-py37h8b68381_1
+install: gnuradio-uhd==3.8.0.0
+pip_check: "No broken requirements found.\n"
