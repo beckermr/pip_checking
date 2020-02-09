@@ -1,0 +1,4 @@
+pkg: pymt_gipl
+build: pymt_gipl-0.1-py37h7eb8c7e_0
+install: pymt_gipl==0.1
+pip_check: "No broken requirements found.\n"
