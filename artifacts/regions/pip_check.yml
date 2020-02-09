@@ -1,0 +1,4 @@
+pkg: regions
+build: regions-0.3-py37h3010b51_1000
+install: regions==0.3
+pip_check: "No broken requirements found.\n"
