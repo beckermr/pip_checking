@@ -1,0 +1,4 @@
+pkg: smdebug-rulesconfig
+build: smdebug-rulesconfig-0.1.3-py_0
+install: smdebug-rulesconfig==0.1.3
+pip_check: "No broken requirements found.\n"
