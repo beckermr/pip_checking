@@ -1,0 +1,4 @@
+pkg: pymatgen-db
+build: pymatgen-db-2019.3.28-py37h5ca1d4c_1
+install: pymatgen-db==2019.3.28
+pip_check: "No broken requirements found.\n"
