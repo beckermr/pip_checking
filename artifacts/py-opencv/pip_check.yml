@@ -1,0 +1,4 @@
+pkg: py-opencv
+build: py-opencv-3.4.7-py37h5ca1d4c_4
+install: py-opencv==3.4.7
+pip_check: "No broken requirements found.\n"
