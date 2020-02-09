@@ -1,0 +1,5 @@
+pkg: celery
+build: celery-4.4.0-py_0
+install: celery==4.4.0
+pip_check: "celery 4.4.0 has requirement billiard<4.0,>=3.6.1, but you have billiard\
+  \ 3.6.0.0.\n"
