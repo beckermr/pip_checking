@@ -1,0 +1,4 @@
+pkg: pyfiglet
+build: pyfiglet-0.8.post1-py_0
+install: pyfiglet==0.8.post1
+pip_check: "No broken requirements found.\n"
