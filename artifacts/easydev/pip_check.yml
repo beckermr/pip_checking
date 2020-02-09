@@ -1,0 +1,4 @@
+pkg: easydev
+build: easydev-0.9.38-py_0
+install: easydev==0.9.38
+pip_check: "No broken requirements found.\n"
