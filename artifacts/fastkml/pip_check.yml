@@ -1,0 +1,4 @@
+pkg: fastkml
+build: fastkml-0.11-py_0
+install: fastkml==0.11
+pip_check: "No broken requirements found.\n"
