@@ -1,0 +1,4 @@
+pkg: srtm.py
+build: srtm.py-0.3.4-py_0
+install: srtm.py==0.3.4
+pip_check: "No broken requirements found.\n"
