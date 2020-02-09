@@ -1,0 +1,4 @@
+pkg: django-js-asset
+build: django-js-asset-1.1.0-py_0
+install: django-js-asset==1.1.0
+pip_check: "No broken requirements found.\n"
