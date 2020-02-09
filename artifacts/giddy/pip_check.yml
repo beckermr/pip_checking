@@ -1,0 +1,4 @@
+pkg: giddy
+build: giddy-2.2.2-py_0
+install: giddy==2.2.2
+pip_check: "libpysal 4.2.2 requires bs4, which is not installed.\n"
