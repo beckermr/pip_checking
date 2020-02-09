@@ -1,0 +1,4 @@
+pkg: menpo3d
+build: menpo3d-0.8.0-py37h9de70de_0
+install: menpo3d==0.8.0
+pip_check: "moderngl 5.6.0 requires glcontext, which is not installed.\n"
