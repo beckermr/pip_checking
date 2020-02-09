@@ -1,0 +1,5 @@
+pkg: pyaerocom
+build: pyaerocom-0.8.0rc2-py_0
+install: pyaerocom==0.8.0rc2
+pip_check: "cf-units 2.1.3 requires cython, which is not installed.\nscitools-iris\
+  \ 2.2.0 has requirement matplotlib<3,>=2, but you have matplotlib 3.1.3.\n"
