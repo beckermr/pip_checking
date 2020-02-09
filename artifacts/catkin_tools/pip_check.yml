@@ -1,0 +1,4 @@
+pkg: catkin_tools
+build: catkin_tools-0.4.5-py37_0
+install: catkin_tools==0.4.5
+pip_check: "No broken requirements found.\n"
