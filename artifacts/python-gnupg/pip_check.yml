@@ -1,0 +1,4 @@
+pkg: python-gnupg
+build: python-gnupg-0.4.4-py_0
+install: python-gnupg==0.4.4
+pip_check: "No broken requirements found.\n"
