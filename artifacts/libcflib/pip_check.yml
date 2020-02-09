@@ -1,0 +1,4 @@
+pkg: libcflib
+build: libcflib-0.0.8-py_0
+install: libcflib==0.0.8
+pip_check: "libcflib 0.0.8 requires networkx, which is not installed.\n"
