@@ -1,0 +1,4 @@
+pkg: pyldavis
+build: pyldavis-2.1.2-py_0
+install: pyldavis==2.1.2
+pip_check: "pyldavis 2.1.2 requires pytest, which is not installed.\n"
