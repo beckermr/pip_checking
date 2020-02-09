@@ -1,0 +1,4 @@
+pkg: dpdata
+build: dpdata-0.1.12-py_0
+install: dpdata==0.1.12
+pip_check: "No broken requirements found.\n"
