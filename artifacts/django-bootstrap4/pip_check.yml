@@ -1,0 +1,4 @@
+pkg: django-bootstrap4
+build: django-bootstrap4-1.0.1-py_0
+install: django-bootstrap4==1.0.1
+pip_check: "django-bootstrap4 1.0.1 requires beautifulsoup4, which is not installed.\n"
