@@ -1,0 +1,4 @@
+pkg: colour-runner
+build: colour-runner-0.1.1-py_0
+install: colour-runner==0.1.1
+pip_check: "No broken requirements found.\n"
