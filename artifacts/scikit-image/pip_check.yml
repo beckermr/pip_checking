@@ -1,0 +1,4 @@
+pkg: scikit-image
+build: scikit-image-0.14.1-py37hf484d3e_1000
+install: scikit-image==0.14.1
+pip_check: "No broken requirements found.\n"
