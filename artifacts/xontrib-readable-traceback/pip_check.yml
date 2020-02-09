@@ -1,0 +1,5 @@
+pkg: xontrib-readable-traceback
+build: xontrib-readable-traceback-0.3.2-py_0
+install: xontrib-readable-traceback==0.3.2
+pip_check: "backtrace 0.2.1 has requirement colorama==0.3.7, but you have colorama\
+  \ 0.4.3.\n"
