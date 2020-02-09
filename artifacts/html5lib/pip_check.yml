@@ -1,0 +1,4 @@
+pkg: html5lib
+build: html5lib-0.999999999-py_1
+install: html5lib==0.999999999
+pip_check: "No broken requirements found.\n"
