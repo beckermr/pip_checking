@@ -1,0 +1,4 @@
+pkg: dask-xgboost
+build: dask-xgboost-0.1.7-py_0
+install: dask-xgboost==0.1.7
+pip_check: "dask-xgboost 0.1.7 requires xgboost, which is not installed.\n"
