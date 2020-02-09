@@ -1,0 +1,4 @@
+pkg: tagmaps
+build: tagmaps-0.20.0-py_0
+install: tagmaps==0.20.0
+pip_check: "No broken requirements found.\n"
