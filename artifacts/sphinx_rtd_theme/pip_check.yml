@@ -1,0 +1,4 @@
+pkg: sphinx_rtd_theme
+build: sphinx_rtd_theme-0.4.2-py_0
+install: sphinx_rtd_theme==0.4.2
+pip_check: "sphinx-rtd-theme 0.4.2 requires sphinx, which is not installed.\n"
