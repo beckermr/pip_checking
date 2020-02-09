@@ -1,0 +1,4 @@
+pkg: flake8-import-order
+build: flake8-import-order-0.15-py_0
+install: flake8-import-order==0.15
+pip_check: "No broken requirements found.\n"
