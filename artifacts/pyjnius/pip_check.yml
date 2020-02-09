@@ -1,0 +1,4 @@
+pkg: pyjnius
+build: pyjnius-1.1.4-py37ha173107_1
+install: pyjnius==1.1.4
+pip_check: "pyjnius 1.1.4 requires cython, which is not installed.\n"
