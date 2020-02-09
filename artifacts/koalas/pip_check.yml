@@ -1,0 +1,4 @@
+pkg: koalas
+build: koalas-0.17.0-py_0
+install: koalas==0.17.0
+pip_check: "No broken requirements found.\n"
