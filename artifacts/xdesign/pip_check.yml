@@ -1,0 +1,4 @@
+pkg: xdesign
+build: xdesign-0.5.1-py_0
+install: xdesign==0.5.1
+pip_check: "No broken requirements found.\n"
