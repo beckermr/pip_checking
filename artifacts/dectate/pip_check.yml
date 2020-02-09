@@ -1,0 +1,4 @@
+pkg: dectate
+build: dectate-0.14-py_0
+install: dectate==0.14
+pip_check: "No broken requirements found.\n"
