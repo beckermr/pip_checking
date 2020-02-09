@@ -1,0 +1,4 @@
+pkg: pyuv
+build: pyuv-1.4.0-py37h14c3975_1001
+install: pyuv==1.4.0
+pip_check: "No broken requirements found.\n"
