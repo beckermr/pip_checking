@@ -1,0 +1,4 @@
+pkg: kfp-server-api
+build: kfp-server-api-0.1.100-py_0
+install: kfp-server-api==0.1.100
+pip_check: "No broken requirements found.\n"
