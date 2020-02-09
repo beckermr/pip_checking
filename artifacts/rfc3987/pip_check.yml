@@ -1,0 +1,4 @@
+pkg: rfc3987
+build: rfc3987-1.3.8-py_0
+install: rfc3987==1.3.8
+pip_check: "No broken requirements found.\n"
