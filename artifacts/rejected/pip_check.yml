@@ -1,0 +1,4 @@
+pkg: rejected
+build: rejected-3.19.15-py37_1000
+install: rejected==3.19.15
+pip_check: "rejected 3.19.15 has requirement pika==0.12.0, but you have pika 1.1.0.\n"
