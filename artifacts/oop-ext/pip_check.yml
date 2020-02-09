@@ -1,0 +1,4 @@
+pkg: oop-ext
+build: oop-ext-0.2.3-py_0
+install: oop-ext==0.2.3
+pip_check: "No broken requirements found.\n"
