@@ -1,0 +1,4 @@
+pkg: xtensor-python
+build: xtensor-python-0.23.2-py37h9de70de_0
+install: xtensor-python==0.23.2
+pip_check: "No broken requirements found.\n"
