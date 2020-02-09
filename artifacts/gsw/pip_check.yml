@@ -1,0 +1,4 @@
+pkg: gsw
+build: gsw-3.3.1-py37hc1659b7_1
+install: gsw==3.3.1
+pip_check: "No broken requirements found.\n"
