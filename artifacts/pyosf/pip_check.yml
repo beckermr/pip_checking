@@ -1,0 +1,4 @@
+pkg: pyosf
+build: pyosf-1.0.5-py_2
+install: pyosf==1.0.5
+pip_check: "No broken requirements found.\n"
