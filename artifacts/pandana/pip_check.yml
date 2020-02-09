@@ -1,0 +1,4 @@
+pkg: pandana
+build: pandana-0.4.1-py37hb3f55d8_0
+install: pandana==0.4.1
+pip_check: "pandana 0.4.1 requires cython, which is not installed.\n"
