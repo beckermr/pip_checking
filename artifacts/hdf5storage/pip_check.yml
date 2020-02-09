@@ -1,0 +1,4 @@
+pkg: hdf5storage
+build: hdf5storage-0.1.15-py_0
+install: hdf5storage==0.1.15
+pip_check: "No broken requirements found.\n"
