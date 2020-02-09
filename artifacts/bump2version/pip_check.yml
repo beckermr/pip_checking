@@ -1,0 +1,4 @@
+pkg: bump2version
+build: bump2version-0.5.11-py37_0
+install: bump2version==0.5.11
+pip_check: "No broken requirements found.\n"
