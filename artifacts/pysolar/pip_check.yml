@@ -1,0 +1,4 @@
+pkg: pysolar
+build: pysolar-0.8-py_0
+install: pysolar==0.8
+pip_check: "No broken requirements found.\n"
