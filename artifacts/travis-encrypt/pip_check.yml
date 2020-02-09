@@ -1,0 +1,4 @@
+pkg: travis-encrypt
+build: travis-encrypt-0.7.2-py37_1000
+install: travis-encrypt==0.7.2
+pip_check: "No broken requirements found.\n"
