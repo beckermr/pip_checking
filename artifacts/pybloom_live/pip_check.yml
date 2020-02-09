@@ -1,0 +1,4 @@
+pkg: pybloom_live
+build: pybloom_live-3.0.0-py_0
+install: pybloom_live==3.0.0
+pip_check: "No broken requirements found.\n"
