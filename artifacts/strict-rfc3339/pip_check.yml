@@ -1,0 +1,4 @@
+pkg: strict-rfc3339
+build: strict-rfc3339-0.7-py_1
+install: strict-rfc3339==0.7
+pip_check: "No broken requirements found.\n"
