@@ -1,0 +1,4 @@
+pkg: aioeasywebdav
+build: aioeasywebdav-2.4.0-py37_1000
+install: aioeasywebdav==2.4.0
+pip_check: "aioeasywebdav 2.4.0 requires setuptools-scm, which is not installed.\n"
