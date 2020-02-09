@@ -1,0 +1,4 @@
+pkg: cyipopt
+build: cyipopt-0.1.9-py37hc1659b7_1000
+install: cyipopt==0.1.9
+pip_check: "ipopt 0.1.9 requires cython, which is not installed.\n"
