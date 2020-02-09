@@ -1,0 +1,4 @@
+pkg: imread
+build: imread-0.7.1-py37h171a241_0
+install: imread==0.7.1
+pip_check: "No broken requirements found.\n"
