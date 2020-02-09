@@ -1,0 +1,4 @@
+pkg: pytest-socket
+build: pytest-socket-0.3.3-py_0
+install: pytest-socket==0.3.3
+pip_check: "No broken requirements found.\n"
