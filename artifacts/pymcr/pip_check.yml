@@ -1,0 +1,4 @@
+pkg: pymcr
+build: pymcr-0.3.1-py_0
+install: pymcr==0.3.1
+pip_check: "No broken requirements found.\n"
