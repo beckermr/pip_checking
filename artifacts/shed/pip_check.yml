@@ -1,0 +1,4 @@
+pkg: shed
+build: shed-0.5.1-py_1
+install: shed==0.5.1
+pip_check: "No broken requirements found.\n"
