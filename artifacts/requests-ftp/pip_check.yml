@@ -1,0 +1,4 @@
+pkg: requests-ftp
+build: requests-ftp-0.3.1-py37_0
+install: requests-ftp==0.3.1
+pip_check: "No broken requirements found.\n"
