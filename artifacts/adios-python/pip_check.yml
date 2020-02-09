@@ -1,0 +1,4 @@
+pkg: adios-python
+build: adios-python-1.13.1-py37h80923ca_1003
+install: adios-python==1.13.1
+pip_check: "No broken requirements found.\n"
