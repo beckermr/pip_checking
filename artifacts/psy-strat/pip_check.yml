@@ -1,0 +1,4 @@
+pkg: psy-strat
+build: psy-strat-0.1.0-py37_0
+install: psy-strat==0.1.0
+pip_check: "No broken requirements found.\n"
