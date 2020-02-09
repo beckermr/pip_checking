@@ -1,0 +1,4 @@
+pkg: rfc3986
+build: rfc3986-1.3.2-py_0
+install: rfc3986==1.3.2
+pip_check: "No broken requirements found.\n"
