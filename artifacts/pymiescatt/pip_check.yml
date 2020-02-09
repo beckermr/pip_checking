@@ -1,0 +1,4 @@
+pkg: pymiescatt
+build: pymiescatt-1.7.3-py_2
+install: pymiescatt==1.7.3
+pip_check: "No broken requirements found.\n"
