@@ -1,0 +1,4 @@
+pkg: ldap
+build: ldap-1.0.2-py_0
+install: ldap==1.0.2
+pip_check: "No broken requirements found.\n"
