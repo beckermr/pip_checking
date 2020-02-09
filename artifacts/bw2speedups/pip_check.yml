@@ -1,0 +1,4 @@
+pkg: bw2speedups
+build: bw2speedups-2.3-py37hc1659b7_0
+install: bw2speedups==2.3
+pip_check: "No broken requirements found.\n"
