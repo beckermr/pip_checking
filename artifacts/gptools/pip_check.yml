@@ -1,0 +1,4 @@
+pkg: gptools
+build: gptools-0.2.3-py37hc1659b7_1000
+install: gptools==0.2.3
+pip_check: "gptools 0.2.3 requires triangle-plot, which is not installed.\n"
