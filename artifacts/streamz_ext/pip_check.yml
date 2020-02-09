@@ -1,0 +1,4 @@
+pkg: streamz_ext
+build: streamz_ext-0.2.1-py_0
+install: streamz_ext==0.2.1
+pip_check: "No broken requirements found.\n"
