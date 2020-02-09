@@ -1,0 +1,4 @@
+pkg: progress_reporter
+build: progress_reporter-2.0-py_0
+install: progress_reporter==2.0
+pip_check: "No broken requirements found.\n"
