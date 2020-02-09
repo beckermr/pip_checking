@@ -1,0 +1,4 @@
+pkg: python-flint
+build: python-flint-0.3.0-py37h59c62df_0
+install: python-flint==0.3.0
+pip_check: "No broken requirements found.\n"
