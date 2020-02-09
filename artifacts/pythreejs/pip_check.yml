@@ -1,0 +1,4 @@
+pkg: pythreejs
+build: pythreejs-2.0.2-py37_1000
+install: pythreejs==2.0.2
+pip_check: "No broken requirements found.\n"
