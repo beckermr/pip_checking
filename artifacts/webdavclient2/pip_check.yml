@@ -1,0 +1,4 @@
+pkg: webdavclient2
+build: webdavclient2-0.1.1-py_0
+install: webdavclient2==0.1.1
+pip_check: "argcomplete 1.11.1 requires importlib-metadata, which is not installed.\n"
