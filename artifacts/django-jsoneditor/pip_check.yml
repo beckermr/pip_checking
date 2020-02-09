@@ -1,0 +1,4 @@
+pkg: django-jsoneditor
+build: django-jsoneditor-0.0.12-py_0
+install: django-jsoneditor==0.0.12
+pip_check: "No broken requirements found.\n"
