@@ -1,0 +1,4 @@
+pkg: wntr
+build: wntr-0.2.1-py37hc8e3772_2
+install: wntr==0.2.1
+pip_check: "No broken requirements found.\n"
