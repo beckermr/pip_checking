@@ -1,0 +1,4 @@
+pkg: cifti
+build: cifti-1.1-py_0
+install: cifti==1.1
+pip_check: "No broken requirements found.\n"
