@@ -1,0 +1,4 @@
+pkg: python-multipart
+build: python-multipart-0.0.5-py_0
+install: python-multipart==0.0.5
+pip_check: "No broken requirements found.\n"
