@@ -1,0 +1,4 @@
+pkg: glue-vispy-viewers
+build: glue-vispy-viewers-0.12.1-py_0
+install: glue-vispy-viewers==0.12.1
+pip_check: "No broken requirements found.\n"
