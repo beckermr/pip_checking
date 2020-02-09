@@ -1,0 +1,4 @@
+pkg: pelican
+build: pelican-4.1.1-py_0
+install: pelican==4.1.1
+pip_check: "No broken requirements found.\n"
