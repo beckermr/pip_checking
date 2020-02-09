@@ -1,0 +1,4 @@
+pkg: ruamel.yaml.jinja2
+build: ruamel.yaml.jinja2-0.2.4-py_0
+install: ruamel.yaml.jinja2==0.2.4
+pip_check: "No broken requirements found.\n"
