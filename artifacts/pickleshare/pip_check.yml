@@ -1,0 +1,4 @@
+pkg: pickleshare
+build: pickleshare-0.7.4-py37_0
+install: pickleshare==0.7.4
+pip_check: "No broken requirements found.\n"
