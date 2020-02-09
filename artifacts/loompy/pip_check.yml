@@ -1,0 +1,4 @@
+pkg: loompy
+build: loompy-2.0.10-py_0
+install: loompy==2.0.10
+pip_check: "No broken requirements found.\n"
