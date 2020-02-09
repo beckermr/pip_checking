@@ -1,0 +1,4 @@
+pkg: spint
+build: spint-1.0.6-py_0
+install: spint==1.0.6
+pip_check: "libpysal 4.2.2 requires bs4, which is not installed.\n"
