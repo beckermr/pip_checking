@@ -1,0 +1,4 @@
+pkg: spyder-terminal
+build: spyder-terminal-0.2.4-py37_1000
+install: spyder-terminal==0.2.4
+pip_check: "qdarkstyle 2.8 requires helpdev, which is not installed.\n"
