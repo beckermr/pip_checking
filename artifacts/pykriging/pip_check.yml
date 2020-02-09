@@ -1,0 +1,4 @@
+pkg: pykriging
+build: pykriging-0.2.0-py_0
+install: pykriging==0.2.0
+pip_check: "No broken requirements found.\n"
