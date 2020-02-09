@@ -1,0 +1,4 @@
+pkg: black
+build: black-19.10b0-py37_0
+install: black==19.10b0
+pip_check: "No broken requirements found.\n"
