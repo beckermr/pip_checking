@@ -1,0 +1,4 @@
+pkg: networkit
+build: networkit-5.0-py37he1b5a44_0
+install: networkit==5.0
+pip_check: "No broken requirements found.\n"
