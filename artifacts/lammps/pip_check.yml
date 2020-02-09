@@ -1,0 +1,4 @@
+pkg: lammps
+build: lammps-2019.06.05-py37_mpich_0
+install: lammps==2019.06.05
+pip_check: "No broken requirements found.\n"
