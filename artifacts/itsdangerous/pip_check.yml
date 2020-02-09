@@ -1,0 +1,4 @@
+pkg: itsdangerous
+build: itsdangerous-0.24-py_2
+install: itsdangerous==0.24
+pip_check: "No broken requirements found.\n"
