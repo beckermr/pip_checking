@@ -1,0 +1,4 @@
+pkg: confluence-publisher
+build: confluence-publisher-v1.2.1-py_2
+install: confluence-publisher==v1.2.1
+pip_check: "confluence-publisher 1.2.1 requires argparse, which is not installed.\n"
