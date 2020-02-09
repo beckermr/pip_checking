@@ -1,0 +1,4 @@
+pkg: sagemaker-python-sdk
+build: sagemaker-python-sdk-1.45.1-py37_0
+install: sagemaker-python-sdk==1.45.1
+pip_check: "No broken requirements found.\n"
