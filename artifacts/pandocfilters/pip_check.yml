@@ -1,0 +1,4 @@
+pkg: pandocfilters
+build: pandocfilters-1.4.2-py_1
+install: pandocfilters==1.4.2
+pip_check: "No broken requirements found.\n"
