@@ -1,0 +1,4 @@
+pkg: bitstruct
+build: bitstruct-8.9.0-py_0
+install: bitstruct==8.9.0
+pip_check: "No broken requirements found.\n"
