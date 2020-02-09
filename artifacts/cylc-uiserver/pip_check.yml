@@ -1,0 +1,9 @@
+pkg: cylc-uiserver
+build: cylc-uiserver-0.1-py37_0
+install: cylc-uiserver==0.1
+pip_check: "python-jose 3.0.1 requires rsa, which is not installed.\ncylc-uiserver\
+  \ 0.1 has requirement graphene-tornado==2.1.*, but you have graphene-tornado 2.5.1.\n\
+  cylc-uiserver 0.1 has requirement jupyterhub==1.0.*, but you have jupyterhub 1.1.0.\n\
+  cylc-flow 8.0a1 has requirement jinja2<2.11.0,>=2.10.1, but you have jinja2 2.11.1.\n\
+  cylc-flow 8.0a1 has requirement protobuf==3.9.*, but you have protobuf 3.11.3.\n\
+  cylc-flow 8.0a1 has requirement pyzmq==18.0.*, but you have pyzmq 18.1.1.\n"
