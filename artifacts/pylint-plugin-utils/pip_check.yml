@@ -1,0 +1,4 @@
+pkg: pylint-plugin-utils
+build: pylint-plugin-utils-0.5-py_0
+install: pylint-plugin-utils==0.5
+pip_check: "No broken requirements found.\n"
