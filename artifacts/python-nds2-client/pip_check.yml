@@ -1,0 +1,4 @@
+pkg: python-nds2-client
+build: python-nds2-client-0.16.5-py37hb3f55d8_0
+install: python-nds2-client==0.16.5
+pip_check: "No broken requirements found.\n"
