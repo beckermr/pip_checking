@@ -1,0 +1,4 @@
+pkg: configparser
+build: configparser-3.7.1-py37_0
+install: configparser==3.7.1
+pip_check: "No broken requirements found.\n"
