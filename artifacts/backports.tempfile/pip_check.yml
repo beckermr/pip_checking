@@ -1,0 +1,4 @@
+pkg: backports.tempfile
+build: backports.tempfile-1.0-py_0
+install: backports.tempfile==1.0
+pip_check: "No broken requirements found.\n"
