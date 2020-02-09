@@ -1,0 +1,4 @@
+pkg: pyalveo
+build: pyalveo-1.0.5-py_0
+install: pyalveo==1.0.5
+pip_check: "No broken requirements found.\n"
