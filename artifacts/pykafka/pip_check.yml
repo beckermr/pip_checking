@@ -1,0 +1,4 @@
+pkg: pykafka
+build: pykafka-2.8.0-py37hba13f1d_1000
+install: pykafka==2.8.0
+pip_check: "pykafka 2.8.0 has requirement kazoo==2.5.0, but you have kazoo 2.6.1.\n"
