@@ -1,0 +1,4 @@
+pkg: qcengine
+build: qcengine-0.13.0-py_0
+install: qcengine==0.13.0
+pip_check: "No broken requirements found.\n"
