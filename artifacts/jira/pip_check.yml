@@ -1,0 +1,4 @@
+pkg: jira
+build: jira-1.0.15-py_0
+install: jira==1.0.15
+pip_check: "No broken requirements found.\n"
