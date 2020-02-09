@@ -1,0 +1,4 @@
+pkg: textwrap3
+build: textwrap3-0.9.1-py_0
+install: textwrap3==0.9.1
+pip_check: "No broken requirements found.\n"
