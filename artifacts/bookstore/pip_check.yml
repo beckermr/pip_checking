@@ -1,0 +1,4 @@
+pkg: bookstore
+build: bookstore-2.5.1-py_0
+install: bookstore==2.5.1
+pip_check: "bookstore 2.5.1 requires aioboto3, which is not installed.\n"
