@@ -1,0 +1,4 @@
+pkg: colored
+build: colored-1.3.93-py_0
+install: colored==1.3.93
+pip_check: "No broken requirements found.\n"
