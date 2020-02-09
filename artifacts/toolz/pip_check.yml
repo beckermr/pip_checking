@@ -1,0 +1,4 @@
+pkg: toolz
+build: toolz-0.10.0-py_0
+install: toolz==0.10.0
+pip_check: "No broken requirements found.\n"
