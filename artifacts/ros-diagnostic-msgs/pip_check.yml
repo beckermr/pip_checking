@@ -1,0 +1,4 @@
+pkg: ros-diagnostic-msgs
+build: ros-diagnostic-msgs-1.12.7-py37he1b5a44_0
+install: ros-diagnostic-msgs==1.12.7
+pip_check: "No broken requirements found.\n"
