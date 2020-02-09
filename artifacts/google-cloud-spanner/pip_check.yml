@@ -1,0 +1,5 @@
+pkg: google-cloud-spanner
+build: google-cloud-spanner-1.8.1-py37_0
+install: google-cloud-spanner==1.8.1
+pip_check: "google-cloud-spanner 1.8.1 has requirement grpc-google-iam-v1<0.12dev,>=0.11.4,\
+  \ but you have grpc-google-iam-v1 0.12.3.\n"
