@@ -1,0 +1,4 @@
+pkg: epysurv
+build: epysurv-0.0.2-py_0
+install: epysurv==0.0.2
+pip_check: "rpy2 3.1.0 requires pytest, which is not installed.\n"
