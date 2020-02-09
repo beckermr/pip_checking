@@ -1,0 +1,4 @@
+pkg: extras
+build: extras-1.0.0-py_1
+install: extras==1.0.0
+pip_check: "No broken requirements found.\n"
