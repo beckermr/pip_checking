@@ -1,0 +1,4 @@
+pkg: kdtree
+build: kdtree-0.12-py_0
+install: kdtree==0.12
+pip_check: "No broken requirements found.\n"
