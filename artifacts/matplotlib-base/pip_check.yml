@@ -1,0 +1,4 @@
+pkg: matplotlib-base
+build: matplotlib-base-3.0.2-py37h20b835b_0
+install: matplotlib-base==3.0.2
+pip_check: "No broken requirements found.\n"
