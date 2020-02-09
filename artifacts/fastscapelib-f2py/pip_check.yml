@@ -1,0 +1,4 @@
+pkg: fastscapelib-f2py
+build: fastscapelib-f2py-2.7.0-py37h7eb8c7e_0
+install: fastscapelib-f2py==2.7.0
+pip_check: "No broken requirements found.\n"
