@@ -1,0 +1,4 @@
+pkg: otrobopt
+build: otrobopt-0.5-py37h66a8c37_0
+install: otrobopt==0.5
+pip_check: "No broken requirements found.\n"
