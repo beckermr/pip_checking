@@ -1,0 +1,4 @@
+pkg: osrf_pycommon
+build: osrf_pycommon-0.1.7-py37_0
+install: osrf_pycommon==0.1.7
+pip_check: "No broken requirements found.\n"
