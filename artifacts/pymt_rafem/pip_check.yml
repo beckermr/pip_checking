@@ -1,0 +1,4 @@
+pkg: pymt_rafem
+build: pymt_rafem-0.1.4-py_0
+install: pymt_rafem==0.1.4
+pip_check: "No broken requirements found.\n"
