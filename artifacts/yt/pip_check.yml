@@ -1,0 +1,4 @@
+pkg: yt
+build: yt-3.5.0-py37h14c3975_0
+install: yt==3.5.0
+pip_check: "No broken requirements found.\n"
