@@ -1,0 +1,4 @@
+pkg: oletools
+build: oletools-0.53.1-py_1
+install: oletools==0.53.1
+pip_check: "oletools 0.53.1 requires pyparsing, which is not installed.\n"
