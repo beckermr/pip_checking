@@ -1,0 +1,4 @@
+pkg: codar2netcdf
+build: codar2netcdf-1.0.0-py_1
+install: codar2netcdf==1.0.0
+pip_check: "codar2netcdf 1.0.0 requires pytest, which is not installed.\n"
