@@ -1,0 +1,4 @@
+pkg: xrayutilities
+build: xrayutilities-1.5.3-py37hc1659b7_0
+install: xrayutilities==1.5.3
+pip_check: "No broken requirements found.\n"
