@@ -1,0 +1,4 @@
+pkg: tslearn
+build: tslearn-0.2.5-py37hc1659b7_0
+install: tslearn==0.2.5
+pip_check: "tslearn 0.2.5 requires cython, which is not installed.\n"
