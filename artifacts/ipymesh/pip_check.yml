@@ -1,0 +1,4 @@
+pkg: ipymesh
+build: ipymesh-0.1.6-py_0
+install: ipymesh==0.1.6
+pip_check: "No broken requirements found.\n"
