@@ -1,0 +1,4 @@
+pkg: pymedphys_databases
+build: pymedphys_databases-0.10.0-py_1
+install: pymedphys_databases==0.10.0
+pip_check: "No broken requirements found.\n"
