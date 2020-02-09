@@ -1,0 +1,4 @@
+pkg: sncosmo
+build: sncosmo-1.8.1-py37hc1659b7_0
+install: sncosmo==1.8.1
+pip_check: "No broken requirements found.\n"
