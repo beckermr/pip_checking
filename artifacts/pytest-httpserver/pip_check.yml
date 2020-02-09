@@ -1,0 +1,4 @@
+pkg: pytest-httpserver
+build: pytest-httpserver-0.3.4-py_0
+install: pytest-httpserver==0.3.4
+pip_check: "No broken requirements found.\n"
