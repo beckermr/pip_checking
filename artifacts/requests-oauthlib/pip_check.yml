@@ -1,0 +1,4 @@
+pkg: requests-oauthlib
+build: requests-oauthlib-1.0.0-py_1
+install: requests-oauthlib==1.0.0
+pip_check: "No broken requirements found.\n"
