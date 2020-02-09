@@ -1,0 +1,4 @@
+pkg: fresnel
+build: fresnel-0.9.0-py37hc8e3772_0
+install: fresnel==0.9.0
+pip_check: "No broken requirements found.\n"
