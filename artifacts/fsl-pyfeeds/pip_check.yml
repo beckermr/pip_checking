@@ -1,0 +1,4 @@
+pkg: fsl-pyfeeds
+build: fsl-pyfeeds-0.9.3-py_0
+install: fsl-pyfeeds==0.9.3
+pip_check: "No broken requirements found.\n"
