@@ -1,0 +1,4 @@
+pkg: path.py
+build: path.py-12.0-py_0
+install: path.py==12.0
+pip_check: "No broken requirements found.\n"
