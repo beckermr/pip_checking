@@ -1,0 +1,4 @@
+pkg: astcheck
+build: astcheck-0.2.5-py_0
+install: astcheck==0.2.5
+pip_check: "No broken requirements found.\n"
