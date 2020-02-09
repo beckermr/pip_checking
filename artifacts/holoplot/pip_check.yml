@@ -1,0 +1,4 @@
+pkg: holoplot
+build: holoplot-0.0.4-py_0
+install: holoplot==0.0.4
+pip_check: "No broken requirements found.\n"
