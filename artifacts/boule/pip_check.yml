@@ -1,0 +1,4 @@
+pkg: boule
+build: boule-0.1.0-py_0
+install: boule==0.1.0
+pip_check: "No broken requirements found.\n"
