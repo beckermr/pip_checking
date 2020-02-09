@@ -1,0 +1,4 @@
+pkg: dagster_aws
+build: dagster_aws-0.6.6-py_0
+install: dagster_aws==0.6.6
+pip_check: "No broken requirements found.\n"
