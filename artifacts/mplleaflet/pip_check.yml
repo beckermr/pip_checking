@@ -1,0 +1,4 @@
+pkg: mplleaflet
+build: mplleaflet-0.0.5-py_2
+install: mplleaflet==0.0.5
+pip_check: "No broken requirements found.\n"
