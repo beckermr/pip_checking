@@ -1,0 +1,4 @@
+pkg: lifelines
+build: lifelines-0.14.1-py_0
+install: lifelines==0.14.1
+pip_check: "No broken requirements found.\n"
