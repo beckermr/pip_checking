@@ -1,0 +1,4 @@
+pkg: feather-format
+build: feather-format-0.4.0-py37_1002
+install: feather-format==0.4.0
+pip_check: "No broken requirements found.\n"
