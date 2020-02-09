@@ -1,0 +1,4 @@
+pkg: pyproj
+build: pyproj-1.9.5.1-py37h470a237_1
+install: pyproj==1.9.5.1
+pip_check: "No broken requirements found.\n"
