@@ -1,0 +1,4 @@
+pkg: django-test-plus
+build: django-test-plus-1.0.20-py_0
+install: django-test-plus==1.0.20
+pip_check: "No broken requirements found.\n"
