@@ -1,0 +1,4 @@
+pkg: wera2netcdf
+build: wera2netcdf-1.0.0-py_1
+install: wera2netcdf==1.0.0
+pip_check: "wera2netcdf 1.0.0 requires pytest, which is not installed.\n"
