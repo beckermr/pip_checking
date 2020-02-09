@@ -1,0 +1,4 @@
+pkg: sas_kernel
+build: sas_kernel-2.2.0-py37_1001
+install: sas_kernel==2.2.0
+pip_check: "No broken requirements found.\n"
