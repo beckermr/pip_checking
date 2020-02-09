@@ -1,0 +1,4 @@
+pkg: pythran
+build: pythran-0.9.3-py37hc9558a2_0
+install: pythran==0.9.3
+pip_check: "No broken requirements found.\n"
