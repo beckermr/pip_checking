@@ -1,0 +1,5 @@
+pkg: apache-beam
+build: apache-beam-2.17.0-py37h516909a_0
+install: apache-beam==2.17.0
+pip_check: "apache-beam 2.17.0 has requirement oauth2client<4,>=2.0.1, but you have\
+  \ oauth2client 4.1.3.\n"
