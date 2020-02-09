@@ -1,0 +1,4 @@
+pkg: frozendict
+build: frozendict-1.2-py_2
+install: frozendict==1.2
+pip_check: "No broken requirements found.\n"
