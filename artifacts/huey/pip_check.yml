@@ -1,0 +1,4 @@
+pkg: huey
+build: huey-1.10.0-py_0
+install: huey==1.10.0
+pip_check: "No broken requirements found.\n"
