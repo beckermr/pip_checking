@@ -1,0 +1,4 @@
+pkg: rpdb
+build: rpdb-0.1.6-py_1
+install: rpdb==0.1.6
+pip_check: "No broken requirements found.\n"
