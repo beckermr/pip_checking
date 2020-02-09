@@ -1,0 +1,4 @@
+pkg: nose-progressive
+build: nose-progressive-1.5.2-py37_1000
+install: nose-progressive==1.5.2
+pip_check: "No broken requirements found.\n"
