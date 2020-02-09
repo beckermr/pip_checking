@@ -1,0 +1,4 @@
+pkg: youtube-dl
+build: youtube-dl-2019.5.20-py37_0
+install: youtube-dl==2019.5.20
+pip_check: "No broken requirements found.\n"
