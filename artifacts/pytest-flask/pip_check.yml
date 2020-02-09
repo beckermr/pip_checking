@@ -1,0 +1,5 @@
+pkg: pytest-flask
+build: pytest-flask-0.14.0-py_0
+install: pytest-flask==0.14.0
+pip_check: "pytest-flask 0.14.0 requires pytest, which is not installed.\npytest-flask\
+  \ 0.14.0 requires pytest, which is not installed.\n"
