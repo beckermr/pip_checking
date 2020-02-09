@@ -1,0 +1,4 @@
+pkg: sos-python
+build: sos-python-0.18.4-py_0
+install: sos-python==0.18.4
+pip_check: "No broken requirements found.\n"
