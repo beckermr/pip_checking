@@ -1,0 +1,4 @@
+pkg: aliyun-python-sdk-core
+build: aliyun-python-sdk-core-2.13.9-py37_0
+install: aliyun-python-sdk-core==2.13.9
+pip_check: "No broken requirements found.\n"
