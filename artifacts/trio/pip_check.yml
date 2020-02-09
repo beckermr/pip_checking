@@ -1,0 +1,4 @@
+pkg: trio
+build: trio-0.9.0-py37_0
+install: trio==0.9.0
+pip_check: "No broken requirements found.\n"
