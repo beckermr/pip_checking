@@ -1,0 +1,4 @@
+pkg: pip-upgrader
+build: pip-upgrader-1.4.6-py_0
+install: pip-upgrader==1.4.6
+pip_check: "No broken requirements found.\n"
