@@ -1,0 +1,4 @@
+pkg: pydl
+build: pydl-0.6.0-py37_1001
+install: pydl==0.6.0
+pip_check: "No broken requirements found.\n"
