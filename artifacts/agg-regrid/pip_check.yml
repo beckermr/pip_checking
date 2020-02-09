@@ -1,0 +1,4 @@
+pkg: agg-regrid
+build: agg-regrid-0.2.2-py37hb3f55d8_1000
+install: agg-regrid==0.2.2
+pip_check: "cf-units 2.1.3 requires cython, which is not installed.\n"
