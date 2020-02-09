@@ -1,0 +1,4 @@
+pkg: cornac
+build: cornac-1.3.0-py37hb3f55d8_0
+install: cornac==1.3.0
+pip_check: "No broken requirements found.\n"
