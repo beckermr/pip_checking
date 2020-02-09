@@ -1,0 +1,4 @@
+pkg: gspread
+build: gspread-3.1.0-py_0
+install: gspread==3.1.0
+pip_check: "No broken requirements found.\n"
