@@ -1,0 +1,4 @@
+pkg: prometheus_flask_exporter
+build: prometheus_flask_exporter-0.12.1-py_0
+install: prometheus_flask_exporter==0.12.1
+pip_check: "No broken requirements found.\n"
