@@ -1,0 +1,4 @@
+pkg: tranquilizer
+build: tranquilizer-0.3.0-py_0
+install: tranquilizer==0.3.0
+pip_check: "No broken requirements found.\n"
