@@ -1,0 +1,4 @@
+pkg: args
+build: args-0.1.0-py37_1001
+install: args==0.1.0
+pip_check: "No broken requirements found.\n"
