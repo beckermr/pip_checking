@@ -1,0 +1,5 @@
+pkg: pytest-testmon
+build: pytest-testmon-0.9.18-py_0
+install: pytest-testmon==0.9.18
+pip_check: "pytest-testmon 0.9.18 has requirement coverage<5,>=4, but you have coverage\
+  \ 5.0.3.\n"
