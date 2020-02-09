@@ -1,0 +1,4 @@
+pkg: dash_cytoscape
+build: dash_cytoscape-0.1.1-py_0
+install: dash_cytoscape==0.1.1
+pip_check: "No broken requirements found.\n"
