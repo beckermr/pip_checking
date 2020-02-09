@@ -1,0 +1,4 @@
+pkg: construct
+build: construct-2.9.45-py_0
+install: construct==2.9.45
+pip_check: "No broken requirements found.\n"
