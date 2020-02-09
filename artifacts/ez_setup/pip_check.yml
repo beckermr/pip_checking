@@ -1,0 +1,4 @@
+pkg: ez_setup
+build: ez_setup-0.9-py_0
+install: ez_setup==0.9
+pip_check: "No broken requirements found.\n"
