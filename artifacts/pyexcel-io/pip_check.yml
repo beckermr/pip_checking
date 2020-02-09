@@ -1,0 +1,4 @@
+pkg: pyexcel-io
+build: pyexcel-io-0.5.11-py_0
+install: pyexcel-io==0.5.11
+pip_check: "No broken requirements found.\n"
