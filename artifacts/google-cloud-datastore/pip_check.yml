@@ -1,0 +1,4 @@
+pkg: google-cloud-datastore
+build: google-cloud-datastore-1.10.0-py_0
+install: google-cloud-datastore==1.10.0
+pip_check: "No broken requirements found.\n"
