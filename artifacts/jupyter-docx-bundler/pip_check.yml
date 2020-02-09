@@ -1,0 +1,4 @@
+pkg: jupyter-docx-bundler
+build: jupyter-docx-bundler-0.2.1-py37_0
+install: jupyter-docx-bundler==0.2.1
+pip_check: "No broken requirements found.\n"
