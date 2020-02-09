@@ -1,0 +1,4 @@
+pkg: graphql-core
+build: graphql-core-1.1-py_1
+install: graphql-core==1.1
+pip_check: "No broken requirements found.\n"
