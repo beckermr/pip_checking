@@ -1,0 +1,4 @@
+pkg: mantichora
+build: mantichora-0.9.5-py_0
+install: mantichora==0.9.5
+pip_check: "No broken requirements found.\n"
