@@ -1,0 +1,4 @@
+pkg: intake-avro
+build: intake-avro-0.2.1-py_0
+install: intake-avro==0.2.1
+pip_check: "uavro 0.1.2 requires cython, which is not installed.\n"
