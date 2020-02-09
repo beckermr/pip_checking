@@ -1,0 +1,4 @@
+pkg: jupyter_nbextensions_configurator
+build: jupyter_nbextensions_configurator-0.4.0-py37_0
+install: jupyter_nbextensions_configurator==0.4.0
+pip_check: "No broken requirements found.\n"
