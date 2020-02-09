@@ -1,0 +1,4 @@
+pkg: dagster_postgres
+build: dagster_postgres-0.6.5-py_0
+install: dagster_postgres==0.6.5
+pip_check: "dagster-postgres 0.6.5 requires psycopg2-binary, which is not installed.\n"
