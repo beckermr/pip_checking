@@ -1,0 +1,4 @@
+pkg: parmed
+build: parmed-3.2.0-py37he1b5a44_2
+install: parmed==3.2.0
+pip_check: "No broken requirements found.\n"
