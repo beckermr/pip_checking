@@ -1,0 +1,4 @@
+pkg: tvb-library
+build: tvb-library-2.0-py37_1
+install: tvb-library==2.0
+pip_check: "tvb-library 2.0 requires typing, which is not installed.\n"
