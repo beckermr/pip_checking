@@ -1,0 +1,4 @@
+pkg: menpodetect
+build: menpodetect-0.6.1-py37_0
+install: menpodetect==0.6.1
+pip_check: "No broken requirements found.\n"
