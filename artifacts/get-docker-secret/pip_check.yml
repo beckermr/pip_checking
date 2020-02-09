@@ -1,0 +1,4 @@
+pkg: get-docker-secret
+build: get-docker-secret-1.0.1-py_0
+install: get-docker-secret==1.0.1
+pip_check: "No broken requirements found.\n"
