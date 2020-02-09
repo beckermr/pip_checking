@@ -1,0 +1,4 @@
+pkg: upf_to_json
+build: upf_to_json-0.9.2-py_0
+install: upf_to_json==0.9.2
+pip_check: "No broken requirements found.\n"
