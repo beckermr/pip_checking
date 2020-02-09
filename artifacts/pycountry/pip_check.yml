@@ -1,0 +1,4 @@
+pkg: pycountry
+build: pycountry-19.7.15-py_0
+install: pycountry==19.7.15
+pip_check: "No broken requirements found.\n"
