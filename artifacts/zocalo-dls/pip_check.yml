@@ -1,0 +1,4 @@
+pkg: zocalo-dls
+build: zocalo-dls-0.2.0-py_0
+install: zocalo-dls==0.2.0
+pip_check: "ispyb 5.6.0 requires tabulate, which is not installed.\n"
