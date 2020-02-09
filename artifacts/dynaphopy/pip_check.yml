@@ -1,0 +1,4 @@
+pkg: dynaphopy
+build: dynaphopy-1.16.8-py37hc1659b7_0
+install: dynaphopy==1.16.8
+pip_check: "phonopy 2.4.1.post5 requires h5py, which is not installed.\n"
