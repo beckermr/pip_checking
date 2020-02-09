@@ -1,0 +1,4 @@
+pkg: colour-science
+build: colour-science-0.3.15-py_0
+install: colour-science==0.3.15
+pip_check: "No broken requirements found.\n"
