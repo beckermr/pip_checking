@@ -1,0 +1,4 @@
+pkg: sgdpy
+build: sgdpy-1.4.1-py37hc9558a2_0
+install: sgdpy==1.4.1
+pip_check: "No broken requirements found.\n"
