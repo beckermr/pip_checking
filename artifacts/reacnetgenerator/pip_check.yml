@@ -1,0 +1,4 @@
+pkg: reacnetgenerator
+build: reacnetgenerator-1.4.108-py37hc9558a2_0
+install: reacnetgenerator==1.4.108
+pip_check: "No broken requirements found.\n"
