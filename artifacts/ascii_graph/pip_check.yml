@@ -1,0 +1,4 @@
+pkg: ascii_graph
+build: ascii_graph-1.5.1-py_0
+install: ascii_graph==1.5.1
+pip_check: "No broken requirements found.\n"
