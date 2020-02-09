@@ -1,0 +1,4 @@
+pkg: pollster
+build: pollster-2.0.2-py_0
+install: pollster==2.0.2
+pip_check: "No broken requirements found.\n"
