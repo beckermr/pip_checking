@@ -1,0 +1,4 @@
+pkg: elementpath
+build: elementpath-1.2.1-py_0
+install: elementpath==1.2.1
+pip_check: "No broken requirements found.\n"
