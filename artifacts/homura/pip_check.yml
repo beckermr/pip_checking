@@ -1,0 +1,4 @@
+pkg: homura
+build: homura-0.1.5-py_1
+install: homura==0.1.5
+pip_check: "No broken requirements found.\n"
