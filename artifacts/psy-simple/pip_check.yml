@@ -1,0 +1,4 @@
+pkg: psy-simple
+build: psy-simple-1.2.0-py37_1000
+install: psy-simple==1.2.0
+pip_check: "No broken requirements found.\n"
