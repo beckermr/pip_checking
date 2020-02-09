@@ -1,0 +1,4 @@
+pkg: wagtail
+build: wagtail-2.6-py_0
+install: wagtail==2.6
+pip_check: "No broken requirements found.\n"
