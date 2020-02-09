@@ -1,0 +1,4 @@
+pkg: binaryornot
+build: binaryornot-0.4.4-py_1
+install: binaryornot==0.4.4
+pip_check: "No broken requirements found.\n"
