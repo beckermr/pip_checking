@@ -1,0 +1,4 @@
+pkg: usgs
+build: usgs-0.2.7-py_0
+install: usgs==0.2.7
+pip_check: "No broken requirements found.\n"
