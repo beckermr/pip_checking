@@ -1,0 +1,4 @@
+pkg: gdcm
+build: gdcm-2.8.8-py37h71b2a6d_0
+install: gdcm==2.8.8
+pip_check: "No broken requirements found.\n"
