@@ -1,0 +1,4 @@
+pkg: asyncssh
+build: asyncssh-1.15.1-py37_0
+install: asyncssh==1.15.1
+pip_check: "No broken requirements found.\n"
