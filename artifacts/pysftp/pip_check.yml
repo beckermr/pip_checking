@@ -1,0 +1,4 @@
+pkg: pysftp
+build: pysftp-0.2.9-py_1
+install: pysftp==0.2.9
+pip_check: "No broken requirements found.\n"
