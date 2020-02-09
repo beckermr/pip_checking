@@ -1,0 +1,4 @@
+pkg: modulegraph
+build: modulegraph-0.18-py_0
+install: modulegraph==0.18
+pip_check: "No broken requirements found.\n"
