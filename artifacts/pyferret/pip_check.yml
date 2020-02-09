@@ -1,0 +1,4 @@
+pkg: pyferret
+build: pyferret-7.5.0-py37h30adc22_0
+install: pyferret==7.5.0
+pip_check: "No broken requirements found.\n"
