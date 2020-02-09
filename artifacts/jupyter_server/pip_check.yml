@@ -1,0 +1,4 @@
+pkg: jupyter_server
+build: jupyter_server-0.0.5-py37_0
+install: jupyter_server==0.0.5
+pip_check: "No broken requirements found.\n"
