@@ -1,0 +1,4 @@
+pkg: pytypes
+build: pytypes-1.0b5-py_1
+install: pytypes==1.0b5
+pip_check: "No broken requirements found.\n"
