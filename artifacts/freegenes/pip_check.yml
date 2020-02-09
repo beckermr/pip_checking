@@ -1,0 +1,4 @@
+pkg: freegenes
+build: freegenes-0.0.11-py_0
+install: freegenes==0.0.11
+pip_check: "No broken requirements found.\n"
