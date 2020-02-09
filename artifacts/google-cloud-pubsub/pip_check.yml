@@ -1,0 +1,4 @@
+pkg: google-cloud-pubsub
+build: google-cloud-pubsub-1.0.2-py_0
+install: google-cloud-pubsub==1.0.2
+pip_check: "No broken requirements found.\n"
