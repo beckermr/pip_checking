@@ -1,0 +1,4 @@
+pkg: pep257
+build: pep257-0.7.0-py37_1000
+install: pep257==0.7.0
+pip_check: "No broken requirements found.\n"
