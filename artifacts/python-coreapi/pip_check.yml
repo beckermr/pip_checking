@@ -1,0 +1,4 @@
+pkg: python-coreapi
+build: python-coreapi-2.3.3-py_0
+install: python-coreapi==2.3.3
+pip_check: "No broken requirements found.\n"
