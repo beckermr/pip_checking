@@ -1,0 +1,4 @@
+pkg: msnoise
+build: msnoise-1.6-py_0
+install: msnoise==1.6
+pip_check: "flask-admin 1.5.5 requires enum34, which is not installed.\n"
