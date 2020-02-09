@@ -1,0 +1,4 @@
+pkg: arrow
+build: arrow-0.14.0-py37_0
+install: arrow==0.14.0
+pip_check: "No broken requirements found.\n"
