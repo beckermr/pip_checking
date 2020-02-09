@@ -1,0 +1,4 @@
+pkg: dash-table
+build: dash-table-3.6.0-py_0
+install: dash-table==3.6.0
+pip_check: "No broken requirements found.\n"
