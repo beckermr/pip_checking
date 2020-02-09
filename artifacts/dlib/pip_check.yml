@@ -1,0 +1,4 @@
+pkg: dlib
+build: dlib-19.17-py37hd907d46_0
+install: dlib==19.17
+pip_check: "No broken requirements found.\n"
