@@ -1,0 +1,4 @@
+pkg: python-magic
+build: python-magic-0.4.15-py37_1001
+install: python-magic==0.4.15
+pip_check: "No broken requirements found.\n"
