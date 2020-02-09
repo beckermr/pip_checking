@@ -1,0 +1,4 @@
+pkg: wsproto
+build: wsproto-0.15.0-py37_1
+install: wsproto==0.15.0
+pip_check: "No broken requirements found.\n"
