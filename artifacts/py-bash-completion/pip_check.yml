@@ -1,0 +1,4 @@
+pkg: py-bash-completion
+build: py-bash-completion-0.2.2-py_0
+install: py-bash-completion==0.2.2
+pip_check: "No broken requirements found.\n"
