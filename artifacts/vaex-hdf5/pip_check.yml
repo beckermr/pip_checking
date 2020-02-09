@@ -1,0 +1,4 @@
+pkg: vaex-hdf5
+build: vaex-hdf5-0.5.2-py_0
+install: vaex-hdf5==0.5.2
+pip_check: "No broken requirements found.\n"
