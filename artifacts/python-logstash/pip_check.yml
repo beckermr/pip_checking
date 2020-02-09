@@ -1,0 +1,4 @@
+pkg: python-logstash
+build: python-logstash-0.4.6-py_0
+install: python-logstash==0.4.6
+pip_check: "No broken requirements found.\n"
