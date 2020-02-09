@@ -1,0 +1,6 @@
+pkg: pyxrf
+build: pyxrf-0.0.16-py_0
+install: pyxrf==0.0.16
+pip_check: "scikit-beam 0.0.19 requires fabio, which is not installed.\nscikit-beam\
+  \ 0.0.19 requires pyfai, which is not installed.\npyxrf 0.0.16 requires requests,\
+  \ which is not installed.\n"
