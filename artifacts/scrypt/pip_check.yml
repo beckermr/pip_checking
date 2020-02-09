@@ -1,0 +1,4 @@
+pkg: scrypt
+build: scrypt-0.8.7-py37hb7f436b_0
+install: scrypt==0.8.7
+pip_check: "No broken requirements found.\n"
