@@ -1,0 +1,4 @@
+pkg: plasmapy
+build: plasmapy-0.2.0-py37he1b5a44_0
+install: plasmapy==0.2.0
+pip_check: "plasmapy 0.2.0 requires cython, which is not installed.\n"
