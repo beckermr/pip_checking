@@ -1,0 +1,4 @@
+pkg: morfessor
+build: morfessor-2.0.6-py_1
+install: morfessor==2.0.6
+pip_check: "No broken requirements found.\n"
