@@ -1,0 +1,4 @@
+pkg: starlette
+build: starlette-0.12.9-py_0
+install: starlette==0.12.9
+pip_check: "No broken requirements found.\n"
