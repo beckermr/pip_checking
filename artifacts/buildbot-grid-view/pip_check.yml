@@ -1,0 +1,4 @@
+pkg: buildbot-grid-view
+build: buildbot-grid-view-2.6.0-py_0
+install: buildbot-grid-view==2.6.0
+pip_check: "No broken requirements found.\n"
