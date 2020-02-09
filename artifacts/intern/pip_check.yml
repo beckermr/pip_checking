@@ -1,0 +1,5 @@
+pkg: intern
+build: intern-1.0.4-py_0
+install: intern==1.0.4
+pip_check: "intern 0.9.11 requires mock, which is not installed.\nintern 0.9.11 requires\
+  \ nose2, which is not installed.\nintern 0.9.11 requires numpy, which is not installed.\n"
