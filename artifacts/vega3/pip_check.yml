@@ -1,0 +1,4 @@
+pkg: vega3
+build: vega3-0.13.0-py_1
+install: vega3==0.13.0
+pip_check: "No broken requirements found.\n"
