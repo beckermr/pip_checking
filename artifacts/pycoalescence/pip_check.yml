@@ -1,0 +1,4 @@
+pkg: pycoalescence
+build: pycoalescence-1.2.7a13-py37h80fcf84_1
+install: pycoalescence==1.2.7a13
+pip_check: "No broken requirements found.\n"
