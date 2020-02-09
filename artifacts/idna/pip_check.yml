@@ -1,0 +1,4 @@
+pkg: idna
+build: idna-2.7-py37_1002
+install: idna==2.7
+pip_check: "No broken requirements found.\n"
