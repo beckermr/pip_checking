@@ -1,0 +1,4 @@
+pkg: sphinxjp.themes.solarized
+build: sphinxjp.themes.solarized-0.1.0-py_1
+install: sphinxjp.themes.solarized==0.1.0
+pip_check: "No broken requirements found.\n"
