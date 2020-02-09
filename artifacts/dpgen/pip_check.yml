@@ -1,0 +1,4 @@
+pkg: dpgen
+build: dpgen-0.5.0-py_0
+install: dpgen==0.5.0
+pip_check: "custodian 2019.9.23 requires sentry-sdk, which is not installed.\n"
