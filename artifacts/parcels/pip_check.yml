@@ -1,0 +1,4 @@
+pkg: parcels
+build: parcels-2.0.0-py37_1
+install: parcels==2.0.0
+pip_check: "No broken requirements found.\n"
