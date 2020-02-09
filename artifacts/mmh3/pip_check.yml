@@ -1,0 +1,4 @@
+pkg: mmh3
+build: mmh3-2.5.1-py37he1b5a44_0
+install: mmh3==2.5.1
+pip_check: "No broken requirements found.\n"
