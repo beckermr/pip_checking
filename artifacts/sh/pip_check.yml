@@ -1,0 +1,4 @@
+pkg: sh
+build: sh-1.12.14-py37_1001
+install: sh==1.12.14
+pip_check: "No broken requirements found.\n"
