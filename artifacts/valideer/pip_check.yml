@@ -1,0 +1,4 @@
+pkg: valideer
+build: valideer-0.4.2-py_1
+install: valideer==0.4.2
+pip_check: "No broken requirements found.\n"
