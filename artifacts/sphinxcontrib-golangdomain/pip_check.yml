@@ -1,0 +1,4 @@
+pkg: sphinxcontrib-golangdomain
+build: sphinxcontrib-golangdomain-0.2.0.dev0-py_0
+install: sphinxcontrib-golangdomain==0.2.0.dev0
+pip_check: "No broken requirements found.\n"
