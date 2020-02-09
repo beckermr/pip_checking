@@ -1,0 +1,4 @@
+pkg: pngpack-py
+build: pngpack-py-1.1.0-py37h3e57f02_0
+install: pngpack-py==1.1.0
+pip_check: "No broken requirements found.\n"
