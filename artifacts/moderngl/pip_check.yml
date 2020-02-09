@@ -1,0 +1,4 @@
+pkg: moderngl
+build: moderngl-5.6.0-py37hb3f55d8_0
+install: moderngl==5.6.0
+pip_check: "moderngl 5.6.0 requires glcontext, which is not installed.\n"
