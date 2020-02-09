@@ -1,0 +1,4 @@
+pkg: sfepy
+build: sfepy-2019.4-py37hc1659b7_0
+install: sfepy==2019.4
+pip_check: "No broken requirements found.\n"
