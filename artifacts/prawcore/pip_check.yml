@@ -1,0 +1,4 @@
+pkg: prawcore
+build: prawcore-1.0.0-py_0
+install: prawcore==1.0.0
+pip_check: "No broken requirements found.\n"
