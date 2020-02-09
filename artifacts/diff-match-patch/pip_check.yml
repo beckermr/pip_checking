@@ -1,0 +1,4 @@
+pkg: diff-match-patch
+build: diff-match-patch-20121119-py_1
+install: diff-match-patch==20121119
+pip_check: "No broken requirements found.\n"
