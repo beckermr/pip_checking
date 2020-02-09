@@ -1,0 +1,4 @@
+pkg: mo_pack
+build: mo_pack-0.2.0-py37h3010b51_1003
+install: mo_pack==0.2.0
+pip_check: "No broken requirements found.\n"
