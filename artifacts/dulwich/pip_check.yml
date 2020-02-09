@@ -1,0 +1,4 @@
+pkg: dulwich
+build: dulwich-0.19.6-py37h470a237_0
+install: dulwich==0.19.6
+pip_check: "No broken requirements found.\n"
