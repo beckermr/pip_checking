@@ -1,0 +1,4 @@
+pkg: xontrib-ssh-agent
+build: xontrib-ssh-agent-1.0.2-py_0
+install: xontrib-ssh-agent==1.0.2
+pip_check: "No broken requirements found.\n"
