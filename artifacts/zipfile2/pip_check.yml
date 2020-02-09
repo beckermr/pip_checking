@@ -1,0 +1,4 @@
+pkg: zipfile2
+build: zipfile2-0.0.12-py_0
+install: zipfile2==0.0.12
+pip_check: "No broken requirements found.\n"
