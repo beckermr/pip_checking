@@ -1,0 +1,4 @@
+pkg: anyconfig
+build: anyconfig-0.9.8-py_0
+install: anyconfig==0.9.8
+pip_check: "No broken requirements found.\n"
