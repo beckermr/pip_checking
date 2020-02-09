@@ -1,0 +1,5 @@
+pkg: poetry
+build: poetry-0.12.11-py37_1000
+install: poetry==0.12.11
+pip_check: "poetry 0.12.11 has requirement tomlkit<0.6.0,>=0.5.1, but you have tomlkit\
+  \ 0.4.6.\n"
