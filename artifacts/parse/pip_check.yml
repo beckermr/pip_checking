@@ -1,0 +1,4 @@
+pkg: parse
+build: parse-1.9.0-py_0
+install: parse==1.9.0
+pip_check: "No broken requirements found.\n"
