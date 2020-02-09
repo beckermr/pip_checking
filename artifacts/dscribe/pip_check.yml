@@ -1,0 +1,4 @@
+pkg: dscribe
+build: dscribe-0.2.8-py37hc9558a2_0
+install: dscribe==0.2.8
+pip_check: "dscribe 0.2.8 requires soaplite, which is not installed.\n"
