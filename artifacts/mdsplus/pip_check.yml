@@ -1,0 +1,4 @@
+pkg: mdsplus
+build: mdsplus-7.7.15-py37hc99cbb1_1006
+install: mdsplus==7.7.15
+pip_check: "No broken requirements found.\n"
