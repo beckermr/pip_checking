@@ -1,0 +1,4 @@
+pkg: rfc5424-logging-handler
+build: rfc5424-logging-handler-1.4.3-py_0
+install: rfc5424-logging-handler==1.4.3
+pip_check: "No broken requirements found.\n"
