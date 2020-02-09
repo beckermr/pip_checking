@@ -1,0 +1,4 @@
+pkg: quart
+build: quart-0.10.0-py_0
+install: quart==0.10.0
+pip_check: "No broken requirements found.\n"
