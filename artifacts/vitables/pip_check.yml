@@ -1,0 +1,4 @@
+pkg: vitables
+build: vitables-3.0.0-py37h516909a_5
+install: vitables==3.0.0
+pip_check: "No broken requirements found.\n"
