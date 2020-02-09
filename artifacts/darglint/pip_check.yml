@@ -1,0 +1,4 @@
+pkg: darglint
+build: darglint-0.6.1-py_0
+install: darglint==0.6.1
+pip_check: "No broken requirements found.\n"
