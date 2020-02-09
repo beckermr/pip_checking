@@ -1,0 +1,4 @@
+pkg: jupyterlab-plotly-extension
+build: jupyterlab-plotly-extension-0.18.2-py_0
+install: jupyterlab-plotly-extension==0.18.2
+pip_check: "No broken requirements found.\n"
