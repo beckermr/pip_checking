@@ -1,0 +1,4 @@
+pkg: colour
+build: colour-0.1.5-py_0
+install: colour==0.1.5
+pip_check: "No broken requirements found.\n"
