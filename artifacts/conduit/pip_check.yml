@@ -1,0 +1,4 @@
+pkg: conduit
+build: conduit-0.5.1-py37haf0248b_0
+install: conduit==0.5.1
+pip_check: "No broken requirements found.\n"
