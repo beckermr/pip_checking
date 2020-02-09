@@ -1,0 +1,4 @@
+pkg: stsynphot
+build: stsynphot-0.2.0-py37h5ca1d4c_0
+install: stsynphot==0.2.0
+pip_check: "No broken requirements found.\n"
