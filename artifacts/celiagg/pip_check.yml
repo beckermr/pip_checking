@@ -1,0 +1,4 @@
+pkg: celiagg
+build: celiagg-1.0.3-py37h8d9e2fd_1000
+install: celiagg==1.0.3
+pip_check: "No broken requirements found.\n"
