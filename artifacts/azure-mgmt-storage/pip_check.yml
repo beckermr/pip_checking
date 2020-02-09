@@ -1,0 +1,4 @@
+pkg: azure-mgmt-storage
+build: azure-mgmt-storage-4.2.0-py_0
+install: azure-mgmt-storage==4.2.0
+pip_check: "No broken requirements found.\n"
