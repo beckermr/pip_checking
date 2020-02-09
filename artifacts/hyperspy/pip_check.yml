@@ -1,0 +1,4 @@
+pkg: hyperspy
+build: hyperspy-1.4-py37h14c3975_0
+install: hyperspy==1.4
+pip_check: "No broken requirements found.\n"
