@@ -1,0 +1,4 @@
+pkg: intake-parquet
+build: intake-parquet-0.2.2-py_0
+install: intake-parquet==0.2.2
+pip_check: "No broken requirements found.\n"
