@@ -1,0 +1,4 @@
+pkg: zstandard
+build: zstandard-0.11.1-py37he1b5a44_0
+install: zstandard==0.11.1
+pip_check: "zstandard 0.11.1 requires cffi, which is not installed.\n"
