@@ -1,0 +1,4 @@
+pkg: rfc3339
+build: rfc3339-6.2-py_0
+install: rfc3339==6.2
+pip_check: "No broken requirements found.\n"
