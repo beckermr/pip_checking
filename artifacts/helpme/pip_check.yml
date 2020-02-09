@@ -1,0 +1,5 @@
+pkg: helpme
+build: helpme-0.0.40-py37_0
+install: helpme==0.0.40
+pip_check: "helpme 0.0.40 requires pycryptodome, which is not installed.\nhelpme 0.0.40\
+  \ requires uservoice, which is not installed.\n"
