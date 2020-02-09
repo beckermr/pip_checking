@@ -1,0 +1,4 @@
+pkg: pychrono
+build: pychrono-4.0.0-py37he1b5a44_1
+install: pychrono==4.0.0
+pip_check: "No broken requirements found.\n"
