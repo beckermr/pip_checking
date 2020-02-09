@@ -1,0 +1,4 @@
+pkg: python-daemon
+build: python-daemon-2.1.2-py37_0
+install: python-daemon==2.1.2
+pip_check: "python-daemon 2.1.2 requires docutils, which is not installed.\n"
