@@ -1,0 +1,4 @@
+pkg: azure-mgmt-network
+build: azure-mgmt-network-7.0.0-py_0
+install: azure-mgmt-network==7.0.0
+pip_check: "No broken requirements found.\n"
