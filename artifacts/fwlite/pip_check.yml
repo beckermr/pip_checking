@@ -1,0 +1,4 @@
+pkg: fwlite
+build: fwlite-11.0.0-py37h453002c_0
+install: fwlite==11.0.0
+pip_check: "No broken requirements found.\n"
