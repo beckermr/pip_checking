@@ -1,0 +1,4 @@
+pkg: geographiclib
+build: geographiclib-1.50-py_0
+install: geographiclib==1.50
+pip_check: "No broken requirements found.\n"
