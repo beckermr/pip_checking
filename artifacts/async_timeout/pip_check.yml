@@ -1,0 +1,4 @@
+pkg: async_timeout
+build: async_timeout-3.0.1-py_0
+install: async_timeout==3.0.1
+pip_check: "No broken requirements found.\n"
