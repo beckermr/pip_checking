@@ -1,0 +1,4 @@
+pkg: simhash
+build: simhash-1.9.0-py_1
+install: simhash==1.9.0
+pip_check: "No broken requirements found.\n"
