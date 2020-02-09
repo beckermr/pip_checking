@@ -1,0 +1,4 @@
+pkg: h3-py
+build: h3-py-3.4.3-py37_3
+install: h3-py==3.4.3
+pip_check: "No broken requirements found.\n"
