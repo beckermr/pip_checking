@@ -1,0 +1,4 @@
+pkg: flask-migrate
+build: flask-migrate-2.4.0-py37_0
+install: flask-migrate==2.4.0
+pip_check: "No broken requirements found.\n"
