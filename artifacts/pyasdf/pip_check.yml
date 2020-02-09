@@ -1,0 +1,5 @@
+pkg: pyasdf
+build: pyasdf-0.5.1-py_0
+install: pyasdf==0.5.1
+pip_check: "pyasdf 0.5.1 requires flake8, which is not installed.\npyasdf 0.5.1 requires\
+  \ pytest, which is not installed.\n"
