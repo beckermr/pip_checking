@@ -1,0 +1,4 @@
+pkg: probableparsing
+build: probableparsing-0.0.1-py_1000
+install: probableparsing==0.0.1
+pip_check: "No broken requirements found.\n"
