@@ -1,0 +1,4 @@
+pkg: xvfbwrapper
+build: xvfbwrapper-0.2.9-py37_1000
+install: xvfbwrapper==0.2.9
+pip_check: "No broken requirements found.\n"
