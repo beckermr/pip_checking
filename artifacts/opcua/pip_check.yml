@@ -1,0 +1,4 @@
+pkg: opcua
+build: opcua-0.98.5-py37_0
+install: opcua==0.98.5
+pip_check: "No broken requirements found.\n"
