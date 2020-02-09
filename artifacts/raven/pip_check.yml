@@ -1,0 +1,4 @@
+pkg: raven
+build: raven-6.10.0-py_0
+install: raven==6.10.0
+pip_check: "No broken requirements found.\n"
