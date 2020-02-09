@@ -1,0 +1,4 @@
+pkg: python-mimeparse
+build: python-mimeparse-1.6.0-py_1
+install: python-mimeparse==1.6.0
+pip_check: "No broken requirements found.\n"
