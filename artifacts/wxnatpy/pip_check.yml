@@ -1,0 +1,5 @@
+pkg: wxnatpy
+build: wxnatpy-0.3.2-py_0
+install: wxnatpy==0.3.2
+pip_check: "wxpython 4.0.7.post2 requires pillow, which is not installed.\nsphinx-rtd-theme\
+  \ 0.4.3 requires sphinx, which is not installed.\n"
