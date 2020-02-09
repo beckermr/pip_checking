@@ -1,0 +1,4 @@
+pkg: dxfile
+build: dxfile-0.5-py_1
+install: dxfile==0.5
+pip_check: "No broken requirements found.\n"
