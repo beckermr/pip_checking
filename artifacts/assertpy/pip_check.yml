@@ -1,0 +1,4 @@
+pkg: assertpy
+build: assertpy-0.15-py_0
+install: assertpy==0.15
+pip_check: "No broken requirements found.\n"
