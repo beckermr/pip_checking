@@ -1,0 +1,4 @@
+pkg: openmc
+build: openmc-0.11.0-py37h61b9802_2
+install: openmc==0.11.0
+pip_check: "openmc 0.11.0 requires ipython, which is not installed.\n"
