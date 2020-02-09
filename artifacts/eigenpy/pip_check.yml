@@ -1,0 +1,4 @@
+pkg: eigenpy
+build: eigenpy-1.6.7-py37hb21ce0d_0
+install: eigenpy==1.6.7
+pip_check: "No broken requirements found.\n"
