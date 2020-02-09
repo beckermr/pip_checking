@@ -1,0 +1,4 @@
+pkg: jupyterlab_code_formatter
+build: jupyterlab_code_formatter-0.6.1-py_0
+install: jupyterlab_code_formatter==0.6.1
+pip_check: "No broken requirements found.\n"
