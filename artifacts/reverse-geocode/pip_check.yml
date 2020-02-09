@@ -1,0 +1,4 @@
+pkg: reverse-geocode
+build: reverse-geocode-1.4-py_0
+install: reverse-geocode==1.4
+pip_check: "No broken requirements found.\n"
