@@ -1,0 +1,4 @@
+pkg: pysimpleguiweb
+build: pysimpleguiweb-0.35.0-py_0
+install: pysimpleguiweb==0.35.0
+pip_check: "No broken requirements found.\n"
