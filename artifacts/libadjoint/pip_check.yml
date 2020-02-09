@@ -1,0 +1,4 @@
+pkg: libadjoint
+build: libadjoint-2017.2.0-py37h26a2512_2
+install: libadjoint==2017.2.0
+pip_check: "No broken requirements found.\n"
