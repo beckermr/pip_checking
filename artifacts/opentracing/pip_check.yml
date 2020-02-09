@@ -1,0 +1,4 @@
+pkg: opentracing
+build: opentracing-2.3.0-py37_0
+install: opentracing==2.3.0
+pip_check: "No broken requirements found.\n"
