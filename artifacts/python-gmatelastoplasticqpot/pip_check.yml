@@ -1,0 +1,5 @@
+pkg: python-gmatelastoplasticqpot
+build: python-gmatelastoplasticqpot-0.2.2-py37hc9558a2_0
+install: python-gmatelastoplasticqpot==0.2.2
+pip_check: "gmatelastoplasticqpot 0.2.2 requires pybind11, which is not installed.\n\
+  gmatelastoplasticqpot 0.2.2 requires pyxtensor, which is not installed.\n"
