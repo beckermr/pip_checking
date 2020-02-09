@@ -1,0 +1,4 @@
+pkg: pickledb
+build: pickledb-0.9.2-py_0
+install: pickledb==0.9.2
+pip_check: "No broken requirements found.\n"
