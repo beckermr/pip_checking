@@ -1,0 +1,4 @@
+pkg: dioptas
+build: dioptas-0.4.1-py37h6a1b0b5_1002
+install: dioptas==0.4.1
+pip_check: "No broken requirements found.\n"
