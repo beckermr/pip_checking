@@ -1,0 +1,4 @@
+pkg: bayespy
+build: bayespy-0.5.19-py_0
+install: bayespy==0.5.19
+pip_check: "No broken requirements found.\n"
