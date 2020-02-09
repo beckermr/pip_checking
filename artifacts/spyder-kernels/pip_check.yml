@@ -1,0 +1,4 @@
+pkg: spyder-kernels
+build: spyder-kernels-1.8.1-py37_0
+install: spyder-kernels==1.8.1
+pip_check: "No broken requirements found.\n"
