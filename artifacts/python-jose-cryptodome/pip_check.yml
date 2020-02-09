@@ -1,0 +1,5 @@
+pkg: python-jose-cryptodome
+build: python-jose-cryptodome-1.3.2-py_0
+install: python-jose-cryptodome==1.3.2
+pip_check: "python-jose-cryptodome 1.3.2 has requirement pycryptodome<3.4.0,>=3.3.1,\
+  \ but you have pycryptodome 3.9.6.\n"
