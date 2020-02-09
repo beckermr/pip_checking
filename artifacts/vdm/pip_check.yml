@@ -1,0 +1,4 @@
+pkg: vdm
+build: vdm-0.15-py_0
+install: vdm==0.15
+pip_check: "No broken requirements found.\n"
