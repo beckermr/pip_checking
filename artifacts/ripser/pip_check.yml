@@ -1,0 +1,4 @@
+pkg: ripser
+build: ripser-0.4.0-py37h9de70de_0
+install: ripser==0.4.0
+pip_check: "ripser 0.4.0 requires cython, which is not installed.\n"
