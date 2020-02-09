@@ -1,0 +1,4 @@
+pkg: bagit
+build: bagit-1.6.4-py_0
+install: bagit==1.6.4
+pip_check: "No broken requirements found.\n"
