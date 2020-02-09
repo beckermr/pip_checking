@@ -1,0 +1,4 @@
+pkg: axopy
+build: axopy-0.2.2-py_1
+install: axopy==0.2.2
+pip_check: "No broken requirements found.\n"
