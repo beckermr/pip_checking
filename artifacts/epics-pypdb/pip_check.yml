@@ -1,0 +1,4 @@
+pkg: epics-pypdb
+build: epics-pypdb-0.1.4-py_0
+install: epics-pypdb==0.1.4
+pip_check: "No broken requirements found.\n"
