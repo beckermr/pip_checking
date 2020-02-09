@@ -1,0 +1,4 @@
+pkg: pykep
+build: pykep-2.2-py37h38e7a2c_0
+install: pykep==2.2
+pip_check: "No broken requirements found.\n"
