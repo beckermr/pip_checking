@@ -1,0 +1,4 @@
+pkg: ncpol2sdpa
+build: ncpol2sdpa-1.12.2-py_1
+install: ncpol2sdpa==1.12.2
+pip_check: "No broken requirements found.\n"
