@@ -1,0 +1,4 @@
+pkg: pixy
+build: pixy-0.1-py37_0
+install: pixy==0.1
+pip_check: "scikit-allel 1.2.1 requires cython, which is not installed.\n"
