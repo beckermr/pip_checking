@@ -1,0 +1,4 @@
+pkg: requests-aws4auth
+build: requests-aws4auth-0.9-py_0
+install: requests-aws4auth==0.9
+pip_check: "No broken requirements found.\n"
