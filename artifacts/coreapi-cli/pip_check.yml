@@ -1,0 +1,4 @@
+pkg: coreapi-cli
+build: coreapi-cli-1.0.9-py_0
+install: coreapi-cli==1.0.9
+pip_check: "No broken requirements found.\n"
