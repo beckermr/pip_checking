@@ -1,0 +1,4 @@
+pkg: djangorestframework
+build: djangorestframework-3.10.2-py_0
+install: djangorestframework==3.10.2
+pip_check: "No broken requirements found.\n"
