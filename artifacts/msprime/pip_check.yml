@@ -1,0 +1,4 @@
+pkg: msprime
+build: msprime-0.7.4-py37heade8f8_0
+install: msprime==0.7.4
+pip_check: "No broken requirements found.\n"
