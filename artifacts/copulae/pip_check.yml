@@ -1,0 +1,4 @@
+pkg: copulae
+build: copulae-0.4.0-py37h516909a_6
+install: copulae==0.4.0
+pip_check: "No broken requirements found.\n"
