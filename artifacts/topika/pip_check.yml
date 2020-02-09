@@ -1,0 +1,4 @@
+pkg: topika
+build: topika-0.2.1-py37_1
+install: topika==0.2.1
+pip_check: "No broken requirements found.\n"
