@@ -1,0 +1,4 @@
+pkg: flask-couchdb
+build: flask-couchdb-0.2.1-py37_0
+install: flask-couchdb==0.2.1
+pip_check: "No broken requirements found.\n"
