@@ -1,0 +1,4 @@
+pkg: swifter
+build: swifter-0.286-py37_0
+install: swifter==0.286
+pip_check: "No broken requirements found.\n"
