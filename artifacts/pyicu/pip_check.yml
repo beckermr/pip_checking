@@ -1,0 +1,4 @@
+pkg: pyicu
+build: pyicu-2.3.1-py37h8412b87_0
+install: pyicu==2.3.1
+pip_check: "No broken requirements found.\n"
