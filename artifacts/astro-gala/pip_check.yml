@@ -1,0 +1,4 @@
+pkg: astro-gala
+build: astro-gala-1.0-py37heade8f8_1
+install: astro-gala==1.0
+pip_check: "astro-gala 1.0 requires cython, which is not installed.\n"
