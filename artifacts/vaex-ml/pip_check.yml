@@ -1,0 +1,4 @@
+pkg: vaex-ml
+build: vaex-ml-0.6.1-py_0
+install: vaex-ml==0.6.1
+pip_check: "No broken requirements found.\n"
