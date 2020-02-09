@@ -1,0 +1,4 @@
+pkg: pycurl
+build: pycurl-7.43.0.2-py37h16ce93b_0
+install: pycurl==7.43.0.2
+pip_check: "No broken requirements found.\n"
