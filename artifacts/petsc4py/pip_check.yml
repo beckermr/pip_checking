@@ -1,0 +1,4 @@
+pkg: petsc4py
+build: petsc4py-3.10.0-py37h097bea6_2
+install: petsc4py==3.10.0
+pip_check: "No broken requirements found.\n"
