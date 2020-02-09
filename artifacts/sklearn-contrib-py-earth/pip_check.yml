@@ -1,0 +1,4 @@
+pkg: sklearn-contrib-py-earth
+build: sklearn-contrib-py-earth-0.1.0-py37hc1659b7_2
+install: sklearn-contrib-py-earth==0.1.0
+pip_check: "No broken requirements found.\n"
