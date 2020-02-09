@@ -1,0 +1,4 @@
+pkg: svg42pdf
+build: svg42pdf-0.2.2-py37_1000
+install: svg42pdf==0.2.2
+pip_check: "svg42pdf 0.2.2 requires argparse, which is not installed.\n"
