@@ -1,0 +1,4 @@
+pkg: beautysh
+build: beautysh-3.11-py_0
+install: beautysh==3.11
+pip_check: "No broken requirements found.\n"
