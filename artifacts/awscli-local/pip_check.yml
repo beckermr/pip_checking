@@ -1,0 +1,4 @@
+pkg: awscli-local
+build: awscli-local-0.5-py_0
+install: awscli-local==0.5
+pip_check: "No broken requirements found.\n"
