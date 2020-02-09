@@ -1,0 +1,4 @@
+pkg: jaraco.envs
+build: jaraco.envs-1.0.1-py_0
+install: jaraco.envs==1.0.1
+pip_check: "jaraco-envs 1.0.1 requires path-py, which is not installed.\n"
