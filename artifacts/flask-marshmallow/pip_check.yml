@@ -1,0 +1,4 @@
+pkg: flask-marshmallow
+build: flask-marshmallow-0.10.0-py_0
+install: flask-marshmallow==0.10.0
+pip_check: "No broken requirements found.\n"
