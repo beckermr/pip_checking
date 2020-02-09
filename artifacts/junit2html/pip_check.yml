@@ -1,0 +1,4 @@
+pkg: junit2html
+build: junit2html-022-py_0
+install: junit2html==022
+pip_check: "No broken requirements found.\n"
