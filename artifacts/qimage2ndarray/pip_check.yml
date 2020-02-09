@@ -1,0 +1,4 @@
+pkg: qimage2ndarray
+build: qimage2ndarray-1.7-py_0
+install: qimage2ndarray==1.7
+pip_check: "No broken requirements found.\n"
