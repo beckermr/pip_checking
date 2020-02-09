@@ -1,0 +1,4 @@
+pkg: stuf
+build: stuf-0.9.16-py_0
+install: stuf==0.9.16
+pip_check: "No broken requirements found.\n"
