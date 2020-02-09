@@ -1,0 +1,4 @@
+pkg: volk
+build: volk-2.1.0-py37he1b5a44_0
+install: volk==2.1.0
+pip_check: "No broken requirements found.\n"
