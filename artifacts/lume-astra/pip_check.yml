@@ -1,0 +1,4 @@
+pkg: lume-astra
+build: lume-astra-0.1.1-py_0
+install: lume-astra==0.1.1
+pip_check: "No broken requirements found.\n"
