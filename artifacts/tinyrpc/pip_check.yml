@@ -1,0 +1,4 @@
+pkg: tinyrpc
+build: tinyrpc-0.9.4-py_0
+install: tinyrpc==0.9.4
+pip_check: "No broken requirements found.\n"
