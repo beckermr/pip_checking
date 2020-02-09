@@ -1,0 +1,4 @@
+pkg: argcomplete
+build: argcomplete-1.9.4-py37_1000
+install: argcomplete==1.9.4
+pip_check: "No broken requirements found.\n"
