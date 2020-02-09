@@ -1,0 +1,4 @@
+pkg: otsubsetinverse
+build: otsubsetinverse-1.3-py37h4d1ea99_1001
+install: otsubsetinverse==1.3
+pip_check: "No broken requirements found.\n"
