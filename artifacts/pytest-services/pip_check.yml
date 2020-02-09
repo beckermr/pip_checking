@@ -1,0 +1,4 @@
+pkg: pytest-services
+build: pytest-services-2.0.1-py37_1
+install: pytest-services==2.0.1
+pip_check: "No broken requirements found.\n"
