@@ -1,0 +1,4 @@
+pkg: zfpy
+build: zfpy-0.5.5-py37hb3f55d8_0
+install: zfpy==0.5.5
+pip_check: "No broken requirements found.\n"
