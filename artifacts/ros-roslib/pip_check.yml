@@ -1,0 +1,4 @@
+pkg: ros-roslib
+build: ros-roslib-1.14.6-py37h8b68381_1
+install: ros-roslib==1.14.6
+pip_check: "No broken requirements found.\n"
