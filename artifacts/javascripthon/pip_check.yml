@@ -1,0 +1,4 @@
+pkg: javascripthon
+build: javascripthon-0.10-py_2
+install: javascripthon==0.10
+pip_check: "No broken requirements found.\n"
