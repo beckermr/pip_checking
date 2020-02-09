@@ -1,0 +1,5 @@
+pkg: opyplus
+build: opyplus-1.0.1-py_0
+install: opyplus==1.0.1
+pip_check: "python-slugify 3.0.6 has requirement text-unidecode>=1.3, but you have\
+  \ text-unidecode 1.2.\n"
