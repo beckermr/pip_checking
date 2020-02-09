@@ -1,0 +1,4 @@
+pkg: nptdms
+build: nptdms-0.16.0-py_0
+install: nptdms==0.16.0
+pip_check: "No broken requirements found.\n"
