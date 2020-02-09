@@ -1,0 +1,4 @@
+pkg: dakota
+build: dakota-6.10-py37hcd2aa06_2
+install: dakota==6.10
+pip_check: "No broken requirements found.\n"
