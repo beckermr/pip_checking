@@ -1,0 +1,4 @@
+pkg: path
+build: path-13.1.0-py37_0
+install: path==13.1.0
+pip_check: "No broken requirements found.\n"
