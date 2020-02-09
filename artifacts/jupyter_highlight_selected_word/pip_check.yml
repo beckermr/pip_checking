@@ -1,0 +1,4 @@
+pkg: jupyter_highlight_selected_word
+build: jupyter_highlight_selected_word-0.2.0-py37_1000
+install: jupyter_highlight_selected_word==0.2.0
+pip_check: "No broken requirements found.\n"
