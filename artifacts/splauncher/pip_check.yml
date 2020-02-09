@@ -1,0 +1,4 @@
+pkg: splauncher
+build: splauncher-0.0.10-py_1
+install: splauncher==0.0.10
+pip_check: "No broken requirements found.\n"
