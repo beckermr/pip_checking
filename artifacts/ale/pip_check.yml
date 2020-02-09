@@ -1,0 +1,4 @@
+pkg: ale
+build: ale-0.7.2-py37h9e03d57_1
+install: ale==0.7.2
+pip_check: "No broken requirements found.\n"
