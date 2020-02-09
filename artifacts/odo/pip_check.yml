@@ -1,0 +1,4 @@
+pkg: odo
+build: odo-0.5.1-py_1
+install: odo==0.5.1
+pip_check: "No broken requirements found.\n"
