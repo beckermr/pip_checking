@@ -1,0 +1,4 @@
+pkg: jsonref
+build: jsonref-0.2-py_0
+install: jsonref==0.2
+pip_check: "No broken requirements found.\n"
