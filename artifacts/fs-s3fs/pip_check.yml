@@ -1,0 +1,4 @@
+pkg: fs-s3fs
+build: fs-s3fs-1.1.1-py37_2
+install: fs-s3fs==1.1.1
+pip_check: "No broken requirements found.\n"
