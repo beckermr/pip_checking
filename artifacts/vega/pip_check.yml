@@ -1,0 +1,4 @@
+pkg: vega
+build: vega-2.6.0-py37_0
+install: vega==2.6.0
+pip_check: "No broken requirements found.\n"
