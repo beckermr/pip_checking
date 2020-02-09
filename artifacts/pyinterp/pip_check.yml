@@ -1,0 +1,4 @@
+pkg: pyinterp
+build: pyinterp-0.0.5-py37h97f2665_1
+install: pyinterp==0.0.5
+pip_check: "No broken requirements found.\n"
