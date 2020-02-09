@@ -1,0 +1,4 @@
+pkg: rjsmin
+build: rjsmin-1.0.12-py37h470a237_1
+install: rjsmin==1.0.12
+pip_check: "No broken requirements found.\n"
