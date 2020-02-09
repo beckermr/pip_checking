@@ -1,0 +1,4 @@
+pkg: nb2plots
+build: nb2plots-0.6-py_0
+install: nb2plots==0.6
+pip_check: "No broken requirements found.\n"
