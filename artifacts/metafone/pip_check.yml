@@ -1,0 +1,4 @@
+pkg: metafone
+build: metafone-0.5-py_1001
+install: metafone==0.5
+pip_check: "No broken requirements found.\n"
