@@ -1,0 +1,4 @@
+pkg: libxfoil
+build: libxfoil-1.0-py37h6e990d7_0
+install: libxfoil==1.0
+pip_check: "No broken requirements found.\n"
