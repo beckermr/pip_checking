@@ -1,0 +1,4 @@
+pkg: fake-factory
+build: fake-factory-0.7.4-py37_1001
+install: fake-factory==0.7.4
+pip_check: "No broken requirements found.\n"
