@@ -1,0 +1,4 @@
+pkg: cykdtree
+build: cykdtree-0.2.4-py37h637b7d7_1001
+install: cykdtree==0.2.4
+pip_check: "No broken requirements found.\n"
