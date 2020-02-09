@@ -1,0 +1,4 @@
+pkg: pyretis
+build: pyretis-2.1.0-py37hff88cb2_0
+install: pyretis==2.1.0
+pip_check: "No broken requirements found.\n"
