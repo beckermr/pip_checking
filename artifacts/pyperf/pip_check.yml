@@ -1,0 +1,4 @@
+pkg: pyperf
+build: pyperf-1.7.0-py37_0
+install: pyperf==1.7.0
+pip_check: "No broken requirements found.\n"
