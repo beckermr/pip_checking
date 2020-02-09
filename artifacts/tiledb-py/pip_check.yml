@@ -1,0 +1,4 @@
+pkg: tiledb-py
+build: tiledb-py-0.4.3-py37hb78b526_1
+install: tiledb-py==0.4.3
+pip_check: "No broken requirements found.\n"
