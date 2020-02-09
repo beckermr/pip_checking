@@ -1,0 +1,4 @@
+pkg: apistar
+build: apistar-0.5.19-py_0
+install: apistar==0.5.19
+pip_check: "No broken requirements found.\n"
