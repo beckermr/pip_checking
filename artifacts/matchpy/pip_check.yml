@@ -1,0 +1,4 @@
+pkg: matchpy
+build: matchpy-0.4.4-py_0
+install: matchpy==0.4.4
+pip_check: "No broken requirements found.\n"
