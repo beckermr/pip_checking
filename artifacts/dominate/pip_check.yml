@@ -1,0 +1,4 @@
+pkg: dominate
+build: dominate-2.4.0-py_0
+install: dominate==2.4.0
+pip_check: "No broken requirements found.\n"
