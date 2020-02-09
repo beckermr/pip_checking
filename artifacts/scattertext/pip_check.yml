@@ -1,0 +1,4 @@
+pkg: scattertext
+build: scattertext-0.0.2.28-py37_1000
+install: scattertext==0.0.2.28
+pip_check: "No broken requirements found.\n"
