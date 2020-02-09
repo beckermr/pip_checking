@@ -1,0 +1,4 @@
+pkg: draftjs_exporter
+build: draftjs_exporter-2.1.4-py_0
+install: draftjs_exporter==2.1.4
+pip_check: "No broken requirements found.\n"
