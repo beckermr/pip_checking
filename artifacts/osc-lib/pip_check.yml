@@ -1,0 +1,6 @@
+pkg: osc-lib
+build: osc-lib-1.14.1-py_0
+install: osc-lib==1.14.1
+pip_check: "testtools 2.3.0 requires python-mimeparse, which is not installed.\ntesttools\
+  \ 2.3.0 requires traceback2, which is not installed.\ntesttools 2.3.0 requires unittest2,\
+  \ which is not installed.\n"
