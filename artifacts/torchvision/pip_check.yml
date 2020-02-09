@@ -1,0 +1,4 @@
+pkg: torchvision
+build: torchvision-0.2.1-py37_1000
+install: torchvision==0.2.1
+pip_check: "No broken requirements found.\n"
