@@ -1,0 +1,4 @@
+pkg: ultranest
+build: ultranest-2.1.0-py37hc1659b7_0
+install: ultranest==2.1.0
+pip_check: "ultranest 2.1.0 requires cython, which is not installed.\n"
