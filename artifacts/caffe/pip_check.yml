@@ -1,0 +1,4 @@
+pkg: caffe
+build: caffe-1.0-py37hb5e3bbb_203
+install: caffe==1.0
+pip_check: "No broken requirements found.\n"
