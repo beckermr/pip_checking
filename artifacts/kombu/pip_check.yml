@@ -1,0 +1,4 @@
+pkg: kombu
+build: kombu-4.6.7-py37_1
+install: kombu==4.6.7
+pip_check: "No broken requirements found.\n"
