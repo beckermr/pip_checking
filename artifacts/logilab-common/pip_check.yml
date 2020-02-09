@@ -1,0 +1,4 @@
+pkg: logilab-common
+build: logilab-common-1.4.3-py37_0
+install: logilab-common==1.4.3
+pip_check: "No broken requirements found.\n"
