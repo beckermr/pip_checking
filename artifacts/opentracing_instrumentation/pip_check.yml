@@ -1,0 +1,4 @@
+pkg: opentracing_instrumentation
+build: opentracing_instrumentation-3.2.1-py37_0
+install: opentracing_instrumentation==3.2.1
+pip_check: "No broken requirements found.\n"
