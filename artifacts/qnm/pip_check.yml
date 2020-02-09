@@ -1,0 +1,4 @@
+pkg: qnm
+build: qnm-0.4.2-py_1
+install: qnm==0.4.2
+pip_check: "No broken requirements found.\n"
