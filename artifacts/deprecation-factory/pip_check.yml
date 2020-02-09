@@ -1,0 +1,4 @@
+pkg: deprecation-factory
+build: deprecation-factory-0.2.3-py_0
+install: deprecation-factory==0.2.3
+pip_check: "No broken requirements found.\n"
