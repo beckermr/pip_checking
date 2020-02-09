@@ -1,0 +1,5 @@
+pkg: pwkit
+build: pwkit-0.8.19-py_0
+install: pwkit==0.8.19
+pip_check: "pwkit 0.8.19 requires numpy, which is not installed.\npwkit 0.8.19 requires\
+  \ pathlib, which is not installed.\n"
