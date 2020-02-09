@@ -1,0 +1,5 @@
+pkg: marshmallow-oneofschema
+build: marshmallow-oneofschema-2.0.0b2-py_0
+install: marshmallow-oneofschema==2.0.0b2
+pip_check: "marshmallow-oneofschema 2.0.0b2 has requirement marshmallow<=3.0.0b19,>=3.0.0b12,\
+  \ but you have marshmallow 3.4.0.\n"
