@@ -1,0 +1,4 @@
+pkg: pytables
+build: pytables-3.6.1-py37h9f153d1_0
+install: pytables==3.6.1
+pip_check: "No broken requirements found.\n"
