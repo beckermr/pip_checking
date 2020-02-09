@@ -1,0 +1,4 @@
+pkg: keras-preprocessing
+build: keras-preprocessing-1.0.2-py_0
+install: keras-preprocessing==1.0.2
+pip_check: "keras-preprocessing 1.0.2 requires keras, which is not installed.\n"
