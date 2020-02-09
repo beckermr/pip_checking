@@ -1,0 +1,4 @@
+pkg: nltk
+build: nltk-3.4.4-py_0
+install: nltk==3.4.4
+pip_check: "No broken requirements found.\n"
