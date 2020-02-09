@@ -1,0 +1,4 @@
+pkg: flask-appbuilder
+build: flask-appbuilder-2.1.13-py_0
+install: flask-appbuilder==2.1.13
+pip_check: "No broken requirements found.\n"
