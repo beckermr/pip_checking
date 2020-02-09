@@ -1,0 +1,4 @@
+pkg: lsst-sphinx-bootstrap-theme
+build: lsst-sphinx-bootstrap-theme-0.2.2-py_0
+install: lsst-sphinx-bootstrap-theme==0.2.2
+pip_check: "No broken requirements found.\n"
