@@ -1,0 +1,4 @@
+pkg: jupyterlab-transient-display-data
+build: jupyterlab-transient-display-data-0.3.0-py_0
+install: jupyterlab-transient-display-data==0.3.0
+pip_check: "No broken requirements found.\n"
