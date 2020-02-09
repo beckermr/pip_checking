@@ -1,0 +1,4 @@
+pkg: zope.interface
+build: zope.interface-4.6.0-py37h14c3975_1000
+install: zope.interface==4.6.0
+pip_check: "No broken requirements found.\n"
