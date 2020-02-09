@@ -1,0 +1,4 @@
+pkg: anaconda-client
+build: anaconda-client-1.7.2-py_0
+install: anaconda-client==1.7.2
+pip_check: "No broken requirements found.\n"
