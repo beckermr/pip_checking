@@ -1,0 +1,4 @@
+pkg: slackclient
+build: slackclient-2.2.1-py37_0
+install: slackclient==2.2.1
+pip_check: "No broken requirements found.\n"
