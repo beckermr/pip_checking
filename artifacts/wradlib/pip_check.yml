@@ -1,0 +1,4 @@
+pkg: wradlib
+build: wradlib-1.4.0-py_0
+install: wradlib==1.4.0
+pip_check: "No broken requirements found.\n"
