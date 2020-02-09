@@ -1,0 +1,4 @@
+pkg: richdem
+build: richdem-0.3.4-py37hb3f55d8_0
+install: richdem==0.3.4
+pip_check: "No broken requirements found.\n"
