@@ -1,0 +1,4 @@
+pkg: imgaug
+build: imgaug-0.3.0-py_0
+install: imgaug==0.3.0
+pip_check: "imgaug 0.3.0 requires opencv-python-headless, which is not installed.\n"
