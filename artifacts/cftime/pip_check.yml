@@ -1,0 +1,4 @@
+pkg: cftime
+build: cftime-1.0.2.1-py37h3010b51_1000
+install: cftime==1.0.2.1
+pip_check: "No broken requirements found.\n"
