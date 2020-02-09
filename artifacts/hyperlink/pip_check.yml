@@ -1,0 +1,4 @@
+pkg: hyperlink
+build: hyperlink-17.3.1-py_0
+install: hyperlink==17.3.1
+pip_check: "No broken requirements found.\n"
