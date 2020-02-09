@@ -1,0 +1,4 @@
+pkg: opencamlib
+build: opencamlib-2019.07-py37h3e4de3e_0
+install: opencamlib==2019.07
+pip_check: "No broken requirements found.\n"
