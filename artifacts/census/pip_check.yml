@@ -1,0 +1,4 @@
+pkg: census
+build: census-0.8.4-py_0
+install: census==0.8.4
+pip_check: "No broken requirements found.\n"
