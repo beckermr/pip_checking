@@ -1,0 +1,4 @@
+pkg: pyreadstat
+build: pyreadstat-0.2.9-py37hed695b0_0
+install: pyreadstat==0.2.9
+pip_check: "No broken requirements found.\n"
