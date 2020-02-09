@@ -1,0 +1,4 @@
+pkg: scikit-time
+build: scikit-time-0.1-py37hb3f55d8_0
+install: scikit-time==0.1
+pip_check: "No broken requirements found.\n"
