@@ -1,0 +1,4 @@
+pkg: mdsrv
+build: mdsrv-0.3.5.post1-py37h9449cc1_1
+install: mdsrv==0.3.5.post1
+pip_check: "No broken requirements found.\n"
