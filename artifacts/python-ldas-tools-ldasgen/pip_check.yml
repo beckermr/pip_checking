@@ -1,0 +1,4 @@
+pkg: python-ldas-tools-ldasgen
+build: python-ldas-tools-ldasgen-2.6.6-py37h6bb024c_1000
+install: python-ldas-tools-ldasgen==2.6.6
+pip_check: "No broken requirements found.\n"
