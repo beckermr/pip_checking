@@ -1,0 +1,4 @@
+pkg: google-cloud-monitoring
+build: google-cloud-monitoring-0.28.1-py37_1000
+install: google-cloud-monitoring==0.28.1
+pip_check: "No broken requirements found.\n"
