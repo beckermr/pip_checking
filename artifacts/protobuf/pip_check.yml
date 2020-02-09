@@ -1,0 +1,4 @@
+pkg: protobuf
+build: protobuf-3.10.1-py37he1b5a44_0
+install: protobuf==3.10.1
+pip_check: "No broken requirements found.\n"
