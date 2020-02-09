@@ -1,0 +1,4 @@
+pkg: xbpch
+build: xbpch-0.3.3-py_1000
+install: xbpch==0.3.3
+pip_check: "No broken requirements found.\n"
