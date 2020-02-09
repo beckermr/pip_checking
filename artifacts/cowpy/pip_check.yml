@@ -1,0 +1,4 @@
+pkg: cowpy
+build: cowpy-1.1.0-py37_0
+install: cowpy==1.1.0
+pip_check: "No broken requirements found.\n"
