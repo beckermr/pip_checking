@@ -1,0 +1,4 @@
+pkg: latlon23
+build: latlon23-1.0.7-py_0
+install: latlon23==1.0.7
+pip_check: "No broken requirements found.\n"
