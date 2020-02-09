@@ -1,0 +1,4 @@
+pkg: simpletal
+build: simpletal-5.2-py37_1001
+install: simpletal==5.2
+pip_check: "No broken requirements found.\n"
