@@ -1,0 +1,5 @@
+pkg: orange3-timeseries
+build: orange3-timeseries-0.3.3-py37_1000
+install: orange3-timeseries==0.3.3
+pip_check: "orange3-timeseries 0.3.3 requires pandas-datareader, which is not installed.\n\
+  opentsne 0.3.12 has requirement pynndescent>=0.4, but you have pynndescent 0.3.3.\n"
