@@ -1,0 +1,4 @@
+pkg: logging_exceptions
+build: logging_exceptions-0.1.8-py_0
+install: logging_exceptions==0.1.8
+pip_check: "No broken requirements found.\n"
