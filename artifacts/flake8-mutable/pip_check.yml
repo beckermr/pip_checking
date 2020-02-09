@@ -1,0 +1,4 @@
+pkg: flake8-mutable
+build: flake8-mutable-1.2.0-py_1
+install: flake8-mutable==1.2.0
+pip_check: "No broken requirements found.\n"
