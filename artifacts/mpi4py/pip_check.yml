@@ -1,0 +1,4 @@
+pkg: mpi4py
+build: mpi4py-3.0.1-py37hd955b32_0
+install: mpi4py==3.0.1
+pip_check: "No broken requirements found.\n"
