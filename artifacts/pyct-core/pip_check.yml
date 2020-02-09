@@ -1,0 +1,4 @@
+pkg: pyct-core
+build: pyct-core-0.4.6-py_0
+install: pyct-core==0.4.6
+pip_check: "No broken requirements found.\n"
