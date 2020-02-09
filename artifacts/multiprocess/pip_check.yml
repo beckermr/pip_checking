@@ -1,0 +1,4 @@
+pkg: multiprocess
+build: multiprocess-0.70.8-py37h516909a_1
+install: multiprocess==0.70.8
+pip_check: "No broken requirements found.\n"
