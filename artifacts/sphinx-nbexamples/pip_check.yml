@@ -1,0 +1,4 @@
+pkg: sphinx-nbexamples
+build: sphinx-nbexamples-0.3.2-py37_0
+install: sphinx-nbexamples==0.3.2
+pip_check: "No broken requirements found.\n"
