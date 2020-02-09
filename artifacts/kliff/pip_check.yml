@@ -1,0 +1,4 @@
+pkg: kliff
+build: kliff-0.1.4-py37hc9558a2_0
+install: kliff==0.1.4
+pip_check: "No broken requirements found.\n"
