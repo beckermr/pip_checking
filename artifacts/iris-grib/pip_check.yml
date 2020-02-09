@@ -1,0 +1,4 @@
+pkg: iris-grib
+build: iris-grib-0.15.0-py37_0
+install: iris-grib==0.15.0
+pip_check: "cf-units 2.1.3 requires cython, which is not installed.\n"
