@@ -1,0 +1,4 @@
+pkg: geoana
+build: geoana-0.0.5-py_0
+install: geoana==0.0.5
+pip_check: "geoana 0.0.5 requires jupyter, which is not installed.\n"
