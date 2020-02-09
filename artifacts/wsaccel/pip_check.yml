@@ -1,0 +1,4 @@
+pkg: wsaccel
+build: wsaccel-0.6.2-py37h516909a_1001
+install: wsaccel==0.6.2
+pip_check: "No broken requirements found.\n"
