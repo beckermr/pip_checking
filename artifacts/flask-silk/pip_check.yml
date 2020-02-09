@@ -1,0 +1,4 @@
+pkg: flask-silk
+build: flask-silk-0.2-py_0
+install: flask-silk==0.2
+pip_check: "No broken requirements found.\n"
