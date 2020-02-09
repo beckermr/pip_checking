@@ -1,0 +1,4 @@
+pkg: atom
+build: atom-0.4.3-py37hc9558a2_0
+install: atom==0.4.3
+pip_check: "No broken requirements found.\n"
