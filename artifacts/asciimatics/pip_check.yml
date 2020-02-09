@@ -1,0 +1,4 @@
+pkg: asciimatics
+build: asciimatics-1.10.0-py37_1
+install: asciimatics==1.10.0
+pip_check: "No broken requirements found.\n"
