@@ -1,0 +1,4 @@
+pkg: atomicwrites
+build: atomicwrites-1.3.0-py_0
+install: atomicwrites==1.3.0
+pip_check: "No broken requirements found.\n"
