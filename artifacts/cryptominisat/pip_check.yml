@@ -1,0 +1,4 @@
+pkg: cryptominisat
+build: cryptominisat-5.6.5-py37h6dae8d9_0
+install: cryptominisat==5.6.5
+pip_check: "No broken requirements found.\n"
