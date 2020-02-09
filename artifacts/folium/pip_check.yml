@@ -1,0 +1,4 @@
+pkg: folium
+build: folium-0.6.0-py_0
+install: folium==0.6.0
+pip_check: "No broken requirements found.\n"
