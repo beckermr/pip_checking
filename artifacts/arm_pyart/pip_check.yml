@@ -1,0 +1,4 @@
+pkg: arm_pyart
+build: arm_pyart-1.10.1-py37hd352d35_0
+install: arm_pyart==1.10.1
+pip_check: "No broken requirements found.\n"
