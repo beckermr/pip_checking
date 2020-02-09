@@ -1,0 +1,4 @@
+pkg: super_state_machine
+build: super_state_machine-2.0.2-py37_1000
+install: super_state_machine==2.0.2
+pip_check: "No broken requirements found.\n"
