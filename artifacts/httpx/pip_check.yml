@@ -1,0 +1,4 @@
+pkg: httpx
+build: httpx-0.10.1-py_0
+install: httpx==0.10.1
+pip_check: "httpx 0.10.1 requires sniffio, which is not installed.\n"
