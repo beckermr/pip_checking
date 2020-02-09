@@ -1,0 +1,4 @@
+pkg: pydantic
+build: pydantic-0.32.1-py37h516909a_0
+install: pydantic==0.32.1
+pip_check: "No broken requirements found.\n"
