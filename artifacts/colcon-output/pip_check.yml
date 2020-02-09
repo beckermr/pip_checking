@@ -1,0 +1,4 @@
+pkg: colcon-output
+build: colcon-output-0.2.7-py_0
+install: colcon-output==0.2.7
+pip_check: "No broken requirements found.\n"
