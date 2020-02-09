@@ -1,0 +1,4 @@
+pkg: bsddb3
+build: bsddb3-6.2.6-py37h516909a_1000
+install: bsddb3==6.2.6
+pip_check: "No broken requirements found.\n"
