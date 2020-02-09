@@ -1,0 +1,4 @@
+pkg: quaternion
+build: quaternion-2018.11.3.1.0.41-py37hb3ffb1f_1000
+install: quaternion==2018.11.3.1.0.41
+pip_check: "No broken requirements found.\n"
