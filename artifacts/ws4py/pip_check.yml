@@ -1,0 +1,4 @@
+pkg: ws4py
+build: ws4py-0.5.1-py_0
+install: ws4py==0.5.1
+pip_check: "No broken requirements found.\n"
