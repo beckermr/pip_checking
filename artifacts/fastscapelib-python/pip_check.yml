@@ -1,0 +1,4 @@
+pkg: fastscapelib-python
+build: fastscapelib-python-0.1.3-py37h637b7d7_1000
+install: fastscapelib-python==0.1.3
+pip_check: "No broken requirements found.\n"
