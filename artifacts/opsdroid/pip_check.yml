@@ -1,0 +1,14 @@
+pkg: opsdroid
+build: opsdroid-0.13.0-py_0
+install: opsdroid==0.13.0
+pip_check: "opsdroid 0.13.0 requires aiosqlite, which is not installed.\nopsdroid\
+  \ 0.13.0 requires motor, which is not installed.\nopsdroid 0.13.0 has requirement\
+  \ aiohttp==3.4.4, but you have aiohttp 3.6.2.\nopsdroid 0.13.0 has requirement arrow==0.12.1,\
+  \ but you have arrow 0.15.5.\nopsdroid 0.13.0 has requirement Babel==2.6.0, but\
+  \ you have babel 2.8.0.\nopsdroid 0.13.0 has requirement multidict==4.4.2, but you\
+  \ have multidict 4.7.4.\nopsdroid 0.13.0 has requirement nbconvert==5.4.0, but you\
+  \ have nbconvert 5.6.1.\nopsdroid 0.13.0 has requirement nbformat==4.4.0, but you\
+  \ have nbformat 5.0.4.\nopsdroid 0.13.0 has requirement pycron==1.0.0, but you have\
+  \ pycron 3.0.0.\nopsdroid 0.13.0 has requirement pyyaml==3.13, but you have pyyaml\
+  \ 5.3.\nopsdroid 0.13.0 has requirement websockets==7.0, but you have websockets\
+  \ 8.1.\n"
