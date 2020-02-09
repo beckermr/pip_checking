@@ -1,0 +1,4 @@
+pkg: django-haystack
+build: django-haystack-2.8.1-py_0
+install: django-haystack==2.8.1
+pip_check: "No broken requirements found.\n"
