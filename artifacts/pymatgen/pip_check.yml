@@ -1,0 +1,4 @@
+pkg: pymatgen
+build: pymatgen-2019.12.22-py37hc9558a2_0
+install: pymatgen==2019.12.22
+pip_check: "No broken requirements found.\n"
