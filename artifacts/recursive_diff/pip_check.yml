@@ -1,0 +1,4 @@
+pkg: recursive_diff
+build: recursive_diff-1.0.0-py_0
+install: recursive_diff==1.0.0
+pip_check: "No broken requirements found.\n"
