@@ -1,0 +1,5 @@
+pkg: flask-oauthlib
+build: flask-oauthlib-0.9.5-py_0
+install: flask-oauthlib==0.9.5
+pip_check: "requests-oauthlib 1.2.0 has requirement oauthlib>=3.0.0, but you have\
+  \ oauthlib 2.1.0.\n"
