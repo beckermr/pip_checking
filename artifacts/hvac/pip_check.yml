@@ -1,0 +1,4 @@
+pkg: hvac
+build: hvac-0.9.5-py37_0
+install: hvac==0.9.5
+pip_check: "No broken requirements found.\n"
