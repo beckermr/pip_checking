@@ -1,0 +1,4 @@
+pkg: bumps
+build: bumps-0.7.13-py_0
+install: bumps==0.7.13
+pip_check: "No broken requirements found.\n"
