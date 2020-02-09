@@ -1,0 +1,4 @@
+pkg: grpcio-gcp
+build: grpcio-gcp-0.2.2-py37_2
+install: grpcio-gcp==0.2.2
+pip_check: "No broken requirements found.\n"
