@@ -1,0 +1,4 @@
+pkg: unicodedata2
+build: unicodedata2-11.0.0-py37h470a237_1
+install: unicodedata2==11.0.0
+pip_check: "No broken requirements found.\n"
