@@ -1,0 +1,4 @@
+pkg: schema-salad
+build: schema-salad-3.0.20181206233650-py37_1000
+install: schema-salad==3.0.20181206233650
+pip_check: "No broken requirements found.\n"
