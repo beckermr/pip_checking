@@ -1,0 +1,4 @@
+pkg: mamba
+build: mamba-0.0.8-py37hc9558a2_1
+install: mamba==0.0.8
+pip_check: "mamba 0.0.8 requires pybind11, which is not installed.\n"
