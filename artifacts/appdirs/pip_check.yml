@@ -1,0 +1,4 @@
+pkg: appdirs
+build: appdirs-1.4.3-py_1
+install: appdirs==1.4.3
+pip_check: "No broken requirements found.\n"
