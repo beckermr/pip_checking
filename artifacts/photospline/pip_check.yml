@@ -1,0 +1,4 @@
+pkg: photospline
+build: photospline-2.0.3-py37he1b5a44_0
+install: photospline==2.0.3
+pip_check: "No broken requirements found.\n"
