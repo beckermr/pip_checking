@@ -1,0 +1,4 @@
+pkg: pytest-sugar
+build: pytest-sugar-0.9.0-py_3
+install: pytest-sugar==0.9.0
+pip_check: "No broken requirements found.\n"
