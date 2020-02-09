@@ -1,0 +1,4 @@
+pkg: cvxpy
+build: cvxpy-1.0.25-py37he1b5a44_2
+install: cvxpy==1.0.25
+pip_check: "No broken requirements found.\n"
