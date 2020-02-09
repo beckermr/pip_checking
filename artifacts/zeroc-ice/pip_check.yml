@@ -1,0 +1,4 @@
+pkg: zeroc-ice
+build: zeroc-ice-3.6.5-py37h15cda96_0
+install: zeroc-ice==3.6.5
+pip_check: "No broken requirements found.\n"
