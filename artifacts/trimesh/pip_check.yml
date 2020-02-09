@@ -1,0 +1,4 @@
+pkg: trimesh
+build: trimesh-2.36.22-py_0
+install: trimesh==2.36.22
+pip_check: "No broken requirements found.\n"
