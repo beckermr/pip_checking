@@ -1,0 +1,4 @@
+pkg: vaex-core
+build: vaex-core-0.7.3-py37hf2d7682_0
+install: vaex-core==0.7.3
+pip_check: "No broken requirements found.\n"
