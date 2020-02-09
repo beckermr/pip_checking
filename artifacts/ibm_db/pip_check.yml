@@ -1,0 +1,4 @@
+pkg: ibm_db
+build: ibm_db-3.0.1-py37h516909a_0
+install: ibm_db==3.0.1
+pip_check: "No broken requirements found.\n"
