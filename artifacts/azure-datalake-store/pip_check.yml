@@ -1,0 +1,4 @@
+pkg: azure-datalake-store
+build: azure-datalake-store-0.0.48-py_0
+install: azure-datalake-store==0.0.48
+pip_check: "No broken requirements found.\n"
