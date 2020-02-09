@@ -1,0 +1,4 @@
+pkg: python-coreschema
+build: python-coreschema-0.0.4-py_0
+install: python-coreschema==0.0.4
+pip_check: "No broken requirements found.\n"
