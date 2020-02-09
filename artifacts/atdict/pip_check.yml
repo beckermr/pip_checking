@@ -1,0 +1,4 @@
+pkg: atdict
+build: atdict-0.9.3-py_0
+install: atdict==0.9.3
+pip_check: "No broken requirements found.\n"
