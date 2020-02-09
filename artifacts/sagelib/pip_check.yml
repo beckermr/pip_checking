@@ -1,0 +1,4 @@
+pkg: sagelib
+build: sagelib-9.0-py37h9c8e189_0
+install: sagelib==9.0
+pip_check: "No broken requirements found.\n"
