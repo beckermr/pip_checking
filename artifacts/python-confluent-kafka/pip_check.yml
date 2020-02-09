@@ -1,0 +1,4 @@
+pkg: python-confluent-kafka
+build: python-confluent-kafka-0.11.4-py37hba13f1d_1002
+install: python-confluent-kafka==0.11.4
+pip_check: "No broken requirements found.\n"
