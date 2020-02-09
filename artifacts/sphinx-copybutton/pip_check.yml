@@ -1,0 +1,4 @@
+pkg: sphinx-copybutton
+build: sphinx-copybutton-0.2.8-py_0
+install: sphinx-copybutton==0.2.8
+pip_check: "sphinx-copybutton 0.2.8 requires flit, which is not installed.\n"
