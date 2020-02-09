@@ -1,0 +1,4 @@
+pkg: bullet
+build: bullet-2.88-py37hb3f55d8_1001
+install: bullet==2.88
+pip_check: "No broken requirements found.\n"
