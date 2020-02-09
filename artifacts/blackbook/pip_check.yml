@@ -1,0 +1,4 @@
+pkg: blackbook
+build: blackbook-0.0.3-py_0
+install: blackbook==0.0.3
+pip_check: "No broken requirements found.\n"
