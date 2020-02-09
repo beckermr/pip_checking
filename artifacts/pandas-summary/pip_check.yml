@@ -1,0 +1,4 @@
+pkg: pandas-summary
+build: pandas-summary-0.0.41-py_1
+install: pandas-summary==0.0.41
+pip_check: "No broken requirements found.\n"
