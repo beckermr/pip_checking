@@ -1,0 +1,4 @@
+pkg: sphinx-autodoc-typehints
+build: sphinx-autodoc-typehints-1.10.2-py_0
+install: sphinx-autodoc-typehints==1.10.2
+pip_check: "No broken requirements found.\n"
