@@ -1,0 +1,4 @@
+pkg: flake8-colors
+build: flake8-colors-0.1.6-py_0
+install: flake8-colors==0.1.6
+pip_check: "No broken requirements found.\n"
