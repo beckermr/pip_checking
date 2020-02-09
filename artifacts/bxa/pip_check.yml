@@ -1,0 +1,4 @@
+pkg: bxa
+build: bxa-3.3.1-py_0
+install: bxa==3.3.1
+pip_check: "ultranest 2.1.0 requires cython, which is not installed.\n"
