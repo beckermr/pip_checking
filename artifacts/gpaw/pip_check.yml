@@ -1,0 +1,4 @@
+pkg: gpaw
+build: gpaw-19.8.0-py37_nompi_0
+install: gpaw==19.8.0
+pip_check: "No broken requirements found.\n"
