@@ -1,0 +1,4 @@
+pkg: paraview
+build: paraview-5.7.1-py37hcb7ffd2_0
+install: paraview==5.7.1
+pip_check: "No broken requirements found.\n"
