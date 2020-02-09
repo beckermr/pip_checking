@@ -1,0 +1,4 @@
+pkg: cdsapi
+build: cdsapi-0.1.3-py_0
+install: cdsapi==0.1.3
+pip_check: "No broken requirements found.\n"
