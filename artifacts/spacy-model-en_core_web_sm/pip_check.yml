@@ -1,0 +1,4 @@
+pkg: spacy-model-en_core_web_sm
+build: spacy-model-en_core_web_sm-2.2.0-py_0
+install: spacy-model-en_core_web_sm==2.2.0
+pip_check: "en-core-web-sm 2.2.0 requires spacy, which is not installed.\n"
