@@ -1,0 +1,4 @@
+pkg: scikit-build
+build: scikit-build-0.10.0-py37he1b5a44_0
+install: scikit-build==0.10.0
+pip_check: "No broken requirements found.\n"
