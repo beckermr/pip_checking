@@ -1,0 +1,4 @@
+pkg: uvicorn
+build: uvicorn-0.8.2-py37_0
+install: uvicorn==0.8.2
+pip_check: "No broken requirements found.\n"
