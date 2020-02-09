@@ -1,0 +1,4 @@
+pkg: python-memcached
+build: python-memcached-1.59-py_0
+install: python-memcached==1.59
+pip_check: "No broken requirements found.\n"
