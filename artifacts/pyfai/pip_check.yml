@@ -1,0 +1,4 @@
+pkg: pyfai
+build: pyfai-0.17.0-py37h637b7d7_1000
+install: pyfai==0.17.0
+pip_check: "No broken requirements found.\n"
