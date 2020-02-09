@@ -1,0 +1,5 @@
+pkg: pywps
+build: pywps-4.2.3-py37_0
+install: pywps==4.2.3
+pip_check: "pywps 4.2.3 requires flufl-enum, which is not installed.\npywps 4.2.3\
+  \ requires pathlib, which is not installed.\n"
