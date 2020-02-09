@@ -1,0 +1,4 @@
+pkg: imgviz
+build: imgviz-0.10.2-py_0
+install: imgviz==0.10.2
+pip_check: "No broken requirements found.\n"
