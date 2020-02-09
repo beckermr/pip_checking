@@ -1,0 +1,4 @@
+pkg: tatsu
+build: tatsu-4.3.0-py37_0
+install: tatsu==4.3.0
+pip_check: "No broken requirements found.\n"
