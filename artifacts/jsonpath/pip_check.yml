@@ -1,0 +1,4 @@
+pkg: jsonpath
+build: jsonpath-0.81-py_0
+install: jsonpath==0.81
+pip_check: "No broken requirements found.\n"
