@@ -1,0 +1,4 @@
+pkg: patch-ng
+build: patch-ng-1.17.1-py_0
+install: patch-ng==1.17.1
+pip_check: "No broken requirements found.\n"
