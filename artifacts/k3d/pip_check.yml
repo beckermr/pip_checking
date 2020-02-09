@@ -1,0 +1,4 @@
+pkg: k3d
+build: k3d-2.7.2-py_0
+install: k3d==2.7.2
+pip_check: "No broken requirements found.\n"
