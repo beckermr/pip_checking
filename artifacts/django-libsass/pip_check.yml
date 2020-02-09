@@ -1,0 +1,5 @@
+pkg: django-libsass
+build: django-libsass-0.7-py37_0
+install: django-libsass==0.7
+pip_check: "django-compressor 2.3 has requirement rjsmin==1.1.0, but you have rjsmin\
+  \ 1.0.12.\n"
