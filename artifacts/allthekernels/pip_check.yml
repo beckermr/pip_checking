@@ -1,0 +1,4 @@
+pkg: allthekernels
+build: allthekernels-1.1.0-py_0
+install: allthekernels==1.1.0
+pip_check: "No broken requirements found.\n"
