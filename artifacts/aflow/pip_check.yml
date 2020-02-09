@@ -1,0 +1,5 @@
+pkg: aflow
+build: aflow-0.0.10-py_0
+install: aflow==0.0.10
+pip_check: "aflow 0.0.10 requires argparse, which is not installed.\naflow 0.0.10\
+  \ requires bs4, which is not installed.\n"
