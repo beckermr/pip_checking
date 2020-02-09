@@ -1,0 +1,4 @@
+pkg: imod
+build: imod-0.6.1-py_0
+install: imod==0.6.1
+pip_check: "No broken requirements found.\n"
