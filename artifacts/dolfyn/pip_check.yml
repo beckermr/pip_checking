@@ -1,0 +1,4 @@
+pkg: dolfyn
+build: dolfyn-0.8.3-py_0
+install: dolfyn==0.8.3
+pip_check: "No broken requirements found.\n"
