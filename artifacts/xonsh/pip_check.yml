@@ -1,0 +1,4 @@
+pkg: xonsh
+build: xonsh-0.9.10-py37_0
+install: xonsh==0.9.10
+pip_check: "No broken requirements found.\n"
