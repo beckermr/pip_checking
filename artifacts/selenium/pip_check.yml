@@ -1,0 +1,4 @@
+pkg: selenium
+build: selenium-3.14.1-py37h14c3975_1000
+install: selenium==3.14.1
+pip_check: "No broken requirements found.\n"
