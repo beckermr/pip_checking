@@ -1,0 +1,4 @@
+pkg: pysm3
+build: pysm3-3.1.0-py_0
+install: pysm3==3.1.0
+pip_check: "No broken requirements found.\n"
