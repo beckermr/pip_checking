@@ -1,0 +1,4 @@
+pkg: faunus
+build: faunus-2.1.1-py37h75fe1a3_0
+install: faunus==2.1.1
+pip_check: "No broken requirements found.\n"
