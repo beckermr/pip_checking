@@ -101,7 +101,7 @@ if __name__ == '__main__':
     if len(sys.argv) > 1:
         pkgs = ['libcfgraph/artifacts/' + sys.argv[1]]
     else:
-        pkgs = glob.glob('libcfgraph/artifacts/*')
+        pkgs = sorted(glob.glob('libcfgraph/artifacts/*'))
 
     tot = len(pkgs)
     tot_tried = 0
