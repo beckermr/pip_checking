@@ -1,0 +1,4 @@
+pkg: flask-login
+build: flask-login-0.4.1-py_0
+install: flask-login==0.4.1
+pip_check: "No broken requirements found.\n"
