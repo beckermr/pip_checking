@@ -1,0 +1,13 @@
+pkg: dbt
+build: dbt-0.12.2-py_0
+install: dbt==0.12.2
+pip_check: "dbt 0.12.2 requires agate, which is not installed.\ndbt 0.12.2 requires\
+  \ boto3, which is not installed.\ndbt 0.12.2 requires botocore, which is not installed.\n\
+  dbt 0.12.2 requires colorama, which is not installed.\ndbt 0.12.2 requires google-cloud-bigquery,\
+  \ which is not installed.\ndbt 0.12.2 requires jinja2, which is not installed.\n\
+  dbt 0.12.2 requires jsonschema, which is not installed.\ndbt 0.12.2 requires minimal-snowplow-tracker,\
+  \ which is not installed.\ndbt 0.12.2 requires networkx, which is not installed.\n\
+  dbt 0.12.2 requires psycopg2, which is not installed.\ndbt 0.12.2 requires pyyaml,\
+  \ which is not installed.\ndbt 0.12.2 requires requests, which is not installed.\n\
+  dbt 0.12.2 requires snowflake-connector-python, which is not installed.\ndbt 0.12.2\
+  \ requires sqlparse, which is not installed.\n"
