@@ -1,0 +1,4 @@
+pkg: papermill
+build: papermill-1.0.0-py37_0
+install: papermill==1.0.0
+pip_check: "No broken requirements found.\n"
