@@ -1,0 +1,4 @@
+pkg: python-chromedriver-binary
+build: python-chromedriver-binary-2.42.0-py37_1001
+install: python-chromedriver-binary==2.42.0
+pip_check: "No broken requirements found.\n"
