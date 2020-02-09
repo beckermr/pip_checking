@@ -1,0 +1,4 @@
+pkg: sisl
+build: sisl-0.9.6-py37h56689b2_0
+install: sisl==0.9.6
+pip_check: "No broken requirements found.\n"
