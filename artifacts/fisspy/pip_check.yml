@@ -1,0 +1,5 @@
+pkg: fisspy
+build: fisspy-0.9.70-py_0
+install: fisspy==0.9.70
+pip_check: "fisspy 0.9.70 requires ffmpeg, which is not installed.\nfisspy 0.9.70\
+  \ requires suds-jurko, which is not installed.\n"
