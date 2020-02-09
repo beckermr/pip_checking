@@ -1,0 +1,4 @@
+pkg: dbxfs
+build: dbxfs-1.0.43-py_0
+install: dbxfs==1.0.43
+pip_check: "No broken requirements found.\n"
