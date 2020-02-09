@@ -1,0 +1,4 @@
+pkg: pyrserve
+build: pyrserve-0.9.1-py37h24bf2e0_2
+install: pyrserve==0.9.1
+pip_check: "No broken requirements found.\n"
