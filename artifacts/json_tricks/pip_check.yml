@@ -1,0 +1,4 @@
+pkg: json_tricks
+build: json_tricks-3.12.2-py_0
+install: json_tricks==3.12.2
+pip_check: "No broken requirements found.\n"
