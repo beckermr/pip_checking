@@ -1,0 +1,4 @@
+pkg: kronprod
+build: kronprod-1.0.4-py_0
+install: kronprod==1.0.4
+pip_check: "No broken requirements found.\n"
