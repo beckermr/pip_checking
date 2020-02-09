@@ -1,0 +1,4 @@
+pkg: spglib
+build: spglib-1.11.0.post19-py37h7eb728f_0
+install: spglib==1.11.0.post19
+pip_check: "No broken requirements found.\n"
