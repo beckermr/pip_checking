@@ -1,0 +1,4 @@
+pkg: gpyopt
+build: gpyopt-1.2.5-py_0
+install: gpyopt==1.2.5
+pip_check: "No broken requirements found.\n"
