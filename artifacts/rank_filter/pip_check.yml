@@ -1,0 +1,4 @@
+pkg: rank_filter
+build: rank_filter-0.5.1-py37h44d5ba3_1000
+install: rank_filter==0.5.1
+pip_check: "rank-filter 0.5.1 requires cython, which is not installed.\n"
