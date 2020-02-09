@@ -1,0 +1,7 @@
+pkg: zfit
+build: zfit-0.4.1-py_0
+install: zfit==0.4.1
+pip_check: "tensorflow 2.0.0 requires tensorboard, which is not installed.\ntensorflow\
+  \ 2.0.0 requires tensorflow-estimator, which is not installed.\nzfit 0.4.1 has requirement\
+  \ tensorflow-probability>=0.8, but you have tensorflow-probability 0.8.0rc0.\ntensorflow\
+  \ 2.0.0 has requirement opt-einsum>=2.3.2, but you have opt-einsum 0+untagged.49.gdbede45.dirty.\n"
