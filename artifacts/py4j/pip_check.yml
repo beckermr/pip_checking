@@ -1,0 +1,4 @@
+pkg: py4j
+build: py4j-0.10.7-py_1
+install: py4j==0.10.7
+pip_check: "No broken requirements found.\n"
