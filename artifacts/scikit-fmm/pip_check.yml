@@ -1,0 +1,4 @@
+pkg: scikit-fmm
+build: scikit-fmm-2019.1.30-py37hb3f55d8_1
+install: scikit-fmm==2019.1.30
+pip_check: "No broken requirements found.\n"
