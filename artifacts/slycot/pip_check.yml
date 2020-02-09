@@ -1,0 +1,4 @@
+pkg: slycot
+build: slycot-0.3.5.0-py37h7eb8c7e_0
+install: slycot==0.3.5.0
+pip_check: "No broken requirements found.\n"
