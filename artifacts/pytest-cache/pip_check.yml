@@ -1,0 +1,4 @@
+pkg: pytest-cache
+build: pytest-cache-1.0-py_2
+install: pytest-cache==1.0
+pip_check: "No broken requirements found.\n"
