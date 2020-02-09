@@ -1,0 +1,4 @@
+pkg: pytest-timeout
+build: pytest-timeout-1.3.0-py_0
+install: pytest-timeout==1.3.0
+pip_check: "No broken requirements found.\n"
