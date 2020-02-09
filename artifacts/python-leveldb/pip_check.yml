@@ -1,0 +1,4 @@
+pkg: python-leveldb
+build: python-leveldb-0.194-py37he1b5a44_1000
+install: python-leveldb==0.194
+pip_check: "No broken requirements found.\n"
