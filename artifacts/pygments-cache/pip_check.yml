@@ -1,0 +1,4 @@
+pkg: pygments-cache
+build: pygments-cache-0.1.0-py_0
+install: pygments-cache==0.1.0
+pip_check: "No broken requirements found.\n"
