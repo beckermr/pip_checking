@@ -1,0 +1,4 @@
+pkg: jupyterhub-ldapauthenticator
+build: jupyterhub-ldapauthenticator-1.2.2-py_1001
+install: jupyterhub-ldapauthenticator==1.2.2
+pip_check: "No broken requirements found.\n"
