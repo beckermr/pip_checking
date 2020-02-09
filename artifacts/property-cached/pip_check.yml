@@ -1,0 +1,4 @@
+pkg: property-cached
+build: property-cached-1.6.3-py_0
+install: property-cached==1.6.3
+pip_check: "No broken requirements found.\n"
