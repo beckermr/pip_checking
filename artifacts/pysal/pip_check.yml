@@ -1,0 +1,4 @@
+pkg: pysal
+build: pysal-1.14.4.post2-py37_1001
+install: pysal==1.14.4.post2
+pip_check: "No broken requirements found.\n"
