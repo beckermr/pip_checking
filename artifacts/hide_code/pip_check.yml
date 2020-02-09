@@ -1,0 +1,4 @@
+pkg: hide_code
+build: hide_code-0.5.2-py37_1000
+install: hide_code==0.5.2
+pip_check: "hide-code 0.5.2 requires jupyter, which is not installed.\n"
