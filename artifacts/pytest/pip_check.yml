@@ -1,0 +1,4 @@
+pkg: pytest
+build: pytest-5.1.1-py37_0
+install: pytest==5.1.1
+pip_check: "No broken requirements found.\n"
