@@ -1,0 +1,4 @@
+pkg: wrighttools
+build: wrighttools-3.2.2-py_2
+install: wrighttools==3.2.2
+pip_check: "No broken requirements found.\n"
