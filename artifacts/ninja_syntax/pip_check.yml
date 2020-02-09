@@ -1,0 +1,4 @@
+pkg: ninja_syntax
+build: ninja_syntax-1.7.2-py37_1000
+install: ninja_syntax==1.7.2
+pip_check: "No broken requirements found.\n"
