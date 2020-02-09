@@ -1,0 +1,4 @@
+pkg: htmd-pdb2pqr
+build: htmd-pdb2pqr-0.0.2-py_0
+install: htmd-pdb2pqr==0.0.2
+pip_check: "No broken requirements found.\n"
