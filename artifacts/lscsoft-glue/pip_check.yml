@@ -1,0 +1,4 @@
+pkg: lscsoft-glue
+build: lscsoft-glue-1.59.3-py37h470a237_0
+install: lscsoft-glue==1.59.3
+pip_check: "No broken requirements found.\n"
