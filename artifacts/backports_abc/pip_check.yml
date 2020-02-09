@@ -1,0 +1,4 @@
+pkg: backports_abc
+build: backports_abc-0.5-py_1
+install: backports_abc==0.5
+pip_check: "No broken requirements found.\n"
