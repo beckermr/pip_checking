@@ -1,0 +1,4 @@
+pkg: leather
+build: leather-0.3.3-py_0
+install: leather==0.3.3
+pip_check: "No broken requirements found.\n"
