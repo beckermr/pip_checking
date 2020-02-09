@@ -1,0 +1,4 @@
+pkg: livy-submit
+build: livy-submit-0.6.0-py_0
+install: livy-submit==0.6.0
+pip_check: "No broken requirements found.\n"
