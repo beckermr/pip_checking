@@ -1,0 +1,4 @@
+pkg: osqp
+build: osqp-0.4.1-py37h637b7d7_1001
+install: osqp==0.4.1
+pip_check: "No broken requirements found.\n"
