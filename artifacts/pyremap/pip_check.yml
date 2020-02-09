@@ -1,0 +1,4 @@
+pkg: pyremap
+build: pyremap-0.0.3-py37_0
+install: pyremap==0.0.3
+pip_check: "No broken requirements found.\n"
