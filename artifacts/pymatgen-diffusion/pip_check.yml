@@ -1,0 +1,4 @@
+pkg: pymatgen-diffusion
+build: pymatgen-diffusion-2019.2.28-py_1
+install: pymatgen-diffusion==2019.2.28
+pip_check: "No broken requirements found.\n"
