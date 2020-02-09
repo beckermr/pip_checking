@@ -1,0 +1,4 @@
+pkg: lightkurve
+build: lightkurve-1.8.0-py_0
+install: lightkurve==1.8.0
+pip_check: "lightkurve 1.8.0 requires bs4, which is not installed.\n"
