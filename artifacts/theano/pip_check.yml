@@ -1,0 +1,4 @@
+pkg: theano
+build: theano-1.0.3-py37hf484d3e_1001
+install: theano==1.0.3
+pip_check: "No broken requirements found.\n"
