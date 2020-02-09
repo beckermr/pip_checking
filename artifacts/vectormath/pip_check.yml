@@ -1,0 +1,4 @@
+pkg: vectormath
+build: vectormath-0.2.2-py_0
+install: vectormath==0.2.2
+pip_check: "No broken requirements found.\n"
