@@ -1,0 +1,4 @@
+pkg: espei
+build: espei-0.7.3-py_0
+install: espei==0.7.3
+pip_check: "No broken requirements found.\n"
