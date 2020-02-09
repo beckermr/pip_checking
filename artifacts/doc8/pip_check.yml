@@ -1,0 +1,4 @@
+pkg: doc8
+build: doc8-0.8.0-py_2
+install: doc8==0.8.0
+pip_check: "No broken requirements found.\n"
