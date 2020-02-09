@@ -1,0 +1,4 @@
+pkg: uwsift
+build: uwsift-1.1.2-py37_0
+install: uwsift==1.1.2
+pip_check: "No broken requirements found.\n"
