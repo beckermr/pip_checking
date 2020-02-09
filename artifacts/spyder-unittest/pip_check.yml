@@ -1,0 +1,4 @@
+pkg: spyder-unittest
+build: spyder-unittest-0.3.1-py_1
+install: spyder-unittest==0.3.1
+pip_check: "No broken requirements found.\n"
