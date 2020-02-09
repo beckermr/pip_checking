@@ -1,0 +1,4 @@
+pkg: openpathsampling
+build: openpathsampling-1.1.0-py37_0
+install: openpathsampling==1.1.0
+pip_check: "No broken requirements found.\n"
