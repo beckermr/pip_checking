@@ -1,0 +1,4 @@
+pkg: bloscpack
+build: bloscpack-0.15.0-py37_1001
+install: bloscpack==0.15.0
+pip_check: "No broken requirements found.\n"
