@@ -1,0 +1,4 @@
+pkg: sregistry-aws
+build: sregistry-aws-0.2.33-py37_0
+install: sregistry-aws==0.2.33
+pip_check: "No broken requirements found.\n"
