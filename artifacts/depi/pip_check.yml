@@ -1,0 +1,4 @@
+pkg: depi
+build: depi-0.2-py37hc1659b7_1000
+install: depi==0.2
+pip_check: "depi 0.2 requires cython, which is not installed.\n"
