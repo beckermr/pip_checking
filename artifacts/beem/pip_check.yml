@@ -1,0 +1,4 @@
+pkg: beem
+build: beem-0.19.26-py_0
+install: beem==0.19.26
+pip_check: "beem 0.19.26 requires pylibscrypt, which is not installed.\n"
