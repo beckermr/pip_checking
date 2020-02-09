@@ -1,0 +1,4 @@
+pkg: pyexcel-ezodf
+build: pyexcel-ezodf-0.3.4-py_0
+install: pyexcel-ezodf==0.3.4
+pip_check: "No broken requirements found.\n"
