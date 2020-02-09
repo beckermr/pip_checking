@@ -1,0 +1,4 @@
+pkg: sphinx-prompt
+build: sphinx-prompt-1.1.0-py_0
+install: sphinx-prompt==1.1.0
+pip_check: "No broken requirements found.\n"
