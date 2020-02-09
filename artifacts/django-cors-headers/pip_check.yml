@@ -1,0 +1,4 @@
+pkg: django-cors-headers
+build: django-cors-headers-2.5.0-py_0
+install: django-cors-headers==2.5.0
+pip_check: "No broken requirements found.\n"
