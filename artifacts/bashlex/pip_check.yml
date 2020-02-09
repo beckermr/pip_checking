@@ -1,0 +1,4 @@
+pkg: bashlex
+build: bashlex-0.14-py37_0
+install: bashlex==0.14
+pip_check: "No broken requirements found.\n"
