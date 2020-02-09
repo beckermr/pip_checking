@@ -1,0 +1,4 @@
+pkg: pymodsecurity
+build: pymodsecurity-0.0.4-py37he1b5a44_1
+install: pymodsecurity==0.0.4
+pip_check: "pymodsecurity 0.0.4 requires pybind11, which is not installed.\n"
