@@ -1,0 +1,4 @@
+pkg: pyqtgraph
+build: pyqtgraph-0.10.0-py_3
+install: pyqtgraph==0.10.0
+pip_check: "No broken requirements found.\n"
