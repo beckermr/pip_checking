@@ -1,0 +1,4 @@
+pkg: kneed
+build: kneed-0.4.1-py_0
+install: kneed==0.4.1
+pip_check: "kneed 0.4.1 requires matplotlib, which is not installed.\n"
