@@ -1,0 +1,4 @@
+pkg: kitty
+build: kitty-0.14.2-py37h1472325_2
+install: kitty==0.14.2
+pip_check: "No broken requirements found.\n"
