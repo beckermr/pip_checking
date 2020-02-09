@@ -1,0 +1,4 @@
+pkg: filesystem-spec
+build: filesystem-spec-0.1.4-py_0
+install: filesystem-spec==0.1.4
+pip_check: "No broken requirements found.\n"
