@@ -1,0 +1,4 @@
+pkg: leidenalg
+build: leidenalg-0.7.0-py37hf484d3e_0
+install: leidenalg==0.7.0
+pip_check: "No broken requirements found.\n"
