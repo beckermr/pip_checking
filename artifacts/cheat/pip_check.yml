@@ -1,0 +1,4 @@
+pkg: cheat
+build: cheat-2.5.0-py_0
+install: cheat==2.5.0
+pip_check: "cheat 2.5.0 requires termcolor, which is not installed.\n"
