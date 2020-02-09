@@ -1,0 +1,4 @@
+pkg: fpylll
+build: fpylll-0.5.1dev-py37h03658f4_0
+install: fpylll==0.5.1dev
+pip_check: "cysignals 1.10.2 requires cython, which is not installed.\n"
