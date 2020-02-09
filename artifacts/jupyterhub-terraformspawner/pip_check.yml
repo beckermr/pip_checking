@@ -1,0 +1,4 @@
+pkg: jupyterhub-terraformspawner
+build: jupyterhub-terraformspawner-0.0.4-py37_0
+install: jupyterhub-terraformspawner==0.0.4
+pip_check: "No broken requirements found.\n"
