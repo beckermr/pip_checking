@@ -1,0 +1,4 @@
+pkg: translationstring
+build: translationstring-1.3-py_0
+install: translationstring==1.3
+pip_check: "No broken requirements found.\n"
