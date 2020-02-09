@@ -1,0 +1,4 @@
+pkg: xlsxwriter
+build: xlsxwriter-1.0.6-py_0
+install: xlsxwriter==1.0.6
+pip_check: "No broken requirements found.\n"
