@@ -1,0 +1,4 @@
+pkg: zconfig
+build: zconfig-3.5.0-py_0
+install: zconfig==3.5.0
+pip_check: "No broken requirements found.\n"
