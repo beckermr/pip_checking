@@ -1,0 +1,4 @@
+pkg: pika
+build: pika-1.0.0b1-py_0
+install: pika==1.0.0b1
+pip_check: "No broken requirements found.\n"
