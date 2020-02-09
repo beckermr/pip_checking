@@ -1,0 +1,4 @@
+pkg: tikzplotlib
+build: tikzplotlib-0.8.2-py_0
+install: tikzplotlib==0.8.2
+pip_check: "No broken requirements found.\n"
