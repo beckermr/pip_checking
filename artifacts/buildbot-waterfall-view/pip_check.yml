@@ -1,0 +1,4 @@
+pkg: buildbot-waterfall-view
+build: buildbot-waterfall-view-2.6.0-py_0
+install: buildbot-waterfall-view==2.6.0
+pip_check: "No broken requirements found.\n"
