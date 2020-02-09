@@ -1,0 +1,4 @@
+pkg: cyflann
+build: cyflann-0.2.5-py37he76388d_0
+install: cyflann==0.2.5
+pip_check: "No broken requirements found.\n"
