@@ -1,0 +1,4 @@
+pkg: flake8-pyi
+build: flake8-pyi-19.3.0-py_0
+install: flake8-pyi==19.3.0
+pip_check: "No broken requirements found.\n"
