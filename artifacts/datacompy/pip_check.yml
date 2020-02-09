@@ -1,0 +1,4 @@
+pkg: datacompy
+build: datacompy-0.6.0-py37_2
+install: datacompy==0.6.0
+pip_check: "No broken requirements found.\n"
