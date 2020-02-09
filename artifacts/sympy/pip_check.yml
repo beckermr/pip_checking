@@ -1,0 +1,4 @@
+pkg: sympy
+build: sympy-1.3-py37_1000
+install: sympy==1.3
+pip_check: "No broken requirements found.\n"
