@@ -1,0 +1,4 @@
+pkg: python-xapian
+build: python-xapian-1.4.13-py37he513fc3_0
+install: python-xapian==1.4.13
+pip_check: "No broken requirements found.\n"
