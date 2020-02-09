@@ -1,0 +1,4 @@
+pkg: atomic-hpc
+build: atomic-hpc-0.4.0-py_0
+install: atomic-hpc==0.4.0
+pip_check: "No broken requirements found.\n"
