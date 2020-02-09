@@ -1,0 +1,4 @@
+pkg: django-autoslug
+build: django-autoslug-1.9.3-py_2
+install: django-autoslug==1.9.3
+pip_check: "No broken requirements found.\n"
