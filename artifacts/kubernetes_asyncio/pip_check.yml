@@ -1,0 +1,4 @@
+pkg: kubernetes_asyncio
+build: kubernetes_asyncio-10.0.1-py_0
+install: kubernetes_asyncio==10.0.1
+pip_check: "No broken requirements found.\n"
