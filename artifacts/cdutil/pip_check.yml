@@ -1,0 +1,4 @@
+pkg: cdutil
+build: cdutil-8.2-py_2
+install: cdutil==8.2
+pip_check: "No broken requirements found.\n"
