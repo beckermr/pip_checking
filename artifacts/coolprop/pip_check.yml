@@ -1,0 +1,4 @@
+pkg: coolprop
+build: coolprop-6.3.0-py37he1b5a44_0
+install: coolprop==6.3.0
+pip_check: "No broken requirements found.\n"
