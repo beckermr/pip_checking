@@ -1,0 +1,4 @@
+pkg: pygam
+build: pygam-0.8.0-py_0
+install: pygam==0.8.0
+pip_check: "No broken requirements found.\n"
