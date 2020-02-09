@@ -1,0 +1,4 @@
+pkg: metpy
+build: metpy-0.9.2-py37_1001
+install: metpy==0.9.2
+pip_check: "metpy 0.9.2 has requirement pooch==0.1.*, but you have pooch 0.2.1.\n"
