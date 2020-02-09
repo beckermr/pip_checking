@@ -1,0 +1,4 @@
+pkg: paintera
+build: paintera-0.19.2-py_0
+install: paintera==0.19.2
+pip_check: "No broken requirements found.\n"
