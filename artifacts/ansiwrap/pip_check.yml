@@ -1,0 +1,4 @@
+pkg: ansiwrap
+build: ansiwrap-0.8.3-py_0
+install: ansiwrap==0.8.3
+pip_check: "No broken requirements found.\n"
