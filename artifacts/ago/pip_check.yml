@@ -1,0 +1,4 @@
+pkg: ago
+build: ago-0.0.92-py_0
+install: ago==0.0.92
+pip_check: "No broken requirements found.\n"
