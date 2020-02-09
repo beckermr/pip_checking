@@ -1,0 +1,4 @@
+pkg: fenics-ffc
+build: fenics-ffc-2019.1.0-py_6
+install: fenics-ffc==2019.1.0
+pip_check: "No broken requirements found.\n"
