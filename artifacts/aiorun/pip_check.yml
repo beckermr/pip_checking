@@ -1,0 +1,4 @@
+pkg: aiorun
+build: aiorun-2020.1.1-py_0
+install: aiorun==2020.1.1
+pip_check: "No broken requirements found.\n"
