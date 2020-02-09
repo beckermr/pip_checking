@@ -1,0 +1,4 @@
+pkg: vigra
+build: vigra-1.11.1-py37hb287d74_1007
+install: vigra==1.11.1
+pip_check: "No broken requirements found.\n"
