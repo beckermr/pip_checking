@@ -1,0 +1,4 @@
+pkg: jedi
+build: jedi-0.13.0-py37_0
+install: jedi==0.13.0
+pip_check: "No broken requirements found.\n"
