@@ -1,0 +1,4 @@
+pkg: dm-sonnet
+build: dm-sonnet-1.35-py37he1b5a44_0
+install: dm-sonnet==1.35
+pip_check: "No broken requirements found.\n"
