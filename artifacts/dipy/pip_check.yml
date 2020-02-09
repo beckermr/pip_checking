@@ -1,0 +1,4 @@
+pkg: dipy
+build: dipy-0.16.0-py37h3010b51_0
+install: dipy==0.16.0
+pip_check: "No broken requirements found.\n"
