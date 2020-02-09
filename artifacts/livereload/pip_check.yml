@@ -1,0 +1,4 @@
+pkg: livereload
+build: livereload-2.6.1-py_0
+install: livereload==2.6.1
+pip_check: "No broken requirements found.\n"
