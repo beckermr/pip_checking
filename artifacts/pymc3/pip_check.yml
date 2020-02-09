@@ -1,0 +1,4 @@
+pkg: pymc3
+build: pymc3-3.6-py37_1000
+install: pymc3==3.6
+pip_check: "No broken requirements found.\n"
