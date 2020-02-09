@@ -1,0 +1,4 @@
+pkg: pypdb
+build: pypdb-1.200-py_0
+install: pypdb==1.200
+pip_check: "No broken requirements found.\n"
