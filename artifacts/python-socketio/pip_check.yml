@@ -1,0 +1,5 @@
+pkg: python-socketio
+build: python-socketio-4.0.0-py_0
+install: python-socketio==4.0.0
+pip_check: "python-socketio 4.0.0 has requirement python-engineio>=3.2.0, but you\
+  \ have python-engineio 3.0.0.\n"
