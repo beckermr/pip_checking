@@ -1,0 +1,4 @@
+pkg: cell_tree2d
+build: cell_tree2d-0.3.0-py37hf8a1672_1
+install: cell_tree2d==0.3.0
+pip_check: "No broken requirements found.\n"
