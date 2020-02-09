@@ -1,0 +1,5 @@
+pkg: poliastro
+build: poliastro-0.10.0-py_1
+install: poliastro==0.10.0
+pip_check: "poliastro 0.10.0 requires astroquery, which is not installed.\npoliastro\
+  \ 0.10.0 has requirement plotly<4.*,>=3.0, but you have plotly 4.5.0.\n"
