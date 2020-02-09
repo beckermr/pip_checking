@@ -1,0 +1,4 @@
+pkg: matplotlibhelper
+build: matplotlibhelper-0.0.6-py_0
+install: matplotlibhelper==0.0.6
+pip_check: "No broken requirements found.\n"
