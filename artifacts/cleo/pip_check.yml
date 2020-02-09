@@ -1,0 +1,4 @@
+pkg: cleo
+build: cleo-0.6.8-py_0
+install: cleo==0.6.8
+pip_check: "No broken requirements found.\n"
