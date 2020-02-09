@@ -1,0 +1,4 @@
+pkg: pycamb
+build: pycamb-0.1.8.1-py37ha44fe06_2
+install: pycamb==0.1.8.1
+pip_check: "No broken requirements found.\n"
