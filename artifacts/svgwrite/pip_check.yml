@@ -1,0 +1,4 @@
+pkg: svgwrite
+build: svgwrite-1.2.1-py_0
+install: svgwrite==1.2.1
+pip_check: "No broken requirements found.\n"
