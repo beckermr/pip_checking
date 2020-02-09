@@ -1,0 +1,4 @@
+pkg: jupyter_kernel_gateway
+build: jupyter_kernel_gateway-2.1.0-py_1
+install: jupyter_kernel_gateway==2.1.0
+pip_check: "No broken requirements found.\n"
