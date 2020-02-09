@@ -1,0 +1,6 @@
+pkg: python-gmatelastoplasticfinitestrainsimo
+build: python-gmatelastoplasticfinitestrainsimo-0.0.4-py37hc9558a2_0
+install: python-gmatelastoplasticfinitestrainsimo==0.0.4
+pip_check: "gmatelastoplasticfinitestrainsimo 0.0.4 requires pybind11, which is not\
+  \ installed.\ngmatelastoplasticfinitestrainsimo 0.0.4 requires pyxtensor, which\
+  \ is not installed.\n"
