@@ -1,0 +1,4 @@
+pkg: hiveplot
+build: hiveplot-0.1.8.4-py_1
+install: hiveplot==0.1.8.4
+pip_check: "hiveplot 0.1.8.4 requires pycodestyle, which is not installed.\n"
