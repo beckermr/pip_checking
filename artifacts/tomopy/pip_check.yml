@@ -1,0 +1,4 @@
+pkg: tomopy
+build: tomopy-1.7.0-py37hc4caabd_102
+install: tomopy==1.7.0
+pip_check: "No broken requirements found.\n"
