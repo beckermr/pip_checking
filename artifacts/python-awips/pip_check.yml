@@ -1,0 +1,4 @@
+pkg: python-awips
+build: python-awips-18.1.2-py_0
+install: python-awips==18.1.2
+pip_check: "python-awips 18.1.2 requires enum34, which is not installed.\n"
