@@ -1,0 +1,4 @@
+pkg: pgspecial
+build: pgspecial-1.11.0-py37_1000
+install: pgspecial==1.11.0
+pip_check: "No broken requirements found.\n"
