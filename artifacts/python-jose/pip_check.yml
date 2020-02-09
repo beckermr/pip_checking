@@ -1,0 +1,4 @@
+pkg: python-jose
+build: python-jose-2.0.2-py_0
+install: python-jose==2.0.2
+pip_check: "No broken requirements found.\n"
