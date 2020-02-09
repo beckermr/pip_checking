@@ -1,0 +1,4 @@
+pkg: fletcher
+build: fletcher-0.2.0-py_0
+install: fletcher==0.2.0
+pip_check: "No broken requirements found.\n"
