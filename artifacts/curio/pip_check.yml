@@ -1,0 +1,4 @@
+pkg: curio
+build: curio-0.9-py37_1001
+install: curio==0.9
+pip_check: "No broken requirements found.\n"
