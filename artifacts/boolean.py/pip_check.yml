@@ -1,0 +1,4 @@
+pkg: boolean.py
+build: boolean.py-3.7-py_0
+install: boolean.py==3.7
+pip_check: "No broken requirements found.\n"
