@@ -1,0 +1,4 @@
+pkg: healpy
+build: healpy-1.12.9-py37hf476568_1
+install: healpy==1.12.9
+pip_check: "No broken requirements found.\n"
