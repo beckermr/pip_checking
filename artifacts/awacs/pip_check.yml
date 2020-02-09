@@ -1,0 +1,4 @@
+pkg: awacs
+build: awacs-0.9.5-py37_0
+install: awacs==0.9.5
+pip_check: "No broken requirements found.\n"
