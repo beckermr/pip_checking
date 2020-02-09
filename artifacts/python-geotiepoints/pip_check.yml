@@ -1,0 +1,4 @@
+pkg: python-geotiepoints
+build: python-geotiepoints-1.1.8-py37hc1659b7_0
+install: python-geotiepoints==1.1.8
+pip_check: "No broken requirements found.\n"
