@@ -1,0 +1,4 @@
+pkg: dill
+build: dill-0.3.0-py37_0
+install: dill==0.3.0
+pip_check: "No broken requirements found.\n"
