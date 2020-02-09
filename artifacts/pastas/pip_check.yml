@@ -1,0 +1,4 @@
+pkg: pastas
+build: pastas-0.9.7-py_0
+install: pastas==0.9.7
+pip_check: "No broken requirements found.\n"
