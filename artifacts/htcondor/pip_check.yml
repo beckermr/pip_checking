@@ -1,0 +1,4 @@
+pkg: htcondor
+build: htcondor-8.9.4-py37_1
+install: htcondor==8.9.4
+pip_check: "No broken requirements found.\n"
