@@ -1,0 +1,4 @@
+pkg: numina
+build: numina-0.21-py37hb3f55d8_1
+install: numina==0.21
+pip_check: "No broken requirements found.\n"
