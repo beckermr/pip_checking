@@ -1,0 +1,4 @@
+pkg: conda-forge-ci-setup
+build: conda-forge-ci-setup-2.3.2-py37_0
+install: conda-forge-ci-setup==2.3.2
+pip_check: "No broken requirements found.\n"
