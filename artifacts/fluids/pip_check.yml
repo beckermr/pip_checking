@@ -1,0 +1,4 @@
+pkg: fluids
+build: fluids-0.1.77-py_0
+install: fluids==0.1.77
+pip_check: "No broken requirements found.\n"
