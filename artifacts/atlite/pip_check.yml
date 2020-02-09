@@ -1,0 +1,4 @@
+pkg: atlite
+build: atlite-0.0.2-py_0
+install: atlite==0.0.2
+pip_check: "No broken requirements found.\n"
