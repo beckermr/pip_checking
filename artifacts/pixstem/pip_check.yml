@@ -1,0 +1,4 @@
+pkg: pixstem
+build: pixstem-0.3.3-py_0
+install: pixstem==0.3.3
+pip_check: "No broken requirements found.\n"
