@@ -1,0 +1,4 @@
+pkg: dust_extinction
+build: dust_extinction-0.8-py_0
+install: dust_extinction==0.8
+pip_check: "No broken requirements found.\n"
