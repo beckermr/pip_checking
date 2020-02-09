@@ -1,0 +1,4 @@
+pkg: networkx-metis
+build: networkx-metis-1.0-py37he1b5a44_0
+install: networkx-metis==1.0
+pip_check: "No broken requirements found.\n"
