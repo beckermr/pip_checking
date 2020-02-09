@@ -1,0 +1,4 @@
+pkg: pystache
+build: pystache-0.5.4-py_1
+install: pystache==0.5.4
+pip_check: "No broken requirements found.\n"
