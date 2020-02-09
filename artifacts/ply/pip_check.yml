@@ -1,0 +1,4 @@
+pkg: ply
+build: ply-3.11-py_1
+install: ply==3.11
+pip_check: "No broken requirements found.\n"
