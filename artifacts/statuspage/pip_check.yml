@@ -1,0 +1,4 @@
+pkg: statuspage
+build: statuspage-0.8.1-py_1
+install: statuspage==0.8.1
+pip_check: "No broken requirements found.\n"
