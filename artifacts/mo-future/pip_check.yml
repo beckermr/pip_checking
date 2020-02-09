@@ -1,0 +1,4 @@
+pkg: mo-future
+build: mo-future-3.31.20024-py_0
+install: mo-future==3.31.20024
+pip_check: "No broken requirements found.\n"
