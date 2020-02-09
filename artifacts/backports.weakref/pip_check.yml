@@ -1,0 +1,4 @@
+pkg: backports.weakref
+build: backports.weakref-1.0.post1-py37_1000
+install: backports.weakref==1.0.post1
+pip_check: "No broken requirements found.\n"
