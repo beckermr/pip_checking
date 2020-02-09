@@ -1,0 +1,4 @@
+pkg: vcstools
+build: vcstools-0.1.42-py_0
+install: vcstools==0.1.42
+pip_check: "No broken requirements found.\n"
