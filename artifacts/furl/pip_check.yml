@@ -1,0 +1,4 @@
+pkg: furl
+build: furl-2.1.0-py_0
+install: furl==2.1.0
+pip_check: "No broken requirements found.\n"
