@@ -1,0 +1,4 @@
+pkg: datarobot
+build: datarobot-2.19.0-py_0
+install: datarobot==2.19.0
+pip_check: "No broken requirements found.\n"
