@@ -1,0 +1,4 @@
+pkg: thrift
+build: thrift-0.11.0-py37hfc679d8_1
+install: thrift==0.11.0
+pip_check: "No broken requirements found.\n"
