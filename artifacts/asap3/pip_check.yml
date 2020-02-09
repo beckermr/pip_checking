@@ -1,0 +1,4 @@
+pkg: asap3
+build: asap3-3.11.10-py37h547292d_2
+install: asap3==3.11.10
+pip_check: "No broken requirements found.\n"
