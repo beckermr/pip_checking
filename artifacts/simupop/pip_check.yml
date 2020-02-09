@@ -1,0 +1,4 @@
+pkg: simupop
+build: simupop-1.1.10.9-py37h8b12597_0
+install: simupop==1.1.10.9
+pip_check: "No broken requirements found.\n"
