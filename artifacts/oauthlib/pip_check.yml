@@ -1,0 +1,4 @@
+pkg: oauthlib
+build: oauthlib-2.0.6-py_0
+install: oauthlib==2.0.6
+pip_check: "No broken requirements found.\n"
