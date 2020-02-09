@@ -1,0 +1,4 @@
+pkg: rcssmin
+build: rcssmin-1.0.6-py37h516909a_1
+install: rcssmin==1.0.6
+pip_check: "No broken requirements found.\n"
