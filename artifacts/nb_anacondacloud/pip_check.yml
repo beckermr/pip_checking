@@ -1,0 +1,4 @@
+pkg: nb_anacondacloud
+build: nb_anacondacloud-1.4.0-py37_1
+install: nb_anacondacloud==1.4.0
+pip_check: "No broken requirements found.\n"
