@@ -1,0 +1,5 @@
+pkg: flask-potion
+build: flask-potion-0.15.0-py_0
+install: flask-potion==0.15.0
+pip_check: "flask-potion 0.15.0 requires rfc3987, which is not installed.\nflask-potion\
+  \ 0.15.0 requires strict-rfc3339, which is not installed.\n"
