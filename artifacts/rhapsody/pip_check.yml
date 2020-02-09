@@ -1,0 +1,4 @@
+pkg: rhapsody
+build: rhapsody-0.3.0-py_0
+install: rhapsody==0.3.0
+pip_check: "rhapsody 0.3.0 requires nose, which is not installed.\n"
