@@ -1,0 +1,4 @@
+pkg: jupyter_core
+build: jupyter_core-4.6.1-py37_0
+install: jupyter_core==4.6.1
+pip_check: "No broken requirements found.\n"
