@@ -1,0 +1,4 @@
+pkg: jupyterlab-dash
+build: jupyterlab-dash-0.1.0a3-py_0
+install: jupyterlab-dash==0.1.0a3
+pip_check: "No broken requirements found.\n"
