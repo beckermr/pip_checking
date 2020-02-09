@@ -1,0 +1,4 @@
+pkg: fusepy
+build: fusepy-3.0.1-py_0
+install: fusepy==3.0.1
+pip_check: "No broken requirements found.\n"
