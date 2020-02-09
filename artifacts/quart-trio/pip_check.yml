@@ -1,0 +1,4 @@
+pkg: quart-trio
+build: quart-trio-0.3.0-py_0
+install: quart-trio==0.3.0
+pip_check: "No broken requirements found.\n"
