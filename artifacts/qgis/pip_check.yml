@@ -1,0 +1,4 @@
+pkg: qgis
+build: qgis-3.4.9-py37hdfa4a6a_1
+install: qgis==3.4.9
+pip_check: "No broken requirements found.\n"
