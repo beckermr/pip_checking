@@ -1,0 +1,5 @@
+pkg: p_astro
+build: p_astro-0.7-py_0
+install: p_astro==0.7
+pip_check: "p-astro 0.7 requires h5py, which is not installed.\np-astro 0.7 requires\
+  \ lalsuite, which is not installed.\n"
