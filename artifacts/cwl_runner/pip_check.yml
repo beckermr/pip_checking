@@ -1,0 +1,4 @@
+pkg: cwl_runner
+build: cwl_runner-1.0-py_0
+install: cwl_runner==1.0
+pip_check: "No broken requirements found.\n"
