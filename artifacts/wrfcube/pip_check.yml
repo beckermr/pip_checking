@@ -1,0 +1,4 @@
+pkg: wrfcube
+build: wrfcube-1.0.1-py_0
+install: wrfcube==1.0.1
+pip_check: "cf-units 2.1.3 requires cython, which is not installed.\n"
