@@ -1,0 +1,4 @@
+pkg: tornado-sqlalchemy
+build: tornado-sqlalchemy-0.6.1-py_0
+install: tornado-sqlalchemy==0.6.1
+pip_check: "No broken requirements found.\n"
