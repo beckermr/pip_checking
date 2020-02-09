@@ -1,0 +1,4 @@
+pkg: pycalverter
+build: pycalverter-1.6.1-py_0
+install: pycalverter==1.6.1
+pip_check: "No broken requirements found.\n"
