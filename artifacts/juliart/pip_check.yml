@@ -1,0 +1,4 @@
+pkg: juliart
+build: juliart-0.0.15-py37_0
+install: juliart==0.0.15
+pip_check: "No broken requirements found.\n"
