@@ -1,0 +1,4 @@
+pkg: cygrid
+build: cygrid-1.0.1-py37ha8d69ae_3
+install: cygrid==1.0.1
+pip_check: "cygrid 1.0.1 requires cython, which is not installed.\n"
