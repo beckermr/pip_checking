@@ -1,0 +1,4 @@
+pkg: pynvml
+build: pynvml-8.0.1-py_0
+install: pynvml==8.0.1
+pip_check: "No broken requirements found.\n"
