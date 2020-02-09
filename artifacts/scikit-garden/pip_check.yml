@@ -1,0 +1,4 @@
+pkg: scikit-garden
+build: scikit-garden-0.1.3-py37h3010b51_1001
+install: scikit-garden==0.1.3
+pip_check: "scikit-garden 0.1.3 requires cython, which is not installed.\n"
