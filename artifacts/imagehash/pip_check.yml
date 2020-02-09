@@ -1,0 +1,4 @@
+pkg: imagehash
+build: imagehash-4.0-py_0
+install: imagehash==4.0
+pip_check: "imagehash 4.0 requires six, which is not installed.\n"
