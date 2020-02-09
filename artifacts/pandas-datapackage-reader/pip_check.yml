@@ -1,0 +1,4 @@
+pkg: pandas-datapackage-reader
+build: pandas-datapackage-reader-0.13.1-py_0
+install: pandas-datapackage-reader==0.13.1
+pip_check: "No broken requirements found.\n"
