@@ -1,0 +1,4 @@
+pkg: pytest-asyncio
+build: pytest-asyncio-0.9.0-py37_1000
+install: pytest-asyncio==0.9.0
+pip_check: "No broken requirements found.\n"
