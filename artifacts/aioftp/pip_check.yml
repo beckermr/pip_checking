@@ -1,0 +1,4 @@
+pkg: aioftp
+build: aioftp-0.12.0-py_0
+install: aioftp==0.12.0
+pip_check: "No broken requirements found.\n"
