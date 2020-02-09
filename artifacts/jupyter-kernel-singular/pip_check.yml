@@ -1,0 +1,4 @@
+pkg: jupyter-kernel-singular
+build: jupyter-kernel-singular-0.9.9-py_0
+install: jupyter-kernel-singular==0.9.9
+pip_check: "No broken requirements found.\n"
