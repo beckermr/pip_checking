@@ -1,0 +1,4 @@
+pkg: jieba3k
+build: jieba3k-0.35.1-py37_1001
+install: jieba3k==0.35.1
+pip_check: "No broken requirements found.\n"
