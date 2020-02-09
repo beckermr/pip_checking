@@ -1,0 +1,4 @@
+pkg: bitshuffle
+build: bitshuffle-0.3.5-py37h3e93a20_2
+install: bitshuffle==0.3.5
+pip_check: "No broken requirements found.\n"
