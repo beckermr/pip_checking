@@ -1,0 +1,4 @@
+pkg: toposort
+build: toposort-1.5-py_3
+install: toposort==1.5
+pip_check: "No broken requirements found.\n"
