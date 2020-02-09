@@ -1,0 +1,4 @@
+pkg: django-anymail
+build: django-anymail-6.0-py_0
+install: django-anymail==6.0
+pip_check: "No broken requirements found.\n"
