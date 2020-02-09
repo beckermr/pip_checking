@@ -1,0 +1,4 @@
+pkg: xmsgrid
+build: xmsgrid-4.2.0-py37h176a8bc_0
+install: xmsgrid==4.2.0
+pip_check: "No broken requirements found.\n"
