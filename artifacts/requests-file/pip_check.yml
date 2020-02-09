@@ -1,0 +1,4 @@
+pkg: requests-file
+build: requests-file-1.4.3-py_0
+install: requests-file==1.4.3
+pip_check: "No broken requirements found.\n"
