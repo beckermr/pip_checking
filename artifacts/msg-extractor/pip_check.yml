@@ -1,0 +1,6 @@
+pkg: msg-extractor
+build: msg-extractor-0.23.1-py37_0
+install: msg-extractor==0.23.1
+pip_check: "extract-msg 0.23.1 has requirement imapclient==2.1.0, but you have imapclient\
+  \ 2.0.0.\nextract-msg 0.23.1 has requirement tzlocal==1.5.1, but you have tzlocal\
+  \ 2.0.0.\n"
