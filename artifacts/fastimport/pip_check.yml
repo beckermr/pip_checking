@@ -1,0 +1,4 @@
+pkg: fastimport
+build: fastimport-0.9.6-py_0
+install: fastimport==0.9.6
+pip_check: "No broken requirements found.\n"
