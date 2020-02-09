@@ -1,0 +1,4 @@
+pkg: docker-map
+build: docker-map-1.0.0-py_0
+install: docker-map==1.0.0
+pip_check: "No broken requirements found.\n"
