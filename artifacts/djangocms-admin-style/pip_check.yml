@@ -1,0 +1,4 @@
+pkg: djangocms-admin-style
+build: djangocms-admin-style-1.2.8-py_0
+install: djangocms-admin-style==1.2.8
+pip_check: "No broken requirements found.\n"
