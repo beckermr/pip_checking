@@ -1,0 +1,4 @@
+pkg: prometheus_client
+build: prometheus_client-0.3.0-py_0
+install: prometheus_client==0.3.0
+pip_check: "No broken requirements found.\n"
