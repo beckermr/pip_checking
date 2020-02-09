@@ -1,0 +1,4 @@
+pkg: linear-tsv
+build: linear-tsv-1.1.0-py_1
+install: linear-tsv==1.1.0
+pip_check: "No broken requirements found.\n"
