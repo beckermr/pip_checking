@@ -1,0 +1,4 @@
+pkg: dask-core
+build: dask-core-0.17.5-py_0
+install: dask-core==0.17.5
+pip_check: "No broken requirements found.\n"
