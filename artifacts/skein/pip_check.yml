@@ -1,0 +1,4 @@
+pkg: skein
+build: skein-0.8.0-py37_0
+install: skein==0.8.0
+pip_check: "No broken requirements found.\n"
