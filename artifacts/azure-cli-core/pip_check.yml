@@ -1,0 +1,7 @@
+pkg: azure-cli-core
+build: azure-cli-core-2.0.60-py_0
+install: azure-cli-core==2.0.60
+pip_check: "azure-cli-telemetry 1.0.2 has requirement applicationinsights<0.11.8,>=0.11.1,\
+  \ but you have applicationinsights 0.11.9.\nazure-cli-core 2.0.60 has requirement\
+  \ knack>=0.5.3, but you have knack 0.5.1.\nazure-cli-core 2.0.60 has requirement\
+  \ wheel==0.30.0, but you have wheel 0.34.2.\n"
