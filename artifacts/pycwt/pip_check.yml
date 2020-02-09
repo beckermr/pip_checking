@@ -1,0 +1,4 @@
+pkg: pycwt
+build: pycwt-0.3.0a22-py_0
+install: pycwt==0.3.0a22
+pip_check: "pycwt 0.3.0a22 requires matplotlib, which is not installed.\n"
