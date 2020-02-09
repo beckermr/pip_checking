@@ -1,0 +1,4 @@
+pkg: strec
+build: strec-2.1.4-py_0
+install: strec==2.1.4
+pip_check: "No broken requirements found.\n"
