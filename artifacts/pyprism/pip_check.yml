@@ -1,0 +1,4 @@
+pkg: pyprism
+build: pyprism-1.0.3-py37hc1659b7_1001
+install: pyprism==1.0.3
+pip_check: "pyprism 1.0.3 requires cython, which is not installed.\n"
