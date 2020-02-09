@@ -1,0 +1,5 @@
+pkg: python-backtrace
+build: python-backtrace-0.2.1-py_0
+install: python-backtrace==0.2.1
+pip_check: "backtrace 0.2.1 has requirement colorama==0.3.7, but you have colorama\
+  \ 0.4.3.\n"
