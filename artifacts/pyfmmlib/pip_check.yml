@@ -1,0 +1,4 @@
+pkg: pyfmmlib
+build: pyfmmlib-2019.1.3-py37h7eb8c7e_0
+install: pyfmmlib==2019.1.3
+pip_check: "No broken requirements found.\n"
