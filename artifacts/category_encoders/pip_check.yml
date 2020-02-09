@@ -1,0 +1,5 @@
+pkg: category_encoders
+build: category_encoders-1.2.7-py_0
+install: category_encoders==1.2.7
+pip_check: "category-encoders 1.2.7 has requirement statsmodels<=0.8.0,>=0.6.0, but\
+  \ you have statsmodels 0.11.0.\n"
