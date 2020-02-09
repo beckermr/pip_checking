@@ -1,0 +1,4 @@
+pkg: otmixmod
+build: otmixmod-0.7-py37h4d1ea99_1001
+install: otmixmod==0.7
+pip_check: "No broken requirements found.\n"
