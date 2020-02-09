@@ -1,0 +1,4 @@
+pkg: isofit
+build: isofit-1.1.6-py_0
+install: isofit==1.1.6
+pip_check: "No broken requirements found.\n"
