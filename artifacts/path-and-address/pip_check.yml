@@ -1,0 +1,4 @@
+pkg: path-and-address
+build: path-and-address-2.0.1-py_0
+install: path-and-address==2.0.1
+pip_check: "No broken requirements found.\n"
