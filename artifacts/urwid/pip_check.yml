@@ -1,0 +1,4 @@
+pkg: urwid
+build: urwid-2.1.0-py37h516909a_0
+install: urwid==2.1.0
+pip_check: "No broken requirements found.\n"
