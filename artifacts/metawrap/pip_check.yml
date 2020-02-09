@@ -1,0 +1,4 @@
+pkg: metawrap
+build: metawrap-0.0.2-py_1
+install: metawrap==0.0.2
+pip_check: "No broken requirements found.\n"
