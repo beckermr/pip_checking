@@ -1,0 +1,6 @@
+pkg: localstack-ext
+build: localstack-ext-0.10.36-py_0
+install: localstack-ext==0.10.36
+pip_check: "localstack-ext 0.10.36 has requirement dnslib==0.9.10, but you have dnslib\
+  \ 0.9.12.\nlocalstack-ext 0.10.36 has requirement pyaes==1.6.0, but you have pyaes\
+  \ 1.6.1.\n"
