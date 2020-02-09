@@ -1,0 +1,4 @@
+pkg: esutil
+build: esutil-0.6.3-py37hb3f55d8_0
+install: esutil==0.6.3
+pip_check: "No broken requirements found.\n"
