@@ -1,0 +1,4 @@
+pkg: circuits
+build: circuits-3.2-py37_0
+install: circuits==3.2
+pip_check: "No broken requirements found.\n"
