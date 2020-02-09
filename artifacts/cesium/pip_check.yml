@@ -1,0 +1,4 @@
+pkg: cesium
+build: cesium-0.9.9-py37h516909a_0
+install: cesium==0.9.9
+pip_check: "No broken requirements found.\n"
