@@ -1,0 +1,4 @@
+pkg: email_validator
+build: email_validator-1.0.2-py_0
+install: email_validator==1.0.2
+pip_check: "No broken requirements found.\n"
