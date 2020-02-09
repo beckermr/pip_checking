@@ -1,0 +1,4 @@
+pkg: pyemojify
+build: pyemojify-0.2.0-py_0
+install: pyemojify==0.2.0
+pip_check: "pyemojify 0.2.0 requires click, which is not installed.\n"
