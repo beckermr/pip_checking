@@ -1,0 +1,4 @@
+pkg: pivy
+build: pivy-0.6.5a0-py37ha66431f_1000
+install: pivy==0.6.5a0
+pip_check: "No broken requirements found.\n"
