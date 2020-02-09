@@ -1,0 +1,4 @@
+pkg: maup
+build: maup-0.5-py_0
+install: maup==0.5
+pip_check: "No broken requirements found.\n"
