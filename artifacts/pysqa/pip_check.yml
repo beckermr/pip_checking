@@ -1,0 +1,4 @@
+pkg: pysqa
+build: pysqa-0.0.1-py37_0
+install: pysqa==0.0.1
+pip_check: "pysqa 0.0.1 requires pyyaml, which is not installed.\n"
