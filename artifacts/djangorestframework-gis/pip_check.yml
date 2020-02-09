@@ -1,0 +1,4 @@
+pkg: djangorestframework-gis
+build: djangorestframework-gis-0.14-py_0
+install: djangorestframework-gis==0.14
+pip_check: "djangorestframework 3.11.0 requires django, which is not installed.\n"
