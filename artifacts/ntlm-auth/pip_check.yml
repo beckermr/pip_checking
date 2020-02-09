@@ -1,0 +1,4 @@
+pkg: ntlm-auth
+build: ntlm-auth-1.0.6-py_0
+install: ntlm-auth==1.0.6
+pip_check: "No broken requirements found.\n"
