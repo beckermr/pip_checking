@@ -1,0 +1,4 @@
+pkg: pydrive2
+build: pydrive2-1.4.1-py_1
+install: pydrive2==1.4.1
+pip_check: "No broken requirements found.\n"
