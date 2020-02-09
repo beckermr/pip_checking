@@ -1,0 +1,4 @@
+pkg: py-pandoc
+build: py-pandoc-2.9.1-py_0
+install: py-pandoc==2.9.1
+pip_check: "No broken requirements found.\n"
