@@ -1,0 +1,4 @@
+pkg: pynfft
+build: pynfft-1.3.2-py37hc1659b7_1001
+install: pynfft==1.3.2
+pip_check: "No broken requirements found.\n"
