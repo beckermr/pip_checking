@@ -1,0 +1,4 @@
+pkg: cvloop
+build: cvloop-0.3.5-py37_1000
+install: cvloop==0.3.5
+pip_check: "No broken requirements found.\n"
