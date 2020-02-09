@@ -1,0 +1,4 @@
+pkg: djangorestframework-yaml
+build: djangorestframework-yaml-1.0.3-py_0
+install: djangorestframework-yaml==1.0.3
+pip_check: "No broken requirements found.\n"
