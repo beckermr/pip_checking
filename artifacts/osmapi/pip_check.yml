@@ -1,0 +1,4 @@
+pkg: osmapi
+build: osmapi-1.2.2-py_0
+install: osmapi==1.2.2
+pip_check: "No broken requirements found.\n"
