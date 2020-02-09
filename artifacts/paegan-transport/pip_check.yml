@@ -1,0 +1,5 @@
+pkg: paegan-transport
+build: paegan-transport-1.0.5-py37_1000
+install: paegan-transport==1.0.5
+pip_check: "paegan-transport 1.0.5 requires gj2ascii, which is not installed.\npaegan-transport\
+  \ 1.0.5 requires pytables, which is not installed.\n"
