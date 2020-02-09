@@ -1,0 +1,4 @@
+pkg: azure-common
+build: azure-common-1.1.16-py_0
+install: azure-common==1.1.16
+pip_check: "No broken requirements found.\n"
