@@ -1,0 +1,4 @@
+pkg: pymedphys_logfiles
+build: pymedphys_logfiles-0.10.0-py_1
+install: pymedphys_logfiles==0.10.0
+pip_check: "No broken requirements found.\n"
