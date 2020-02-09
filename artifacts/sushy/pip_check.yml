@@ -1,0 +1,4 @@
+pkg: sushy
+build: sushy-1.9.0-py_0
+install: sushy==1.9.0
+pip_check: "No broken requirements found.\n"
