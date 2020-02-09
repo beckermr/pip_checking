@@ -1,0 +1,4 @@
+pkg: econ-ark
+build: econ-ark-0.10.1-py_0
+install: econ-ark==0.10.1
+pip_check: "econ-ark 0.10.1 requires funcsigs, which is not installed.\n"
