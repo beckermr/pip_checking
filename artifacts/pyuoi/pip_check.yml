@@ -1,0 +1,4 @@
+pkg: pyuoi
+build: pyuoi-0.99.0-py37hc1659b7_0
+install: pyuoi==0.99.0
+pip_check: "No broken requirements found.\n"
