@@ -1,0 +1,4 @@
+pkg: sqlobject
+build: sqlobject-3.5.0-py_0
+install: sqlobject==3.5.0
+pip_check: "No broken requirements found.\n"
