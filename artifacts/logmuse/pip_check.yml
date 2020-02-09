@@ -1,0 +1,4 @@
+pkg: logmuse
+build: logmuse-0.2.5-py_0
+install: logmuse==0.2.5
+pip_check: "No broken requirements found.\n"
