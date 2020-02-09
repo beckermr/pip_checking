@@ -1,0 +1,4 @@
+pkg: bareditor
+build: bareditor-0.17-py_0
+install: bareditor==0.17
+pip_check: "No broken requirements found.\n"
