@@ -1,0 +1,4 @@
+pkg: anyqt
+build: anyqt-0.0.8-py_2
+install: anyqt==0.0.8
+pip_check: "No broken requirements found.\n"
