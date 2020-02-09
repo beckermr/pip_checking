@@ -1,0 +1,4 @@
+pkg: kuyruk
+build: kuyruk-9.2.1-py37_0
+install: kuyruk==9.2.1
+pip_check: "No broken requirements found.\n"
