@@ -1,0 +1,4 @@
+pkg: usagestats
+build: usagestats-0.7-py_1
+install: usagestats==0.7
+pip_check: "No broken requirements found.\n"
