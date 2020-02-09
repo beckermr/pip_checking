@@ -1,0 +1,6 @@
+pkg: df2gspread
+build: df2gspread-1.0.4-py37_1000
+install: df2gspread==1.0.4
+pip_check: "df2gspread 1.0.4 requires argparse, which is not installed.\ndf2gspread\
+  \ 1.0.4 has requirement google-api-python-client==1.6.7, but you have google-api-python-client\
+  \ 1.7.11.\n"
