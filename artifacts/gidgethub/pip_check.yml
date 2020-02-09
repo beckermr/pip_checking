@@ -1,0 +1,4 @@
+pkg: gidgethub
+build: gidgethub-3.2.0-py_0
+install: gidgethub==3.2.0
+pip_check: "No broken requirements found.\n"
