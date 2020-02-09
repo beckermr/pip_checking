@@ -1,0 +1,4 @@
+pkg: citrination-client
+build: citrination-client-5.2.0-py_0
+install: citrination-client==5.2.0
+pip_check: "No broken requirements found.\n"
