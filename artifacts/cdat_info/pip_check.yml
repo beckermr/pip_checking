@@ -1,0 +1,4 @@
+pkg: cdat_info
+build: cdat_info-8.0-py37_1002
+install: cdat_info==8.0
+pip_check: "No broken requirements found.\n"
