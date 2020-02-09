@@ -1,0 +1,4 @@
+pkg: trollimage
+build: trollimage-1.11.0-py_0
+install: trollimage==1.11.0
+pip_check: "No broken requirements found.\n"
