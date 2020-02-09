@@ -1,0 +1,4 @@
+pkg: numpy_groupies
+build: numpy_groupies-0.9.9-py_0
+install: numpy_groupies==0.9.9
+pip_check: "No broken requirements found.\n"
