@@ -1,0 +1,4 @@
+pkg: cerberus
+build: cerberus-1.2-py_1
+install: cerberus==1.2
+pip_check: "No broken requirements found.\n"
