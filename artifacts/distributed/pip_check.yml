@@ -1,0 +1,4 @@
+pkg: distributed
+build: distributed-1.25.3-py37_0
+install: distributed==1.25.3
+pip_check: "No broken requirements found.\n"
