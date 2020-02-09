@@ -1,0 +1,4 @@
+pkg: scikit-rf
+build: scikit-rf-0.14.9-py_1
+install: scikit-rf==0.14.9
+pip_check: "No broken requirements found.\n"
