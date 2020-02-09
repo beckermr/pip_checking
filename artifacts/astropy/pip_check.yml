@@ -1,0 +1,4 @@
+pkg: astropy
+build: astropy-4.0-py37h516909a_1
+install: astropy==4.0
+pip_check: "No broken requirements found.\n"
