@@ -1,0 +1,4 @@
+pkg: flask-allows
+build: flask-allows-0.4-py_1
+install: flask-allows==0.4
+pip_check: "No broken requirements found.\n"
