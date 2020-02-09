@@ -1,0 +1,4 @@
+pkg: anndata
+build: anndata-0.7.1-py37_0
+install: anndata==0.7.1
+pip_check: "No broken requirements found.\n"
