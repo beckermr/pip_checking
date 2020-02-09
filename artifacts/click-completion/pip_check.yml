@@ -1,0 +1,4 @@
+pkg: click-completion
+build: click-completion-0.5.1-py37_1
+install: click-completion==0.5.1
+pip_check: "No broken requirements found.\n"
