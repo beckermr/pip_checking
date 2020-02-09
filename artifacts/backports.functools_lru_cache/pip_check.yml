@@ -1,0 +1,4 @@
+pkg: backports.functools_lru_cache
+build: backports.functools_lru_cache-1.5-py_1
+install: backports.functools_lru_cache==1.5
+pip_check: "No broken requirements found.\n"
