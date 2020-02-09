@@ -1,0 +1,4 @@
+pkg: azure-mgmt-compute
+build: azure-mgmt-compute-4.5.1-py_0
+install: azure-mgmt-compute==4.5.1
+pip_check: "No broken requirements found.\n"
