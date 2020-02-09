@@ -1,0 +1,4 @@
+pkg: jsonpath-ng
+build: jsonpath-ng-1.4.3-py37_0
+install: jsonpath-ng==1.4.3
+pip_check: "No broken requirements found.\n"
