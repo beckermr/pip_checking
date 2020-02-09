@@ -1,0 +1,4 @@
+pkg: thinc
+build: thinc-7.2.0-py37hc9558a2_0
+install: thinc==7.2.0
+pip_check: "No broken requirements found.\n"
