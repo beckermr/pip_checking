@@ -1,0 +1,4 @@
+pkg: eliot
+build: eliot-1.12.0-py37_0
+install: eliot==1.12.0
+pip_check: "No broken requirements found.\n"
