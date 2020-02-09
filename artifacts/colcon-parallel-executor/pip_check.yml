@@ -1,0 +1,4 @@
+pkg: colcon-parallel-executor
+build: colcon-parallel-executor-0.2.4-py_0
+install: colcon-parallel-executor==0.2.4
+pip_check: "No broken requirements found.\n"
