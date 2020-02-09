@@ -1,0 +1,4 @@
+pkg: cypari2
+build: cypari2-2.1.1-py37hef3d0d6_1
+install: cypari2==2.1.1
+pip_check: "cysignals 1.10.2 requires cython, which is not installed.\n"
