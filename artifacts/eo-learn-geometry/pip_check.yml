@@ -1,0 +1,4 @@
+pkg: eo-learn-geometry
+build: eo-learn-geometry-0.6.0-py37_0
+install: eo-learn-geometry==0.6.0
+pip_check: "No broken requirements found.\n"
