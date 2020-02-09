@@ -1,0 +1,4 @@
+pkg: json-rpc
+build: json-rpc-1.11.1-py_0
+install: json-rpc==1.11.1
+pip_check: "No broken requirements found.\n"
