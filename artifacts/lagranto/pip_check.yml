@@ -1,0 +1,4 @@
+pkg: lagranto
+build: lagranto-0.1.7-py37_1001
+install: lagranto==0.1.7
+pip_check: "lagranto 0.1.7 requires path-py, which is not installed.\n"
