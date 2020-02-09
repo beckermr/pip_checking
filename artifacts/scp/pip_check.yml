@@ -1,0 +1,4 @@
+pkg: scp
+build: scp-0.10.2-py_1
+install: scp==0.10.2
+pip_check: "No broken requirements found.\n"
