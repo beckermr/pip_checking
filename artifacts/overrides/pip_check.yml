@@ -1,0 +1,4 @@
+pkg: overrides
+build: overrides-2.0-py_0
+install: overrides==2.0
+pip_check: "No broken requirements found.\n"
