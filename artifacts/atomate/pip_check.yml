@@ -1,0 +1,5 @@
+pkg: atomate
+build: atomate-0.9.3-py_0
+install: atomate==0.9.3
+pip_check: "phonopy 2.4.1.post5 requires h5py, which is not installed.\ncustodian\
+  \ 2019.9.23 requires sentry-sdk, which is not installed.\n"
