@@ -1,0 +1,4 @@
+pkg: ipyvolume
+build: ipyvolume-0.5.1-py37_1001
+install: ipyvolume==0.5.1
+pip_check: "No broken requirements found.\n"
