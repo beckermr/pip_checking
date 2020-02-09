@@ -1,0 +1,4 @@
+pkg: deid
+build: deid-0.1.35-py_0
+install: deid==0.1.35
+pip_check: "No broken requirements found.\n"
