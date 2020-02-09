@@ -1,0 +1,4 @@
+pkg: cachey
+build: cachey-0.1.1-py_0
+install: cachey==0.1.1
+pip_check: "No broken requirements found.\n"
