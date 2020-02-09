@@ -1,0 +1,4 @@
+pkg: sk-video
+build: sk-video-1.1.10-py_3
+install: sk-video==1.1.10
+pip_check: "No broken requirements found.\n"
