@@ -1,0 +1,4 @@
+pkg: toastedmarshmallow
+build: toastedmarshmallow-2.15.2-py_0
+install: toastedmarshmallow==2.15.2
+pip_check: "No broken requirements found.\n"
