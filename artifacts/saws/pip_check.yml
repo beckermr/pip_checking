@@ -1,0 +1,4 @@
+pkg: saws
+build: saws-0.4.3-py37_0
+install: saws==0.4.3
+pip_check: "No broken requirements found.\n"
