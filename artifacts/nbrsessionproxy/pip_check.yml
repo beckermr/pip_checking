@@ -1,0 +1,4 @@
+pkg: nbrsessionproxy
+build: nbrsessionproxy-0.6.1-py37_1002
+install: nbrsessionproxy==0.6.1
+pip_check: "No broken requirements found.\n"
