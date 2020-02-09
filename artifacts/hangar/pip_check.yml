@@ -1,0 +1,4 @@
+pkg: hangar
+build: hangar-0.4.0-py37_0
+install: hangar==0.4.0
+pip_check: "No broken requirements found.\n"
