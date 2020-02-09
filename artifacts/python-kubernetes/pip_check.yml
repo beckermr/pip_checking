@@ -1,0 +1,4 @@
+pkg: python-kubernetes
+build: python-kubernetes-9.0.0-py37_0
+install: python-kubernetes==9.0.0
+pip_check: "No broken requirements found.\n"
