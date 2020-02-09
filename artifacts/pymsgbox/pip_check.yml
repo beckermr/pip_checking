@@ -1,0 +1,4 @@
+pkg: pymsgbox
+build: pymsgbox-1.0.6-py_0
+install: pymsgbox==1.0.6
+pip_check: "No broken requirements found.\n"
