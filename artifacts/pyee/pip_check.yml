@@ -1,0 +1,4 @@
+pkg: pyee
+build: pyee-6.0.0-py_0
+install: pyee==6.0.0
+pip_check: "No broken requirements found.\n"
