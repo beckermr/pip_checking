@@ -1,0 +1,4 @@
+pkg: pyrfa
+build: pyrfa-8.5.3-py37_0
+install: pyrfa==8.5.3
+pip_check: "No broken requirements found.\n"
