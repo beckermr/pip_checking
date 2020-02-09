@@ -1,0 +1,4 @@
+pkg: gridfill
+build: gridfill-1.0.1-py37h14c3975_1000
+install: gridfill==1.0.1
+pip_check: "gridfill 1.0.1 requires cython, which is not installed.\n"
