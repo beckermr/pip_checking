@@ -1,0 +1,4 @@
+pkg: datashader
+build: datashader-0.8.0-py_0
+install: datashader==0.8.0
+pip_check: "No broken requirements found.\n"
