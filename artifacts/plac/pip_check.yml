@@ -1,0 +1,4 @@
+pkg: plac
+build: plac-1.0.0-py_0
+install: plac==1.0.0
+pip_check: "No broken requirements found.\n"
