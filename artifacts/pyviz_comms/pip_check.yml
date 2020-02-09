@@ -1,0 +1,4 @@
+pkg: pyviz_comms
+build: pyviz_comms-0.6.0-py_0
+install: pyviz_comms==0.6.0
+pip_check: "No broken requirements found.\n"
