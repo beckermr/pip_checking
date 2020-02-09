@@ -1,0 +1,4 @@
+pkg: polib
+build: polib-1.0.7-py_0
+install: polib==1.0.7
+pip_check: "No broken requirements found.\n"
