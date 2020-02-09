@@ -1,0 +1,4 @@
+pkg: github-webhook
+build: github-webhook-1.0.2-py_0
+install: github-webhook==1.0.2
+pip_check: "No broken requirements found.\n"
