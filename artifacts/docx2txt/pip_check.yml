@@ -1,0 +1,4 @@
+pkg: docx2txt
+build: docx2txt-0.8-py_0
+install: docx2txt==0.8
+pip_check: "No broken requirements found.\n"
