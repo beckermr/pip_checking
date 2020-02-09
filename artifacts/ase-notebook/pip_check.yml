@@ -1,0 +1,5 @@
+pkg: ase-notebook
+build: ase-notebook-0.3.0-py_0
+install: ase-notebook==0.3.0
+pip_check: "ase-notebook 0.3.0 has requirement numpy<1.17,>=1.16.4, but you have numpy\
+  \ 1.18.1.\n"
