@@ -1,0 +1,4 @@
+pkg: numcodecs
+build: numcodecs-0.5.5-py37hfc679d8_1
+install: numcodecs==0.5.5
+pip_check: "No broken requirements found.\n"
