@@ -1,0 +1,4 @@
+pkg: pyfmi
+build: pyfmi-2.5-py37h7eb728f_1
+install: pyfmi==2.5
+pip_check: "No broken requirements found.\n"
