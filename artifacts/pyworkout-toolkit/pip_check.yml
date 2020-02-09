@@ -1,0 +1,4 @@
+pkg: pyworkout-toolkit
+build: pyworkout-toolkit-0.0.21-py_0
+install: pyworkout-toolkit==0.0.21
+pip_check: "No broken requirements found.\n"
