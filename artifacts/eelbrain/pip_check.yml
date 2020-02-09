@@ -1,0 +1,4 @@
+pkg: eelbrain
+build: eelbrain-0.30.6-py37h83c7a35_0
+install: eelbrain==0.30.6
+pip_check: "nilearn 0.6.1 requires sklearn, which is not installed.\n"
