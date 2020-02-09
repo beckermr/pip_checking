@@ -1,0 +1,4 @@
+pkg: pprofile
+build: pprofile-1.11.0-py37_1001
+install: pprofile==1.11.0
+pip_check: "No broken requirements found.\n"
