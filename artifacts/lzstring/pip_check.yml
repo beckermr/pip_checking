@@ -1,0 +1,4 @@
+pkg: lzstring
+build: lzstring-1.0.4-py_1001
+install: lzstring==1.0.4
+pip_check: "No broken requirements found.\n"
