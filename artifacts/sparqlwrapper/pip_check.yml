@@ -1,0 +1,4 @@
+pkg: sparqlwrapper
+build: sparqlwrapper-1.8.2-py37_1000
+install: sparqlwrapper==1.8.2
+pip_check: "sparqlwrapper 1.8.2 requires rdflib, which is not installed.\n"
