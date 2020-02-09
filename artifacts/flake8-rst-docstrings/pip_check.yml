@@ -1,0 +1,4 @@
+pkg: flake8-rst-docstrings
+build: flake8-rst-docstrings-0.0.11-py_0
+install: flake8-rst-docstrings==0.0.11
+pip_check: "No broken requirements found.\n"
