@@ -1,0 +1,4 @@
+pkg: esmcol-validator
+build: esmcol-validator-2020.1.29-py_0
+install: esmcol-validator==2020.1.29
+pip_check: "No broken requirements found.\n"
