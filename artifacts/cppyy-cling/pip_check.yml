@@ -1,0 +1,4 @@
+pkg: cppyy-cling
+build: cppyy-cling-6.18.2.6-py37he513fc3_0
+install: cppyy-cling==6.18.2.6
+pip_check: "No broken requirements found.\n"
