@@ -1,0 +1,4 @@
+pkg: marshmallow-jsonapi
+build: marshmallow-jsonapi-0.20.5-py_0
+install: marshmallow-jsonapi==0.20.5
+pip_check: "No broken requirements found.\n"
