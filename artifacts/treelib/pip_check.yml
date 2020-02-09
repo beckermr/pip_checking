@@ -1,0 +1,4 @@
+pkg: treelib
+build: treelib-1.5.5-py_0
+install: treelib==1.5.5
+pip_check: "No broken requirements found.\n"
