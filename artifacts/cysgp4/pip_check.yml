@@ -1,0 +1,4 @@
+pkg: cysgp4
+build: cysgp4-0.3.1-py37h9de70de_0
+install: cysgp4==0.3.1
+pip_check: "No broken requirements found.\n"
