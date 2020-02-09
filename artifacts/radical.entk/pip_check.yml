@@ -1,0 +1,4 @@
+pkg: radical.entk
+build: radical.entk-1.0.0-py37_0
+install: radical.entk==1.0.0
+pip_check: "radical-pilot 1.0.0 requires msgpack-python, which is not installed.\n"
