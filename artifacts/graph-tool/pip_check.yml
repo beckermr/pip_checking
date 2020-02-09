@@ -1,0 +1,4 @@
+pkg: graph-tool
+build: graph-tool-2.29-py37h3f2f939_0
+install: graph-tool==2.29
+pip_check: "No broken requirements found.\n"
