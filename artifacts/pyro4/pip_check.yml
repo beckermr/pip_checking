@@ -1,0 +1,4 @@
+pkg: pyro4
+build: pyro4-4.75-py_0
+install: pyro4==4.75
+pip_check: "No broken requirements found.\n"
