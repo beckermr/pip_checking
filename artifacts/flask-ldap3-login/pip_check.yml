@@ -1,0 +1,4 @@
+pkg: flask-ldap3-login
+build: flask-ldap3-login-0.9.16-py37_1000
+install: flask-ldap3-login==0.9.16
+pip_check: "No broken requirements found.\n"
