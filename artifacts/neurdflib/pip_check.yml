@@ -1,0 +1,4 @@
+pkg: neurdflib
+build: neurdflib-5.0.1-py_0
+install: neurdflib==5.0.1
+pip_check: "sparqlwrapper 1.8.2 requires rdflib, which is not installed.\n"
