@@ -1,0 +1,4 @@
+pkg: quantities
+build: quantities-0.12.4-py_0
+install: quantities==0.12.4
+pip_check: "No broken requirements found.\n"
