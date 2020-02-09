@@ -1,0 +1,4 @@
+pkg: parsplice
+build: parsplice-1.1.2.dev0-py37_mpich_1
+install: parsplice==1.1.2.dev0
+pip_check: "No broken requirements found.\n"
