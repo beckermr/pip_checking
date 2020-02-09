@@ -1,0 +1,4 @@
+pkg: jupyter_telemetry
+build: jupyter_telemetry-0.0.4-py_0
+install: jupyter_telemetry==0.0.4
+pip_check: "No broken requirements found.\n"
