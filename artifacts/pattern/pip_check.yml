@@ -1,0 +1,4 @@
+pkg: pattern
+build: pattern-3.6.0-py_0
+install: pattern==3.6.0
+pip_check: "pattern 3.6 requires pdfminer, which is not installed.\n"
