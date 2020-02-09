@@ -1,0 +1,4 @@
+pkg: threedigrid
+build: threedigrid-1.0.16-py_0
+install: threedigrid==1.0.16
+pip_check: "No broken requirements found.\n"
