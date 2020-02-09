@@ -1,0 +1,7 @@
+pkg: approxposterior
+build: approxposterior-0.3-py_0
+install: approxposterior==0.3
+pip_check: "george 0.3.1 requires pybind11, which is not installed.\napproxposterior\
+  \ 0.3 requires pybind11, which is not installed.\napproxposterior 0.3 requires pytest,\
+  \ which is not installed.\napproxposterior 0.3 requires sklearn, which is not installed.\n\
+  approxposterior 0.3 has requirement emcee>=3.0, but you have emcee 0.0.0.\n"
