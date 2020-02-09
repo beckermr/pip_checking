@@ -1,0 +1,4 @@
+pkg: mtspec
+build: mtspec-0.3.2-py37h6091dcd_3
+install: mtspec==0.3.2
+pip_check: "No broken requirements found.\n"
