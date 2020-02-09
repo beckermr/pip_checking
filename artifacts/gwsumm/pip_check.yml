@@ -1,0 +1,5 @@
+pkg: gwsumm
+build: gwsumm-0.1.5-py37_0
+install: gwsumm==0.1.5
+pip_check: "gwsumm 0.1.5 has requirement gwdetchar>=0.5.1, but you have gwdetchar\
+  \ 0+unknown.\n"
