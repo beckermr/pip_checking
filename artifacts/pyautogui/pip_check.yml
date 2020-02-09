@@ -1,0 +1,6 @@
+pkg: pyautogui
+build: pyautogui-0.9.48-py37_0
+install: pyautogui==0.9.48
+pip_check: "pyautogui 0.9.48 requires mouseinfo, which is not installed.\npyautogui\
+  \ 0.9.48 requires pygetwindow, which is not installed.\npyautogui 0.9.48 requires\
+  \ python3-xlib, which is not installed.\n"
