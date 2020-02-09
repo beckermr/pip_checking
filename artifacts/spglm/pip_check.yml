@@ -1,0 +1,4 @@
+pkg: spglm
+build: spglm-1.0.5-py37_1000
+install: spglm==1.0.5
+pip_check: "libpysal 4.2.2 requires bs4, which is not installed.\n"
