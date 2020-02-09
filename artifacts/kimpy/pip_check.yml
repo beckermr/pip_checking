@@ -1,0 +1,5 @@
+pkg: kimpy
+build: kimpy-0.3.3-py37hc9558a2_2
+install: kimpy==0.3.3
+pip_check: "kimpy 0.3.3 requires pybind11, which is not installed.\nkimpy 0.3.3 requires\
+  \ pytest, which is not installed.\n"
