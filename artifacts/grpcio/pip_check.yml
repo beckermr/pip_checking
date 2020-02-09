@@ -1,0 +1,4 @@
+pkg: grpcio
+build: grpcio-1.16.0-py37h4f00d22_1000
+install: grpcio==1.16.0
+pip_check: "No broken requirements found.\n"
