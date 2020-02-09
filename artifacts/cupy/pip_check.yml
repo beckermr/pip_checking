@@ -1,0 +1,4 @@
+pkg: cupy
+build: cupy-6.6.0-py37h0c141eb_3
+install: cupy==6.6.0
+pip_check: "No broken requirements found.\n"
