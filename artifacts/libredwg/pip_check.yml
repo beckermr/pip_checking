@@ -1,0 +1,4 @@
+pkg: libredwg
+build: libredwg-0.9.3.2543-py37h7ec2d77_0
+install: libredwg==0.9.3.2543
+pip_check: "No broken requirements found.\n"
