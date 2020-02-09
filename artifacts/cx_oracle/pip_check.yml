@@ -1,0 +1,4 @@
+pkg: cx_oracle
+build: cx_oracle-7.0.0-py37h470a237_0
+install: cx_oracle==7.0.0
+pip_check: "No broken requirements found.\n"
