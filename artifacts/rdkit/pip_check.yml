@@ -1,0 +1,4 @@
+pkg: rdkit
+build: rdkit-2019.03.3-py37hb31dc5d_0
+install: rdkit==2019.03.3
+pip_check: "No broken requirements found.\n"
