@@ -1,0 +1,4 @@
+pkg: tsfresh
+build: tsfresh-0.10.1-py_0
+install: tsfresh==0.10.1
+pip_check: "No broken requirements found.\n"
