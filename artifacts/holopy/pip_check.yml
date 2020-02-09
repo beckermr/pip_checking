@@ -1,0 +1,4 @@
+pkg: holopy
+build: holopy-3.3.0-py37h6e990d7_1
+install: holopy==3.3.0
+pip_check: "holopy unknown requires nose, which is not installed.\n"
