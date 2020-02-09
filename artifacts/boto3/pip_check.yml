@@ -1,0 +1,4 @@
+pkg: boto3
+build: boto3-1.10.35-py_0
+install: boto3==1.10.35
+pip_check: "No broken requirements found.\n"
