@@ -1,0 +1,4 @@
+pkg: thriftpy2
+build: thriftpy2-0.4.10-py37h516909a_0
+install: thriftpy2==0.4.10
+pip_check: "No broken requirements found.\n"
