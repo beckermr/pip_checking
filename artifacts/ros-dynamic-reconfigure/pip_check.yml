@@ -1,0 +1,4 @@
+pkg: ros-dynamic-reconfigure
+build: ros-dynamic-reconfigure-1.6.0-py37h8b68381_0
+install: ros-dynamic-reconfigure==1.6.0
+pip_check: "No broken requirements found.\n"
