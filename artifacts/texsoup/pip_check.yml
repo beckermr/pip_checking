@@ -1,0 +1,6 @@
+pkg: texsoup
+build: texsoup-0.1.4-py_0
+install: texsoup==0.1.4
+pip_check: "texsoup 0.1.4 requires coverage, which is not installed.\ntexsoup 0.1.4\
+  \ requires coveralls, which is not installed.\ntexsoup 0.1.4 requires pytest, which\
+  \ is not installed.\ntexsoup 0.1.4 requires pytest-cov, which is not installed.\n"
