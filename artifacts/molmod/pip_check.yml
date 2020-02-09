@@ -1,0 +1,4 @@
+pkg: molmod
+build: molmod-1.4.5-py37h516909a_1
+install: molmod==1.4.5
+pip_check: "No broken requirements found.\n"
