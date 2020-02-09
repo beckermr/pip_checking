@@ -1,0 +1,4 @@
+pkg: orange3-bioinformatics
+build: orange3-bioinformatics-3.3.0-py_0
+install: orange3-bioinformatics==3.3.0
+pip_check: "No broken requirements found.\n"
