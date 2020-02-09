@@ -1,0 +1,4 @@
+pkg: datamodeldict
+build: datamodeldict-0.9.6-py_1
+install: datamodeldict==0.9.6
+pip_check: "No broken requirements found.\n"
