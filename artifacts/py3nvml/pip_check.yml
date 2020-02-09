@@ -1,0 +1,4 @@
+pkg: py3nvml
+build: py3nvml-0.2.5-py37_0
+install: py3nvml==0.2.5
+pip_check: "No broken requirements found.\n"
