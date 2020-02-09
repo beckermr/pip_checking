@@ -1,0 +1,6 @@
+pkg: djangorestframework_simplejwt
+build: djangorestframework_simplejwt-3.2-py_0
+install: djangorestframework_simplejwt==3.2
+pip_check: "djangorestframework-simplejwt 3.2 requires djangorestframework, which\
+  \ is not installed.\ndjangorestframework-simplejwt 3.2 requires pyjwt, which is\
+  \ not installed.\n"
