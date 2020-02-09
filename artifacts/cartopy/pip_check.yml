@@ -1,0 +1,4 @@
+pkg: cartopy
+build: cartopy-0.17.0-py37h423102d_1009
+install: cartopy==0.17.0
+pip_check: "No broken requirements found.\n"
