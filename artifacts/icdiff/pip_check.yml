@@ -1,0 +1,4 @@
+pkg: icdiff
+build: icdiff-1.9.1-py_0
+install: icdiff==1.9.1
+pip_check: "No broken requirements found.\n"
