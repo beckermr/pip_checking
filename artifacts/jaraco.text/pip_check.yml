@@ -1,0 +1,4 @@
+pkg: jaraco.text
+build: jaraco.text-3.1-py37_0
+install: jaraco.text==3.1
+pip_check: "No broken requirements found.\n"
