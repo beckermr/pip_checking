@@ -1,0 +1,4 @@
+pkg: pycompare
+build: pycompare-1.3.3-py_0
+install: pycompare==1.3.3
+pip_check: "No broken requirements found.\n"
