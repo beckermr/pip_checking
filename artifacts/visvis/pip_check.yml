@@ -1,0 +1,4 @@
+pkg: visvis
+build: visvis-1.11.1-py_0
+install: visvis==1.11.1
+pip_check: "No broken requirements found.\n"
