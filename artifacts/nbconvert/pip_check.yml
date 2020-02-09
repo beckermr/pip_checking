@@ -1,0 +1,4 @@
+pkg: nbconvert
+build: nbconvert-5.6.1-py37_0
+install: nbconvert==5.6.1
+pip_check: "No broken requirements found.\n"
