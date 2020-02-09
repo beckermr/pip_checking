@@ -1,0 +1,4 @@
+pkg: deicode
+build: deicode-0.1.6-py37_0
+install: deicode==0.1.6
+pip_check: "deicode 0.1.6 requires biom-format, which is not installed.\n"
