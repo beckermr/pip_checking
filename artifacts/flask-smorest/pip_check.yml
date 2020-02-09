@@ -1,0 +1,4 @@
+pkg: flask-smorest
+build: flask-smorest-0.18.5-py_0
+install: flask-smorest==0.18.5
+pip_check: "webargs 5.5.3 requires simplejson, which is not installed.\n"
