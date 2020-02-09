@@ -1,0 +1,4 @@
+pkg: meshio
+build: meshio-3.2.14-py_0
+install: meshio==3.2.14
+pip_check: "No broken requirements found.\n"
