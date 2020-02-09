@@ -1,0 +1,4 @@
+pkg: lfortran
+build: lfortran-0.1.15-py37h516909a_0
+install: lfortran==0.1.15
+pip_check: "lfortran 0.1.15 requires pytest, which is not installed.\n"
