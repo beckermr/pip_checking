@@ -1,0 +1,4 @@
+pkg: sqlalchemy-utc
+build: sqlalchemy-utc-0.10.0-py_0
+install: sqlalchemy-utc==0.10.0
+pip_check: "No broken requirements found.\n"
