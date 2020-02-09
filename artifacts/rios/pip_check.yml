@@ -1,0 +1,4 @@
+pkg: rios
+build: rios-1.4.6-py37_1000
+install: rios==1.4.6
+pip_check: "No broken requirements found.\n"
