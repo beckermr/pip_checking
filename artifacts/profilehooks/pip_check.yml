@@ -1,0 +1,4 @@
+pkg: profilehooks
+build: profilehooks-1.11.1-py37_0
+install: profilehooks==1.11.1
+pip_check: "No broken requirements found.\n"
