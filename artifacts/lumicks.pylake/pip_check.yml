@@ -1,0 +1,5 @@
+pkg: lumicks.pylake
+build: lumicks.pylake-0.3.1-py_1
+install: lumicks.pylake==0.3.1
+pip_check: "lumicks-pylake 0.3.1 has requirement tifffile>=2018.11.6, but you have\
+  \ tifffile 0.15.1.\n"
