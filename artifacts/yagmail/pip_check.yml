@@ -1,0 +1,4 @@
+pkg: yagmail
+build: yagmail-0.11.224-py_0
+install: yagmail==0.11.224
+pip_check: "No broken requirements found.\n"
