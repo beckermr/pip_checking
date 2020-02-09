@@ -1,0 +1,4 @@
+pkg: ukcensusapi
+build: ukcensusapi-1.1.4-py_0
+install: ukcensusapi==1.1.4
+pip_check: "No broken requirements found.\n"
