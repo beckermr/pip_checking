@@ -1,0 +1,4 @@
+pkg: py-xgboost-cpu
+build: py-xgboost-cpu-0.90-py37_3
+install: py-xgboost-cpu==0.90
+pip_check: "No broken requirements found.\n"
