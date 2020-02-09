@@ -1,0 +1,4 @@
+pkg: uhd
+build: uhd-3.15.0.0-py37hd9e0cfe_0
+install: uhd==3.15.0.0
+pip_check: "No broken requirements found.\n"
