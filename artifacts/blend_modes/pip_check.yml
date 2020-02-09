@@ -1,0 +1,4 @@
+pkg: blend_modes
+build: blend_modes-2.1.0-py_0
+install: blend_modes==2.1.0
+pip_check: "No broken requirements found.\n"
