@@ -1,0 +1,4 @@
+pkg: deepdiff
+build: deepdiff-4.0.5-py_0
+install: deepdiff==4.0.5
+pip_check: "No broken requirements found.\n"
