@@ -1,0 +1,4 @@
+pkg: openturns
+build: openturns-1.14-py37he669bd1_0
+install: openturns==1.14
+pip_check: "No broken requirements found.\n"
