@@ -1,0 +1,4 @@
+pkg: pycodestyle
+build: pycodestyle-2.5.0-py_0
+install: pycodestyle==2.5.0
+pip_check: "No broken requirements found.\n"
