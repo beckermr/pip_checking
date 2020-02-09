@@ -1,0 +1,4 @@
+pkg: rapidpy
+build: rapidpy-2.6.0-py_1
+install: rapidpy==2.6.0
+pip_check: "mapkit 1.2.6 requires epsg-ident, which is not installed.\n"
