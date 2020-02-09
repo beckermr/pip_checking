@@ -1,0 +1,4 @@
+pkg: overly
+build: overly-0.1.81-py_0
+install: overly==0.1.81
+pip_check: "No broken requirements found.\n"
