@@ -1,0 +1,4 @@
+pkg: megaradrp
+build: megaradrp-0.8-py37_1000
+install: megaradrp==0.8
+pip_check: "No broken requirements found.\n"
