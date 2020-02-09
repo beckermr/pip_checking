@@ -1,0 +1,4 @@
+pkg: py-cpuinfo
+build: py-cpuinfo-5.0.0-py_0
+install: py-cpuinfo==5.0.0
+pip_check: "No broken requirements found.\n"
