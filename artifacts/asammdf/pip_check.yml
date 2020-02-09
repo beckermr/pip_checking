@@ -1,0 +1,6 @@
+pkg: asammdf
+build: asammdf-5.9.2-py_0
+install: asammdf==5.9.2
+pip_check: "canmatrix 0+unknown requires bitstruct, which is not installed.\ncanmatrix\
+  \ 0+unknown requires pathlib2, which is not installed.\nasammdf 5.9.2 has requirement\
+  \ canmatrix~=0.8, but you have canmatrix 0+unknown.\n"
