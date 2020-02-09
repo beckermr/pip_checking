@@ -1,0 +1,4 @@
+pkg: mdanalysistests
+build: mdanalysistests-0.20.1-py37_0
+install: mdanalysistests==0.20.1
+pip_check: "gsd 2.0.0 requires cython, which is not installed.\n"
