@@ -1,0 +1,4 @@
+pkg: moviepy
+build: moviepy-0.2.3.4-py_0
+install: moviepy==0.2.3.4
+pip_check: "No broken requirements found.\n"
