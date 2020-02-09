@@ -1,0 +1,4 @@
+pkg: ansible-runner
+build: ansible-runner-1.4.0-py37_0
+install: ansible-runner==1.4.0
+pip_check: "python-daemon 2.2.4 requires docutils, which is not installed.\n"
