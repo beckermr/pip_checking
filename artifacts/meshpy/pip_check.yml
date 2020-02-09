@@ -1,0 +1,5 @@
+pkg: meshpy
+build: meshpy-2018.2.1-py37hf8a1672_0
+install: meshpy==2018.2.1
+pip_check: "meshpy 2018.2.1 requires gmsh-interop, which is not installed.\nmeshpy\
+  \ 2018.2.1 requires pytest, which is not installed.\n"
