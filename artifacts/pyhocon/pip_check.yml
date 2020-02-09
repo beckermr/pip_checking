@@ -1,0 +1,4 @@
+pkg: pyhocon
+build: pyhocon-0.3.49-py_0
+install: pyhocon==0.3.49
+pip_check: "No broken requirements found.\n"
