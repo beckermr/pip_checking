@@ -1,0 +1,4 @@
+pkg: pymeep
+build: pymeep-1.8.0-py37h61a843b_0
+install: pymeep==1.8.0
+pip_check: "No broken requirements found.\n"
