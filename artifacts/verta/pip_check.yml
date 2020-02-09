@@ -1,0 +1,4 @@
+pkg: verta
+build: verta-0.8.4-py_0
+install: verta==0.8.4
+pip_check: "No broken requirements found.\n"
