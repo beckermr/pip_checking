@@ -1,0 +1,4 @@
+pkg: flask-rest-api
+build: flask-rest-api-0.16.1-py_0
+install: flask-rest-api==0.16.1
+pip_check: "webargs 5.5.3 requires simplejson, which is not installed.\n"
