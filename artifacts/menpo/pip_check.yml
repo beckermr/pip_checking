@@ -1,0 +1,4 @@
+pkg: menpo
+build: menpo-0.9.2-py37h9de70de_0
+install: menpo==0.9.2
+pip_check: "No broken requirements found.\n"
