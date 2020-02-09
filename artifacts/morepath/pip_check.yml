@@ -1,0 +1,4 @@
+pkg: morepath
+build: morepath-0.19-py_0
+install: morepath==0.19
+pip_check: "No broken requirements found.\n"
