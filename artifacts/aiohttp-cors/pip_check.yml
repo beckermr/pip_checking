@@ -1,0 +1,4 @@
+pkg: aiohttp-cors
+build: aiohttp-cors-0.7.0-py_0
+install: aiohttp-cors==0.7.0
+pip_check: "No broken requirements found.\n"
