@@ -1,0 +1,4 @@
+pkg: ipywidgets
+build: ipywidgets-7.3.1-py_0
+install: ipywidgets==7.3.1
+pip_check: "No broken requirements found.\n"
