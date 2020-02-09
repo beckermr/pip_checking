@@ -1,0 +1,4 @@
+pkg: image-meta-tag
+build: image-meta-tag-0.7.8-py37_1000
+install: image-meta-tag==0.7.8
+pip_check: "No broken requirements found.\n"
