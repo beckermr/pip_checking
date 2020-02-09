@@ -1,0 +1,4 @@
+pkg: treecorr
+build: treecorr-4.0.6-py37he1b5a44_0
+install: treecorr==4.0.6
+pip_check: "No broken requirements found.\n"
