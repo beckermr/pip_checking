@@ -1,0 +1,4 @@
+pkg: newrelic
+build: newrelic-4.10.0.112-py37h470a237_0
+install: newrelic==4.10.0.112
+pip_check: "No broken requirements found.\n"
