@@ -1,0 +1,4 @@
+pkg: pep8
+build: pep8-1.7.1-py_0
+install: pep8==1.7.1
+pip_check: "No broken requirements found.\n"
