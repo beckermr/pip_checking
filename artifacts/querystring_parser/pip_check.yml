@@ -1,0 +1,4 @@
+pkg: querystring_parser
+build: querystring_parser-1.2.3-py_0
+install: querystring_parser==1.2.3
+pip_check: "No broken requirements found.\n"
