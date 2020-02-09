@@ -1,0 +1,4 @@
+pkg: randomcolor
+build: randomcolor-0.4.4.5-py37_1000
+install: randomcolor==0.4.4.5
+pip_check: "No broken requirements found.\n"
