@@ -1,0 +1,4 @@
+pkg: loguru
+build: loguru-0.3.2-py37_1
+install: loguru==0.3.2
+pip_check: "No broken requirements found.\n"
