@@ -1,0 +1,4 @@
+pkg: gitpython
+build: gitpython-2.1.13-py_0
+install: gitpython==2.1.13
+pip_check: "No broken requirements found.\n"
