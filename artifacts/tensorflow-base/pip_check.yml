@@ -1,0 +1,4 @@
+pkg: tensorflow-base
+build: tensorflow-base-1.13.1-py37h76b4ce7_8
+install: tensorflow-base==1.13.1
+pip_check: "No broken requirements found.\n"
