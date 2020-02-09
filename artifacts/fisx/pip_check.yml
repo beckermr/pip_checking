@@ -1,0 +1,4 @@
+pkg: fisx
+build: fisx-1.1.7-py37hb3f55d8_0
+install: fisx==1.1.7
+pip_check: "No broken requirements found.\n"
