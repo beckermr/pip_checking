@@ -1,0 +1,4 @@
+pkg: nlopt
+build: nlopt-2.5.0-py37h42fb14c_0
+install: nlopt==2.5.0
+pip_check: "No broken requirements found.\n"
