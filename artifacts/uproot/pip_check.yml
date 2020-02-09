@@ -1,0 +1,4 @@
+pkg: uproot
+build: uproot-3.8.0-py37_0
+install: uproot==3.8.0
+pip_check: "No broken requirements found.\n"
