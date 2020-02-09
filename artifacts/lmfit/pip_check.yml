@@ -1,0 +1,4 @@
+pkg: lmfit
+build: lmfit-0.9.14-py_1
+install: lmfit==0.9.14
+pip_check: "No broken requirements found.\n"
