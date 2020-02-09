@@ -1,0 +1,4 @@
+pkg: sharedarray
+build: sharedarray-3.1.0-py37hc1659b7_0
+install: sharedarray==3.1.0
+pip_check: "No broken requirements found.\n"
