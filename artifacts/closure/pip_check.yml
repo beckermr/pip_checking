@@ -1,0 +1,4 @@
+pkg: closure
+build: closure-20191111-py_0
+install: closure==20191111
+pip_check: "No broken requirements found.\n"
