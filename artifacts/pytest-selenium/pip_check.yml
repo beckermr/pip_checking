@@ -1,0 +1,4 @@
+pkg: pytest-selenium
+build: pytest-selenium-1.16.0-py_0
+install: pytest-selenium==1.16.0
+pip_check: "No broken requirements found.\n"
