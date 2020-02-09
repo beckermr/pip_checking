@@ -1,0 +1,4 @@
+pkg: recordtype
+build: recordtype-1.3-py_0
+install: recordtype==1.3
+pip_check: "No broken requirements found.\n"
