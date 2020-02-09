@@ -1,0 +1,6 @@
+pkg: catboost
+build: catboost-0.21-py37_0
+install: catboost==0.21
+pip_check: "catboost 0.21 requires graphviz, which is not installed.\ncatboost 0.21\
+  \ requires matplotlib, which is not installed.\ncatboost 0.21 requires plotly, which\
+  \ is not installed.\n"
