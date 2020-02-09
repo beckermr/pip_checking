@@ -1,0 +1,4 @@
+pkg: python-lal
+build: python-lal-6.19.2-py37h672fc27_2
+install: python-lal==6.19.2
+pip_check: "No broken requirements found.\n"
