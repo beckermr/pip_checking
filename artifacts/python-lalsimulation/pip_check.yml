@@ -1,0 +1,4 @@
+pkg: python-lalsimulation
+build: python-lalsimulation-1.9.1-py37h516909a_0
+install: python-lalsimulation==1.9.1
+pip_check: "No broken requirements found.\n"
