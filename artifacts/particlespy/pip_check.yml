@@ -1,0 +1,4 @@
+pkg: particlespy
+build: particlespy-0.2.0-py_0
+install: particlespy==0.2.0
+pip_check: "No broken requirements found.\n"
