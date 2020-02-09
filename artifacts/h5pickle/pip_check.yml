@@ -1,0 +1,4 @@
+pkg: h5pickle
+build: h5pickle-0.2-py_0
+install: h5pickle==0.2
+pip_check: "h5pickle 0.2 requires pytoolz, which is not installed.\n"
