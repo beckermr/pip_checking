@@ -1,0 +1,4 @@
+pkg: galpy
+build: galpy-1.4.0-py37h5127219_1001
+install: galpy==1.4.0
+pip_check: "galpy 1.4.0 requires pytest, which is not installed.\n"
