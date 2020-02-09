@@ -1,0 +1,4 @@
+pkg: tableschema
+build: tableschema-1.5.3-py_0
+install: tableschema==1.5.3
+pip_check: "No broken requirements found.\n"
