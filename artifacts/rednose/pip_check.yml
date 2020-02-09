@@ -1,0 +1,4 @@
+pkg: rednose
+build: rednose-1.2.3-py_0
+install: rednose==1.2.3
+pip_check: "No broken requirements found.\n"
