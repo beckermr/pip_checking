@@ -1,0 +1,12 @@
+pkg: oliver
+build: oliver-1.0.5-py_0
+install: oliver==1.0.5
+pip_check: "stjudecloud-oliver 1.0.5 requires aiohttp, which is not installed.\nstjudecloud-oliver\
+  \ 1.0.5 requires azure-cosmos, which is not installed.\nstjudecloud-oliver 1.0.5\
+  \ requires boto3, which is not installed.\nstjudecloud-oliver 1.0.5 requires logzero,\
+  \ which is not installed.\nstjudecloud-oliver 1.0.5 requires pendulum, which is\
+  \ not installed.\nstjudecloud-oliver 1.0.5 requires pytest, which is not installed.\n\
+  stjudecloud-oliver 1.0.5 requires pytest-asyncio, which is not installed.\nstjudecloud-oliver\
+  \ 1.0.5 requires requests, which is not installed.\nstjudecloud-oliver 1.0.5 requires\
+  \ tabulate, which is not installed.\nstjudecloud-oliver 1.0.5 requires tzlocal,\
+  \ which is not installed.\n"
