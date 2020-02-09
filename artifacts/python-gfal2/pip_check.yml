@@ -1,0 +1,4 @@
+pkg: python-gfal2
+build: python-gfal2-1.9.5-py37h27772e5_1
+install: python-gfal2==1.9.5
+pip_check: "No broken requirements found.\n"
