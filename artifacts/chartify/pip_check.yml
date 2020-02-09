@@ -1,0 +1,5 @@
+pkg: chartify
+build: chartify-2.6.0-py_0
+install: chartify==2.6.0
+pip_check: "chartify 2.6.0 requires jupyter, which is not installed.\nchartify 2.6.0\
+  \ has requirement pandas<1.0.0,>=0.21.0, but you have pandas 1.0.1.\n"
