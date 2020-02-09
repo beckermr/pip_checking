@@ -1,0 +1,4 @@
+pkg: jupyter-rsession-proxy
+build: jupyter-rsession-proxy-1.0b6-py_0
+install: jupyter-rsession-proxy==1.0b6
+pip_check: "No broken requirements found.\n"
