@@ -1,0 +1,6 @@
+pkg: proliantutils
+build: proliantutils-2.9.2-py37_0
+install: proliantutils==2.9.2
+pip_check: "testtools 2.3.0 requires python-mimeparse, which is not installed.\ntesttools\
+  \ 2.3.0 requires traceback2, which is not installed.\ntesttools 2.3.0 requires unittest2,\
+  \ which is not installed.\n"
