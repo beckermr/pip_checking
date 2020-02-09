@@ -1,0 +1,4 @@
+pkg: pymumps
+build: pymumps-0.3.2-py37h27d677c_1003
+install: pymumps==0.3.2
+pip_check: "No broken requirements found.\n"
