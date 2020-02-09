@@ -1,0 +1,4 @@
+pkg: py-mathjax
+build: py-mathjax-2.7.5.3-py_0
+install: py-mathjax==2.7.5.3
+pip_check: "No broken requirements found.\n"
