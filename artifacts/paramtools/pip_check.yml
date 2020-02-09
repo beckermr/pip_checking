@@ -1,0 +1,4 @@
+pkg: paramtools
+build: paramtools-0.5.1-py_0
+install: paramtools==0.5.1
+pip_check: "No broken requirements found.\n"
