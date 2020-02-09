@@ -1,0 +1,4 @@
+pkg: astropy-sphinx-theme
+build: astropy-sphinx-theme-1.0-py_0
+install: astropy-sphinx-theme==1.0
+pip_check: "No broken requirements found.\n"
