@@ -1,0 +1,4 @@
+pkg: scikit-multiflow
+build: scikit-multiflow-0.2.0-py37hc8e3772_0
+install: scikit-multiflow==0.2.0
+pip_check: "No broken requirements found.\n"
