@@ -1,0 +1,4 @@
+pkg: pyepics
+build: pyepics-3.4.0-py37_2
+install: pyepics==3.4.0
+pip_check: "No broken requirements found.\n"
