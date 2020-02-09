@@ -1,0 +1,4 @@
+pkg: chi2comb-py
+build: chi2comb-py-0.0.3-py37h516909a_0
+install: chi2comb-py==0.0.3
+pip_check: "No broken requirements found.\n"
