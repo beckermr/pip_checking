@@ -1,0 +1,4 @@
+pkg: yamlloader
+build: yamlloader-0.5.2-py_0
+install: yamlloader==0.5.2
+pip_check: "No broken requirements found.\n"
