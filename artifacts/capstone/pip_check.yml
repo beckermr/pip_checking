@@ -1,0 +1,4 @@
+pkg: capstone
+build: capstone-4.0.1-py37h516909a_0
+install: capstone==4.0.1
+pip_check: "No broken requirements found.\n"
