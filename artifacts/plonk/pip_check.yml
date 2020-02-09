@@ -1,0 +1,4 @@
+pkg: plonk
+build: plonk-0.3.0-py_0
+install: plonk==0.3.0
+pip_check: "No broken requirements found.\n"
