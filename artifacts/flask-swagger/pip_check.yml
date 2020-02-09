@@ -1,0 +1,4 @@
+pkg: flask-swagger
+build: flask-swagger-0.2.14-py_0
+install: flask-swagger==0.2.14
+pip_check: "No broken requirements found.\n"
