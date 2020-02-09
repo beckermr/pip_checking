@@ -1,0 +1,4 @@
+pkg: ipython-autotime
+build: ipython-autotime-0.1-py_1
+install: ipython-autotime==0.1
+pip_check: "No broken requirements found.\n"
