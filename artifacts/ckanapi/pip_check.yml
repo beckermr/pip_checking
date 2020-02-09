@@ -1,0 +1,4 @@
+pkg: ckanapi
+build: ckanapi-4.2-py37_0
+install: ckanapi==4.2
+pip_check: "No broken requirements found.\n"
