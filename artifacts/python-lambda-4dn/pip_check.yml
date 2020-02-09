@@ -1,0 +1,4 @@
+pkg: python-lambda-4dn
+build: python-lambda-4dn-0.12.3-py_0
+install: python-lambda-4dn==0.12.3
+pip_check: "No broken requirements found.\n"
