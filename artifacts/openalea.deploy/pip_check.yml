@@ -1,0 +1,4 @@
+pkg: openalea.deploy
+build: openalea.deploy-2.1.7-py37_0
+install: openalea.deploy==2.1.7
+pip_check: "No broken requirements found.\n"
