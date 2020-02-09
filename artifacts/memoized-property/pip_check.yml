@@ -1,0 +1,4 @@
+pkg: memoized-property
+build: memoized-property-1.0.3-py_0
+install: memoized-property==1.0.3
+pip_check: "No broken requirements found.\n"
