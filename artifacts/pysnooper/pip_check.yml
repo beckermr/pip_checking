@@ -1,0 +1,4 @@
+pkg: pysnooper
+build: pysnooper-0.2.8-py_0
+install: pysnooper==0.2.8
+pip_check: "No broken requirements found.\n"
