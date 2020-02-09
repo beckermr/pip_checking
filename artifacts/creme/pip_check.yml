@@ -1,0 +1,4 @@
+pkg: creme
+build: creme-0.4.4-py37h516909a_0
+install: creme==0.4.4
+pip_check: "No broken requirements found.\n"
