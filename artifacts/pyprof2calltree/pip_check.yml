@@ -1,0 +1,4 @@
+pkg: pyprof2calltree
+build: pyprof2calltree-1.4.4-py_0
+install: pyprof2calltree==1.4.4
+pip_check: "No broken requirements found.\n"
