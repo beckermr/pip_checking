@@ -1,0 +1,4 @@
+pkg: empymod
+build: empymod-1.10.3-py_0
+install: empymod==1.10.3
+pip_check: "No broken requirements found.\n"
