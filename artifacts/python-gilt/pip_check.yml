@@ -1,0 +1,8 @@
+pkg: python-gilt
+build: python-gilt-1.2.1-py_0
+install: python-gilt==1.2.1
+pip_check: "python-gilt 1.2.1 requires click, which is not installed.\npython-gilt\
+  \ 1.2.1 requires colorama, which is not installed.\npython-gilt 1.2.1 requires fasteners,\
+  \ which is not installed.\npython-gilt 1.2.1 requires git-url-parse, which is not\
+  \ installed.\npython-gilt 1.2.1 requires pyyaml, which is not installed.\npython-gilt\
+  \ 1.2.1 requires sh, which is not installed.\n"
