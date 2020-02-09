@@ -1,0 +1,4 @@
+pkg: owlready2
+build: owlready2-0.21-py37h516909a_0
+install: owlready2==0.21
+pip_check: "No broken requirements found.\n"
