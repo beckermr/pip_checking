@@ -1,0 +1,4 @@
+pkg: cothread
+build: cothread-2.16-py37hc1659b7_0
+install: cothread==2.16
+pip_check: "No broken requirements found.\n"
