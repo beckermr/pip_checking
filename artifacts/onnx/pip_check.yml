@@ -1,0 +1,5 @@
+pkg: onnx
+build: onnx-1.5.0-py37h5d53154_0
+install: onnx==1.5.0
+pip_check: "onnx 1.5.0 requires typing, which is not installed.\nonnx 1.5.0 requires\
+  \ typing-extensions, which is not installed.\n"
