@@ -1,0 +1,4 @@
+pkg: scons
+build: scons-3.0.4-py37_0
+install: scons==3.0.4
+pip_check: "No broken requirements found.\n"
