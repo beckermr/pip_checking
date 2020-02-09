@@ -1,0 +1,4 @@
+pkg: python-vagrant
+build: python-vagrant-0.5.15-py_0
+install: python-vagrant==0.5.15
+pip_check: "No broken requirements found.\n"
