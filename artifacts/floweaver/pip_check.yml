@@ -1,0 +1,5 @@
+pkg: floweaver
+build: floweaver-2.0.0a4-py_0
+install: floweaver==2.0.0a4
+pip_check: "floweaver 2.0.0a4 has requirement networkx<2,>=1, but you have networkx\
+  \ 2.4.\n"
