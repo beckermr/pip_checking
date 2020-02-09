@@ -1,0 +1,4 @@
+pkg: google-cloud-vision
+build: google-cloud-vision-0.36.0-py37_0
+install: google-cloud-vision==0.36.0
+pip_check: "No broken requirements found.\n"
