@@ -1,0 +1,4 @@
+pkg: pscript
+build: pscript-0.7.1-py_0
+install: pscript==0.7.1
+pip_check: "No broken requirements found.\n"
