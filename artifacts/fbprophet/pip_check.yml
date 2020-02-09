@@ -1,0 +1,4 @@
+pkg: fbprophet
+build: fbprophet-0.5-py37he1b5a44_1
+install: fbprophet==0.5
+pip_check: "fbprophet 0.5 requires setuptools-git, which is not installed.\n"
