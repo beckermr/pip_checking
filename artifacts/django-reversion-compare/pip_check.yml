@@ -1,0 +1,5 @@
+pkg: django-reversion-compare
+build: django-reversion-compare-0.8.4-py_0
+install: django-reversion-compare==0.8.4
+pip_check: "django-reversion-compare 0.8.4 requires django-reversion, which is not\
+  \ installed.\n"
