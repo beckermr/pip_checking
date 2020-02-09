@@ -1,0 +1,4 @@
+pkg: sqlalchemy-jsonfield
+build: sqlalchemy-jsonfield-0.9.0-py37_1
+install: sqlalchemy-jsonfield==0.9.0
+pip_check: "No broken requirements found.\n"
