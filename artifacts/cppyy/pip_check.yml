@@ -1,0 +1,4 @@
+pkg: cppyy
+build: cppyy-1.5.4-py37hc9558a2_0
+install: cppyy==1.5.4
+pip_check: "No broken requirements found.\n"
