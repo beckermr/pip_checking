@@ -1,0 +1,4 @@
+pkg: ephem
+build: ephem-3.7.7.0-py37h516909a_0
+install: ephem==3.7.7.0
+pip_check: "No broken requirements found.\n"
