@@ -1,0 +1,4 @@
+pkg: libmed
+build: libmed-3.3.1-py37hfae99df_1
+install: libmed==3.3.1
+pip_check: "No broken requirements found.\n"
