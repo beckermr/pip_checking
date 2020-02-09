@@ -1,0 +1,4 @@
+pkg: shove
+build: shove-0.6.6-py_0
+install: shove==0.6.6
+pip_check: "shove 0.6.6 requires futures, which is not installed.\n"
