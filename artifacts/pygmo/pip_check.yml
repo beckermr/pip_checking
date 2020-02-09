@@ -1,0 +1,4 @@
+pkg: pygmo
+build: pygmo-2.12.0-py37h7aeab5a_0
+install: pygmo==2.12.0
+pip_check: "No broken requirements found.\n"
