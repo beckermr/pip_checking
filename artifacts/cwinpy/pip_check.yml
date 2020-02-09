@@ -1,0 +1,6 @@
+pkg: cwinpy
+build: cwinpy-0.2.1-py_0
+install: cwinpy==0.2.1
+pip_check: "pesummary 0.3.0 requires configparser, which is not installed.\npesummary\
+  \ 0.3.0 requires lalsuite, which is not installed.\npesummary 0.3.0 requires pluggy,\
+  \ which is not installed.\ncwinpy 0+unknown requires lalsuite, which is not installed.\n"
