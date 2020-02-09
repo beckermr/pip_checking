@@ -1,0 +1,4 @@
+pkg: twofish
+build: twofish-0.3.0-py37h470a237_0
+install: twofish==0.3.0
+pip_check: "No broken requirements found.\n"
