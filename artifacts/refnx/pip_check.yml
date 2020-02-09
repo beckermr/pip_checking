@@ -1,0 +1,4 @@
+pkg: refnx
+build: refnx-0.1.11-py37hb3f55d8_0
+install: refnx==0.1.11
+pip_check: "No broken requirements found.\n"
