@@ -1,0 +1,4 @@
+pkg: google-cloud-language
+build: google-cloud-language-1.3.0-py37_0
+install: google-cloud-language==1.3.0
+pip_check: "No broken requirements found.\n"
