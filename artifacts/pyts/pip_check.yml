@@ -1,0 +1,4 @@
+pkg: pyts
+build: pyts-0.9.0-py_0
+install: pyts==0.9.0
+pip_check: "pyts 0.9.0 requires numpy, which is not installed.\n"
