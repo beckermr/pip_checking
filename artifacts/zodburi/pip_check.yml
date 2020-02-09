@@ -1,0 +1,4 @@
+pkg: zodburi
+build: zodburi-2.3.0-py_0
+install: zodburi==2.3.0
+pip_check: "No broken requirements found.\n"
