@@ -1,0 +1,4 @@
+pkg: gracedb-sdk
+build: gracedb-sdk-0.0.2-py_0
+install: gracedb-sdk==0.0.2
+pip_check: "No broken requirements found.\n"
