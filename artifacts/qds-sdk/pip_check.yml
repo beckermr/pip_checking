@@ -1,0 +1,4 @@
+pkg: qds-sdk
+build: qds-sdk-1.10.2-py_0
+install: qds-sdk==1.10.2
+pip_check: "No broken requirements found.\n"
