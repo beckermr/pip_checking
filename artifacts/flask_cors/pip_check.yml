@@ -1,0 +1,4 @@
+pkg: flask_cors
+build: flask_cors-3.0.8-py_0
+install: flask_cors==3.0.8
+pip_check: "No broken requirements found.\n"
