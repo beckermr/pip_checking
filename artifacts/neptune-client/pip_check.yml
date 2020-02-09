@@ -1,0 +1,6 @@
+pkg: neptune-client
+build: neptune-client-0.4.102-py_0
+install: neptune-client==0.4.102
+pip_check: "bravado 10.4.3 requires msgpack-python, which is not installed.\nbravado\
+  \ 10.4.3 requires typing-extensions, which is not installed.\nbravado-core 5.16.0\
+  \ requires msgpack-python, which is not installed.\n"
