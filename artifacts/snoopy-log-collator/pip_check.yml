@@ -1,0 +1,4 @@
+pkg: snoopy-log-collator
+build: snoopy-log-collator-0.6.1-py37_1000
+install: snoopy-log-collator==0.6.1
+pip_check: "No broken requirements found.\n"
