@@ -136,7 +136,7 @@ if __name__ == '__main__':
 
         if "nothing to commit" not in status:
             subprocess.run(
-                ["git commit -m '[ci skip] pip check data for %s'" % pkg],
+                ["git commit -m '[ci skip] pip check data for %s: %s'" % (pkg, os.environ['CIRCLE_BUILD_URL'])],
                 shell=True,
                 check=True,
             )
