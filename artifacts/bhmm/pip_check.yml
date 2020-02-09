@@ -1,0 +1,4 @@
+pkg: bhmm
+build: bhmm-0.6.3-py37h7eb728f_2
+install: bhmm==0.6.3
+pip_check: "No broken requirements found.\n"
