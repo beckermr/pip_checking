@@ -1,0 +1,4 @@
+pkg: pysendfile
+build: pysendfile-2.0.1-py37h516909a_1001
+install: pysendfile==2.0.1
+pip_check: "No broken requirements found.\n"
