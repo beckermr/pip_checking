@@ -1,0 +1,4 @@
+pkg: halotools
+build: halotools-0.6-py37hb3f55d8_1000
+install: halotools==0.6
+pip_check: "No broken requirements found.\n"
