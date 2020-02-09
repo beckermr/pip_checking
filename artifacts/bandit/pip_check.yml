@@ -1,0 +1,4 @@
+pkg: bandit
+build: bandit-1.6.2-py37_0
+install: bandit==1.6.2
+pip_check: "No broken requirements found.\n"
