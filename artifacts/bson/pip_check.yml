@@ -1,0 +1,4 @@
+pkg: bson
+build: bson-0.5.8-py_0
+install: bson==0.5.8
+pip_check: "No broken requirements found.\n"
