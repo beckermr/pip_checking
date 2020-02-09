@@ -1,0 +1,4 @@
+pkg: flake8-isort
+build: flake8-isort-2.7.0-py_0
+install: flake8-isort==2.7.0
+pip_check: "No broken requirements found.\n"
