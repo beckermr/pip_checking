@@ -1,0 +1,4 @@
+pkg: patool
+build: patool-1.12-py37_1000
+install: patool==1.12
+pip_check: "No broken requirements found.\n"
