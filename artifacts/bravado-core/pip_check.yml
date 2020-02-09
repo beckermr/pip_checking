@@ -1,0 +1,4 @@
+pkg: bravado-core
+build: bravado-core-5.10.2-py_0
+install: bravado-core==5.10.2
+pip_check: "bravado-core 5.10.2 requires msgpack-python, which is not installed.\n"
