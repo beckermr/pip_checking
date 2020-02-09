@@ -1,0 +1,4 @@
+pkg: pysimplegui
+build: pysimplegui-4.5.0-py_0
+install: pysimplegui==4.5.0
+pip_check: "No broken requirements found.\n"
