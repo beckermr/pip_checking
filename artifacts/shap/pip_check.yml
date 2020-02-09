@@ -1,0 +1,4 @@
+pkg: shap
+build: shap-0.28.5-py37hb3f55d8_1
+install: shap==0.28.5
+pip_check: "No broken requirements found.\n"
