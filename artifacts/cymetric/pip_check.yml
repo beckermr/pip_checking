@@ -1,0 +1,4 @@
+pkg: cymetric
+build: cymetric-1.5.5-py37_0
+install: cymetric==1.5.5
+pip_check: "No broken requirements found.\n"
