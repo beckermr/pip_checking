@@ -1,0 +1,4 @@
+pkg: cyavro
+build: cyavro-0.7.1-py37hc5a00c0_1000
+install: cyavro==0.7.1
+pip_check: "No broken requirements found.\n"
