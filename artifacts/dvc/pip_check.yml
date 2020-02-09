@@ -1,0 +1,5 @@
+pkg: dvc
+build: dvc-0.61.1-py37_0
+install: dvc==0.61.1
+pip_check: "dvc 0.61.1 has requirement ruamel.yaml>=0.16.1, but you have ruamel-yaml\
+  \ 0.15.100.\n"
