@@ -1,0 +1,6 @@
+pkg: hyperas
+build: hyperas-0.4.1-py_0
+install: hyperas==0.4.1
+pip_check: "hyperas 0.4.1 requires jupyter, which is not installed.\ntensorflow 2.0.0\
+  \ has requirement opt-einsum>=2.3.2, but you have opt-einsum 0+untagged.49.gdbede45.dirty.\n\
+  hyperopt 0.2.2 has requirement networkx==2.2, but you have networkx 2.4.\n"
