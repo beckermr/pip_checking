@@ -1,0 +1,4 @@
+pkg: olefile
+build: olefile-0.46-py_0
+install: olefile==0.46
+pip_check: "No broken requirements found.\n"
