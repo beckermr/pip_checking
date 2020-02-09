@@ -1,0 +1,5 @@
+pkg: biom-format
+build: biom-format-2.1.8-py37hc1659b7_0
+install: biom-format==2.1.8
+pip_check: "biom-format 2.1.8 requires cython, which is not installed.\nbiom-format\
+  \ 2.1.8 requires cython, which is not installed.\n"
