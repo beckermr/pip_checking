@@ -1,0 +1,4 @@
+pkg: chemex
+build: chemex-2018.10.2-py_0
+install: chemex==2018.10.2
+pip_check: "No broken requirements found.\n"
