@@ -1,0 +1,4 @@
+pkg: future
+build: future-0.17.0-py37_1000
+install: future==0.17.0
+pip_check: "No broken requirements found.\n"
