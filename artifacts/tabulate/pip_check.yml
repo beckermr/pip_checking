@@ -1,0 +1,4 @@
+pkg: tabulate
+build: tabulate-0.8.5-py_0
+install: tabulate==0.8.5
+pip_check: "No broken requirements found.\n"
