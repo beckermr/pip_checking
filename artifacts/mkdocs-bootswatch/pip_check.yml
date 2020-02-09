@@ -1,0 +1,4 @@
+pkg: mkdocs-bootswatch
+build: mkdocs-bootswatch-0.5.0-py_0
+install: mkdocs-bootswatch==0.5.0
+pip_check: "No broken requirements found.\n"
