@@ -1,0 +1,4 @@
+pkg: thunder-python
+build: thunder-python-1.4.2-py_0
+install: thunder-python==1.4.2
+pip_check: "No broken requirements found.\n"
