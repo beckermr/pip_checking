@@ -1,0 +1,4 @@
+pkg: py-lz4framed
+build: py-lz4framed-0.14.0-py37h516909a_0
+install: py-lz4framed==0.14.0
+pip_check: "No broken requirements found.\n"
