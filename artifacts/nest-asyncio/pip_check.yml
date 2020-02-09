@@ -1,0 +1,4 @@
+pkg: nest-asyncio
+build: nest-asyncio-1.2.0-py_0
+install: nest-asyncio==1.2.0
+pip_check: "No broken requirements found.\n"
