@@ -1,0 +1,4 @@
+pkg: wisdem
+build: wisdem-2.1.0-py37h0b67df0_0
+install: wisdem==2.1.0
+pip_check: "wisdem 2.0.1 requires simpy, which is not installed.\n"
