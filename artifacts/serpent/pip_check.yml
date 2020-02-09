@@ -1,0 +1,4 @@
+pkg: serpent
+build: serpent-1.30-py_0
+install: serpent==1.30
+pip_check: "No broken requirements found.\n"
