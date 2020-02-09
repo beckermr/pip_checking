@@ -1,0 +1,4 @@
+pkg: vega_datasets
+build: vega_datasets-0.8.0-py_0
+install: vega_datasets==0.8.0
+pip_check: "No broken requirements found.\n"
