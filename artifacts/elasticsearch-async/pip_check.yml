@@ -1,0 +1,4 @@
+pkg: elasticsearch-async
+build: elasticsearch-async-6.2.0-py37_1000
+install: elasticsearch-async==6.2.0
+pip_check: "No broken requirements found.\n"
