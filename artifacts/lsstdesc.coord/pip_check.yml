@@ -1,0 +1,4 @@
+pkg: lsstdesc.coord
+build: lsstdesc.coord-1.0.5-py37h2d50403_0
+install: lsstdesc.coord==1.0.5
+pip_check: "No broken requirements found.\n"
