@@ -1,0 +1,5 @@
+pkg: eliot-tree
+build: eliot-tree-19.0.1-py37_0
+install: eliot-tree==19.0.1
+pip_check: "eliot-tree 19.0.1 has requirement colored>=1.4.2, but you have colored\
+  \ 1.3.93.\n"
