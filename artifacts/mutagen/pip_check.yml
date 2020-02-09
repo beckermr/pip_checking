@@ -1,0 +1,4 @@
+pkg: mutagen
+build: mutagen-1.40.0-py_1
+install: mutagen==1.40.0
+pip_check: "No broken requirements found.\n"
