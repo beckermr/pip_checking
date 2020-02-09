@@ -1,0 +1,4 @@
+pkg: esmpy
+build: esmpy-8.0.0-py37h5ca1d4c_0
+install: esmpy==8.0.0
+pip_check: "No broken requirements found.\n"
