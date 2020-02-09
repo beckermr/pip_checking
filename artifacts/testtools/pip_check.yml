@@ -1,0 +1,8 @@
+pkg: testtools
+build: testtools-2.3.0-py_1
+install: testtools==2.3.0
+pip_check: "testtools 2.3.0 requires extras, which is not installed.\ntesttools 2.3.0\
+  \ requires fixtures, which is not installed.\ntesttools 2.3.0 requires python-mimeparse,\
+  \ which is not installed.\ntesttools 2.3.0 requires six, which is not installed.\n\
+  testtools 2.3.0 requires traceback2, which is not installed.\ntesttools 2.3.0 requires\
+  \ unittest2, which is not installed.\n"
