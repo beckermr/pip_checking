@@ -1,0 +1,4 @@
+pkg: cymysql
+build: cymysql-0.9.14-py37he1b5a44_0
+install: cymysql==0.9.14
+pip_check: "No broken requirements found.\n"
