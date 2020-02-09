@@ -1,0 +1,4 @@
+pkg: quilt
+build: quilt-3.0.6-py37_0
+install: quilt==3.0.6
+pip_check: "No broken requirements found.\n"
