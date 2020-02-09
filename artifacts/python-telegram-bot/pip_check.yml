@@ -1,0 +1,4 @@
+pkg: python-telegram-bot
+build: python-telegram-bot-12.2.0-py_0
+install: python-telegram-bot==12.2.0
+pip_check: "No broken requirements found.\n"
