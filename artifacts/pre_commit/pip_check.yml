@@ -1,0 +1,4 @@
+pkg: pre_commit
+build: pre_commit-1.14.4-py37_0
+install: pre_commit==1.14.4
+pip_check: "No broken requirements found.\n"
