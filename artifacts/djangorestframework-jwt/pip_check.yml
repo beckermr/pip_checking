@@ -1,0 +1,4 @@
+pkg: djangorestframework-jwt
+build: djangorestframework-jwt-1.11.0-py_0
+install: djangorestframework-jwt==1.11.0
+pip_check: "No broken requirements found.\n"
