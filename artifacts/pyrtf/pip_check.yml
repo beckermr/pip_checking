@@ -1,0 +1,4 @@
+pkg: pyrtf
+build: pyrtf-0.45-py37_0
+install: pyrtf==0.45
+pip_check: "No broken requirements found.\n"
