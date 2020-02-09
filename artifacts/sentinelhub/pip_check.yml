@@ -1,0 +1,4 @@
+pkg: sentinelhub
+build: sentinelhub-3.0.0b1-py_0
+install: sentinelhub==3.0.0b1
+pip_check: "No broken requirements found.\n"
