@@ -1,0 +1,5 @@
+pkg: py3dmol
+build: py3dmol-0.8.0-py_0
+install: py3dmol==0.8.0
+pip_check: "py3dmol 0.8.0 requires idisplay, which is not installed.\npy3dmol 0.8.0\
+  \ requires jupyter, which is not installed.\n"
