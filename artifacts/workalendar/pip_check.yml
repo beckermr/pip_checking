@@ -1,0 +1,4 @@
+pkg: workalendar
+build: workalendar-8.1.0-py_0
+install: workalendar==8.1.0
+pip_check: "No broken requirements found.\n"
