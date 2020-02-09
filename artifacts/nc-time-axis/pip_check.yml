@@ -1,0 +1,4 @@
+pkg: nc-time-axis
+build: nc-time-axis-1.1.0-py_0
+install: nc-time-axis==1.1.0
+pip_check: "No broken requirements found.\n"
