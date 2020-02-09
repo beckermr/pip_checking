@@ -1,0 +1,4 @@
+pkg: turbodbc
+build: turbodbc-3.0.0-py37h886bf27_1000
+install: turbodbc==3.0.0
+pip_check: "turbodbc 3.0.0 requires pybind11, which is not installed.\n"
