@@ -1,0 +1,4 @@
+pkg: spake2
+build: spake2-0.8-py_3
+install: spake2==0.8
+pip_check: "No broken requirements found.\n"
