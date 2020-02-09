@@ -1,0 +1,5 @@
+pkg: sagemaker-mxnet-serving-container
+build: sagemaker-mxnet-serving-container-1.1.5-py_0
+install: sagemaker-mxnet-serving-container==1.1.5
+pip_check: "sagemaker-mxnet-serving-container 1.1.5 requires sagemaker-inference,\
+  \ which is not installed.\n"
