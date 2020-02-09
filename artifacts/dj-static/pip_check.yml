@@ -1,0 +1,4 @@
+pkg: dj-static
+build: dj-static-0.0.6-py_2
+install: dj-static==0.0.6
+pip_check: "dj-static 0.0.6 requires static3, which is not installed.\n"
