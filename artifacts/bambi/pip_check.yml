@@ -1,0 +1,4 @@
+pkg: bambi
+build: bambi-0.1.5-py_0
+install: bambi==0.1.5
+pip_check: "No broken requirements found.\n"
