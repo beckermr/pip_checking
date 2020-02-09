@@ -1,0 +1,4 @@
+pkg: fsleyes-props
+build: fsleyes-props-1.6.5-py_0
+install: fsleyes-props==1.6.5
+pip_check: "wxpython 4.0.7.post2 requires pillow, which is not installed.\n"
