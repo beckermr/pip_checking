@@ -1,0 +1,4 @@
+pkg: jupyter-repo2docker
+build: jupyter-repo2docker-0.9.0-py_0
+install: jupyter-repo2docker==0.9.0
+pip_check: "No broken requirements found.\n"
