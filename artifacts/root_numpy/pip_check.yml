@@ -1,0 +1,4 @@
+pkg: root_numpy
+build: root_numpy-4.8.0-py37h9de70de_3
+install: root_numpy==4.8.0
+pip_check: "No broken requirements found.\n"
