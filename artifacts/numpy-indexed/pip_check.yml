@@ -1,0 +1,4 @@
+pkg: numpy-indexed
+build: numpy-indexed-0.3.5-py_1
+install: numpy-indexed==0.3.5
+pip_check: "No broken requirements found.\n"
