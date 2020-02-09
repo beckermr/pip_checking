@@ -1,0 +1,4 @@
+pkg: rsgislib
+build: rsgislib-3.6.14-py37h3506293_3
+install: rsgislib==3.6.14
+pip_check: "No broken requirements found.\n"
