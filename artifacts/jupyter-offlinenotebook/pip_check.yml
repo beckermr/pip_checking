@@ -1,0 +1,4 @@
+pkg: jupyter-offlinenotebook
+build: jupyter-offlinenotebook-0.0.11-py_0
+install: jupyter-offlinenotebook==0.0.11
+pip_check: "No broken requirements found.\n"
