@@ -1,0 +1,4 @@
+pkg: magpylib
+build: magpylib-2.0.0b0-py_0
+install: magpylib==2.0.0b0
+pip_check: "No broken requirements found.\n"
