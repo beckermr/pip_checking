@@ -1,0 +1,4 @@
+pkg: retry
+build: retry-0.9.2-py_0
+install: retry==0.9.2
+pip_check: "No broken requirements found.\n"
