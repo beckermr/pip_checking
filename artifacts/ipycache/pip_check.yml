@@ -1,0 +1,4 @@
+pkg: ipycache
+build: ipycache-0.1.4-py37h5ca1d4c_1002
+install: ipycache==0.1.4
+pip_check: "No broken requirements found.\n"
