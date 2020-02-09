@@ -1,0 +1,4 @@
+pkg: pyexcel-ods3
+build: pyexcel-ods3-0.5.3-py_0
+install: pyexcel-ods3==0.5.3
+pip_check: "No broken requirements found.\n"
