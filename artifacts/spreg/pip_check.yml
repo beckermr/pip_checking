@@ -1,0 +1,4 @@
+pkg: spreg
+build: spreg-1.0.4-py_0
+install: spreg==1.0.4
+pip_check: "libpysal 4.2.2 requires bs4, which is not installed.\n"
