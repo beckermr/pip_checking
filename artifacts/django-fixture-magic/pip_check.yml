@@ -1,0 +1,4 @@
+pkg: django-fixture-magic
+build: django-fixture-magic-0.1.3-py_0
+install: django-fixture-magic==0.1.3
+pip_check: "No broken requirements found.\n"
