@@ -1,0 +1,4 @@
+pkg: apptools
+build: apptools-4.4.0-py37_1002
+install: apptools==4.4.0
+pip_check: "No broken requirements found.\n"
