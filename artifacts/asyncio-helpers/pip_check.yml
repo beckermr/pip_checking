@@ -1,0 +1,4 @@
+pkg: asyncio-helpers
+build: asyncio-helpers-0.4.2-py37_1
+install: asyncio-helpers==0.4.2
+pip_check: "asyncio-helpers 0.4.2 requires openpyxl, which is not installed.\n"
