@@ -1,0 +1,5 @@
+pkg: turtlefsi
+build: turtlefsi-1.2-py_0
+install: turtlefsi==1.2
+pip_check: "fenics-dolfin 2019.1.0 has requirement pybind11==2.2.4, but you have pybind11\
+  \ 2.4.3.\n"
