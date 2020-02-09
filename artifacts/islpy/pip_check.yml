@@ -1,0 +1,4 @@
+pkg: islpy
+build: islpy-2018.2-py37haf887fa_0
+install: islpy==2018.2
+pip_check: "islpy 2018.2 requires pytest, which is not installed.\n"
