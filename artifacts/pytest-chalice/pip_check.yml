@@ -1,0 +1,4 @@
+pkg: pytest-chalice
+build: pytest-chalice-0.0.4-py_0
+install: pytest-chalice==0.0.4
+pip_check: "chalice 1.12.0 requires enum-compat, which is not installed.\n"
