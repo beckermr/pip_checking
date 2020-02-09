@@ -1,0 +1,4 @@
+pkg: hypothesis
+build: hypothesis-4.14.1-py37_0
+install: hypothesis==4.14.1
+pip_check: "No broken requirements found.\n"
