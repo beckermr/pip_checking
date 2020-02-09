@@ -1,0 +1,4 @@
+pkg: pandas-gbq
+build: pandas-gbq-0.11.0-py37_1
+install: pandas-gbq==0.11.0
+pip_check: "No broken requirements found.\n"
