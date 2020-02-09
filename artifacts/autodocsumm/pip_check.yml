@@ -1,0 +1,4 @@
+pkg: autodocsumm
+build: autodocsumm-0.1.11-py_0
+install: autodocsumm==0.1.11
+pip_check: "No broken requirements found.\n"
