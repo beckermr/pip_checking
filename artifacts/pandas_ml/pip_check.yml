@@ -1,0 +1,4 @@
+pkg: pandas_ml
+build: pandas_ml-0.5.0-py37_1000
+install: pandas_ml==0.5.0
+pip_check: "pandas-ml 0.5.0 requires enum34, which is not installed.\n"
