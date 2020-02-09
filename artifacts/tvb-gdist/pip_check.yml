@@ -1,0 +1,4 @@
+pkg: tvb-gdist
+build: tvb-gdist-2.0.0-py37hb3f55d8_0
+install: tvb-gdist==2.0.0
+pip_check: "No broken requirements found.\n"
