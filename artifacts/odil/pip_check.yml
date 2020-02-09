@@ -1,0 +1,4 @@
+pkg: odil
+build: odil-0.10.0-py37hb07ca93_0
+install: odil==0.10.0
+pip_check: "No broken requirements found.\n"
