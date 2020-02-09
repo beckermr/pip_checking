@@ -1,0 +1,11 @@
+pkg: brainbox-ibl
+build: brainbox-ibl-1.0.0-py_0
+install: brainbox-ibl==1.0.0
+pip_check: "brainbox-ibl 1.0.0 requires colorlog, which is not installed.\nbrainbox-ibl\
+  \ 1.0.0 requires dataclasses, which is not installed.\nbrainbox-ibl 1.0.0 requires\
+  \ flake8, which is not installed.\nbrainbox-ibl 1.0.0 requires globus-sdk, which\
+  \ is not installed.\nbrainbox-ibl 1.0.0 requires matplotlib, which is not installed.\n\
+  brainbox-ibl 1.0.0 requires numpy, which is not installed.\nbrainbox-ibl 1.0.0 requires\
+  \ pandas, which is not installed.\nbrainbox-ibl 1.0.0 requires requests, which is\
+  \ not installed.\nbrainbox-ibl 1.0.0 requires scipy, which is not installed.\nbrainbox-ibl\
+  \ 1.0.0 requires seaborn, which is not installed.\n"
