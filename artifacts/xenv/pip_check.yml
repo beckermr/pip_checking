@@ -1,0 +1,4 @@
+pkg: xenv
+build: xenv-0.0.4-py37_1
+install: xenv==0.0.4
+pip_check: "No broken requirements found.\n"
