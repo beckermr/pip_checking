@@ -1,0 +1,4 @@
+pkg: pynio
+build: pynio-1.5.5-py37h8b983ae_0
+install: pynio==1.5.5
+pip_check: "No broken requirements found.\n"
