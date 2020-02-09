@@ -1,0 +1,4 @@
+pkg: pytest-custom-exit-code
+build: pytest-custom-exit-code-0.3.0-py_0
+install: pytest-custom-exit-code==0.3.0
+pip_check: "No broken requirements found.\n"
