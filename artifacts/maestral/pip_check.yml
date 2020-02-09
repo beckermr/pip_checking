@@ -1,0 +1,5 @@
+pkg: maestral
+build: maestral-0.5.2-py_0
+install: maestral==0.5.2
+pip_check: "maestral 0.5.2 requires bugsnag, which is not installed.\nmaestral 0.5.2\
+  \ requires lockfile, which is not installed.\n"
