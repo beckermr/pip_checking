@@ -1,0 +1,4 @@
+pkg: httptools
+build: httptools-0.1.0-py37h516909a_0
+install: httptools==0.1.0
+pip_check: "No broken requirements found.\n"
