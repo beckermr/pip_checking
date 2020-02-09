@@ -1,0 +1,4 @@
+pkg: public-wrappers
+build: public-wrappers-0.4.0-py37_1000
+install: public-wrappers==0.4.0
+pip_check: "No broken requirements found.\n"
