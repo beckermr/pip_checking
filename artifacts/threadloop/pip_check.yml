@@ -1,0 +1,4 @@
+pkg: threadloop
+build: threadloop-1.0.2-py_0
+install: threadloop==1.0.2
+pip_check: "threadloop 1.0.2 requires futures, which is not installed.\n"
