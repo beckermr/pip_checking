@@ -1,0 +1,4 @@
+pkg: catzzz
+build: catzzz-0.1.6-py_1
+install: catzzz==0.1.6
+pip_check: "No broken requirements found.\n"
