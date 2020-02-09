@@ -1,0 +1,10 @@
+pkg: sagemaker-tensorflow-container
+build: sagemaker-tensorflow-container-2.0.7-py_0
+install: sagemaker-tensorflow-container==2.0.7
+pip_check: "sagemaker-tensorflow-container 2.0.7 requires sklearn, which is not installed.\n\
+  sagemaker-containers 2.6.3 requires protobuf, which is not installed.\nsagemaker-containers\
+  \ 2.6.3 requires typing, which is not installed.\nsagemaker-containers 2.6.3 has\
+  \ requirement paramiko==2.4.2, but you have paramiko 2.7.1.\nsagemaker-containers\
+  \ 2.6.3 has requirement psutil==5.4.8, but you have psutil 5.6.7.\nsagemaker-containers\
+  \ 2.6.3 has requirement scipy==1.2.2, but you have scipy 1.4.1.\nsagemaker-containers\
+  \ 2.6.3 has requirement werkzeug==0.15.5, but you have werkzeug 1.0.0.\n"
