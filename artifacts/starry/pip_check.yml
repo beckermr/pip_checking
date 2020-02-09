@@ -1,0 +1,4 @@
+pkg: starry
+build: starry-0.2.2-py37hf8a1672_0
+install: starry==0.2.2
+pip_check: "starry 0.2.2 requires pybind11, which is not installed.\n"
