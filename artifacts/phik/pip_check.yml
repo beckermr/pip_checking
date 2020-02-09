@@ -1,0 +1,4 @@
+pkg: phik
+build: phik-0.9.8-py_0
+install: phik==0.9.8
+pip_check: "No broken requirements found.\n"
