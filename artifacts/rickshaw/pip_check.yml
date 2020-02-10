@@ -1,0 +1,4 @@
+pkg: rickshaw
+build: rickshaw-1.5.3-py_0
+install: rickshaw==1.5.3
+pip_check: "No broken requirements found.\n"
