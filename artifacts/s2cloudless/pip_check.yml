@@ -1,0 +1,4 @@
+pkg: s2cloudless
+build: s2cloudless-1.4.0-py_0
+install: s2cloudless==1.4.0
+pip_check: "No broken requirements found.\n"
