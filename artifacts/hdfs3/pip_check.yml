@@ -1,0 +1,4 @@
+pkg: hdfs3
+build: hdfs3-0.3.1-py37_0
+install: hdfs3==0.3.1
+pip_check: "No broken requirements found.\n"
