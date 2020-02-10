@@ -1,0 +1,4 @@
+pkg: click-config-file
+build: click-config-file-0.4.5-py_1
+install: click-config-file==0.4.5
+pip_check: "No broken requirements found.\n"
