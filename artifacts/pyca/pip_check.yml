@@ -1,0 +1,5 @@
+pkg: pyca
+build: pyca-3.1.1-py37hb3f55d8_0
+install: pyca==3.1.1
+pip_check: "pyca 3.1.1 has requirement epicscorelibs<7.0.3.99.2,>=7.0.3.99.1.0, but\
+  \ you have epicscorelibs 7.0.3.99.2.0.\n"
