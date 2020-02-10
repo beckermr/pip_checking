@@ -1,0 +1,4 @@
+pkg: lap
+build: lap-0.4.0-py37hb3f55d8_1001
+install: lap==0.4.0
+pip_check: "No broken requirements found.\n"
