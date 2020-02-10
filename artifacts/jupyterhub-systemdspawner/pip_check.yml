@@ -1,0 +1,4 @@
+pkg: jupyterhub-systemdspawner
+build: jupyterhub-systemdspawner-0.13-py37_0
+install: jupyterhub-systemdspawner==0.13
+pip_check: "No broken requirements found.\n"
