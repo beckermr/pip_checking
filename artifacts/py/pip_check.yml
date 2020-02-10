@@ -1,0 +1,4 @@
+pkg: py
+build: py-1.5.3-py_0
+install: py==1.5.3
+pip_check: "No broken requirements found.\n"
