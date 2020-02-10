@@ -1,0 +1,7 @@
+pkg: python-ironicclient
+build: python-ironicclient-2.4.0-py37_1000
+install: python-ironicclient==2.4.0
+pip_check: "testtools 2.3.0 requires python-mimeparse, which is not installed.\ntesttools\
+  \ 2.3.0 requires traceback2, which is not installed.\ntesttools 2.3.0 requires unittest2,\
+  \ which is not installed.\npython-ironicclient 2.4.0 requires jsonschema, which\
+  \ is not installed.\npython-ironicclient 2.4.0 requires osc-lib, which is not installed.\n"
