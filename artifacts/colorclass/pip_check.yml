@@ -1,0 +1,4 @@
+pkg: colorclass
+build: colorclass-2.2.0-py_0
+install: colorclass==2.2.0
+pip_check: "No broken requirements found.\n"
