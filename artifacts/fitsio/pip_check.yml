@@ -1,0 +1,4 @@
+pkg: fitsio
+build: fitsio-0.9.11-py37h7eb728f_0
+install: fitsio==0.9.11
+pip_check: "No broken requirements found.\n"
