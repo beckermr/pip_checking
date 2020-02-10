@@ -1,0 +1,4 @@
+pkg: wxpython
+build: wxpython-4.0.3-py37h6e67731_2
+install: wxpython==4.0.3
+pip_check: "wxpython 4.0.3 requires pypubsub, which is not installed.\n"
