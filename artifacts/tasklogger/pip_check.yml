@@ -1,0 +1,4 @@
+pkg: tasklogger
+build: tasklogger-0.3.0-py_0
+install: tasklogger==0.3.0
+pip_check: "No broken requirements found.\n"
