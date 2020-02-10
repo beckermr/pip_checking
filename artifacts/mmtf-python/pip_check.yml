@@ -1,0 +1,4 @@
+pkg: mmtf-python
+build: mmtf-python-1.1.2-py_0
+install: mmtf-python==1.1.2
+pip_check: "No broken requirements found.\n"
