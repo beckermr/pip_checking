@@ -1,0 +1,5 @@
+pkg: flask-graphql
+build: flask-graphql-2.0.0-py_0
+install: flask-graphql==2.0.0
+pip_check: "graphql-server-core 1.1.3 has requirement graphql-core<3,>=2.1, but you\
+  \ have graphql-core 3.0.3.\n"
