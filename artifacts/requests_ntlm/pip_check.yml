@@ -1,0 +1,4 @@
+pkg: requests_ntlm
+build: requests_ntlm-1.0.0-py_0
+install: requests_ntlm==1.0.0
+pip_check: "No broken requirements found.\n"
