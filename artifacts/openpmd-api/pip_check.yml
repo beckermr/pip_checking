@@ -1,0 +1,4 @@
+pkg: openpmd-api
+build: openpmd-api-0.7.0a-py37hcfd39f1_0
+install: openpmd-api==0.7.0a
+pip_check: "No broken requirements found.\n"
