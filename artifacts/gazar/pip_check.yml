@@ -1,0 +1,4 @@
+pkg: gazar
+build: gazar-0.0.4-py_2
+install: gazar==0.0.4
+pip_check: "mapkit 1.2.6 requires epsg-ident, which is not installed.\n"
