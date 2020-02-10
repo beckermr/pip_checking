@@ -1,0 +1,4 @@
+pkg: msgpack-numpy
+build: msgpack-numpy-0.4.4.3-py_0
+install: msgpack-numpy==0.4.4.3
+pip_check: "No broken requirements found.\n"
