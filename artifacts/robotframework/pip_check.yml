@@ -1,0 +1,4 @@
+pkg: robotframework
+build: robotframework-3.0.3-py_0
+install: robotframework==3.0.3
+pip_check: "No broken requirements found.\n"
