@@ -1,0 +1,4 @@
+pkg: parsedatetime
+build: parsedatetime-2.4-py_1
+install: parsedatetime==2.4
+pip_check: "parsedatetime 2.4 requires future, which is not installed.\n"
