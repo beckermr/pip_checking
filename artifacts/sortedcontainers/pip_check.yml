@@ -1,0 +1,4 @@
+pkg: sortedcontainers
+build: sortedcontainers-2.0.4-py_1
+install: sortedcontainers==2.0.4
+pip_check: "No broken requirements found.\n"
