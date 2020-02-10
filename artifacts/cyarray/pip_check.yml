@@ -1,0 +1,5 @@
+pkg: cyarray
+build: cyarray-1.1-py37h9de70de_1
+install: cyarray==1.1
+pip_check: "cyarray 1.1 requires cython, which is not installed.\ncyarray 1.1 requires\
+  \ mako, which is not installed.\n"
