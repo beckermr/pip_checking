@@ -1,0 +1,4 @@
+pkg: gooseslurm
+build: gooseslurm-0.1.1-py37_0
+install: gooseslurm==0.1.1
+pip_check: "No broken requirements found.\n"
