@@ -1,0 +1,4 @@
+pkg: mechwolf
+build: mechwolf-0.1.1-py_2
+install: mechwolf==0.1.1
+pip_check: "mechwolf 0.1.1 requires jupyter, which is not installed.\n"
