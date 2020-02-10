@@ -1,0 +1,4 @@
+pkg: neuron
+build: neuron-7.6.5-py37h91c6308_0
+install: neuron==7.6.5
+pip_check: "No broken requirements found.\n"
