@@ -1,0 +1,4 @@
+pkg: nb_black
+build: nb_black-1.0.5-py_0
+install: nb_black==1.0.5
+pip_check: "No broken requirements found.\n"
