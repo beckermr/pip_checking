@@ -1,0 +1,4 @@
+pkg: dependencies
+build: dependencies-0.15-py_0
+install: dependencies==0.15
+pip_check: "No broken requirements found.\n"
