@@ -1,0 +1,4 @@
+pkg: gammapy
+build: gammapy-0.14-py37h516909a_0
+install: gammapy==0.14
+pip_check: "No broken requirements found.\n"
