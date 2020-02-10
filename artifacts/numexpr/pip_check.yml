@@ -1,0 +1,4 @@
+pkg: numexpr
+build: numexpr-2.6.9-py37hf8a1672_0
+install: numexpr==2.6.9
+pip_check: "No broken requirements found.\n"
