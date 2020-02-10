@@ -1,0 +1,4 @@
+pkg: configobj-dev
+build: configobj-dev-2019.9.1-py_0
+install: configobj-dev==2019.9.1
+pip_check: "No broken requirements found.\n"
