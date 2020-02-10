@@ -1,0 +1,4 @@
+pkg: sherlockml-dataclean
+build: sherlockml-dataclean-0.2.2-py37_1000
+install: sherlockml-dataclean==0.2.2
+pip_check: "No broken requirements found.\n"
