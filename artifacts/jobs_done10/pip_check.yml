@@ -1,0 +1,5 @@
+pkg: jobs_done10
+build: jobs_done10-1.2.0-py_0
+install: jobs_done10==1.2.0
+pip_check: "python-jenkins 1.6.0 requires pbr, which is not installed.\njobs-done10\
+  \ 1.2.0 requires requests-mock, which is not installed.\n"
