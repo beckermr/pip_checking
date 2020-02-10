@@ -1,0 +1,4 @@
+pkg: pysw4
+build: pysw4-0.3.0-py_0
+install: pysw4==0.3.0
+pip_check: "No broken requirements found.\n"
