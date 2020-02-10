@@ -1,0 +1,4 @@
+pkg: theanolm
+build: theanolm-1.3.0-py37_1000
+install: theanolm==1.3.0
+pip_check: "No broken requirements found.\n"
