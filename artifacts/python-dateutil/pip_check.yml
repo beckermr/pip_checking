@@ -1,0 +1,4 @@
+pkg: python-dateutil
+build: python-dateutil-2.7.2-py_0
+install: python-dateutil==2.7.2
+pip_check: "No broken requirements found.\n"
