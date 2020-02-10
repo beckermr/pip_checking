@@ -1,0 +1,4 @@
+pkg: pymca-zocalo
+build: pymca-zocalo-0.2.0-py_0
+install: pymca-zocalo==0.2.0
+pip_check: "pymca5 5.5.4 requires matplotlib, which is not installed.\n"
