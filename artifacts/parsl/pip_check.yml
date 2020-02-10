@@ -1,0 +1,4 @@
+pkg: parsl
+build: parsl-0.9.0-py_0
+install: parsl==0.9.0
+pip_check: "python-daemon 2.2.4 requires docutils, which is not installed.\n"
