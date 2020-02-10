@@ -1,0 +1,5 @@
+pkg: maya
+build: maya-0.4.3-py_0
+install: maya==0.4.3
+pip_check: "pendulum 1.4.4 has requirement tzlocal<2.0.0.0,>=1.5.0.0, but you have\
+  \ tzlocal 2.0.0.\n"
