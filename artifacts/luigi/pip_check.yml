@@ -1,0 +1,4 @@
+pkg: luigi
+build: luigi-2.8.7-py37_0
+install: luigi==2.8.7
+pip_check: "python-daemon 2.1.2 requires docutils, which is not installed.\n"
