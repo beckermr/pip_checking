@@ -1,0 +1,5 @@
+pkg: pplpy
+build: pplpy-0.8.4-py37h9603a25_0
+install: pplpy==0.8.4
+pip_check: "pplpy 0.8.4 requires cython, which is not installed.\ncysignals 1.10.2\
+  \ requires cython, which is not installed.\n"
