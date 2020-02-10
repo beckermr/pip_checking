@@ -1,0 +1,4 @@
+pkg: timml
+build: timml-5.0.1-py37h219a75b_0
+install: timml==5.0.1
+pip_check: "No broken requirements found.\n"
