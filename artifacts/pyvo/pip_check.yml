@@ -1,0 +1,4 @@
+pkg: pyvo
+build: pyvo-0.9.3-py_0
+install: pyvo==0.9.3
+pip_check: "pyvo 0.9.3 requires mimeparse, which is not installed.\n"
