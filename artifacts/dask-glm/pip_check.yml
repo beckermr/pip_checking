@@ -1,0 +1,4 @@
+pkg: dask-glm
+build: dask-glm-0.2.0-py_1
+install: dask-glm==0.2.0
+pip_check: "No broken requirements found.\n"
