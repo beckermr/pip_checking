@@ -1,0 +1,4 @@
+pkg: xrft
+build: xrft-0.2.0-py_0
+install: xrft==0.2.0
+pip_check: "No broken requirements found.\n"
