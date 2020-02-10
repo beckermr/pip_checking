@@ -1,0 +1,5 @@
+pkg: pymdwizard
+build: pymdwizard-2.0.1-py_0
+install: pymdwizard==2.0.1
+pip_check: "pymdwizard 2.0.1 requires jupyter, which is not installed.\npymdwizard\
+  \ 2.0.1 requires pyqt, which is not installed.\n"
