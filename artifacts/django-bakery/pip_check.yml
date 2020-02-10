@@ -1,0 +1,4 @@
+pkg: django-bakery
+build: django-bakery-0.12.7-py_0
+install: django-bakery==0.12.7
+pip_check: "django-bakery 0.12.7 requires fs, which is not installed.\n"
