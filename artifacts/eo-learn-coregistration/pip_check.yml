@@ -1,0 +1,5 @@
+pkg: eo-learn-coregistration
+build: eo-learn-coregistration-0.6.0-py_0
+install: eo-learn-coregistration==0.6.0
+pip_check: "eo-learn-coregistration 0.6.0 requires opencv-contrib-python-headless,\
+  \ which is not installed.\n"
