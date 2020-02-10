@@ -1,0 +1,4 @@
+pkg: gemmi
+build: gemmi-0.2.2-py37h8b12597_0
+install: gemmi==0.2.2
+pip_check: "gemmi 0.2.2 requires pybind11, which is not installed.\n"
