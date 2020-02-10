@@ -1,0 +1,4 @@
+pkg: qtpy
+build: qtpy-1.8.0-py_0
+install: qtpy==1.8.0
+pip_check: "No broken requirements found.\n"
