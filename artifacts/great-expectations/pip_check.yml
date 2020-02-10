@@ -1,0 +1,5 @@
+pkg: great-expectations
+build: great-expectations-0.8.3-py37_0
+install: great-expectations==0.8.3
+pip_check: "great-expectations 0.8.3 has requirement marshmallow<3.0,>=2.0, but you\
+  \ have marshmallow 3.0.0rc8.\n"
