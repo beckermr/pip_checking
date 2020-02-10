@@ -1,0 +1,4 @@
+pkg: dj-database-url
+build: dj-database-url-0.4.2-py_1001
+install: dj-database-url==0.4.2
+pip_check: "No broken requirements found.\n"
