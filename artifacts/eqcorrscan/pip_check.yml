@@ -1,0 +1,4 @@
+pkg: eqcorrscan
+build: eqcorrscan-0.4.0-py37hc1659b7_0
+install: eqcorrscan==0.4.0
+pip_check: "No broken requirements found.\n"
