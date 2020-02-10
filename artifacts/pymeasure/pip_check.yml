@@ -1,0 +1,4 @@
+pkg: pymeasure
+build: pymeasure-0.7-py37_0
+install: pymeasure==0.7
+pip_check: "No broken requirements found.\n"
