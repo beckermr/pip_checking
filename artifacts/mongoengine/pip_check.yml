@@ -1,0 +1,4 @@
+pkg: mongoengine
+build: mongoengine-0.18.2-py37_0
+install: mongoengine==0.18.2
+pip_check: "No broken requirements found.\n"
