@@ -1,0 +1,4 @@
+pkg: peakutils
+build: peakutils-1.3.2-py_0
+install: peakutils==1.3.2
+pip_check: "No broken requirements found.\n"
