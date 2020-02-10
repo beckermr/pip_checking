@@ -1,0 +1,4 @@
+pkg: heapdict
+build: heapdict-1.0.0-py37_1000
+install: heapdict==1.0.0
+pip_check: "No broken requirements found.\n"
