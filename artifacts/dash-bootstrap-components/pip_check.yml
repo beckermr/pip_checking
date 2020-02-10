@@ -1,0 +1,4 @@
+pkg: dash-bootstrap-components
+build: dash-bootstrap-components-0.6.3-py37_0
+install: dash-bootstrap-components==0.6.3
+pip_check: "No broken requirements found.\n"
