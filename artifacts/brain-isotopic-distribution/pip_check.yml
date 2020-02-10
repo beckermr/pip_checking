@@ -1,0 +1,4 @@
+pkg: brain-isotopic-distribution
+build: brain-isotopic-distribution-1.5.3-py37_0
+install: brain-isotopic-distribution==1.5.3
+pip_check: "No broken requirements found.\n"
