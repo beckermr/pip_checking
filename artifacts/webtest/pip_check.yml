@@ -1,0 +1,4 @@
+pkg: webtest
+build: webtest-2.0.34-py_0
+install: webtest==2.0.34
+pip_check: "No broken requirements found.\n"
