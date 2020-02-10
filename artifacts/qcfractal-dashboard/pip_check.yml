@@ -1,0 +1,4 @@
+pkg: qcfractal-dashboard
+build: qcfractal-dashboard-0.12.3-py37_0
+install: qcfractal-dashboard==0.12.3
+pip_check: "No broken requirements found.\n"
