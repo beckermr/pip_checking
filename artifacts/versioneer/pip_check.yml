@@ -1,0 +1,4 @@
+pkg: versioneer
+build: versioneer-0.18-py_1
+install: versioneer==0.18
+pip_check: "No broken requirements found.\n"
