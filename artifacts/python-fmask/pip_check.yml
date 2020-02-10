@@ -1,0 +1,4 @@
+pkg: python-fmask
+build: python-fmask-0.5.3-py37h7eb728f_0
+install: python-fmask==0.5.3
+pip_check: "No broken requirements found.\n"
