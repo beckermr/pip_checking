@@ -1,0 +1,4 @@
+pkg: tuiview
+build: tuiview-1.2.6-py37hb9847ea_0
+install: tuiview==1.2.6
+pip_check: "No broken requirements found.\n"
