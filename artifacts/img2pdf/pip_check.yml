@@ -1,0 +1,4 @@
+pkg: img2pdf
+build: img2pdf-0.3.3-py37_0
+install: img2pdf==0.3.3
+pip_check: "No broken requirements found.\n"
