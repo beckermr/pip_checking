@@ -1,0 +1,6 @@
+pkg: zaber-motion
+build: zaber-motion-1.0.8-py37h85d5efc_0
+install: zaber-motion==1.0.8
+pip_check: "zaber-motion 1.0.8 requires zaber-motion-bindings-linux, which is not\
+  \ installed.\nzaber-motion 1.0.8 has requirement protobuf==3.7.1, but you have protobuf\
+  \ 3.11.3.\nzaber-motion 1.0.8 has requirement rx==1.6.1, but you have rx 3.0.1.\n"
