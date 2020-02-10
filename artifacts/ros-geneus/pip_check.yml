@@ -1,0 +1,4 @@
+pkg: ros-geneus
+build: ros-geneus-2.2.6-py37he1b5a44_0
+install: ros-geneus==2.2.6
+pip_check: "No broken requirements found.\n"
