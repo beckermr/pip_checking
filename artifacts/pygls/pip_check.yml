@@ -1,0 +1,4 @@
+pkg: pygls
+build: pygls-0.8.1-py_0
+install: pygls==0.8.1
+pip_check: "No broken requirements found.\n"
