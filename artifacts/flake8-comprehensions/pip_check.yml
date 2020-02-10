@@ -1,0 +1,4 @@
+pkg: flake8-comprehensions
+build: flake8-comprehensions-2.1.0-py_0
+install: flake8-comprehensions==2.1.0
+pip_check: "No broken requirements found.\n"
