@@ -1,0 +1,4 @@
+pkg: pytest-qt
+build: pytest-qt-3.0.1-py_0
+install: pytest-qt==3.0.1
+pip_check: "No broken requirements found.\n"
