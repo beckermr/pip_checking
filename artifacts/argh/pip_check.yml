@@ -1,0 +1,4 @@
+pkg: argh
+build: argh-0.26.2-py37_1001
+install: argh==0.26.2
+pip_check: "No broken requirements found.\n"
