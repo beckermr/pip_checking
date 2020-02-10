@@ -1,0 +1,4 @@
+pkg: pyopenssl
+build: pyopenssl-19.0.0-py37_0
+install: pyopenssl==19.0.0
+pip_check: "No broken requirements found.\n"
