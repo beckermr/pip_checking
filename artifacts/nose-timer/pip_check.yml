@@ -1,0 +1,4 @@
+pkg: nose-timer
+build: nose-timer-0.7.3-py_0
+install: nose-timer==0.7.3
+pip_check: "No broken requirements found.\n"
