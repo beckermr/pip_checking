@@ -1,0 +1,4 @@
+pkg: scipy
+build: scipy-1.2.1-py37h09a28d5_1
+install: scipy==1.2.1
+pip_check: "No broken requirements found.\n"
