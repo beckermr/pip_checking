@@ -1,0 +1,4 @@
+pkg: aws-parallelcluster
+build: aws-parallelcluster-2.4.0-py37_0
+install: aws-parallelcluster==2.4.0
+pip_check: "No broken requirements found.\n"
