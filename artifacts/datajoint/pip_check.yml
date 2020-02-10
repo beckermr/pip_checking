@@ -1,0 +1,4 @@
+pkg: datajoint
+build: datajoint-0.12.2-py_0
+install: datajoint==0.12.2
+pip_check: "datajoint 0.12.2 has requirement networkx<2.4, but you have networkx 2.4.\n"
