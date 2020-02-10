@@ -1,0 +1,4 @@
+pkg: libneuroml
+build: libneuroml-0.2.43-py_0
+install: libneuroml==0.2.43
+pip_check: "No broken requirements found.\n"
