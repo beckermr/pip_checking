@@ -1,0 +1,4 @@
+pkg: s_gd2
+build: s_gd2-1.7-py37hc9558a2_0
+install: s_gd2==1.7
+pip_check: "No broken requirements found.\n"
