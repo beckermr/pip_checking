@@ -1,0 +1,5 @@
+pkg: spacy
+build: spacy-2.0.16-py37hfc679d8_1
+install: spacy==2.0.16
+pip_check: "thinc 6.12.1 has requirement msgpack<0.6.0,>=0.5.6, but you have msgpack\
+  \ 0.6.2.\nspacy 2.0.16 has requirement regex==2018.01.10, but you have regex 2020.1.8.\n"
