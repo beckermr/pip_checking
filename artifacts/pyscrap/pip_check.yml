@@ -1,0 +1,4 @@
+pkg: pyscrap
+build: pyscrap-0.0.9-py37_0
+install: pyscrap==0.0.9
+pip_check: "No broken requirements found.\n"
