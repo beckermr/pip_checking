@@ -1,0 +1,4 @@
+pkg: conda-build-all
+build: conda-build-all-1.1.3-py_0
+install: conda-build-all==1.1.3
+pip_check: "No broken requirements found.\n"
