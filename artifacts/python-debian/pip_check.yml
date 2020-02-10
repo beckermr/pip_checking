@@ -1,0 +1,4 @@
+pkg: python-debian
+build: python-debian-0.1.36-py_0
+install: python-debian==0.1.36
+pip_check: "No broken requirements found.\n"
