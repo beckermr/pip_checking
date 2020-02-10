@@ -1,0 +1,4 @@
+pkg: google-auth-httplib2
+build: google-auth-httplib2-0.0.3-py_2
+install: google-auth-httplib2==0.0.3
+pip_check: "No broken requirements found.\n"
