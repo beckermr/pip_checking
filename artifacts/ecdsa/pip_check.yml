@@ -1,0 +1,4 @@
+pkg: ecdsa
+build: ecdsa-0.13-py_0
+install: ecdsa==0.13
+pip_check: "No broken requirements found.\n"
