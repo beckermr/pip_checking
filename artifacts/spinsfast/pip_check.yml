@@ -1,0 +1,4 @@
+pkg: spinsfast
+build: spinsfast-104.2019.3.20.13.47.8-py37hd352d35_0
+install: spinsfast==104.2019.3.20.13.47.8
+pip_check: "No broken requirements found.\n"
