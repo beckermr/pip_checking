@@ -1,0 +1,4 @@
+pkg: assimulo
+build: assimulo-3.0-py37h18b3941_0
+install: assimulo==3.0
+pip_check: "No broken requirements found.\n"
