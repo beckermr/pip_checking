@@ -1,0 +1,4 @@
+pkg: dionysus
+build: dionysus-2.0.6-py37h8b68381_1000
+install: dionysus==2.0.6
+pip_check: "No broken requirements found.\n"
