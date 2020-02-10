@@ -1,0 +1,4 @@
+pkg: fenics-libdolfin
+build: fenics-libdolfin-2019.1.0-py37h370d018_0
+install: fenics-libdolfin==2019.1.0
+pip_check: "No broken requirements found.\n"
