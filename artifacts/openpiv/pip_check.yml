@@ -1,0 +1,4 @@
+pkg: openpiv
+build: openpiv-0.20.9-py37h3010b51_1001
+install: openpiv==0.20.9
+pip_check: "No broken requirements found.\n"
