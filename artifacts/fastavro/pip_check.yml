@@ -1,0 +1,4 @@
+pkg: fastavro
+build: fastavro-0.21.15-py37h14c3975_1000
+install: fastavro==0.21.15
+pip_check: "No broken requirements found.\n"
