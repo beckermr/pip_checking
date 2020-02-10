@@ -1,0 +1,4 @@
+pkg: thriftpy
+build: thriftpy-0.3.9-py37h14c3975_1001
+install: thriftpy==0.3.9
+pip_check: "No broken requirements found.\n"
