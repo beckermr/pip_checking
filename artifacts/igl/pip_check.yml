@@ -1,0 +1,4 @@
+pkg: igl
+build: igl-0.4-py37h6dc7ae4_0
+install: igl==0.4
+pip_check: "No broken requirements found.\n"
