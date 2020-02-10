@@ -1,0 +1,4 @@
+pkg: xmle
+build: xmle-0.1.18-py_0
+install: xmle==0.1.18
+pip_check: "No broken requirements found.\n"
