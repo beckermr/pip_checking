@@ -1,0 +1,4 @@
+pkg: heliopy
+build: heliopy-0.6.2-py_0
+install: heliopy==0.6.2
+pip_check: "No broken requirements found.\n"
