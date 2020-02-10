@@ -1,0 +1,4 @@
+pkg: traitlets
+build: traitlets-4.3.2-py37_1000
+install: traitlets==4.3.2
+pip_check: "No broken requirements found.\n"
