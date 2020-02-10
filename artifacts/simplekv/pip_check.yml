@@ -1,0 +1,4 @@
+pkg: simplekv
+build: simplekv-0.11.11-py_0
+install: simplekv==0.11.11
+pip_check: "No broken requirements found.\n"
