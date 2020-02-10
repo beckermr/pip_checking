@@ -1,0 +1,4 @@
+pkg: dbf
+build: dbf-0.97.5-py_0
+install: dbf==0.97.5
+pip_check: "No broken requirements found.\n"
