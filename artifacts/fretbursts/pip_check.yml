@@ -1,0 +1,4 @@
+pkg: fretbursts
+build: fretbursts-0.7-py37h3010b51_1001
+install: fretbursts==0.7
+pip_check: "No broken requirements found.\n"
