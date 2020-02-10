@@ -1,0 +1,4 @@
+pkg: docutils
+build: docutils-0.15.2-py37_0
+install: docutils==0.15.2
+pip_check: "No broken requirements found.\n"
