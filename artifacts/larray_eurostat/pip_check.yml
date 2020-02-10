@@ -1,0 +1,4 @@
+pkg: larray_eurostat
+build: larray_eurostat-0.31-py37_0
+install: larray_eurostat==0.31
+pip_check: "No broken requirements found.\n"
