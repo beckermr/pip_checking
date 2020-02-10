@@ -1,0 +1,4 @@
+pkg: scikit-learn
+build: scikit-learn-0.20.4-py37_blas_openblashebff5e3_0
+install: scikit-learn==0.20.4
+pip_check: "No broken requirements found.\n"
