@@ -1,0 +1,6 @@
+pkg: py_entitymatching
+build: py_entitymatching-0.3.2-py37hb3f55d8_0
+install: py_entitymatching==0.3.2
+pip_check: "py-entitymatching 0.3.2 has requirement ipython==5.6, but you have ipython\
+  \ 7.12.0.\npy-entitymatching 0.3.2 has requirement numpy==1.16.2, but you have numpy\
+  \ 1.18.1.\n"
