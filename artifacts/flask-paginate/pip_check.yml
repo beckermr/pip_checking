@@ -1,0 +1,4 @@
+pkg: flask-paginate
+build: flask-paginate-0.5.4-py_0
+install: flask-paginate==0.5.4
+pip_check: "No broken requirements found.\n"
