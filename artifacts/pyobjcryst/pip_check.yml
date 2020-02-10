@@ -1,0 +1,4 @@
+pkg: pyobjcryst
+build: pyobjcryst-2.0.2-py37h1ef8b13_2
+install: pyobjcryst==2.0.2
+pip_check: "No broken requirements found.\n"
