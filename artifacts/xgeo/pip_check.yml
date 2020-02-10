@@ -1,0 +1,4 @@
+pkg: xgeo
+build: xgeo-1.0-py_0
+install: xgeo==1.0
+pip_check: "No broken requirements found.\n"
