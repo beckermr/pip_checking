@@ -1,0 +1,4 @@
+pkg: pygcn
+build: pygcn-1.0.0-py_0
+install: pygcn==1.0.0
+pip_check: "No broken requirements found.\n"
