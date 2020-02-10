@@ -1,0 +1,4 @@
+pkg: spyder
+build: spyder-3.3.1-py37_1003
+install: spyder==3.3.1
+pip_check: "spyder 3.3.1 requires pyqt5, which is not installed.\n"
