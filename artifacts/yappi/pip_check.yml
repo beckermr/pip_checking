@@ -1,0 +1,4 @@
+pkg: yappi
+build: yappi-0.98-py37h6bb024c_1000
+install: yappi==0.98
+pip_check: "No broken requirements found.\n"
