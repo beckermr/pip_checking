@@ -1,0 +1,4 @@
+pkg: beakerx
+build: beakerx-1.4.1-py37_1
+install: beakerx==1.4.1
+pip_check: "No broken requirements found.\n"
