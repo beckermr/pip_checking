@@ -1,0 +1,4 @@
+pkg: retriever
+build: retriever-2.1.0-py_1
+install: retriever==2.1.0
+pip_check: "No broken requirements found.\n"
