@@ -1,0 +1,4 @@
+pkg: applicationinsights
+build: applicationinsights-0.11.9-py_0
+install: applicationinsights==0.11.9
+pip_check: "No broken requirements found.\n"
