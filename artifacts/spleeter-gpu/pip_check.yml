@@ -1,0 +1,4 @@
+pkg: spleeter-gpu
+build: spleeter-gpu-1.4.8-py_0
+install: spleeter-gpu==1.4.8
+pip_check: "spleeter-gpu 1.4.8 requires tensorflow-gpu, which is not installed.\n"
