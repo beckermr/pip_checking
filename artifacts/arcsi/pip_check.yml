@@ -1,0 +1,4 @@
+pkg: arcsi
+build: arcsi-3.2.4-py37_1
+install: arcsi==3.2.4
+pip_check: "No broken requirements found.\n"
