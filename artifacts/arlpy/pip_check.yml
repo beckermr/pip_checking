@@ -1,0 +1,4 @@
+pkg: arlpy
+build: arlpy-1.6.1-py_0
+install: arlpy==1.6.1
+pip_check: "No broken requirements found.\n"
