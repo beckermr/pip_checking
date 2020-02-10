@@ -1,0 +1,4 @@
+pkg: os-client-config
+build: os-client-config-1.29.0-py_0
+install: os-client-config==1.29.0
+pip_check: "No broken requirements found.\n"
