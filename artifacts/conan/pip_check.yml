@@ -1,0 +1,6 @@
+pkg: conan
+build: conan-1.13.2-py_0
+install: conan==1.13.2
+pip_check: "conan 1.13.2 requires bottle, which is not installed.\nconan 1.13.2 requires\
+  \ patch, which is not installed.\nconan 1.13.2 requires pluginbase, which is not\
+  \ installed.\n"
