@@ -1,0 +1,4 @@
+pkg: perf
+build: perf-1.5.1-py37_1000
+install: perf==1.5.1
+pip_check: "No broken requirements found.\n"
