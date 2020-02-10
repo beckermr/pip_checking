@@ -1,0 +1,4 @@
+pkg: hazm
+build: hazm-0.7.0-py37_0
+install: hazm==0.7.0
+pip_check: "No broken requirements found.\n"
