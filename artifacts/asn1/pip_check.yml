@@ -1,0 +1,4 @@
+pkg: asn1
+build: asn1-2.2.0-py_0
+install: asn1==2.2.0
+pip_check: "No broken requirements found.\n"
