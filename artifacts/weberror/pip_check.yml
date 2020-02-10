@@ -1,0 +1,4 @@
+pkg: weberror
+build: weberror-0.13.1-py_0
+install: weberror==0.13.1
+pip_check: "No broken requirements found.\n"
