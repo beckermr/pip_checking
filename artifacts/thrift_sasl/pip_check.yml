@@ -1,0 +1,4 @@
+pkg: thrift_sasl
+build: thrift_sasl-0.3.0-py37h470a237_1
+install: thrift_sasl==0.3.0
+pip_check: "No broken requirements found.\n"
