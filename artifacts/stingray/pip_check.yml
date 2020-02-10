@@ -1,0 +1,4 @@
+pkg: stingray
+build: stingray-0.1rc1.post2-py37h24bf2e0_1000
+install: stingray==0.1rc1.post2
+pip_check: "No broken requirements found.\n"
