@@ -1,0 +1,4 @@
+pkg: sphinxcontrib-programoutput
+build: sphinxcontrib-programoutput-0.11-py_0
+install: sphinxcontrib-programoutput==0.11
+pip_check: "No broken requirements found.\n"
