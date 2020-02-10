@@ -1,0 +1,4 @@
+pkg: tmtk
+build: tmtk-0.5.6-py37_0
+install: tmtk==0.5.6
+pip_check: "tmtk 0.5.6 requires jupyter, which is not installed.\n"
