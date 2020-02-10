@@ -1,0 +1,4 @@
+pkg: dramatiq
+build: dramatiq-1.4.3-py_0
+install: dramatiq==1.4.3
+pip_check: "No broken requirements found.\n"
