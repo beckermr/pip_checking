@@ -1,0 +1,4 @@
+pkg: pyvcd
+build: pyvcd-0.1.4-py_0
+install: pyvcd==0.1.4
+pip_check: "No broken requirements found.\n"
