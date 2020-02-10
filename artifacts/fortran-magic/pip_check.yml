@@ -1,0 +1,4 @@
+pkg: fortran-magic
+build: fortran-magic-0.7-py_1001
+install: fortran-magic==0.7
+pip_check: "No broken requirements found.\n"
