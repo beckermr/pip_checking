@@ -1,0 +1,4 @@
+pkg: segyio
+build: segyio-1.8.6-py37hb3f55d8_1
+install: segyio==1.8.6
+pip_check: "No broken requirements found.\n"
