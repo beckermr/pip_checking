@@ -1,0 +1,4 @@
+pkg: multi_rake
+build: multi_rake-0.0.1-py_0
+install: multi_rake==0.0.1
+pip_check: "No broken requirements found.\n"
