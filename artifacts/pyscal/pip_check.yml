@@ -1,0 +1,4 @@
+pkg: pyscal
+build: pyscal-2.3.0-py37h9de70de_1
+install: pyscal==2.3.0
+pip_check: "No broken requirements found.\n"
