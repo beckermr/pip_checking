@@ -1,0 +1,4 @@
+pkg: pyprismatic
+build: pyprismatic-1.2.1-py37_cpu_hc9b8b49_1
+install: pyprismatic==1.2.1
+pip_check: "No broken requirements found.\n"
