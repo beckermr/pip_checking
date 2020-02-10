@@ -1,0 +1,4 @@
+pkg: meson
+build: meson-0.48.2-py_0
+install: meson==0.48.2
+pip_check: "No broken requirements found.\n"
