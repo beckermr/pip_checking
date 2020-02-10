@@ -1,0 +1,4 @@
+pkg: pidly
+build: pidly-0.2.7-py37_1000
+install: pidly==0.2.7
+pip_check: "No broken requirements found.\n"
