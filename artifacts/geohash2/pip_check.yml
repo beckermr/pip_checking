@@ -1,0 +1,4 @@
+pkg: geohash2
+build: geohash2-1.1-py_0
+install: geohash2==1.1
+pip_check: "geohash2 1.1 requires docutils, which is not installed.\n"
