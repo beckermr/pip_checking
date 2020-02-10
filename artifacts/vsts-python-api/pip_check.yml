@@ -1,0 +1,4 @@
+pkg: vsts-python-api
+build: vsts-python-api-0.1.21-py_0
+install: vsts-python-api==0.1.21
+pip_check: "No broken requirements found.\n"
