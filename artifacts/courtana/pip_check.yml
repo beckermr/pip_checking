@@ -1,0 +1,4 @@
+pkg: courtana
+build: courtana-0.7.1-py37_1001
+install: courtana==0.7.1
+pip_check: "courtana 0.7.1 has requirement pandas==0.19.2, but you have pandas 1.0.1.\n"
