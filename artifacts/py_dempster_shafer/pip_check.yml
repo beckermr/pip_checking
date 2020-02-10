@@ -1,0 +1,4 @@
+pkg: py_dempster_shafer
+build: py_dempster_shafer-0.7-py_0
+install: py_dempster_shafer==0.7
+pip_check: "No broken requirements found.\n"
