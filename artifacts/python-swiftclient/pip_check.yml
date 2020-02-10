@@ -1,0 +1,4 @@
+pkg: python-swiftclient
+build: python-swiftclient-3.8.1-py37_0
+install: python-swiftclient==3.8.1
+pip_check: "No broken requirements found.\n"
