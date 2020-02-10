@@ -1,0 +1,4 @@
+pkg: xarray-simlab
+build: xarray-simlab-0.2.1-py_1
+install: xarray-simlab==0.2.1
+pip_check: "No broken requirements found.\n"
