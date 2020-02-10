@@ -1,0 +1,4 @@
+pkg: pytest-json
+build: pytest-json-0.4.0-py_1
+install: pytest-json==0.4.0
+pip_check: "No broken requirements found.\n"
