@@ -1,0 +1,6 @@
+pkg: pymor
+build: pymor-0.5.1-py37hd352d35_3
+install: pymor==0.5.1
+pip_check: "pymor 0+unknown requires cython, which is not installed.\npymor 0+unknown\
+  \ requires sphinx, which is not installed.\npyamg 4.0.0 requires pybind11, which\
+  \ is not installed.\npyamg 4.0.0 requires pytest, which is not installed.\n"
