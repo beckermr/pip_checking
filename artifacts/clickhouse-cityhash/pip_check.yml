@@ -1,0 +1,4 @@
+pkg: clickhouse-cityhash
+build: clickhouse-cityhash-1.0.2.3-py37he1b5a44_0
+install: clickhouse-cityhash==1.0.2.3
+pip_check: "No broken requirements found.\n"
