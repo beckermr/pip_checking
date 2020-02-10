@@ -1,0 +1,4 @@
+pkg: py-plumed
+build: py-plumed-2.5.2-py37he1b5a44_0
+install: py-plumed==2.5.2
+pip_check: "No broken requirements found.\n"
