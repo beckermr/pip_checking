@@ -1,0 +1,4 @@
+pkg: pip
+build: pip-18.0-py37_1
+install: pip==18.0
+pip_check: "No broken requirements found.\n"
