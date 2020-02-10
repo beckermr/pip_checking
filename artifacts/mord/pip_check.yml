@@ -1,0 +1,4 @@
+pkg: mord
+build: mord-0.6-py_0
+install: mord==0.6
+pip_check: "No broken requirements found.\n"
