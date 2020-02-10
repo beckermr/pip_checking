@@ -1,0 +1,4 @@
+pkg: numcosmo
+build: numcosmo-0.14.2-py37hd2cc57c_0
+install: numcosmo==0.14.2
+pip_check: "No broken requirements found.\n"
