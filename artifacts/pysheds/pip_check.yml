@@ -1,0 +1,4 @@
+pkg: pysheds
+build: pysheds-0.2.6-py37h14c3975_0
+install: pysheds==0.2.6
+pip_check: "No broken requirements found.\n"
