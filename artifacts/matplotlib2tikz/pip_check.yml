@@ -1,0 +1,4 @@
+pkg: matplotlib2tikz
+build: matplotlib2tikz-0.7.3-py_0
+install: matplotlib2tikz==0.7.3
+pip_check: "No broken requirements found.\n"
