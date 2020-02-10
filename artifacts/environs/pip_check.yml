@@ -1,0 +1,4 @@
+pkg: environs
+build: environs-7.0.0-py_0
+install: environs==7.0.0
+pip_check: "No broken requirements found.\n"
