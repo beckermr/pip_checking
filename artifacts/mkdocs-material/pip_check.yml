@@ -1,0 +1,7 @@
+pkg: mkdocs-material
+build: mkdocs-material-4.5.0-py_0
+install: mkdocs-material==4.5.0
+pip_check: "mkdocs-material 4.5.0 requires mkdocs-minify-plugin, which is not installed.\n\
+  mkdocs-material 4.5.0 has requirement markdown<3.2, but you have markdown 3.2.\n\
+  mkdocs-material 4.5.0 has requirement pymdown-extensions<6.3,>=6.2, but you have\
+  \ pymdown-extensions 6.0.\n"
