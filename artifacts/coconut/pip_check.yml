@@ -1,0 +1,4 @@
+pkg: coconut
+build: coconut-1.4.2-py37_0
+install: coconut==1.4.2
+pip_check: "coconut 1.4.2 requires cpyparsing, which is not installed.\n"
