@@ -1,0 +1,4 @@
+pkg: contextily
+build: contextily-1.0rc2-py_0
+install: contextily==1.0rc2
+pip_check: "No broken requirements found.\n"
