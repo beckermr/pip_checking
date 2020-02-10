@@ -1,0 +1,4 @@
+pkg: requestsexceptions
+build: requestsexceptions-1.4.0-py_0
+install: requestsexceptions==1.4.0
+pip_check: "No broken requirements found.\n"
