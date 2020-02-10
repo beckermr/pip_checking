@@ -1,0 +1,4 @@
+pkg: django-rq
+build: django-rq-0.9.6-py_0
+install: django-rq==0.9.6
+pip_check: "No broken requirements found.\n"
