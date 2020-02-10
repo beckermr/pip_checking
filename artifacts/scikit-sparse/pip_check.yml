@@ -1,0 +1,4 @@
+pkg: scikit-sparse
+build: scikit-sparse-0.4.4-py37h80bd3c2_1002
+install: scikit-sparse==0.4.4
+pip_check: "No broken requirements found.\n"
