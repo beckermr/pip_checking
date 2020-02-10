@@ -1,0 +1,4 @@
+pkg: basemap
+build: basemap-1.2.1-py37hd1be537_2
+install: basemap==1.2.1
+pip_check: "No broken requirements found.\n"
