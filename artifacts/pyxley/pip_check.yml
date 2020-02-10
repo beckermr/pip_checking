@@ -1,0 +1,4 @@
+pkg: pyxley
+build: pyxley-0.1.0-py_1
+install: pyxley==0.1.0
+pip_check: "No broken requirements found.\n"
