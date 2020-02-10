@@ -1,0 +1,4 @@
+pkg: awkward-numba
+build: awkward-numba-0.8.12-py_0
+install: awkward-numba==0.8.12
+pip_check: "No broken requirements found.\n"
