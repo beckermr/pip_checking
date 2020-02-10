@@ -1,0 +1,4 @@
+pkg: dash-core-components
+build: dash-core-components-0.22.1-py_0
+install: dash-core-components==0.22.1
+pip_check: "No broken requirements found.\n"
