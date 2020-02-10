@@ -1,0 +1,4 @@
+pkg: glib
+build: glib-2.58.3-py37h6f030ca_1002
+install: glib==2.58.3
+pip_check: "No broken requirements found.\n"
