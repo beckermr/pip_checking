@@ -1,0 +1,4 @@
+pkg: edalize
+build: edalize-0.1.7-py_0
+install: edalize==0.1.7
+pip_check: "No broken requirements found.\n"
