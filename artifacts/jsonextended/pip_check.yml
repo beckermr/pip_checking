@@ -1,0 +1,4 @@
+pkg: jsonextended
+build: jsonextended-0.7.10-py_0
+install: jsonextended==0.7.10
+pip_check: "No broken requirements found.\n"
