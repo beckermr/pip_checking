@@ -1,0 +1,4 @@
+pkg: betamax
+build: betamax-0.8.1-py_0
+install: betamax==0.8.1
+pip_check: "No broken requirements found.\n"
