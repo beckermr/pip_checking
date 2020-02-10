@@ -1,0 +1,4 @@
+pkg: jupyternotify
+build: jupyternotify-0.1.15-py_0
+install: jupyternotify==0.1.15
+pip_check: "jupyternotify 0.1.15 requires jupyter, which is not installed.\n"
