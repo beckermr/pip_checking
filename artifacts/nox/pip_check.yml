@@ -1,0 +1,5 @@
+pkg: nox
+build: nox-2018.10.17-py_0
+install: nox==2018.10.17
+pip_check: "tox 3.14.1 has requirement importlib-metadata<1,>=0.12; python_version\
+  \ < \"3.8\", but you have importlib-metadata 1.5.0.\n"
