@@ -1,0 +1,4 @@
+pkg: conda-prefix-replacement
+build: conda-prefix-replacement-0.1.1-py_0
+install: conda-prefix-replacement==0.1.1
+pip_check: "No broken requirements found.\n"
