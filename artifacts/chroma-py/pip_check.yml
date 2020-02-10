@@ -1,0 +1,4 @@
+pkg: chroma-py
+build: chroma-py-0.1.0.dev1-py_0
+install: chroma-py==0.1.0.dev1
+pip_check: "No broken requirements found.\n"
