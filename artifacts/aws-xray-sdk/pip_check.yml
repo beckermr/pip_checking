@@ -1,0 +1,4 @@
+pkg: aws-xray-sdk
+build: aws-xray-sdk-0.95-py_0
+install: aws-xray-sdk==0.95
+pip_check: "No broken requirements found.\n"
