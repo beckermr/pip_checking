@@ -1,0 +1,6 @@
+pkg: scipy-sugar
+build: scipy-sugar-1.0.7-py_1
+install: scipy-sugar==1.0.7
+pip_check: "scipy-sugar 1.0.7 requires optimix, which is not installed.\nscipy-sugar\
+  \ 1.0.7 requires pytest, which is not installed.\nscipy-sugar 1.0.7 requires toolz,\
+  \ which is not installed.\n"
