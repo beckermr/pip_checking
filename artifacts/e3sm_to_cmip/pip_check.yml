@@ -1,0 +1,4 @@
+pkg: e3sm_to_cmip
+build: e3sm_to_cmip-1.3-py37_0
+install: e3sm_to_cmip==1.3
+pip_check: "No broken requirements found.\n"
