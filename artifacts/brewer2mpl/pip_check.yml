@@ -1,0 +1,4 @@
+pkg: brewer2mpl
+build: brewer2mpl-1.4.1-py_3
+install: brewer2mpl==1.4.1
+pip_check: "No broken requirements found.\n"
