@@ -1,0 +1,5 @@
+pkg: compyle
+build: compyle-0.5-py37h9de70de_0
+install: compyle==0.5
+pip_check: "compyle 0.5 requires cython, which is not installed.\ncompyle 0.5 requires\
+  \ pytest, which is not installed.\n"
