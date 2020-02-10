@@ -1,0 +1,4 @@
+pkg: brial
+build: brial-1.2.5-py_1
+install: brial==1.2.5
+pip_check: "No broken requirements found.\n"
