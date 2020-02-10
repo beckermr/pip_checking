@@ -1,0 +1,4 @@
+pkg: lsst-dd-rtd-theme
+build: lsst-dd-rtd-theme-0.2.3-py_0
+install: lsst-dd-rtd-theme==0.2.3
+pip_check: "No broken requirements found.\n"
