@@ -1,0 +1,4 @@
+pkg: keystoneauth1
+build: keystoneauth1-3.10.0-py_0
+install: keystoneauth1==3.10.0
+pip_check: "No broken requirements found.\n"
