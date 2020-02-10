@@ -1,0 +1,4 @@
+pkg: seccomp
+build: seccomp-2.3.3-py37h14c3975_1001
+install: seccomp==2.3.3
+pip_check: "No broken requirements found.\n"
