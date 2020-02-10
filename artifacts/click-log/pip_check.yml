@@ -1,0 +1,4 @@
+pkg: click-log
+build: click-log-0.3.2-py_0
+install: click-log==0.3.2
+pip_check: "No broken requirements found.\n"
