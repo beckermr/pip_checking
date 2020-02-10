@@ -1,0 +1,4 @@
+pkg: sos-notebook
+build: sos-notebook-0.21.3-py37_0
+install: sos-notebook==0.21.3
+pip_check: "No broken requirements found.\n"
