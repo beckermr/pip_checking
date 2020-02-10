@@ -1,0 +1,4 @@
+pkg: mgrs
+build: mgrs-1.3.6-py37he1b5a44_0
+install: mgrs==1.3.6
+pip_check: "No broken requirements found.\n"
