@@ -1,0 +1,4 @@
+pkg: httpretty
+build: httpretty-0.9.5-py_0
+install: httpretty==0.9.5
+pip_check: "No broken requirements found.\n"
