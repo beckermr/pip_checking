@@ -108,8 +108,10 @@ if __name__ == '__main__':
     tot_good = 0
     for i, pkg in enumerate(pkgs):
         pkg = os.path.basename(pkg)
-        if pkg in ['nltk_data', 'nltk-data']:
+
+        if pkg in ['nltk_data', 'nltk-data', 'rake_nltk'] or 'nltk' in pkg:
             continue
+
         print("==============================================================")
         print("==============================================================")
         print("==============================================================")
