@@ -1,0 +1,4 @@
+pkg: fuzzy-rough-learn
+build: fuzzy-rough-learn-0.0.0-py_0
+install: fuzzy-rough-learn==0.0.0
+pip_check: "No broken requirements found.\n"
