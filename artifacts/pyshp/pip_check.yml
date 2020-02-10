@@ -1,0 +1,4 @@
+pkg: pyshp
+build: pyshp-1.2.12-py_0
+install: pyshp==1.2.12
+pip_check: "No broken requirements found.\n"
