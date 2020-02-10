@@ -1,0 +1,4 @@
+pkg: ann_visualizer
+build: ann_visualizer-2.5-py_0
+install: ann_visualizer==2.5
+pip_check: "No broken requirements found.\n"
