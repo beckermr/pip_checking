@@ -1,0 +1,4 @@
+pkg: flask-bower
+build: flask-bower-1.3.0-py_0
+install: flask-bower==1.3.0
+pip_check: "No broken requirements found.\n"
