@@ -1,0 +1,4 @@
+pkg: python-markdown-math
+build: python-markdown-math-0.5-py_0
+install: python-markdown-math==0.5
+pip_check: "No broken requirements found.\n"
