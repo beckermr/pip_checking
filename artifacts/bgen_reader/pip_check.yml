@@ -1,0 +1,4 @@
+pkg: bgen_reader
+build: bgen_reader-2.0.8-py37h14c3975_0
+install: bgen_reader==2.0.8
+pip_check: "No broken requirements found.\n"
