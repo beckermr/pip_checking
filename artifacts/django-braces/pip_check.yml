@@ -1,0 +1,4 @@
+pkg: django-braces
+build: django-braces-1.13.0-py_1
+install: django-braces==1.13.0
+pip_check: "No broken requirements found.\n"
