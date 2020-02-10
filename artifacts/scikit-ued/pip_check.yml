@@ -1,0 +1,4 @@
+pkg: scikit-ued
+build: scikit-ued-2.0.0-py_1
+install: scikit-ued==2.0.0
+pip_check: "npstreams 1.6.2 requires cython, which is not installed.\n"
