@@ -1,0 +1,4 @@
+pkg: webargs
+build: webargs-5.2.0-py_0
+install: webargs==5.2.0
+pip_check: "webargs 5.2.0 requires simplejson, which is not installed.\n"
