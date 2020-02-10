@@ -1,0 +1,4 @@
+pkg: gatspy
+build: gatspy-0.3-py_0
+install: gatspy==0.3
+pip_check: "No broken requirements found.\n"
