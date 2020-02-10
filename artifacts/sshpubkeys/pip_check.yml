@@ -1,0 +1,4 @@
+pkg: sshpubkeys
+build: sshpubkeys-3.1.0-py_0
+install: sshpubkeys==3.1.0
+pip_check: "No broken requirements found.\n"
