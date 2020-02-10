@@ -1,0 +1,4 @@
+pkg: aiochclient
+build: aiochclient-1.1.3-py37h516909a_0
+install: aiochclient==1.1.3
+pip_check: "No broken requirements found.\n"
