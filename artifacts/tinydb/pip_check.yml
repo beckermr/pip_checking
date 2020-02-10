@@ -1,0 +1,4 @@
+pkg: tinydb
+build: tinydb-3.15.1-py_0
+install: tinydb==3.15.1
+pip_check: "No broken requirements found.\n"
