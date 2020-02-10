@@ -1,0 +1,4 @@
+pkg: mccabe
+build: mccabe-0.6.1-py_1
+install: mccabe==0.6.1
+pip_check: "No broken requirements found.\n"
