@@ -1,0 +1,4 @@
+pkg: mpl-probscale
+build: mpl-probscale-0.2.3-py37_1000
+install: mpl-probscale==0.2.3
+pip_check: "No broken requirements found.\n"
