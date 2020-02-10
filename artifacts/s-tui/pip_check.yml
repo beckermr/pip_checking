@@ -1,0 +1,4 @@
+pkg: s-tui
+build: s-tui-0.8.3-py37_0
+install: s-tui==0.8.3
+pip_check: "No broken requirements found.\n"
