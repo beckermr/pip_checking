@@ -1,0 +1,4 @@
+pkg: xonda
+build: xonda-0.2.4-py_0
+install: xonda==0.2.4
+pip_check: "No broken requirements found.\n"
