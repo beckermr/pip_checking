@@ -1,0 +1,4 @@
+pkg: xpdsim
+build: xpdsim-0.4.0-py37_0
+install: xpdsim==0.4.0
+pip_check: "No broken requirements found.\n"
