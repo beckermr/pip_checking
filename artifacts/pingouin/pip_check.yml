@@ -1,0 +1,4 @@
+pkg: pingouin
+build: pingouin-0.3.3-py_0
+install: pingouin==0.3.3
+pip_check: "No broken requirements found.\n"
