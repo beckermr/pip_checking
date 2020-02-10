@@ -1,0 +1,4 @@
+pkg: croniter
+build: croniter-0.3.30-py_0
+install: croniter==0.3.30
+pip_check: "No broken requirements found.\n"
