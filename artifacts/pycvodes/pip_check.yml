@@ -1,0 +1,4 @@
+pkg: pycvodes
+build: pycvodes-0.11.12-py37h69d7381_0
+install: pycvodes==0.11.12
+pip_check: "No broken requirements found.\n"
