@@ -1,0 +1,4 @@
+pkg: momepy
+build: momepy-0.1rc1-py_1
+install: momepy==0.1rc1
+pip_check: "libpysal 4.2.2 requires bs4, which is not installed.\n"
