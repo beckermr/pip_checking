@@ -1,0 +1,4 @@
+pkg: compas
+build: compas-0.3.6-py37_1000
+install: compas==0.3.6
+pip_check: "No broken requirements found.\n"
