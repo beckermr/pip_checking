@@ -1,0 +1,7 @@
+pkg: pyjanitor
+build: pyjanitor-0.7.0-py_0
+install: pyjanitor==0.7.0
+pip_check: "pyjanitor 0.7.0 requires pytest, which is not installed.\npyjanitor 0.7.0\
+  \ requires sphinxcontrib-fulltoc, which is not installed.\npyjanitor 0.7.0 requires\
+  \ xlrd, which is not installed.\npyjanitor 0.7.0 has requirement pandas-flavor==0.1.2,\
+  \ but you have pandas-flavor 0.2.0.\n"
