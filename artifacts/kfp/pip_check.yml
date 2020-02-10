@@ -1,0 +1,6 @@
+pkg: kfp
+build: kfp-0.1.31.2-py_0
+install: kfp==0.1.31.2
+pip_check: "kfp 0.1.31.2 has requirement argo-models==2.2.1a, but you have argo-models\
+  \ 2.3.0.post1.\nkfp 0.1.31.2 has requirement kfp-server-api<=0.1.25,>=0.1.18, but\
+  \ you have kfp-server-api 0.1.100.\n"
