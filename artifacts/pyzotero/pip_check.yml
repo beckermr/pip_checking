@@ -1,0 +1,4 @@
+pkg: pyzotero
+build: pyzotero-1.4.7-py_0
+install: pyzotero==1.4.7
+pip_check: "pyzotero 1.4.7 requires pathlib, which is not installed.\n"
