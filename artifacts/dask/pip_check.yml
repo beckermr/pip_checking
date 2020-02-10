@@ -1,0 +1,4 @@
+pkg: dask
+build: dask-2.0.0-py_0
+install: dask==2.0.0
+pip_check: "distributed 2.5.2 has requirement dask>=2.3, but you have dask 2.0.0.\n"
