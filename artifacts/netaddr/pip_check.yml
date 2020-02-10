@@ -1,0 +1,4 @@
+pkg: netaddr
+build: netaddr-0.7.19-py_0
+install: netaddr==0.7.19
+pip_check: "No broken requirements found.\n"
