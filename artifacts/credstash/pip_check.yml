@@ -1,0 +1,4 @@
+pkg: credstash
+build: credstash-1.16.1-py_0
+install: credstash==1.16.1
+pip_check: "No broken requirements found.\n"
