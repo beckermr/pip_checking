@@ -1,0 +1,4 @@
+pkg: deprecation
+build: deprecation-2.0.1-py_0
+install: deprecation==2.0.1
+pip_check: "No broken requirements found.\n"
