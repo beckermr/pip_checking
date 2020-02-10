@@ -1,0 +1,4 @@
+pkg: pyaudio
+build: pyaudio-0.2.11-py37h470a237_0
+install: pyaudio==0.2.11
+pip_check: "No broken requirements found.\n"
