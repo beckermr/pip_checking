@@ -1,0 +1,4 @@
+pkg: certifi
+build: certifi-2019.11.28-py37_0
+install: certifi==2019.11.28
+pip_check: "No broken requirements found.\n"
