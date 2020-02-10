@@ -1,0 +1,4 @@
+pkg: event-model
+build: event-model-1.5.0-py37_1000
+install: event-model==1.5.0
+pip_check: "No broken requirements found.\n"
