@@ -1,0 +1,4 @@
+pkg: sqlalchemy-utils
+build: sqlalchemy-utils-0.34.1-py_0
+install: sqlalchemy-utils==0.34.1
+pip_check: "No broken requirements found.\n"
