@@ -1,0 +1,4 @@
+pkg: dsc
+build: dsc-0.3.8-py_0
+install: dsc==0.3.8
+pip_check: "dsc 0.3.8 requires msgpack-python, which is not installed.\n"
