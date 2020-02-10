@@ -1,0 +1,4 @@
+pkg: cgen
+build: cgen-2020.1-py_0
+install: cgen==2020.1
+pip_check: "No broken requirements found.\n"
