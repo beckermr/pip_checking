@@ -1,0 +1,4 @@
+pkg: flake8-rst
+build: flake8-rst-0.6.0-py_0
+install: flake8-rst==0.6.0
+pip_check: "No broken requirements found.\n"
