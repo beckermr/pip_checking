@@ -1,0 +1,4 @@
+pkg: python-configuration
+build: python-configuration-0.6.0-py_0
+install: python-configuration==0.6.0
+pip_check: "No broken requirements found.\n"
