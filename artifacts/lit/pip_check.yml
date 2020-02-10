@@ -1,0 +1,4 @@
+pkg: lit
+build: lit-0.8.0-py_0
+install: lit==0.8.0
+pip_check: "No broken requirements found.\n"
