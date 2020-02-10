@@ -1,0 +1,4 @@
+pkg: cis_interface
+build: cis_interface-0.7.10-py37h1768529_1002
+install: cis_interface==0.7.10
+pip_check: "No broken requirements found.\n"
