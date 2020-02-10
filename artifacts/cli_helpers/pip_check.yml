@@ -1,0 +1,4 @@
+pkg: cli_helpers
+build: cli_helpers-1.0.1-py_0
+install: cli_helpers==1.0.1
+pip_check: "cli-helpers 1.0.1 requires tabulate, which is not installed.\n"
