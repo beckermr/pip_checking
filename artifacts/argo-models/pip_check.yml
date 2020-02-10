@@ -1,0 +1,4 @@
+pkg: argo-models
+build: argo-models-2.4.2-py_0
+install: argo-models==2.4.2
+pip_check: "argo-models 2.4.2 requires kubernetes, which is not installed.\n"
