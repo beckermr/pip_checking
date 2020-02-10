@@ -1,0 +1,4 @@
+pkg: wstool
+build: wstool-0.1.18-py37_1
+install: wstool==0.1.18
+pip_check: "No broken requirements found.\n"
