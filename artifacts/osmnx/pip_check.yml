@@ -1,0 +1,4 @@
+pkg: osmnx
+build: osmnx-0.8-py_0
+install: osmnx==0.8
+pip_check: "No broken requirements found.\n"
