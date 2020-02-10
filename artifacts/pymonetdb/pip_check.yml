@@ -1,0 +1,4 @@
+pkg: pymonetdb
+build: pymonetdb-1.1.1-py_0
+install: pymonetdb==1.1.1
+pip_check: "No broken requirements found.\n"
