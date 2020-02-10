@@ -1,0 +1,4 @@
+pkg: jgo
+build: jgo-0.4.0-py37_0
+install: jgo==0.4.0
+pip_check: "No broken requirements found.\n"
