@@ -1,0 +1,4 @@
+pkg: munkres
+build: munkres-1.0.12-py_0
+install: munkres==1.0.12
+pip_check: "No broken requirements found.\n"
