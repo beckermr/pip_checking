@@ -1,0 +1,4 @@
+pkg: trio_asyncio
+build: trio_asyncio-0.10.0-py37_1003
+install: trio_asyncio==0.10.0
+pip_check: "No broken requirements found.\n"
