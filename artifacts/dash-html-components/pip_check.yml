@@ -1,0 +1,4 @@
+pkg: dash-html-components
+build: dash-html-components-0.16.0-py_0
+install: dash-html-components==0.16.0
+pip_check: "No broken requirements found.\n"
