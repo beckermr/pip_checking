@@ -1,0 +1,4 @@
+pkg: quantecon
+build: quantecon-0.4.3-py37_1000
+install: quantecon==0.4.3
+pip_check: "No broken requirements found.\n"
