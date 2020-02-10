@@ -1,0 +1,4 @@
+pkg: pymedphys_electronfactors
+build: pymedphys_electronfactors-0.10.0-py_1
+install: pymedphys_electronfactors==0.10.0
+pip_check: "No broken requirements found.\n"
