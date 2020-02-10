@@ -1,0 +1,4 @@
+pkg: ros-gennodejs
+build: ros-gennodejs-2.0.1-py37he1b5a44_0
+install: ros-gennodejs==2.0.1
+pip_check: "No broken requirements found.\n"
