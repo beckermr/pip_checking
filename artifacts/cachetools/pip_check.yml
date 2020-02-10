@@ -1,0 +1,4 @@
+pkg: cachetools
+build: cachetools-2.0.1-py_0
+install: cachetools==2.0.1
+pip_check: "No broken requirements found.\n"
