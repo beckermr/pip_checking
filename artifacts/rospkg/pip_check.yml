@@ -1,0 +1,4 @@
+pkg: rospkg
+build: rospkg-1.2.2-py_0
+install: rospkg==1.2.2
+pip_check: "rospkg 1.2.2 requires distro, which is not installed.\n"
