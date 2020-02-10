@@ -1,0 +1,4 @@
+pkg: biorbd-viz
+build: biorbd-viz-0.1.1-py37he098e0a_0
+install: biorbd-viz==0.1.1
+pip_check: "No broken requirements found.\n"
