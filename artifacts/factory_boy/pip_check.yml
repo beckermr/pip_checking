@@ -1,0 +1,4 @@
+pkg: factory_boy
+build: factory_boy-2.11.0-py_0
+install: factory_boy==2.11.0
+pip_check: "No broken requirements found.\n"
