@@ -1,0 +1,4 @@
+pkg: xarray_mongodb
+build: xarray_mongodb-0.1.0-py_0
+install: xarray_mongodb==0.1.0
+pip_check: "No broken requirements found.\n"
