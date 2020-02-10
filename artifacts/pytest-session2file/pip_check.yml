@@ -1,0 +1,4 @@
+pkg: pytest-session2file
+build: pytest-session2file-0.1.9-py_0
+install: pytest-session2file==0.1.9
+pip_check: "No broken requirements found.\n"
