@@ -1,0 +1,4 @@
+pkg: radical.saga
+build: radical.saga-1.0.1-py37_0
+install: radical.saga==1.0.1
+pip_check: "apache-libcloud 2.8.0 requires requests, which is not installed.\n"
