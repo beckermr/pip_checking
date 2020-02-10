@@ -1,0 +1,4 @@
+pkg: intake-accumulo
+build: intake-accumulo-0.1.1-py_0
+install: intake-accumulo==0.1.1
+pip_check: "intake-astro 0.1.1 requires pytest, which is not installed.\n"
