@@ -1,0 +1,4 @@
+pkg: python-twitter
+build: python-twitter-3.5-py_0
+install: python-twitter==3.5
+pip_check: "No broken requirements found.\n"
