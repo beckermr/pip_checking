@@ -1,0 +1,4 @@
+pkg: fasttsne
+build: fasttsne-0.2.13-py37h3010b51_1
+install: fasttsne==0.2.13
+pip_check: "No broken requirements found.\n"
