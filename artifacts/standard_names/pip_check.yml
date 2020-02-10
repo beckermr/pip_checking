@@ -1,0 +1,7 @@
+pkg: standard_names
+build: standard_names-0.2.5-py_0
+install: standard_names==0.2.5
+pip_check: "standard-names 0.2.5 requires binaryornot, which is not installed.\nstandard-names\
+  \ 0.2.5 requires jinja2, which is not installed.\nstandard-names 0.2.5 requires\
+  \ packaging, which is not installed.\nstandard-names 0.2.5 requires py-scripting,\
+  \ which is not installed.\n"
