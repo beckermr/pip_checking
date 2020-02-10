@@ -1,0 +1,4 @@
+pkg: gulpio
+build: gulpio-540.66-py_0
+install: gulpio==540.66
+pip_check: "gulpio 540.66 requires opencv-python, which is not installed.\n"
