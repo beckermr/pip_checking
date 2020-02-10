@@ -1,0 +1,4 @@
+pkg: pyugrid
+build: pyugrid-0.3.1-py_2
+install: pyugrid==0.3.1
+pip_check: "pyugrid 0.3.1 requires scipy, which is not installed.\n"
