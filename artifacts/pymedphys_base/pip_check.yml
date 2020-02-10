@@ -1,0 +1,4 @@
+pkg: pymedphys_base
+build: pymedphys_base-0.11.0-py_0
+install: pymedphys_base==0.11.0
+pip_check: "No broken requirements found.\n"
