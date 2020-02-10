@@ -1,0 +1,4 @@
+pkg: photutils
+build: photutils-0.7.1-py37h516909a_0
+install: photutils==0.7.1
+pip_check: "No broken requirements found.\n"
