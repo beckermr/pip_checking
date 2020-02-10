@@ -1,0 +1,4 @@
+pkg: yggdrasil
+build: yggdrasil-0.10.0-py37h1768529_0
+install: yggdrasil==0.10.0
+pip_check: "No broken requirements found.\n"
