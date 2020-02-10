@@ -1,0 +1,6 @@
+pkg: ukpopulation
+build: ukpopulation-1.2.0-py_0
+install: ukpopulation==1.2.0
+pip_check: "ukpopulation 1.2.0 has requirement openpyxl<2.6.0,>=2.5.0, but you have\
+  \ openpyxl 3.0.3.\nukpopulation 1.2.0 has requirement urllib3<1.25,>=1.21.1, but\
+  \ you have urllib3 1.25.7.\n"
