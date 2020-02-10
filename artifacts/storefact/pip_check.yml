@@ -1,0 +1,4 @@
+pkg: storefact
+build: storefact-0.8.4-py_0
+install: storefact==0.8.4
+pip_check: "No broken requirements found.\n"
