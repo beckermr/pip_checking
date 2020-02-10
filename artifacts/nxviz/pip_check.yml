@@ -1,0 +1,15 @@
+pkg: nxviz
+build: nxviz-0.6.1-py37_1
+install: nxviz==0.6.1
+pip_check: "nxviz 0.6.1 requires cryptography, which is not installed.\nnxviz 0.6.1\
+  \ requires hypothesis, which is not installed.\nnxviz 0.6.1 requires pytest, which\
+  \ is not installed.\nnxviz 0.6.1 requires pyyaml, which is not installed.\nnxviz\
+  \ 0.6.1 requires sphinxcontrib-fulltoc, which is not installed.\nnxviz 0.6.1 has\
+  \ requirement matplotlib==3.0.3, but you have matplotlib 3.1.3.\nnxviz 0.6.1 has\
+  \ requirement more-itertools==6.0.0, but you have more-itertools 8.2.0.\nnxviz 0.6.1\
+  \ has requirement networkx==2.2, but you have networkx 2.4.\nnxviz 0.6.1 has requirement\
+  \ numpy==1.16.2, but you have numpy 1.18.1.\nnxviz 0.6.1 has requirement palettable==3.1.1,\
+  \ but you have palettable 3.3.0.\nnxviz 0.6.1 has requirement pandas==0.24.2, but\
+  \ you have pandas 1.0.1.\nnxviz 0.6.1 has requirement seaborn==0.9.0, but you have\
+  \ seaborn 0.10.0.\nnxviz 0.6.1 has requirement setuptools==40.8.0, but you have\
+  \ setuptools 45.2.0.post20200209.\n"
