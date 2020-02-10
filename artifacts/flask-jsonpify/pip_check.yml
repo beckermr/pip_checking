@@ -1,0 +1,4 @@
+pkg: flask-jsonpify
+build: flask-jsonpify-1.5.0-py_1000
+install: flask-jsonpify==1.5.0
+pip_check: "No broken requirements found.\n"
