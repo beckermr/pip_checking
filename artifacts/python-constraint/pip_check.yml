@@ -1,0 +1,4 @@
+pkg: python-constraint
+build: python-constraint-1.4.0-py_0
+install: python-constraint==1.4.0
+pip_check: "No broken requirements found.\n"
