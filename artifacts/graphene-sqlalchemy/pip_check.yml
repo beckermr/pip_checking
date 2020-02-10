@@ -1,0 +1,4 @@
+pkg: graphene-sqlalchemy
+build: graphene-sqlalchemy-2.2.2-py_0
+install: graphene-sqlalchemy==2.2.2
+pip_check: "graphene-sqlalchemy 2.2.2 requires enum34, which is not installed.\n"
