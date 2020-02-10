@@ -1,0 +1,5 @@
+pkg: jupyter_paperboy
+build: jupyter_paperboy-0.1.2-py37_0
+install: jupyter_paperboy==0.1.2
+pip_check: "jupyter-paperboy 0.1.2 requires python-crontab, which is not installed.\n\
+  jupyter-paperboy 0.1.2 has requirement falcon==1.4.1, but you have falcon 2.0.0.\n"
