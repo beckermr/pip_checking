@@ -1,0 +1,5 @@
+pkg: fmpy
+build: fmpy-0.2.16-py37h5ca1d4c_0
+install: fmpy==0.2.16
+pip_check: "fmpy 0.2.16 requires lark-parser, which is not installed.\nfmpy 0.2.16\
+  \ requires pathlib, which is not installed.\n"
