@@ -1,0 +1,4 @@
+pkg: sos-julia
+build: sos-julia-0.18.2-py_0
+install: sos-julia==0.18.2
+pip_check: "No broken requirements found.\n"
