@@ -1,0 +1,4 @@
+pkg: pynac
+build: pynac-0.7.25-py37h58d1e65_3
+install: pynac==0.7.25
+pip_check: "No broken requirements found.\n"
