@@ -1,0 +1,4 @@
+pkg: kwant
+build: kwant-1.4.1-py37hc845acd_0
+install: kwant==1.4.1
+pip_check: "No broken requirements found.\n"
