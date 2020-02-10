@@ -1,0 +1,4 @@
+pkg: pyspark-stubs
+build: pyspark-stubs-2.4.0.post5-py_0
+install: pyspark-stubs==2.4.0.post5
+pip_check: "No broken requirements found.\n"
