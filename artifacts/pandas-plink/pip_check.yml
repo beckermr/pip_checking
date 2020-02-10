@@ -1,0 +1,4 @@
+pkg: pandas-plink
+build: pandas-plink-2.0.4-py37h516909a_0
+install: pandas-plink==2.0.4
+pip_check: "No broken requirements found.\n"
