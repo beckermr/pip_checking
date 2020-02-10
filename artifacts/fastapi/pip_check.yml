@@ -1,0 +1,4 @@
+pkg: fastapi
+build: fastapi-0.45.0-py_0
+install: fastapi==0.45.0
+pip_check: "No broken requirements found.\n"
