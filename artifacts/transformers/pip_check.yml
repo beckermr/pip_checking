@@ -1,0 +1,4 @@
+pkg: transformers
+build: transformers-2.1.1-py_0
+install: transformers==2.1.1
+pip_check: "transformers 2.1.1 requires sentencepiece, which is not installed.\n"
