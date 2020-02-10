@@ -1,0 +1,4 @@
+pkg: ratelim
+build: ratelim-0.1.6-py_2
+install: ratelim==0.1.6
+pip_check: "No broken requirements found.\n"
