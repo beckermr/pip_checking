@@ -1,0 +1,4 @@
+pkg: textblob
+build: textblob-0.15.3-py_0
+install: textblob==0.15.3
+pip_check: "No broken requirements found.\n"
