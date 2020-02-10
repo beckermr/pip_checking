@@ -1,0 +1,4 @@
+pkg: bilby
+build: bilby-0.6.3-py_0
+install: bilby==0.6.3
+pip_check: "No broken requirements found.\n"
