@@ -1,0 +1,4 @@
+pkg: fastcluster
+build: fastcluster-1.1.25-py37hb3f55d8_1000
+install: fastcluster==1.1.25
+pip_check: "No broken requirements found.\n"
