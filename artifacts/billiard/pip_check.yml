@@ -1,0 +1,4 @@
+pkg: billiard
+build: billiard-3.5.0.4-py37h14c3975_1000
+install: billiard==3.5.0.4
+pip_check: "No broken requirements found.\n"
