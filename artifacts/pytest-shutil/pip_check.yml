@@ -1,0 +1,4 @@
+pkg: pytest-shutil
+build: pytest-shutil-1.3.0-py_0
+install: pytest-shutil==1.3.0
+pip_check: "pytest-shutil 1.3.0 requires path-py, which is not installed.\n"
