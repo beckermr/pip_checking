@@ -1,0 +1,4 @@
+pkg: pypdf2
+build: pypdf2-1.26.0-py_2
+install: pypdf2==1.26.0
+pip_check: "No broken requirements found.\n"
