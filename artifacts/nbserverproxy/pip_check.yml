@@ -1,0 +1,4 @@
+pkg: nbserverproxy
+build: nbserverproxy-0.8.3-py37_1000
+install: nbserverproxy==0.8.3
+pip_check: "No broken requirements found.\n"
