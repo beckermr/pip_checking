@@ -1,0 +1,4 @@
+pkg: python-avro
+build: python-avro-1.9.1-py37_0
+install: python-avro==1.9.1
+pip_check: "No broken requirements found.\n"
