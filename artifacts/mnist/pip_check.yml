@@ -1,0 +1,4 @@
+pkg: mnist
+build: mnist-0.2.2-py_0
+install: mnist==0.2.2
+pip_check: "No broken requirements found.\n"
