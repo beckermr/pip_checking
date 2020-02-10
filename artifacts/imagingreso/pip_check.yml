@@ -1,0 +1,4 @@
+pkg: imagingreso
+build: imagingreso-1.6.17-py_0
+install: imagingreso==1.6.17
+pip_check: "No broken requirements found.\n"
