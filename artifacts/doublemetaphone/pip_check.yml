@@ -1,0 +1,4 @@
+pkg: doublemetaphone
+build: doublemetaphone-0.1-py37hfc679d8_0
+install: doublemetaphone==0.1
+pip_check: "No broken requirements found.\n"
