@@ -1,0 +1,4 @@
+pkg: pycroscopy
+build: pycroscopy-0.60.2-py37_1000
+install: pycroscopy==0.60.2
+pip_check: "pycroscopy 0.60.2 requires numba, which is not installed.\n"
