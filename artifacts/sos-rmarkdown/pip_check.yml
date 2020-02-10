@@ -1,0 +1,4 @@
+pkg: sos-rmarkdown
+build: sos-rmarkdown-0.1.1-py_0
+install: sos-rmarkdown==0.1.1
+pip_check: "No broken requirements found.\n"
