@@ -1,0 +1,4 @@
+pkg: dagster_papertrail
+build: dagster_papertrail-0.6.5-py_0
+install: dagster_papertrail==0.6.5
+pip_check: "No broken requirements found.\n"
