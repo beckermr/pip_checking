@@ -1,0 +1,4 @@
+pkg: fabio
+build: fabio-0.8.0-py37h3010b51_1000
+install: fabio==0.8.0
+pip_check: "No broken requirements found.\n"
