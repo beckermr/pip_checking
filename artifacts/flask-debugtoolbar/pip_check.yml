@@ -1,0 +1,4 @@
+pkg: flask-debugtoolbar
+build: flask-debugtoolbar-0.10.1-py37_1000
+install: flask-debugtoolbar==0.10.1
+pip_check: "flask-debugtoolbar 0.10.1 requires blinker, which is not installed.\n"
