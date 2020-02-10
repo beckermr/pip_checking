@@ -1,0 +1,4 @@
+pkg: gstools
+build: gstools-1.1.1-py37h516909a_0
+install: gstools==1.1.1
+pip_check: "gstools 1.1.1 has requirement emcee>=3.0.0, but you have emcee 0.0.0.\n"
