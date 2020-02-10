@@ -1,0 +1,4 @@
+pkg: buildbot-worker
+build: buildbot-worker-2.4.0-py37_0
+install: buildbot-worker==2.4.0
+pip_check: "No broken requirements found.\n"
