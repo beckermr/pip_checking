@@ -1,0 +1,4 @@
+pkg: python-symengine
+build: python-symengine-0.5.1-py37h9603a25_0
+install: python-symengine==0.5.1
+pip_check: "No broken requirements found.\n"
