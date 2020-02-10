@@ -1,0 +1,4 @@
+pkg: nr
+build: nr-2.0.12-py37_0
+install: nr==2.0.12
+pip_check: "No broken requirements found.\n"
