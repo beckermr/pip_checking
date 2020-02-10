@@ -1,0 +1,4 @@
+pkg: linetools
+build: linetools-0.3.dev2130-py37_0
+install: linetools==0.3.dev2130
+pip_check: "No broken requirements found.\n"
