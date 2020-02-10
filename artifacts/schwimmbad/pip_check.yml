@@ -1,0 +1,4 @@
+pkg: schwimmbad
+build: schwimmbad-0.3.0-py37_2
+install: schwimmbad==0.3.0
+pip_check: "No broken requirements found.\n"
