@@ -1,0 +1,4 @@
+pkg: hstspreload
+build: hstspreload-2019.11.19-py_0
+install: hstspreload==2019.11.19
+pip_check: "No broken requirements found.\n"
