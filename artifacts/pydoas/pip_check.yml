@@ -1,0 +1,4 @@
+pkg: pydoas
+build: pydoas-1.2.4-py_1
+install: pydoas==1.2.4
+pip_check: "No broken requirements found.\n"
