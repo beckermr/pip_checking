@@ -1,0 +1,4 @@
+pkg: shenfun
+build: shenfun-1.4.1-py37h637b7d7_0
+install: shenfun==1.4.1
+pip_check: "shenfun 1.4.1 requires cython, which is not installed.\n"
