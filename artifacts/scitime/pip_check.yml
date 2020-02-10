@@ -1,0 +1,4 @@
+pkg: scitime
+build: scitime-0.0.1-py_0
+install: scitime==0.0.1
+pip_check: "No broken requirements found.\n"
