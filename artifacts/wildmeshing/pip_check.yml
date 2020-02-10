@@ -1,0 +1,4 @@
+pkg: wildmeshing
+build: wildmeshing-0.1.1-py37hbff90af_0
+install: wildmeshing==0.1.1
+pip_check: "No broken requirements found.\n"
