@@ -1,0 +1,4 @@
+pkg: uritemplate.py
+build: uritemplate.py-3.0.2-py_1
+install: uritemplate.py==3.0.2
+pip_check: "No broken requirements found.\n"
