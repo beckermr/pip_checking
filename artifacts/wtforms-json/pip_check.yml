@@ -1,0 +1,4 @@
+pkg: wtforms-json
+build: wtforms-json-0.3.3-py_0
+install: wtforms-json==0.3.3
+pip_check: "No broken requirements found.\n"
