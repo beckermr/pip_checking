@@ -1,0 +1,4 @@
+pkg: cdms2
+build: cdms2-3.1.4-py37h34d3450_6
+install: cdms2==3.1.4
+pip_check: "No broken requirements found.\n"
