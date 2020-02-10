@@ -1,0 +1,4 @@
+pkg: datadog
+build: datadog-0.24.0-py_0
+install: datadog==0.24.0
+pip_check: "No broken requirements found.\n"
