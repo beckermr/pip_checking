@@ -1,0 +1,4 @@
+pkg: pykwalify
+build: pykwalify-1.7.0-py_0
+install: pykwalify==1.7.0
+pip_check: "No broken requirements found.\n"
