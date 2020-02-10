@@ -1,0 +1,8 @@
+pkg: omas
+build: omas-0.51.0-py_0
+install: omas==0.51.0
+pip_check: "omas 0.51.0 requires dnspython, which is not installed.\nomas 0.51.0 requires\
+  \ h5py, which is not installed.\nomas 0.51.0 requires pymongo, which is not installed.\n\
+  omas 0.51.0 requires scipy, which is not installed.\nomas 0.51.0 requires xmltodict,\
+  \ which is not installed.\nomas 0.51.0 has requirement xarray<=0.11.0, but you have\
+  \ xarray 0.15.0.\n"
