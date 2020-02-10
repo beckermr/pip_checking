@@ -1,0 +1,4 @@
+pkg: sage-flatsurf
+build: sage-flatsurf-0.1-py_0
+install: sage-flatsurf==0.1
+pip_check: "No broken requirements found.\n"
