@@ -1,0 +1,4 @@
+pkg: srsly
+build: srsly-1.0.0-py37he1b5a44_0
+install: srsly==1.0.0
+pip_check: "No broken requirements found.\n"
