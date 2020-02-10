@@ -1,0 +1,5 @@
+pkg: warrant-lite
+build: warrant-lite-1.0.4-py_0
+install: warrant-lite==1.0.4
+pip_check: "warrant-lite 1.0.4 has requirement python-jose<4.0,>=3.0, but you have\
+  \ python-jose 2.0.2.\n"
