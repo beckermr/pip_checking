@@ -1,0 +1,4 @@
+pkg: enlopy
+build: enlopy-0.1.dev12-py37_0
+install: enlopy==0.1.dev12
+pip_check: "No broken requirements found.\n"
