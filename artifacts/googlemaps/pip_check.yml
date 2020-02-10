@@ -1,0 +1,4 @@
+pkg: googlemaps
+build: googlemaps-2.5.1-py_0
+install: googlemaps==2.5.1
+pip_check: "No broken requirements found.\n"
