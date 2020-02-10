@@ -1,0 +1,4 @@
+pkg: git-annex-remote-googledrive
+build: git-annex-remote-googledrive-0.11.1-py_0
+install: git-annex-remote-googledrive==0.11.1
+pip_check: "No broken requirements found.\n"
