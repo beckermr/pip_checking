@@ -1,0 +1,4 @@
+pkg: cantools
+build: cantools-20.6.0-py_0
+install: cantools==20.6.0
+pip_check: "No broken requirements found.\n"
