@@ -1,0 +1,4 @@
+pkg: interval_tree
+build: interval_tree-0.3.4-py_0
+install: interval_tree==0.3.4
+pip_check: "interval-tree 0.3.4 requires pytest, which is not installed.\n"
