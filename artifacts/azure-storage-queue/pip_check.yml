@@ -1,0 +1,5 @@
+pkg: azure-storage-queue
+build: azure-storage-queue-1.4.0-py_0
+install: azure-storage-queue==1.4.0
+pip_check: "azure-storage-queue 1.4.0 has requirement azure-storage-common~=1.4, but\
+  \ you have azure-storage-common 1.3.0.\n"
