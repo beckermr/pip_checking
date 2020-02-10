@@ -1,0 +1,4 @@
+pkg: alpenglow
+build: alpenglow-1.0.0-py37hf476568_1
+install: alpenglow==1.0.0
+pip_check: "No broken requirements found.\n"
