@@ -1,0 +1,4 @@
+pkg: pyinstrument_cext
+build: pyinstrument_cext-0.2.0-py37h14c3975_1000
+install: pyinstrument_cext==0.2.0
+pip_check: "No broken requirements found.\n"
