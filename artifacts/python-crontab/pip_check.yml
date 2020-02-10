@@ -1,0 +1,4 @@
+pkg: python-crontab
+build: python-crontab-2.3.8-py_0
+install: python-crontab==2.3.8
+pip_check: "No broken requirements found.\n"
