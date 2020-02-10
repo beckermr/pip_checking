@@ -1,0 +1,4 @@
+pkg: cov-core
+build: cov-core-1.15.0-py_1
+install: cov-core==1.15.0
+pip_check: "No broken requirements found.\n"
