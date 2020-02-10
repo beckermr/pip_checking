@@ -1,0 +1,4 @@
+pkg: emg3d
+build: emg3d-0.9.1-py_0
+install: emg3d==0.9.1
+pip_check: "No broken requirements found.\n"
