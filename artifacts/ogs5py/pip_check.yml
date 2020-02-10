@@ -1,0 +1,4 @@
+pkg: ogs5py
+build: ogs5py-1.0.5-py_0
+install: ogs5py==1.0.5
+pip_check: "No broken requirements found.\n"
