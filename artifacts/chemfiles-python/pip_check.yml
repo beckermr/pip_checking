@@ -1,0 +1,4 @@
+pkg: chemfiles-python
+build: chemfiles-python-0.9.3-py37h5ca1d4c_0
+install: chemfiles-python==0.9.3
+pip_check: "No broken requirements found.\n"
