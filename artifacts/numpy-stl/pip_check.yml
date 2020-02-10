@@ -1,0 +1,4 @@
+pkg: numpy-stl
+build: numpy-stl-2.9.0-py37h7eb728f_0
+install: numpy-stl==2.9.0
+pip_check: "No broken requirements found.\n"
