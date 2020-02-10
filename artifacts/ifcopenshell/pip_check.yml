@@ -1,0 +1,4 @@
+pkg: ifcopenshell
+build: ifcopenshell-v0.6.0b0-py37h8b03d3e_0
+install: ifcopenshell==v0.6.0b0
+pip_check: "No broken requirements found.\n"
