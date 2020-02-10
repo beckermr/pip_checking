@@ -1,0 +1,4 @@
+pkg: gpustat
+build: gpustat-0.6.0-py_0
+install: gpustat==0.6.0
+pip_check: "gpustat 0.6.0 requires nvidia-ml-py, which is not installed.\n"
