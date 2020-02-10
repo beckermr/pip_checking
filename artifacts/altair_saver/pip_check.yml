@@ -1,0 +1,4 @@
+pkg: altair_saver
+build: altair_saver-0.1.0-py_1
+install: altair_saver==0.1.0
+pip_check: "No broken requirements found.\n"
