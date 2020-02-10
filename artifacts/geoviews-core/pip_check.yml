@@ -1,0 +1,4 @@
+pkg: geoviews-core
+build: geoviews-core-1.6.5-py_0
+install: geoviews-core==1.6.5
+pip_check: "No broken requirements found.\n"
