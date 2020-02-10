@@ -1,0 +1,4 @@
+pkg: sregistry-google-storage
+build: sregistry-google-storage-0.2.33-py37_0
+install: sregistry-google-storage==0.2.33
+pip_check: "No broken requirements found.\n"
