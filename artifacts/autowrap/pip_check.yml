@@ -1,0 +1,4 @@
+pkg: autowrap
+build: autowrap-0.18.1-py37h516909a_1000
+install: autowrap==0.18.1
+pip_check: "No broken requirements found.\n"
