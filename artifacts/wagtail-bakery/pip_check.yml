@@ -1,0 +1,5 @@
+pkg: wagtail-bakery
+build: wagtail-bakery-0.1.0-py_0
+install: wagtail-bakery==0.1.0
+pip_check: "wagtail 2.1.2 has requirement Unidecode<1.0,>=0.04.14, but you have unidecode\
+  \ 1.1.1.\n"
