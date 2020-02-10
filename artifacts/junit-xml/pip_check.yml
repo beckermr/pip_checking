@@ -1,0 +1,4 @@
+pkg: junit-xml
+build: junit-xml-1.8-py_0
+install: junit-xml==1.8
+pip_check: "No broken requirements found.\n"
