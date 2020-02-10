@@ -1,0 +1,4 @@
+pkg: zc.lockfile
+build: zc.lockfile-2.0-py_0
+install: zc.lockfile==2.0
+pip_check: "No broken requirements found.\n"
