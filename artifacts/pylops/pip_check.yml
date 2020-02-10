@@ -1,0 +1,4 @@
+pkg: pylops
+build: pylops-1.6.0-py37h516909a_0
+install: pylops==1.6.0
+pip_check: "No broken requirements found.\n"
