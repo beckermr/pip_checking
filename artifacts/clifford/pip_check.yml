@@ -1,0 +1,4 @@
+pkg: clifford
+build: clifford-1.0.5-py_0
+install: clifford==1.0.5
+pip_check: "clifford 1.0.5 has requirement numba==0.45.1, but you have numba 0.48.0.\n"
