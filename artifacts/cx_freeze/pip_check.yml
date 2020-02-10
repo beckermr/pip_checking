@@ -1,0 +1,4 @@
+pkg: cx_freeze
+build: cx_freeze-6.1-py37h516909a_0
+install: cx_freeze==6.1
+pip_check: "No broken requirements found.\n"
