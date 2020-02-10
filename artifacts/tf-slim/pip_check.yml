@@ -1,0 +1,5 @@
+pkg: tf-slim
+build: tf-slim-0.1-py37_0
+install: tf-slim==0.1
+pip_check: "tensorflow 2.0.0 has requirement opt-einsum>=2.3.2, but you have opt-einsum\
+  \ 0+untagged.49.gdbede45.dirty.\n"
