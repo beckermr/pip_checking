@@ -1,0 +1,4 @@
+pkg: hdmf
+build: hdmf-1.1.2-py_0
+install: hdmf==1.1.2
+pip_check: "hdmf 1.1.2 requires pandas, which is not installed.\n"
