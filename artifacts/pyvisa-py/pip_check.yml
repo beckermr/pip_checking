@@ -1,0 +1,4 @@
+pkg: pyvisa-py
+build: pyvisa-py-0.3.1-py_1
+install: pyvisa-py==0.3.1
+pip_check: "No broken requirements found.\n"
