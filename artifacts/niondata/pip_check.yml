@@ -1,0 +1,4 @@
+pkg: niondata
+build: niondata-0.13.9-py_0
+install: niondata==0.13.9
+pip_check: "No broken requirements found.\n"
