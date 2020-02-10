@@ -1,0 +1,4 @@
+pkg: configobj
+build: configobj-5.0.6-py_0
+install: configobj==5.0.6
+pip_check: "No broken requirements found.\n"
