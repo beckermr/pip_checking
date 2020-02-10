@@ -1,0 +1,6 @@
+pkg: albumentations
+build: albumentations-0.4.3-py_0
+install: albumentations==0.4.3
+pip_check: "imgaug 0.4.0 requires opencv-python-headless, which is not installed.\n\
+  albumentations 0.4.3 requires opencv-python-headless, which is not installed.\n\
+  albumentations 0.4.3 has requirement imgaug<0.2.7,>=0.2.5, but you have imgaug 0.4.0.\n"
