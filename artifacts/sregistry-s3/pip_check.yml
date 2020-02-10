@@ -1,0 +1,4 @@
+pkg: sregistry-s3
+build: sregistry-s3-0.2.33-py37_0
+install: sregistry-s3==0.2.33
+pip_check: "No broken requirements found.\n"
