@@ -1,0 +1,6 @@
+pkg: jaeger-client
+build: jaeger-client-3.13.0-py37_1000
+install: jaeger-client==3.13.0
+pip_check: "threadloop 1.0.2 requires futures, which is not installed.\njaeger-client\
+  \ 3.13.0 has requirement opentracing<2,>=1.2.2, but you have opentracing 2.3.0.\n\
+  jaeger-client 3.13.0 has requirement tornado<5,>=4.3, but you have tornado 6.0.3.\n"
