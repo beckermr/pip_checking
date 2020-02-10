@@ -1,0 +1,4 @@
+pkg: pytest-html
+build: pytest-html-1.16.1-py_0
+install: pytest-html==1.16.1
+pip_check: "No broken requirements found.\n"
