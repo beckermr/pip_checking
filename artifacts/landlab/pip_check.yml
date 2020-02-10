@@ -1,0 +1,4 @@
+pkg: landlab
+build: landlab-1.10.1-py37h516909a_0
+install: landlab==1.10.1
+pip_check: "No broken requirements found.\n"
