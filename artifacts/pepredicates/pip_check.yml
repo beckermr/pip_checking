@@ -1,0 +1,4 @@
+pkg: pepredicates
+build: pepredicates-0.0.1-py_0
+install: pepredicates==0.0.1
+pip_check: "No broken requirements found.\n"
