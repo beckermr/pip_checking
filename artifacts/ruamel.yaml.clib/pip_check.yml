@@ -1,0 +1,4 @@
+pkg: ruamel.yaml.clib
+build: ruamel.yaml.clib-0.2.0-py37h516909a_0
+install: ruamel.yaml.clib==0.2.0
+pip_check: "No broken requirements found.\n"
