@@ -1,0 +1,4 @@
+pkg: dask-yarn
+build: dask-yarn-0.8.0-py37_0
+install: dask-yarn==0.8.0
+pip_check: "No broken requirements found.\n"
