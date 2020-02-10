@@ -1,0 +1,4 @@
+pkg: pygobject
+build: pygobject-3.28.3-py37h89f6ae1_1001
+install: pygobject==3.28.3
+pip_check: "No broken requirements found.\n"
