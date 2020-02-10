@@ -1,0 +1,4 @@
+pkg: distance
+build: distance-0.1.3-py_0
+install: distance==0.1.3
+pip_check: "No broken requirements found.\n"
