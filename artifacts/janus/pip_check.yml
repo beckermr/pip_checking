@@ -1,0 +1,4 @@
+pkg: janus
+build: janus-0.4.0-py_0
+install: janus==0.4.0
+pip_check: "No broken requirements found.\n"
