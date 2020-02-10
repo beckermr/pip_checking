@@ -1,0 +1,4 @@
+pkg: cassandra-driver
+build: cassandra-driver-3.18.0-py37h516909a_1
+install: cassandra-driver==3.18.0
+pip_check: "No broken requirements found.\n"
