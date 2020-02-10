@@ -1,0 +1,4 @@
+pkg: bruco
+build: bruco-0.1.1-py37_0
+install: bruco==0.1.1
+pip_check: "No broken requirements found.\n"
