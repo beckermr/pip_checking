@@ -1,0 +1,4 @@
+pkg: guidata
+build: guidata-1.7.6-py_5
+install: guidata==1.7.6
+pip_check: "No broken requirements found.\n"
