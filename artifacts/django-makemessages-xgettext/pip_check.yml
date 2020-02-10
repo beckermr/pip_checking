@@ -1,0 +1,4 @@
+pkg: django-makemessages-xgettext
+build: django-makemessages-xgettext-0.1.0-py_0
+install: django-makemessages-xgettext==0.1.0
+pip_check: "No broken requirements found.\n"
