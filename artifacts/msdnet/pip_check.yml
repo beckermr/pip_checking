@@ -1,0 +1,4 @@
+pkg: msdnet
+build: msdnet-1.0.0-py37h516909a_0
+install: msdnet==1.0.0
+pip_check: "No broken requirements found.\n"
