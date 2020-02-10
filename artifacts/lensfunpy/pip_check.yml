@@ -1,0 +1,4 @@
+pkg: lensfunpy
+build: lensfunpy-1.6.1-py37hb3f55d8_0
+install: lensfunpy==1.6.1
+pip_check: "No broken requirements found.\n"
