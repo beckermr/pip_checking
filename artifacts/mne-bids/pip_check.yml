@@ -1,0 +1,4 @@
+pkg: mne-bids
+build: mne-bids-0.3-py_0
+install: mne-bids==0.3
+pip_check: "No broken requirements found.\n"
