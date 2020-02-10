@@ -1,0 +1,4 @@
+pkg: ijson
+build: ijson-2.6.1-py_0
+install: ijson==2.6.1
+pip_check: "No broken requirements found.\n"
