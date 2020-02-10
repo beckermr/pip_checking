@@ -1,0 +1,4 @@
+pkg: capytaine
+build: capytaine-1.0.1-py37h7eb8c7e_1
+install: capytaine==1.0.1
+pip_check: "No broken requirements found.\n"
