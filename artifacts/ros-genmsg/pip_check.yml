@@ -1,0 +1,4 @@
+pkg: ros-genmsg
+build: ros-genmsg-0.5.12-py37he1b5a44_0
+install: ros-genmsg==0.5.12
+pip_check: "No broken requirements found.\n"
