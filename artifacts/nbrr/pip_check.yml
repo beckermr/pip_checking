@@ -1,0 +1,4 @@
+pkg: nbrr
+build: nbrr-0.1.2-py_0
+install: nbrr==0.1.2
+pip_check: "No broken requirements found.\n"
