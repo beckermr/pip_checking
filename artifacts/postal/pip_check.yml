@@ -1,0 +1,4 @@
+pkg: postal
+build: postal-1.0-py37h516909a_0
+install: postal==1.0
+pip_check: "postal 1.0 requires six, which is not installed.\n"
