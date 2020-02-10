@@ -1,0 +1,4 @@
+pkg: uwsgi
+build: uwsgi-2.0.18-py37h79bd928_3
+install: uwsgi==2.0.18
+pip_check: "No broken requirements found.\n"
