@@ -1,0 +1,4 @@
+pkg: fipy
+build: fipy-3.3-py37h5ca1d4c_1
+install: fipy==3.3
+pip_check: "No broken requirements found.\n"
