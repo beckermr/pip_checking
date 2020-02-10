@@ -1,0 +1,5 @@
+pkg: dask-tensorflow
+build: dask-tensorflow-0.0.2-py_0
+install: dask-tensorflow==0.0.2
+pip_check: "tensorflow 2.0.0 has requirement opt-einsum>=2.3.2, but you have opt-einsum\
+  \ 0+untagged.49.gdbede45.dirty.\n"
