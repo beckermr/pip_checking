@@ -1,0 +1,4 @@
+pkg: markdown-kernel
+build: markdown-kernel-0.2.0-py_0
+install: markdown-kernel==0.2.0
+pip_check: "markdown-kernel 0.2.0 requires notebook, which is not installed.\n"
