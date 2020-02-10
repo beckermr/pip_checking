@@ -1,0 +1,4 @@
+pkg: tenacity
+build: tenacity-5.1.2-py37_0
+install: tenacity==5.1.2
+pip_check: "No broken requirements found.\n"
