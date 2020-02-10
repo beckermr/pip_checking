@@ -1,0 +1,4 @@
+pkg: hydrostats
+build: hydrostats-0.78-py_0
+install: hydrostats==0.78
+pip_check: "No broken requirements found.\n"
