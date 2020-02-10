@@ -1,0 +1,4 @@
+pkg: python-box
+build: python-box-3.2.4-py_0
+install: python-box==3.2.4
+pip_check: "No broken requirements found.\n"
