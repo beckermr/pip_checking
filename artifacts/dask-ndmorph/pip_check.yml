@@ -1,0 +1,4 @@
+pkg: dask-ndmorph
+build: dask-ndmorph-0.1.1-py_1
+install: dask-ndmorph==0.1.1
+pip_check: "No broken requirements found.\n"
