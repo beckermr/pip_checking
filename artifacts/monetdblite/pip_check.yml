@@ -1,0 +1,4 @@
+pkg: monetdblite
+build: monetdblite-0.6.3-py37hc1659b7_0
+install: monetdblite==0.6.3
+pip_check: "No broken requirements found.\n"
