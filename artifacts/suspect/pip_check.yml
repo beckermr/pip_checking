@@ -1,0 +1,4 @@
+pkg: suspect
+build: suspect-0.3.9-py37_1000
+install: suspect==0.3.9
+pip_check: "No broken requirements found.\n"
