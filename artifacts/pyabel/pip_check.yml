@@ -1,0 +1,4 @@
+pkg: pyabel
+build: pyabel-0.8.2-py37hc1659b7_0
+install: pyabel==0.8.2
+pip_check: "No broken requirements found.\n"
