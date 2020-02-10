@@ -1,0 +1,5 @@
+pkg: geosnap
+build: geosnap-0.1.5-py_0
+install: geosnap==0.1.5
+pip_check: "region 0.2.1 requires pytest, which is not installed.\nregion 0.2.1 requires\
+  \ sklearn, which is not installed.\nlibpysal 4.2.2 requires bs4, which is not installed.\n"
