@@ -1,0 +1,4 @@
+pkg: wsgiproxy2
+build: wsgiproxy2-0.4.4-py_0
+install: wsgiproxy2==0.4.4
+pip_check: "No broken requirements found.\n"
