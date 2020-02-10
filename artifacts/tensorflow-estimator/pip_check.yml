@@ -1,0 +1,4 @@
+pkg: tensorflow-estimator
+build: tensorflow-estimator-1.14.0-py37h5ca1d4c_0
+install: tensorflow-estimator==1.14.0
+pip_check: "No broken requirements found.\n"
