@@ -1,0 +1,4 @@
+pkg: requests-unixsocket
+build: requests-unixsocket-0.2.0-py_0
+install: requests-unixsocket==0.2.0
+pip_check: "No broken requirements found.\n"
