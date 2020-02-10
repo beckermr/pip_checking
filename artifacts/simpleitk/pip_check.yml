@@ -1,0 +1,4 @@
+pkg: simpleitk
+build: simpleitk-1.2.3-py37he1b5a44_0
+install: simpleitk==1.2.3
+pip_check: "No broken requirements found.\n"
