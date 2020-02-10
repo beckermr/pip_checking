@@ -1,0 +1,4 @@
+pkg: paramz
+build: paramz-0.9.2-py_1
+install: paramz==0.9.2
+pip_check: "No broken requirements found.\n"
