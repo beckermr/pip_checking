@@ -1,0 +1,4 @@
+pkg: diskcache
+build: diskcache-4.0.0-py_0
+install: diskcache==4.0.0
+pip_check: "No broken requirements found.\n"
