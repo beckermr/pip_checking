@@ -1,0 +1,6 @@
+pkg: oslo.i18n
+build: oslo.i18n-3.21.0-py_0
+install: oslo.i18n==3.21.0
+pip_check: "testtools 2.3.0 requires python-mimeparse, which is not installed.\ntesttools\
+  \ 2.3.0 requires traceback2, which is not installed.\ntesttools 2.3.0 requires unittest2,\
+  \ which is not installed.\n"
