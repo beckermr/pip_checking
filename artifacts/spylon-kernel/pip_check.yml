@@ -1,0 +1,4 @@
+pkg: spylon-kernel
+build: spylon-kernel-0.4.1-py_1000
+install: spylon-kernel==0.4.1
+pip_check: "No broken requirements found.\n"
