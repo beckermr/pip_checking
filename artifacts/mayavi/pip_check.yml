@@ -1,0 +1,4 @@
+pkg: mayavi
+build: mayavi-4.6.2-py37h4c70da7_3
+install: mayavi==4.6.2
+pip_check: "No broken requirements found.\n"
