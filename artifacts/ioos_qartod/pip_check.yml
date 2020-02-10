@@ -1,0 +1,4 @@
+pkg: ioos_qartod
+build: ioos_qartod-0.0.3-py_1
+install: ioos_qartod==0.0.3
+pip_check: "ioos-qartod 0.0.3 requires nose, which is not installed.\n"
