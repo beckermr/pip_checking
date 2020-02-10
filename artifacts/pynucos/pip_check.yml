@@ -1,0 +1,4 @@
+pkg: pynucos
+build: pynucos-2.7.3-py_0
+install: pynucos==2.7.3
+pip_check: "No broken requirements found.\n"
