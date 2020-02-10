@@ -1,0 +1,4 @@
+pkg: apscheduler
+build: apscheduler-3.6.2-py37_0
+install: apscheduler==3.6.2
+pip_check: "No broken requirements found.\n"
