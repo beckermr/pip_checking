@@ -1,0 +1,4 @@
+pkg: windrose
+build: windrose-1.6.7-py_0
+install: windrose==1.6.7
+pip_check: "No broken requirements found.\n"
