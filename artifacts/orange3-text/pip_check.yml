@@ -1,0 +1,4 @@
+pkg: orange3-text
+build: orange3-text-0.6.0-py37_0
+install: orange3-text==0.6.0
+pip_check: "No broken requirements found.\n"
