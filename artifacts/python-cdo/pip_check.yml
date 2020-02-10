@@ -1,0 +1,4 @@
+pkg: python-cdo
+build: python-cdo-1.5.2-py_0
+install: python-cdo==1.5.2
+pip_check: "No broken requirements found.\n"
