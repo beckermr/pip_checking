@@ -1,0 +1,4 @@
+pkg: intake-stac
+build: intake-stac-0.2.3-py_0
+install: intake-stac==0.2.3
+pip_check: "No broken requirements found.\n"
