@@ -1,0 +1,4 @@
+pkg: pytest-clarity
+build: pytest-clarity-0.1.0a1-py_0
+install: pytest-clarity==0.1.0a1
+pip_check: "No broken requirements found.\n"
