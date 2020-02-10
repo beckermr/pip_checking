@@ -1,0 +1,4 @@
+pkg: ogh
+build: ogh-0.1.11-py_0
+install: ogh==0.1.11
+pip_check: "No broken requirements found.\n"
