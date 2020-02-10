@@ -1,0 +1,4 @@
+pkg: historydict
+build: historydict-1.2.3-py_0
+install: historydict==1.2.3
+pip_check: "No broken requirements found.\n"
