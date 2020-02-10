@@ -1,0 +1,4 @@
+pkg: dockerpty
+build: dockerpty-0.4.1-py_0
+install: dockerpty==0.4.1
+pip_check: "No broken requirements found.\n"
