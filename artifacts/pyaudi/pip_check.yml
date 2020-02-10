@@ -1,0 +1,4 @@
+pkg: pyaudi
+build: pyaudi-1.6.5-py37h3b0e1d0_0
+install: pyaudi==1.6.5
+pip_check: "No broken requirements found.\n"
