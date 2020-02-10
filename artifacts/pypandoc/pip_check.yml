@@ -1,0 +1,4 @@
+pkg: pypandoc
+build: pypandoc-1.4-py_1
+install: pypandoc==1.4
+pip_check: "No broken requirements found.\n"
