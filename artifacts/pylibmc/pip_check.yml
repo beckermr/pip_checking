@@ -1,0 +1,4 @@
+pkg: pylibmc
+build: pylibmc-1.6.0-py37h470a237_0
+install: pylibmc==1.6.0
+pip_check: "No broken requirements found.\n"
