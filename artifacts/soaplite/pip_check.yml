@@ -1,0 +1,4 @@
+pkg: soaplite
+build: soaplite-1.0.3-py37h516909a_0
+install: soaplite==1.0.3
+pip_check: "No broken requirements found.\n"
