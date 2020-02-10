@@ -1,0 +1,4 @@
+pkg: tyssue
+build: tyssue-0.3.3rc1-py37h5c8ab53_0
+install: tyssue==0.3.3rc1
+pip_check: "No broken requirements found.\n"
