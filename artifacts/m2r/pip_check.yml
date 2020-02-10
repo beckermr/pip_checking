@@ -1,0 +1,4 @@
+pkg: m2r
+build: m2r-0.2.0-py_0
+install: m2r==0.2.0
+pip_check: "No broken requirements found.\n"
