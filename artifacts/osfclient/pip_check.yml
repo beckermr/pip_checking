@@ -1,0 +1,4 @@
+pkg: osfclient
+build: osfclient-0.0.3-py_0
+install: osfclient==0.0.3
+pip_check: "No broken requirements found.\n"
