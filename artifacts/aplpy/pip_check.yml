@@ -1,0 +1,4 @@
+pkg: aplpy
+build: aplpy-2.0.2-py_0
+install: aplpy==2.0.2
+pip_check: "pyregion 2.0 requires cython, which is not installed.\n"
