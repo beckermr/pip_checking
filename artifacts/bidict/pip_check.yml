@@ -1,0 +1,4 @@
+pkg: bidict
+build: bidict-0.17.1-py_0
+install: bidict==0.17.1
+pip_check: "No broken requirements found.\n"
