@@ -1,0 +1,4 @@
+pkg: txaio
+build: txaio-18.8.1-py_0
+install: txaio==18.8.1
+pip_check: "No broken requirements found.\n"
