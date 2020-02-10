@@ -1,0 +1,4 @@
+pkg: ffpyplayer
+build: ffpyplayer-4.1.0-py37h4ba05c4_0
+install: ffpyplayer==4.1.0
+pip_check: "No broken requirements found.\n"
