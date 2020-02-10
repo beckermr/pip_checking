@@ -1,0 +1,5 @@
+pkg: aiobotocore
+build: aiobotocore-0.10.2-py_0
+install: aiobotocore==0.10.2
+pip_check: "aiobotocore 0.10.2 has requirement botocore<1.12.92,>=1.12.91, but you\
+  \ have botocore 1.12.49.\n"
