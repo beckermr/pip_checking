@@ -1,0 +1,4 @@
+pkg: hdmedians
+build: hdmedians-0.13-py37hc1659b7_1
+install: hdmedians==0.13
+pip_check: "No broken requirements found.\n"
