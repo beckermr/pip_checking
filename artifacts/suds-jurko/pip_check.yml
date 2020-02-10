@@ -1,0 +1,4 @@
+pkg: suds-jurko
+build: suds-jurko-0.6-py37_1001
+install: suds-jurko==0.6
+pip_check: "No broken requirements found.\n"
