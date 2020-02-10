@@ -1,0 +1,4 @@
+pkg: gnuradio-zeromq
+build: gnuradio-zeromq-3.8.0.0-py37hdcd41bb_2
+install: gnuradio-zeromq==3.8.0.0
+pip_check: "No broken requirements found.\n"
