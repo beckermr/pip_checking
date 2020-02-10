@@ -1,0 +1,4 @@
+pkg: sphinxcontrib-devhelp
+build: sphinxcontrib-devhelp-1.0.1-py_0
+install: sphinxcontrib-devhelp==1.0.1
+pip_check: "No broken requirements found.\n"
