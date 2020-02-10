@@ -1,0 +1,4 @@
+pkg: sphinx-issues
+build: sphinx-issues-1.1.0-py_0
+install: sphinx-issues==1.1.0
+pip_check: "No broken requirements found.\n"
