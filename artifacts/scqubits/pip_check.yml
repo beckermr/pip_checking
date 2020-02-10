@@ -1,0 +1,4 @@
+pkg: scqubits
+build: scqubits-1.0.3-py37h9de70de_0
+install: scqubits==1.0.3
+pip_check: "No broken requirements found.\n"
