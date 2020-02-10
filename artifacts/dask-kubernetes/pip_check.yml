@@ -1,0 +1,4 @@
+pkg: dask-kubernetes
+build: dask-kubernetes-0.10.0-py_0
+install: dask-kubernetes==0.10.0
+pip_check: "No broken requirements found.\n"
