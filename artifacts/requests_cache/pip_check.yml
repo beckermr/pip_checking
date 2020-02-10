@@ -1,0 +1,4 @@
+pkg: requests_cache
+build: requests_cache-0.4.13-py_0
+install: requests_cache==0.4.13
+pip_check: "No broken requirements found.\n"
