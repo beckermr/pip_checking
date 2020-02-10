@@ -1,0 +1,4 @@
+pkg: netgen
+build: netgen-6.2.1808-py37h8a192b9_1002
+install: netgen==6.2.1808
+pip_check: "No broken requirements found.\n"
