@@ -1,0 +1,4 @@
+pkg: flask
+build: flask-1.1.1-py_0
+install: flask==1.1.1
+pip_check: "No broken requirements found.\n"
