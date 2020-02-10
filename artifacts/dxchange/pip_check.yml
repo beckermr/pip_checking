@@ -1,0 +1,4 @@
+pkg: dxchange
+build: dxchange-0.1.5-py37_1000
+install: dxchange==0.1.5
+pip_check: "edffile 5.0.0 requires python, which is not installed.\n"
