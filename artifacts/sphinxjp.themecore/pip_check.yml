@@ -1,0 +1,4 @@
+pkg: sphinxjp.themecore
+build: sphinxjp.themecore-0.2.0-py_2
+install: sphinxjp.themecore==0.2.0
+pip_check: "No broken requirements found.\n"
