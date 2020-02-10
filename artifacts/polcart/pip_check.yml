@@ -1,0 +1,4 @@
+pkg: polcart
+build: polcart-2017.1.16.14.45-py_1
+install: polcart==2017.1.16.14.45
+pip_check: "polcart 2017.1.16.14.45 requires numpy, which is not installed.\n"
