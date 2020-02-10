@@ -1,0 +1,4 @@
+pkg: tableone
+build: tableone-0.5.18-py_0
+install: tableone==0.5.18
+pip_check: "No broken requirements found.\n"
