@@ -1,0 +1,6 @@
+pkg: responder
+build: responder-1.1.2-py37_1001
+install: responder==1.1.2
+pip_check: "uvicorn 0.9.1 has requirement websockets==8.*, but you have websockets\
+  \ 7.0.\ngraphql-server-core 1.1.3 has requirement graphql-core<3,>=2.1, but you\
+  \ have graphql-core 3.0.3.\n"
