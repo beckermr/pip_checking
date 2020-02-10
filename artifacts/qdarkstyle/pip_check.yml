@@ -1,0 +1,4 @@
+pkg: qdarkstyle
+build: qdarkstyle-2.6.3-py_0
+install: qdarkstyle==2.6.3
+pip_check: "No broken requirements found.\n"
