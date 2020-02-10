@@ -1,0 +1,4 @@
+pkg: kafka-python
+build: kafka-python-1.4.7-py_0
+install: kafka-python==1.4.7
+pip_check: "No broken requirements found.\n"
