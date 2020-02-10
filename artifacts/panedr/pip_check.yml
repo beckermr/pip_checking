@@ -1,0 +1,4 @@
+pkg: panedr
+build: panedr-0.5.2-py_0
+install: panedr==0.5.2
+pip_check: "No broken requirements found.\n"
