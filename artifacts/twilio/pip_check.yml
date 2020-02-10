@@ -1,0 +1,4 @@
+pkg: twilio
+build: twilio-6.35.3-py_0
+install: twilio==6.35.3
+pip_check: "No broken requirements found.\n"
