@@ -1,0 +1,4 @@
+pkg: aiormq
+build: aiormq-2.9.1-py_0
+install: aiormq==2.9.1
+pip_check: "No broken requirements found.\n"
