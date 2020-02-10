@@ -1,0 +1,4 @@
+pkg: django-bootstrap3
+build: django-bootstrap3-11.1.0-py_0
+install: django-bootstrap3==11.1.0
+pip_check: "No broken requirements found.\n"
