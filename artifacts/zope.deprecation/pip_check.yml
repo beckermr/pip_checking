@@ -1,0 +1,4 @@
+pkg: zope.deprecation
+build: zope.deprecation-4.4.0-py_0
+install: zope.deprecation==4.4.0
+pip_check: "No broken requirements found.\n"
