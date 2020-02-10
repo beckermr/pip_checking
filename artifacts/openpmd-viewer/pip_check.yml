@@ -1,0 +1,4 @@
+pkg: openpmd-viewer
+build: openpmd-viewer-0.9.1-py37hc1659b7_1
+install: openpmd-viewer==0.9.1
+pip_check: "No broken requirements found.\n"
