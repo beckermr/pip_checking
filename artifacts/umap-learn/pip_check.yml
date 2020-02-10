@@ -1,0 +1,4 @@
+pkg: umap-learn
+build: umap-learn-0.3.8-py37_0
+install: umap-learn==0.3.8
+pip_check: "No broken requirements found.\n"
