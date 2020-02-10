@@ -1,0 +1,4 @@
+pkg: edit_distance
+build: edit_distance-1.0.1-py_0
+install: edit_distance==1.0.1
+pip_check: "No broken requirements found.\n"
