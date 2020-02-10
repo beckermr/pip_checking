@@ -1,0 +1,4 @@
+pkg: urllib3
+build: urllib3-1.25.1-py37_0
+install: urllib3==1.25.1
+pip_check: "No broken requirements found.\n"
