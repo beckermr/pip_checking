@@ -1,0 +1,4 @@
+pkg: pip2pi
+build: pip2pi-0.8.0-py_0
+install: pip2pi==0.8.0
+pip_check: "No broken requirements found.\n"
