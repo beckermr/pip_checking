@@ -1,0 +1,4 @@
+pkg: goosehdf5
+build: goosehdf5-0.3.0-py_0
+install: goosehdf5==0.3.0
+pip_check: "No broken requirements found.\n"
