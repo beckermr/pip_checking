@@ -1,0 +1,4 @@
+pkg: nose2
+build: nose2-0.7.4-py_0
+install: nose2==0.7.4
+pip_check: "No broken requirements found.\n"
