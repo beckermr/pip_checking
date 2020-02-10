@@ -1,0 +1,4 @@
+pkg: pubchempy
+build: pubchempy-1.0.4-py_0
+install: pubchempy==1.0.4
+pip_check: "No broken requirements found.\n"
