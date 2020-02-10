@@ -1,0 +1,4 @@
+pkg: joblib
+build: joblib-0.13.1-py_0
+install: joblib==0.13.1
+pip_check: "No broken requirements found.\n"
