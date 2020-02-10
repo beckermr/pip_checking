@@ -1,0 +1,4 @@
+pkg: movingpandas
+build: movingpandas-0.2rc1-py_0
+install: movingpandas==0.2rc1
+pip_check: "No broken requirements found.\n"
