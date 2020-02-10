@@ -1,0 +1,4 @@
+pkg: cpycppyy
+build: cpycppyy-1.9.5-py37hc9558a2_0
+install: cpycppyy==1.9.5
+pip_check: "No broken requirements found.\n"
