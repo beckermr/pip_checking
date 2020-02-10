@@ -1,0 +1,4 @@
+pkg: drf-haystack
+build: drf-haystack-1.8.2-py_0
+install: drf-haystack==1.8.2
+pip_check: "No broken requirements found.\n"
