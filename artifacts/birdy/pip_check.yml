@@ -1,0 +1,4 @@
+pkg: birdy
+build: birdy-v0.6.5-py_0
+install: birdy==v0.6.5
+pip_check: "birdhouse-birdy 0.6.5 requires pathlib, which is not installed.\n"
