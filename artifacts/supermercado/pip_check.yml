@@ -1,0 +1,4 @@
+pkg: supermercado
+build: supermercado-0.0.5-py_0
+install: supermercado==0.0.5
+pip_check: "No broken requirements found.\n"
