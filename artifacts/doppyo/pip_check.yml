@@ -1,0 +1,5 @@
+pkg: doppyo
+build: doppyo-0.0.2-py_0
+install: doppyo==0.0.2
+pip_check: "doppyo 0.0.2 has requirement windspharm>=1.6.0, but you have windspharm\
+  \ 0+unknown.\n"
