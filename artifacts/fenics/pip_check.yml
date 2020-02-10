@@ -1,0 +1,5 @@
+pkg: fenics
+build: fenics-2019.1.0-py37_8
+install: fenics==2019.1.0
+pip_check: "fenics-dolfin 2019.1.0 has requirement pybind11==2.2.4, but you have pybind11\
+  \ 2.4.3.\n"
