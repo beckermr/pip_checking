@@ -1,0 +1,4 @@
+pkg: pytest-regtest
+build: pytest-regtest-1.4.0-py_0
+install: pytest-regtest==1.4.0
+pip_check: "No broken requirements found.\n"
