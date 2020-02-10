@@ -1,0 +1,4 @@
+pkg: tensorly
+build: tensorly-0.4.5-py_0
+install: tensorly==0.4.5
+pip_check: "tensorly 0.4.5 requires nose, which is not installed.\n"
