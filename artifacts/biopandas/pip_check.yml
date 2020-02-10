@@ -1,0 +1,4 @@
+pkg: biopandas
+build: biopandas-0.2.3-py_1
+install: biopandas==0.2.3
+pip_check: "No broken requirements found.\n"
