@@ -1,0 +1,4 @@
+pkg: gnuradio-qtgui
+build: gnuradio-qtgui-3.8.0.0-py37h5e2bf39_0
+install: gnuradio-qtgui==3.8.0.0
+pip_check: "No broken requirements found.\n"
