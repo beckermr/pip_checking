@@ -1,0 +1,4 @@
+pkg: skijumpdesign
+build: skijumpdesign-1.1.3-py_0
+install: skijumpdesign==1.1.3
+pip_check: "No broken requirements found.\n"
