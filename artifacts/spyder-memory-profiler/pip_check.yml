@@ -1,0 +1,4 @@
+pkg: spyder-memory-profiler
+build: spyder-memory-profiler-0.2.0-py37_1
+install: spyder-memory-profiler==0.2.0
+pip_check: "qdarkstyle 2.8 requires helpdev, which is not installed.\n"
