@@ -1,0 +1,5 @@
+pkg: songbird
+build: songbird-1.0.2-py37_0
+install: songbird==1.0.2
+pip_check: "songbird 1.0.2 has requirement tensorflow<2,>=1.15.2, but you have tensorflow\
+  \ 1.14.0.\n"
