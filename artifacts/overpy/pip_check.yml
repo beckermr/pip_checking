@@ -1,0 +1,4 @@
+pkg: overpy
+build: overpy-0.4-py_0
+install: overpy==0.4
+pip_check: "No broken requirements found.\n"
