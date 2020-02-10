@@ -1,0 +1,4 @@
+pkg: pymdown-extensions
+build: pymdown-extensions-6.0-py_0
+install: pymdown-extensions==6.0
+pip_check: "No broken requirements found.\n"
