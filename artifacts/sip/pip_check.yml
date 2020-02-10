@@ -1,0 +1,4 @@
+pkg: sip
+build: sip-4.19.18-py37he1b5a44_1
+install: sip==4.19.18
+pip_check: "No broken requirements found.\n"
