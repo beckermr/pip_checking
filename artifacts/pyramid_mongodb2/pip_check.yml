@@ -1,0 +1,5 @@
+pkg: pyramid_mongodb2
+build: pyramid_mongodb2-1.6.5-py_0
+install: pyramid_mongodb2==1.6.5
+pip_check: "plaster-pastedeploy 0.7 has requirement PasteDeploy>=2.0, but you have\
+  \ pastedeploy 1.5.2.\n"
