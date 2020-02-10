@@ -1,0 +1,4 @@
+pkg: digital_rf
+build: digital_rf-2.6.3-py37h6df46f1_0
+install: digital_rf==2.6.3
+pip_check: "No broken requirements found.\n"
