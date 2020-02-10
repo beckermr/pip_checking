@@ -1,0 +1,4 @@
+pkg: omegaconf
+build: omegaconf-1.4.1-py_0
+install: omegaconf==1.4.1
+pip_check: "omegaconf 1.4.1 requires six, which is not installed.\n"
