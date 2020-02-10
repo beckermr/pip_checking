@@ -1,0 +1,4 @@
+pkg: nest-simulator
+build: nest-simulator-2.16.0-py37hd7b41f8_1
+install: nest-simulator==2.16.0
+pip_check: "No broken requirements found.\n"
