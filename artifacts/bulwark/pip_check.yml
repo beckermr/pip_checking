@@ -1,0 +1,4 @@
+pkg: bulwark
+build: bulwark-0.5.1-py_1
+install: bulwark==0.5.1
+pip_check: "No broken requirements found.\n"
