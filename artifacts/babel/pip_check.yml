@@ -1,0 +1,4 @@
+pkg: babel
+build: babel-2.6.0-py_1
+install: babel==2.6.0
+pip_check: "No broken requirements found.\n"
