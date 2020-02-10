@@ -1,0 +1,5 @@
+pkg: google-cloud-bigquery
+build: google-cloud-bigquery-1.21.0-py37_0
+install: google-cloud-bigquery==1.21.0
+pip_check: "google-cloud-bigquery 1.21.0 has requirement google-resumable-media!=0.4.0,<0.5.0dev,>=0.3.1,\
+  \ but you have google-resumable-media 0.5.0.\n"
