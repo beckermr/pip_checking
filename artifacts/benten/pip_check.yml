@@ -1,0 +1,4 @@
+pkg: benten
+build: benten-2019.10.28-py_0
+install: benten==2019.10.28
+pip_check: "No broken requirements found.\n"
