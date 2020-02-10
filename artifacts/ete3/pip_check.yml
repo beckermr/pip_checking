@@ -1,0 +1,4 @@
+pkg: ete3
+build: ete3-3.1.1-py_0
+install: ete3==3.1.1
+pip_check: "No broken requirements found.\n"
