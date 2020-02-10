@@ -1,0 +1,4 @@
+pkg: pyuvdata
+build: pyuvdata-1.3.6-py37hf484d3e_0
+install: pyuvdata==1.3.6
+pip_check: "No broken requirements found.\n"
