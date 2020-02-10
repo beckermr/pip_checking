@@ -1,0 +1,4 @@
+pkg: python-json-logger
+build: python-json-logger-0.1.10-py_0
+install: python-json-logger==0.1.10
+pip_check: "No broken requirements found.\n"
