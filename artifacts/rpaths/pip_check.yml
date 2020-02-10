@@ -1,0 +1,4 @@
+pkg: rpaths
+build: rpaths-0.13-py_1
+install: rpaths==0.13
+pip_check: "No broken requirements found.\n"
