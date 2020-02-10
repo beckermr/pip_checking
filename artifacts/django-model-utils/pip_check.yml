@@ -1,0 +1,4 @@
+pkg: django-model-utils
+build: django-model-utils-3.1.1-py_0
+install: django-model-utils==3.1.1
+pip_check: "No broken requirements found.\n"
