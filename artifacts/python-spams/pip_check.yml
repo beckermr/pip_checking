@@ -1,0 +1,4 @@
+pkg: python-spams
+build: python-spams-2.6.1-py37h2738dde_1204
+install: python-spams==2.6.1
+pip_check: "No broken requirements found.\n"
