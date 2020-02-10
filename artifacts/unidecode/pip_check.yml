@@ -1,0 +1,4 @@
+pkg: unidecode
+build: unidecode-1.0.23-py_0
+install: unidecode==1.0.23
+pip_check: "No broken requirements found.\n"
