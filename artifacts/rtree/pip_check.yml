@@ -1,0 +1,4 @@
+pkg: rtree
+build: rtree-0.9.1-py37h7b0cdae_0
+install: rtree==0.9.1
+pip_check: "No broken requirements found.\n"
