@@ -1,0 +1,4 @@
+pkg: vim
+build: vim-8.1.0925-py37h9a0d4bd_0
+install: vim==8.1.0925
+pip_check: "No broken requirements found.\n"
