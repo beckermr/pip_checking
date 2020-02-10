@@ -1,0 +1,4 @@
+pkg: camb
+build: camb-1.0.6-py37h7eb8c7e_1
+install: camb==1.0.6
+pip_check: "No broken requirements found.\n"
