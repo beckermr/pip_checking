@@ -1,0 +1,5 @@
+pkg: canmatrix
+build: canmatrix-0.7-py_0
+install: canmatrix==0.7
+pip_check: "canmatrix 0+unknown requires bitstruct, which is not installed.\ncanmatrix\
+  \ 0+unknown requires pathlib2, which is not installed.\n"
