@@ -1,0 +1,4 @@
+pkg: profimp
+build: profimp-0.0.3-py_0
+install: profimp==0.0.3
+pip_check: "profimp 0.0.3 requires pbr, which is not installed.\n"
