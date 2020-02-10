@@ -1,0 +1,5 @@
+pkg: magic-wormhole
+build: magic-wormhole-0.10.5-py_0
+install: magic-wormhole==0.10.5
+pip_check: "magic-wormhole 0.10.5 requires ipaddress, which is not installed.\nmagic-wormhole\
+  \ 0.10.5 requires txtorcon, which is not installed.\n"
