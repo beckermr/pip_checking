@@ -1,0 +1,4 @@
+pkg: l18n
+build: l18n-2016.6.4-py_0
+install: l18n==2016.6.4
+pip_check: "No broken requirements found.\n"
