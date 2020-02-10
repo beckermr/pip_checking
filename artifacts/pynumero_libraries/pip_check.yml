@@ -1,0 +1,4 @@
+pkg: pynumero_libraries
+build: pynumero_libraries-0.4-py37hf476568_1000
+install: pynumero_libraries==0.4
+pip_check: "No broken requirements found.\n"
