@@ -1,0 +1,4 @@
+pkg: vmd-python
+build: vmd-python-3.0.1-py37he7d9f82_1003
+install: vmd-python==3.0.1
+pip_check: "No broken requirements found.\n"
