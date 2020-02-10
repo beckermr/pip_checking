@@ -1,0 +1,4 @@
+pkg: sagemath-db-conway-polynomials
+build: sagemath-db-conway-polynomials-0.5.p0-py37ha4d7672_1000
+install: sagemath-db-conway-polynomials==0.5.p0
+pip_check: "No broken requirements found.\n"
