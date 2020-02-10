@@ -1,0 +1,4 @@
+pkg: plaster_pastedeploy
+build: plaster_pastedeploy-0.6-py_0
+install: plaster_pastedeploy==0.6
+pip_check: "No broken requirements found.\n"
