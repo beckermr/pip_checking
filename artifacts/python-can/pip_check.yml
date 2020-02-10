@@ -1,0 +1,4 @@
+pkg: python-can
+build: python-can-2.2.1-py_0
+install: python-can==2.2.1
+pip_check: "python-can 2.2.1 requires wrapt, which is not installed.\n"
