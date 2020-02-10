@@ -1,0 +1,4 @@
+pkg: namaster
+build: namaster-1.0-py37hcac20d5_3
+install: namaster==1.0
+pip_check: "No broken requirements found.\n"
