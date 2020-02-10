@@ -1,0 +1,4 @@
+pkg: corrfunc
+build: corrfunc-2.3.1-py37h1bfd880_0
+install: corrfunc==2.3.1
+pip_check: "No broken requirements found.\n"
