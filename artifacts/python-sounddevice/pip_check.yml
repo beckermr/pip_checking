@@ -1,0 +1,4 @@
+pkg: python-sounddevice
+build: python-sounddevice-0.3.12-py_0
+install: python-sounddevice==0.3.12
+pip_check: "No broken requirements found.\n"
