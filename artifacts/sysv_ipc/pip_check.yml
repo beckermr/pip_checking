@@ -1,0 +1,4 @@
+pkg: sysv_ipc
+build: sysv_ipc-1.0.0-py37h470a237_0
+install: sysv_ipc==1.0.0
+pip_check: "No broken requirements found.\n"
