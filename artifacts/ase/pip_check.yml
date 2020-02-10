@@ -1,0 +1,4 @@
+pkg: ase
+build: ase-3.18.1-py_0
+install: ase==3.18.1
+pip_check: "No broken requirements found.\n"
