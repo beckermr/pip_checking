@@ -1,0 +1,4 @@
+pkg: ros-rosnode
+build: ros-rosnode-1.14.3-py37he1b5a44_0
+install: ros-rosnode==1.14.3
+pip_check: "No broken requirements found.\n"
