@@ -1,0 +1,4 @@
+pkg: upsetplot
+build: upsetplot-0.3.0.post3-py_0
+install: upsetplot==0.3.0.post3
+pip_check: "No broken requirements found.\n"
