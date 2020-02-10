@@ -1,0 +1,4 @@
+pkg: tinytimer
+build: tinytimer-0.0.0-py_0
+install: tinytimer==0.0.0
+pip_check: "No broken requirements found.\n"
