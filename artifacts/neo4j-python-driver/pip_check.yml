@@ -1,0 +1,4 @@
+pkg: neo4j-python-driver
+build: neo4j-python-driver-1.7.2-py37h14c3975_0
+install: neo4j-python-driver==1.7.2
+pip_check: "No broken requirements found.\n"
