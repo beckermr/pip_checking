@@ -1,0 +1,4 @@
+pkg: ftfy
+build: ftfy-5.5.1-py_0
+install: ftfy==5.5.1
+pip_check: "No broken requirements found.\n"
