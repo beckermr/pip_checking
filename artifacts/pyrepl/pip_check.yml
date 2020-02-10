@@ -1,0 +1,4 @@
+pkg: pyrepl
+build: pyrepl-0.9.0-py37h516909a_0
+install: pyrepl==0.9.0
+pip_check: "No broken requirements found.\n"
