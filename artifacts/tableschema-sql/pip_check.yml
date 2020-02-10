@@ -1,0 +1,4 @@
+pkg: tableschema-sql
+build: tableschema-sql-1.3.1-py_0
+install: tableschema-sql==1.3.1
+pip_check: "No broken requirements found.\n"
