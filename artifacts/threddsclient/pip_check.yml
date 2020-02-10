@@ -1,0 +1,4 @@
+pkg: threddsclient
+build: threddsclient-0.4.2-py_0
+install: threddsclient==0.4.2
+pip_check: "No broken requirements found.\n"
