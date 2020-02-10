@@ -1,0 +1,4 @@
+pkg: moola
+build: moola-0.1.6-py_0
+install: moola==0.1.6
+pip_check: "No broken requirements found.\n"
