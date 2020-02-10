@@ -1,0 +1,4 @@
+pkg: atomicrex
+build: atomicrex-1.0-py37h5000214_0
+install: atomicrex==1.0
+pip_check: "No broken requirements found.\n"
