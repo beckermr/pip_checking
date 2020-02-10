@@ -1,0 +1,4 @@
+pkg: ruamel.yaml
+build: ruamel.yaml-0.15.80-py37h470a237_0
+install: ruamel.yaml==0.15.80
+pip_check: "No broken requirements found.\n"
