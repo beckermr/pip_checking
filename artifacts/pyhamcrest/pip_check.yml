@@ -1,0 +1,4 @@
+pkg: pyhamcrest
+build: pyhamcrest-1.10.1-py_0
+install: pyhamcrest==1.10.1
+pip_check: "No broken requirements found.\n"
