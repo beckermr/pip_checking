@@ -1,0 +1,4 @@
+pkg: pycamhd
+build: pycamhd-0.7.0-py_0
+install: pycamhd==0.7.0
+pip_check: "No broken requirements found.\n"
