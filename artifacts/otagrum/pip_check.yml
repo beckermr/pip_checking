@@ -1,0 +1,4 @@
+pkg: otagrum
+build: otagrum-0.2-py37h66a8c37_2
+install: otagrum==0.2
+pip_check: "No broken requirements found.\n"
