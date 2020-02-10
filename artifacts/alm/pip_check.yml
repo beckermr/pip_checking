@@ -1,0 +1,4 @@
+pkg: alm
+build: alm-2.0.0_dev.1-py37h5ab5c47_1
+install: alm==2.0.0_dev.1
+pip_check: "No broken requirements found.\n"
