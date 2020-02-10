@@ -1,0 +1,4 @@
+pkg: msal_extensions
+build: msal_extensions-0.1.3-py_0
+install: msal_extensions==0.1.3
+pip_check: "No broken requirements found.\n"
