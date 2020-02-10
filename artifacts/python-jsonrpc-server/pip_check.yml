@@ -1,0 +1,4 @@
+pkg: python-jsonrpc-server
+build: python-jsonrpc-server-0.3.2-py_0
+install: python-jsonrpc-server==0.3.2
+pip_check: "No broken requirements found.\n"
