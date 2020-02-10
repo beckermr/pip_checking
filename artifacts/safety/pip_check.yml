@@ -1,0 +1,4 @@
+pkg: safety
+build: safety-1.8.5-py_0
+install: safety==1.8.5
+pip_check: "No broken requirements found.\n"
