@@ -4,6 +4,7 @@ pkg=$1
 ver=$2
 
 conda remove -q -y -n tmp --all
+rm -rf /home/circleci/repo/miniconda/envs/tmp
 conda create -q -y -n tmp pip "${pkg}==${ver}" python=3.7
 if [[ "$?" == "0" ]]; then
   source activate tmp
