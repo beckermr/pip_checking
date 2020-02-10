@@ -1,0 +1,4 @@
+pkg: gsd
+build: gsd-1.9.0-py37hc1659b7_0
+install: gsd==1.9.0
+pip_check: "No broken requirements found.\n"
