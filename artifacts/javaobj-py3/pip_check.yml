@@ -1,0 +1,4 @@
+pkg: javaobj-py3
+build: javaobj-py3-0.2.4-py_0
+install: javaobj-py3==0.2.4
+pip_check: "No broken requirements found.\n"
