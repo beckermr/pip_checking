@@ -1,0 +1,4 @@
+pkg: silx
+build: silx-0.10.0-py37h637b7d7_0
+install: silx==0.10.0
+pip_check: "No broken requirements found.\n"
