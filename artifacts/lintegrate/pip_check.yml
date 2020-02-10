@@ -1,0 +1,4 @@
+pkg: lintegrate
+build: lintegrate-0.1.2-py37heade8f8_0
+install: lintegrate==0.1.2
+pip_check: "No broken requirements found.\n"
