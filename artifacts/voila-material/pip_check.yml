@@ -1,0 +1,4 @@
+pkg: voila-material
+build: voila-material-0.2.5-py_0
+install: voila-material==0.2.5
+pip_check: "No broken requirements found.\n"
