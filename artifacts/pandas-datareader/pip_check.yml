@@ -1,0 +1,4 @@
+pkg: pandas-datareader
+build: pandas-datareader-0.8.1-py_0
+install: pandas-datareader==0.8.1
+pip_check: "No broken requirements found.\n"
