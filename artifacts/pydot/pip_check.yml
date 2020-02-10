@@ -1,0 +1,4 @@
+pkg: pydot
+build: pydot-1.4.0-py37_1000
+install: pydot==1.4.0
+pip_check: "No broken requirements found.\n"
