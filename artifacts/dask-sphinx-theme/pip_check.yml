@@ -1,0 +1,4 @@
+pkg: dask-sphinx-theme
+build: dask-sphinx-theme-1.0.3-py_0
+install: dask-sphinx-theme==1.0.3
+pip_check: "sphinx-rtd-theme 0.4.3 requires sphinx, which is not installed.\n"
