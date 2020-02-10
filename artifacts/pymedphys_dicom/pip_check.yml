@@ -1,0 +1,4 @@
+pkg: pymedphys_dicom
+build: pymedphys_dicom-0.9.0-py_0
+install: pymedphys_dicom==0.9.0
+pip_check: "No broken requirements found.\n"
