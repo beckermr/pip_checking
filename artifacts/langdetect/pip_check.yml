@@ -1,0 +1,4 @@
+pkg: langdetect
+build: langdetect-1.0.7-py_0
+install: langdetect==1.0.7
+pip_check: "No broken requirements found.\n"
