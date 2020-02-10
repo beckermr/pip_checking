@@ -1,0 +1,4 @@
+pkg: fastscape
+build: fastscape-0.1.0alpha-py_0
+install: fastscape==0.1.0alpha
+pip_check: "No broken requirements found.\n"
