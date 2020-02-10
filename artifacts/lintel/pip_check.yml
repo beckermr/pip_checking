@@ -1,0 +1,4 @@
+pkg: lintel
+build: lintel-1.0-py37h4ba05c4_1001
+install: lintel==1.0
+pip_check: "No broken requirements found.\n"
