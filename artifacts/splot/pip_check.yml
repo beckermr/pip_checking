@@ -1,0 +1,5 @@
+pkg: splot
+build: splot-1.1.2-py_0
+install: splot==1.1.2
+pip_check: "splot 1.1.2 requires descartes, which is not installed.\nlibpysal 4.2.2\
+  \ requires bs4, which is not installed.\n"
