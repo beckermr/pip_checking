@@ -1,0 +1,4 @@
+pkg: shtns
+build: shtns-3.3.1-py37h240ffea_0
+install: shtns==3.3.1
+pip_check: "No broken requirements found.\n"
