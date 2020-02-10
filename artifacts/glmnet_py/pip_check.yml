@@ -1,0 +1,4 @@
+pkg: glmnet_py
+build: glmnet_py-1.0.0-py37h219a75b_0
+install: glmnet_py==1.0.0
+pip_check: "No broken requirements found.\n"
