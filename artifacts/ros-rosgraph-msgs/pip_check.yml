@@ -1,0 +1,4 @@
+pkg: ros-rosgraph-msgs
+build: ros-rosgraph-msgs-1.11.2-py37he1b5a44_0
+install: ros-rosgraph-msgs==1.11.2
+pip_check: "No broken requirements found.\n"
