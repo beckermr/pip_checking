@@ -1,0 +1,4 @@
+pkg: python-termstyle
+build: python-termstyle-0.1.11-py_1
+install: python-termstyle==0.1.11
+pip_check: "No broken requirements found.\n"
