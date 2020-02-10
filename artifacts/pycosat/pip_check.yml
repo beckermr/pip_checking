@@ -1,0 +1,4 @@
+pkg: pycosat
+build: pycosat-0.6.3-py37h516909a_1002
+install: pycosat==0.6.3
+pip_check: "No broken requirements found.\n"
