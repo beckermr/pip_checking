@@ -1,0 +1,13 @@
+pkg: dials-dependencies
+build: dials-dependencies-0.4.0-py_0
+install: dials-dependencies==0.4.0
+pip_check: "dials-dependencies 0.4.0 requires blosc, which is not installed.\ndials-dependencies\
+  \ 0.4.0 requires jinja2, which is not installed.\ndials-dependencies 0.4.0 requires\
+  \ mock, which is not installed.\ndials-dependencies 0.4.0 requires msgpack, which\
+  \ is not installed.\ndials-dependencies 0.4.0 requires networkx, which is not installed.\n\
+  dials-dependencies 0.4.0 requires orderedset, which is not installed.\ndials-dependencies\
+  \ 0.4.0 requires procrunner, which is not installed.\ndials-dependencies 0.4.0 requires\
+  \ pytest, which is not installed.\ndials-dependencies 0.4.0 requires scikit-learn,\
+  \ which is not installed.\ndials-dependencies 0.4.0 requires scipy, which is not\
+  \ installed.\ndials-dependencies 0.4.0 requires six, which is not installed.\ndials-dependencies\
+  \ 0.4.0 requires tqdm, which is not installed.\n"
