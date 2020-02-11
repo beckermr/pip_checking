@@ -1,0 +1,4 @@
+pkg: cython-blis
+build: cython-blis-0.4.0-py37h516909a_0
+install: cython-blis==0.4.0
+pip_check: "No broken requirements found.\n"
