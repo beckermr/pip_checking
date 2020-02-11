@@ -1,0 +1,4 @@
+pkg: pymorphy2
+build: pymorphy2-0.8-py_0
+install: pymorphy2==0.8
+pip_check: "pymorphy2 0.8 requires pymorphy2-dicts, which is not installed.\n"
