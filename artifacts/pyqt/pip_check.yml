@@ -1,0 +1,4 @@
+pkg: pyqt
+build: pyqt-5.12.3-py37hcca6a23_1
+install: pyqt==5.12.3
+pip_check: "No broken requirements found.\n"
