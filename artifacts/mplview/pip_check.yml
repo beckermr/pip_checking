@@ -1,0 +1,4 @@
+pkg: mplview
+build: mplview-0.0.6-py_0
+install: mplview==0.0.6
+pip_check: "No broken requirements found.\n"
