@@ -1,0 +1,4 @@
+pkg: egal
+build: egal-0.1.3-py37_1000
+install: egal==0.1.3
+pip_check: "No broken requirements found.\n"
