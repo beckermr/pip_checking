@@ -1,0 +1,4 @@
+pkg: bucketcache
+build: bucketcache-0.12.1-py37_1
+install: bucketcache==0.12.1
+pip_check: "No broken requirements found.\n"
