@@ -74,13 +74,13 @@ workflows:
           filters:
             branches:
               only: master
-  hourly:
-    jobs:
-      - build
-    triggers:
-      - schedule:
-          cron: "30 0,4,8,12,16,20 * * *"
-          filters:
-            branches:
-              only:
-                - master
+#   hourly:
+#     jobs:
+#       - build
+#     triggers:
+#       - schedule:
+#           cron: "30 0,4,8,12,16,20 * * *"
+#           filters:
+#             branches:
+#               only:
+#                 - master
