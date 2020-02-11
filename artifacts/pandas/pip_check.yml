@@ -1,0 +1,4 @@
+pkg: pandas
+build: pandas-0.24.2-py37hb3f55d8_1
+install: pandas==0.24.2
+pip_check: "No broken requirements found.\n"
