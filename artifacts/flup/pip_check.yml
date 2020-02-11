@@ -1,0 +1,4 @@
+pkg: flup
+build: flup-1.0.3-py37_1000
+install: flup==1.0.3
+pip_check: "No broken requirements found.\n"
