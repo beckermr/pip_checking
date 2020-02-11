@@ -1,0 +1,4 @@
+pkg: docker-pycreds
+build: docker-pycreds-0.4.0-py_0
+install: docker-pycreds==0.4.0
+pip_check: "No broken requirements found.\n"
