@@ -1,0 +1,5 @@
+pkg: dagster-celery
+build: dagster-celery-0.6.9-py_0
+install: dagster-celery==0.6.9
+pip_check: "celery 4.4.0 has requirement billiard<4.0,>=3.6.1, but you have billiard\
+  \ 3.6.0.0.\n"
