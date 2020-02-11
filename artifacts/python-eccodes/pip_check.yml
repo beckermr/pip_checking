@@ -1,0 +1,4 @@
+pkg: python-eccodes
+build: python-eccodes-0.9.3-py37hc1659b7_0
+install: python-eccodes==0.9.3
+pip_check: "No broken requirements found.\n"
