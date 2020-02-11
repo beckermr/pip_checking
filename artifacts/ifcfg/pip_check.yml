@@ -1,0 +1,4 @@
+pkg: ifcfg
+build: ifcfg-0.20-py_0
+install: ifcfg==0.20
+pip_check: "No broken requirements found.\n"
