@@ -1,0 +1,4 @@
+pkg: cycamore
+build: cycamore-1.5.5-py37he1b5a44_0
+install: cycamore==1.5.5
+pip_check: "No broken requirements found.\n"
